@@ -2,6 +2,7 @@ baseURL: https://home.rosano.ca/
 languageCode: en-ca
 title: Journal
 canonifyURLs: true
+titleCaseStyle: none
 
 pagination:
   pagerSize: 20
