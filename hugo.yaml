@@ -3,7 +3,8 @@ languageCode: en-ca
 title: Journal
 canonifyURLs: true
 
-paginate: 20
+pagination:
+  pagerSize: 20
 
 taxonomies:
   category: categories

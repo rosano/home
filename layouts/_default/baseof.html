@@ -12,7 +12,7 @@
 {{ .Scratch.Delete "kIsTitle" }}
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := resources.Get "css/_gather.scss" | resources.ToCSS $options }}
+{{ $style := resources.Get "css/_gather.scss" | css.Sass $options }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
 {{ if not (and (eq .Kind "term") (or (eq .Data.Singular "year") (eq .Data.Singular "month") (eq .Data.Singular "day"))) }}
 	{{ range .AlternativeOutputFormats -}}
@@ -35,7 +35,7 @@
 <footer>
 
 {{- block "404-start" . }}{{- end }}
-{{ if (and .Paginator (ne .Paginator.TotalPages 0) (ne (.Scratch.Get "k404") "yes")) }}
+{{ if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0) (ne (.Scratch.Get "k404") "yes")) }}
 	
 <div class="paginator">
 	<span>
