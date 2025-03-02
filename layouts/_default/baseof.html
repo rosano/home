@@ -82,8 +82,6 @@
 	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") }}
 {{ else if eq .Section "posts" }}
 	{{ $timeContext = time.AsTime .Date }}
-{{ else }}
-	{{ $timeContext = time.AsTime .Date }}
 {{ end }}
 
 {{ if $timeContext }}
