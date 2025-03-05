@@ -7,14 +7,17 @@
 <div class="embed" data-link="{{ . }}"></div>
 {{ end }}
 
+<!-- CONTENT -->
 {{ if $isList -}}<div>{{- else -}}<article>{{- end }}
 {{ .Content }}
 {{ if $isList -}}</div>{{- else -}}</article>{{- end }}
 
+<!-- SERIES -->
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
 <span class="metadata">
 	<small>
+		<!-- TIMESTAMP -->
 		{{ $t := time.AsTime .Date }}
 		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
@@ -22,18 +25,21 @@
 			{{- $t.Format "Jan 02 2006, 15h04" -}}
 		{{- end }}</time></a>
 
+		<!-- PLACE -->
 		{{ with .GetTerms "place" }}
 		<span>in {{ range . -}}
 			<a href="{{ .Permalink }}">{{ .Title }}</a> / 
 		{{- end -}}</span>
 		{{ end }}
 
+		<!-- COUNTRY -->
 		{{ with .GetTerms "country" }}
 		<span>{{- range . -}}
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
 			{{- end -}}</span>
 		{{- end -}}
 
+		<!-- TAGS -->
 		{{- with .GetTerms "tags" -}}
 		<span>, tags: </span> 
 		<span>
@@ -43,12 +49,14 @@
 		</span>
 		{{ end }}
 
+		<!-- VIA -->
 		{{- with .Param "via" -}}
 		<span>, via: </span> 
 		<span>{{- if strings.Contains . "http" }}<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>{{ else }}{{ . }}{{ end }}</span>
 		{{ end }}
 	</small>
 
+<!-- TYPES -->
 {{ with .GetTerms "categories" }}
 	{{ if $isRSS }}<small>, type: {{ end -}}
 	<span class="types">
@@ -58,6 +66,7 @@
 {{ end }}
 </span>
 
+<!-- IMPROVE -->
 {{ if (and (not $isList) (not $isRSS)) -}}
 <hr>
 
