@@ -7,9 +7,9 @@
 
 <link rel="icon" href="https://static.rosano.ca/rcreativ/touch.png" type="image/png">
 
-{{ .Scratch.Set "kIsTitle" "true" }}
+{{ .Scratch.Set "kIsHeadTitle" "true" }}
 <title>{{- partial "page-title.html" . -}}</title>
-{{ .Scratch.Delete "kIsTitle" }}
+{{ .Scratch.Delete "kIsHeadTitle" }}
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "css/_gather.scss" | css.Sass $options }}
