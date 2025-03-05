@@ -1,15 +1,15 @@
 {{ define "main" }}
 
-{{- $pages := .Scratch.Get "rss-pages" }}
-{{- $pages := $pages.GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
+{{- $pages := (.Scratch.Get "rss-pages").GroupByPublishDate "2006-01-02" "desc" | first .Site.Config.Services.RSS.Limit }}
 
 {{/* exclude today from home feed */}}
 {{- $pages := where $pages "Key" "ne" (time.Now.Format "2006-01-02") }}
 
 {{ range $pages }}
+<item>
+
 {{ $t := time.AsTime (delimit (slice .Key "T" "12:00:00Z") "") }}
 {{ $date := time.Format "2006/01/02/" $t }}
-<item>
 
 <title>{{ time.Format "Monday, January 2, 2006" $t }}</title>
 <link>{{ site.BaseURL }}{{ $date }}</link>
