@@ -1,6 +1,8 @@
 {{- if (eq .Kind "term") -}}
-	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }}{{ .Pages | len }}{{ end }} entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }}
-{{- end }}
+	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }}
+		{{ .Pages | len }}
+	{{ end }} entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }}
+{{ end }}
 
 {{- if (and (eq .Kind "term") (eq .Data.Singular "day")) }}
 	{{ $t := time.AsTime .Data.Term }}
