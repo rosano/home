@@ -9,16 +9,18 @@
 
 {{ .Scratch.Set "kIsHeadTitle" "true" }}
 <title>{{- partial "page-title.html" . -}}</title>
-{{ .Scratch.Delete "kIsHeadTitle" }}
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "css/_gather.scss" | css.Sass $options }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
+
 {{ if not (and (eq .Kind "term") (or (eq .Data.Singular "year") (eq .Data.Singular "month") (eq .Data.Singular "day"))) }}
 	{{ range .AlternativeOutputFormats -}}
 	  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
 	{{ end }}
 {{ end }}
+{{ .Scratch.Delete "kIsHeadTitle" }}
+
 <link rel="alternate" type="application/rss+xml" href="https://utopia.rosano.ca/feed" title="Updates">
 
 </head>
