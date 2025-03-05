@@ -22,7 +22,7 @@ disableKinds:
 
 permalinks:
   page:
-    logs: /:slugorfilename/
+    entries: /:slugorfilename/
   term:
     categories: /type/:slug/
     tags: /tag/:slug/
