@@ -1,7 +1,7 @@
 {{- if (eq .Kind "term") -}}
 	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }}
-		{{ .Pages | len }}
-	{{ end }} entries {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }}
+		{{ .Pages.Len }}
+	{{ end }} {{ cond (eq .Pages.Len 1) "entry" "entries" }} {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" "for") }}
 {{ end }}
 
 {{- if (and (eq .Kind "term") (eq .Data.Singular "day")) }}
