@@ -12,7 +12,7 @@
 	{{ time.Format "January 2006" $t }}
 {{ else if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) -}}
 	"{{- .Title -}}"
-{{ else if eq .Section "posts" }}
+{{ else if eq .Section "logs" }}
 	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
 {{- else }}
 	{{- .Title -}}
