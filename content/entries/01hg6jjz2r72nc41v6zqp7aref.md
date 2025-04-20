@@ -15,5 +15,5 @@ link: https://opensource.com/article/18/7/how-check-free-disk-space-linux
 df -h
 
 # show disk usage in human-readable format for all directories and subdirectories
-du -h
+du -h -d 1
 ```
