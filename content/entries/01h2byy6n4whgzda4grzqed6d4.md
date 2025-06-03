@@ -3,7 +3,7 @@ date: 2023-06-08T00:16:49.572+02:00
 year: 2023
 month: 2023-06
 day: 2023-06-08
-place: Paris
+place: Évry-Courcouronnes
 country: France
 categories: ["thought"]
 ---
