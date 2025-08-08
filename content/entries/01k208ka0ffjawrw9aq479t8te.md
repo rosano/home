@@ -1,0 +1,13 @@
+---
+date: 2025-08-06T18:59:21.871+01:00
+year: 2025
+month: 2025-08
+day: 2025-08-06
+place: Oxford
+country: England
+link: https://www.youtube.com/watch?v=2zivkWiRMHw&t=72s
+categories: ["talk"]
+---
+[Treinel Onça Branca (Ngoma) e prof. Negao (Capoeira sem fronteira)](https://www.youtube.com/watch?v=2zivkWiRMHw&t=72s)
+
+Example of how someone with more experience can make it easy to play beautifully together.
