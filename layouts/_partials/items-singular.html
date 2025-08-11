@@ -1,0 +1,91 @@
+<div class="post">
+
+{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
+{{ $isList := eq (.Scratch.Get "kScope") "kScopeList" }}
+
+{{ $dataLink := "" }}
+{{ if .Params.link }}{{ $dataLink = .Params.link }}{{ end }}
+{{ if .Params.youtube }}{{ $dataLink = print "https://youtu.be/" .Params.youtube }}{{ end }}
+
+{{ if not $isRSS -}}
+	{{ with $dataLink }}
+	<div class="embed" data-link="{{ . }}"></div>
+	{{ end }}
+{{- end }}
+
+<!-- CONTENT -->
+{{ if $isList -}}<div>{{- else -}}<article>{{- end }}
+{{ .Content }}
+{{ if $isList -}}</div>{{- else -}}</article>{{- end }}
+
+<!-- RECORDED -->
+{{- if .Params.recorded -}}<p><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
+
+<!-- SERIES -->
+{{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
+
+<span class="metadata">
+	<small>
+		<!-- TIMESTAMP -->
+		{{ $t := .Date }}
+		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
+			{{- $t.Format "15h04" -}}
+		{{- else -}}
+			{{- $t.Format "Jan 02 2006, 15h04" -}}
+		{{- end }}</time></a>
+
+		{{ $travel := index (last 1 (where (.Site.Store.Get "kTravelHydrated") "date" "le" .Date)) 0 }}
+
+		<!-- PLACE -->
+		{{ range $key, $val := .Site.Taxonomies.place }}
+			{{ if eq .Page.LinkTitle $travel.place }}
+				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
+			{{ end }}
+		{{ end}}
+
+		<!-- COUNTRY -->
+		{{ range $key, $val := .Site.Taxonomies.country }}
+			{{ if eq .Page.LinkTitle $travel.country }}
+				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
+			{{- end }}
+		{{ end}}
+
+		<!-- TAGS -->
+		{{- with .GetTerms "tags" -}}
+		<span>, tags: </span> 
+		<span>
+		{{- range $index, $element := . -}}
+			{{- if $index }} / {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+		{{- end -}}
+		</span>
+		{{ end }}
+
+		<!-- VIA -->
+		{{- with .Param "via" -}}
+		<span>, via: </span> 
+		<span>{{- if strings.Contains . "http" }}<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>{{ else }}{{ . }}{{ end }}</span>
+		{{ end }}
+	</small>
+
+<!-- TYPES -->
+{{ with .GetTerms "categories" }}
+	{{ if $isRSS }}<small>, type: {{ end -}}
+	<span class="types">
+		{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
+	</span>
+	{{- if $isRSS }}</small>{{end}}
+{{ end }}
+</span>
+
+<!-- IMPROVE -->
+{{ if (and (not $isList) (not $isRSS)) -}}
+<hr>
+
+<small class="metadata">
+	<span>
+		<a href="https://github.com/rosano/home/edit/master/content/{{ .Page.File.Path }}">Improve</a>.
+	</span>
+</small>
+{{- end }}
+
+</div>

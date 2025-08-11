@@ -1,0 +1,21 @@
+<div class="post-list">
+{{ $isDay := (and (eq .Kind "term") (eq .Data.Singular "browse_day")) }}
+
+{{ range .Paginator.Pages.GroupByParam "browse_day" "desc" }}
+	{{ $browseDay := .Key }}
+
+	{{ if not $isDay }}
+		{{ with (index ((index .Pages 0).GetTerms "browse_day") 0) }}
+		  <h3 class="day"><a href="{{ .Page.Permalink }}">{{ time.Format "Monday, January 2, 2006" (time.AsTime (replace $browseDay "/" "-")) }}</a></h3>
+		{{ end }}
+	{{ end }}
+
+	<article>
+		{{ range .Pages.ByDate.Reverse }}
+			{{ .Scratch.Set "kScope" "kScopeList" }}
+			{{ partial "items-singular.html" . }}
+			{{ .Scratch.Delete "kScope" }}
+		{{ end }}
+	</article>
+{{ end }}
+</div>

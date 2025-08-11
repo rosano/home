@@ -1,0 +1,50 @@
+baseURL: https://test-home.github.rosano.ca/
+languageCode: en-ca
+title: Rosano
+canonifyURLs: true
+titleCaseStyle: none
+
+pagination:
+  pagerSize: 20
+
+taxonomies:
+  category: categories
+  tag: tags
+  place: place
+  country: country
+  series: series
+  browse_year: browse_year
+  browse_month: browse_month
+  browse_day: browse_day
+
+disableKinds:
+- taxonomy
+
+permalinks:
+  page:
+    sounds: /slog/:slugorcontentbasename/
+    timeline: /log/:slugorcontentbasename/
+  section:
+    sounds: /slog/
+    timeline: /log/
+  term:
+    categories: /log/type/:slug/
+    tags: /log/tag/:slug/
+    place: /log/place/:slug/
+    country: /log/country/:slug/
+    browse_year: /log/:2006/
+    browse_month: /log/:2006/:01/
+    browse_day: /log/:2006/:01/:02/
+
+services:
+  rss:
+    limit: 90
+
+mediaTypes:
+  application/rss:
+    suffix: ""
+    delimiter: ""
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "feed"

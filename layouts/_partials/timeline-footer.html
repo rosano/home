@@ -1,0 +1,146 @@
+<!-- PAGINATION -->
+
+{{ if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0)) }}
+	
+<div class="paginator">
+	<span>
+		{{ if .Paginator.HasNext }}
+			<a href="{{ .Paginator.Next.URL }}">older</a> · 
+			<small><a href="{{ .Paginator.Last.URL }}">start</a></small>
+		{{ end }}
+	</span>
+	<span>
+		{{ if .Paginator.HasPrev }}
+			<small><a href="{{ .Paginator.First.URL }}">end</a></small> · 
+			<a href="{{ .Paginator.Prev.URL }}">newer</a>
+		{{ end }}
+	</span>
+</div>
+
+{{ end }}
+
+<!-- TYPES -->
+
+<small class="types">
+	{{ range .Site.Sections }}
+		{{ if eq .Page.Title "Journal" }}
+			<a href="{{ .Page.Permalink }}">all</a>
+		{{ end }}
+	{{ end }}
+	
+	<span>·</span>
+	
+	{{ range .Site.Taxonomies.categories.ByCount }}
+		{{ if ne .Page.Title "move" }}
+			<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+		{{ end }}
+	{{ end }}
+</small>
+
+<!-- TIME -->
+
+<small class="time">
+
+	{{ range .Site.Sections }}
+		{{ if eq .Page.Title "Journal" }}
+			<a href="{{ .Page.Permalink }}">recent</a>
+		{{ end }}
+	{{ end }}
+
+<span>·</span>
+
+<!-- CONTEXT -->
+{{ $timeContext := "" }}
+{{ $currentYear := "" }}
+{{ $currentMonth := "" }}
+{{ $currentDay := "" }}
+
+{{ if (and (eq .Kind "term") (eq .Data.Singular "browse_day")) }}
+	{{ $timeContext = time.AsTime (replace .Data.Term "/" "-") }}
+{{ else if (and (eq .Kind "term") (eq .Data.Singular "browse_month")) }}
+	{{ $timeContext = time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") }}
+{{ else if (and (eq .Kind "term") (eq .Data.Singular "browse_year")) }}
+	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") }}
+{{ else if .IsPage }}
+	{{ $timeContext = .Date }}
+{{ end }}
+
+{{ if $timeContext }}
+	{{ $currentYear = time.Format "2006" $timeContext }}
+	{{ $currentMonth = time.Format "01" $timeContext }}
+	{{ $currentDay = time.Format "02" $timeContext }}
+{{ end }}
+
+{{ if not $timeContext }}
+	<!-- ALL YEARS -->
+	{{ range .Site.Taxonomies.browse_year }}
+		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+	{{ end }}
+{{ else }}
+	<!-- CURRENT YEAR -->
+	{{ if eq .Section "browse_year" }}
+		<span>{{ $currentYear }}</span>
+	{{ else }}
+		{{ range .Site.Taxonomies.browse_year }}
+			{{ if strings.Contains .Page.Title $currentYear }}
+				<a href="{{ .Page.Permalink }}">{{ $currentYear }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+	
+	<span>·</span>
+
+	{{ if eq .Section "browse_year" }}
+		<!-- ALL MONTHS -->
+		{{ range .Site.Taxonomies.browse_month }}
+			{{ if strings.Contains .Page.Title $currentYear }}
+				{{ $t := time.AsTime (delimit (slice (replace .Page.Title "/" "-") "01") "-") }}
+				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+{{ end }}
+
+{{ if (or (in (slice "browse_month" "browse_day") .Section) .IsPage) }}
+	{{ $format := time.Format "January" $timeContext }}
+
+	<!-- CURRENT MONTH -->
+	{{ if eq .Section "browse_month" }}
+		<span>{{ $format }}</span>
+	{{ else }}
+		{{ range .Site.Taxonomies.browse_month }}
+			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
+				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+	
+	<span>·</span>
+
+	{{ if eq .Section "browse_month" }}
+		<!-- ALL DAYS -->
+		{{ range .Site.Taxonomies.browse_day }}
+			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
+				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime (replace .Page.Title "/" "-")))  }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+{{ end }}
+
+{{ if (or (in (slice "browse_day") .Section) .IsPage) }}
+	{{ $format := humanize (time.Format "2" $timeContext)  }}
+
+	<!-- CURRENT DAY -->
+	{{ if eq .Section "browse_day" }}
+		<span>{{ $format }}</span>
+	{{ else }}
+		{{ range .Site.Taxonomies.browse_day }}
+			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth $currentDay) "/") }}
+				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
+			{{ end }}
+		{{ end }}
+	{{ end }}
+	
+{{ end }}
+
+</small>

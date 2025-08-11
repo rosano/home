@@ -1,0 +1,41 @@
+{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
+<script src="{{ $js.RelPermalink }}"></script>
+<script>
+(function() {
+	Array.from(document.querySelectorAll('.post .embed')).forEach(async function (e) {
+		const link = e.getAttribute('data-link');
+		const endpoint = OLSKEmbed.OLSKEmbedEndpointURL(link);
+
+		if (!endpoint) {
+			return;
+		}
+
+		const metadata = {};
+		try {
+			OLSKEmbed.OLSKEmbedGenerateProperties(Object.assign(metadata, await (await fetch(OLSKEmbed.OLSKEmbedFetchURL(endpoint, link))).json()));
+		} catch (e) {
+			console.log(e);
+		};
+
+		if (Object.keys(metadata).length <= 1) {
+			Object.assign(metadata, OLSKDOM.OLSKDOMMetadata(await (await fetch('https://cors.rosano.ca/' + link)).text()));
+		}
+
+		const embed = metadata.OLSKEmbedFrameURL || [
+			'og:video:secure_url',
+			'og:video:url',
+			'og:video',
+			'embedUrl',
+		].reduce(function (coll, item) {
+			return coll || metadata[item];
+		}, undefined);
+
+		if (!embed) {
+			return;
+		}
+
+		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] || metadata.OLSKEmbedHeight }" src="${ embed }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
+	});
+})();
+</script>
+

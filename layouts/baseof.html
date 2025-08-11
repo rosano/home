@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="icon" href="https://static.rosano.ca/rcreativ/touch.png" type="image/png">
+
+{{ .Scratch.Set "kIsHeadTitle" "true" }}
+<title>{{- partial "page-title.html" . -}}</title>
+
+{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
+{{ $style := resources.Get "css/_gather.scss" | css.Sass $options }}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />
+
+{{ if not (and (eq .Kind "term") (in (slice "browse_year" "browse_month" "browse_day") .Data.Singular)) }}
+	{{ range .AlternativeOutputFormats -}}
+	  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
+	{{ end }}
+{{ end }}
+{{ .Scratch.Delete "kIsHeadTitle" }}
+
+{{ .Scratch.Set "kIsTimeline" (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) }}
+
+<link rel="alternate" type="application/rss+xml" href="https://utopia.rosano.ca/feed" title="Updates">
+
+</head>
+
+<body class="{{ .Section }}">
+
+<header>
+	<h2>
+		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+		{{ if (and (not .IsHome) (ne .Kind "404")) }} / 
+			{{ $section := .Site.GetPage "section" .Section }}
+
+			{{ if (.Scratch.Get "kIsTimeline") }}
+				{{ range .Site.Sections }}
+					{{ if eq .Page.Title "Journal" }}
+						{{ $section = .Page }}
+					{{ end }}
+				{{ end }}
+			{{ end }}
+			
+			<a href="{{ with $section }}{{ .Permalink }}{{ end }}">{{ with $section }}{{ .Title }}{{ end }}</a>
+		{{- end }}
+	</h2>
+</header>
+
+{{- block "main" . }}{{- end }}
+
+<footer>
+{{ .Render "footer" }}
+
+{{ if (.Scratch.Get "kIsTimeline") }}
+	{{- partial "timeline-footer.html" . -}}
+{{ end }}
+</footer>
+
+{{- partial "media-embeds.html" . -}}
+
+{{ .Scratch.Delete "kIsTimeline" }}
+
+</body>
+</html>

@@ -1,0 +1,5 @@
+---
+date: 2024-03-18T05:10:41.398Z
+categories: ["thought"]
+---
+Follow what feels fun instead of clever ideas.

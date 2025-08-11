@@ -1,0 +1,173 @@
+:root {
+	--background: #eee;
+	--cap: 430px;
+	--spacing: 12px;
+}
+
+body {
+	max-width: var(--cap);
+	padding: var(--spacing);
+
+	margin: auto;
+
+	background: var(--background);
+	color: #333;
+	font: Garamond, Georgia, "Times New Roman", Times, serif;
+}
+
+a {
+	color: #237fa1;
+	text-decoration: none;
+}
+
+header a {
+	color: black;
+	opacity: .5;
+}
+
+a:hover {
+	color: #c00;
+}
+
+hr {
+	height: 0px;
+	border: 0.5px solid #333;
+	opacity: 0.3;
+}
+
+.day {
+	padding: var(--spacing) 0;
+	
+	position: sticky;
+	top: 0;
+	z-index: 1;
+
+	background: var(--background);
+	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%); 
+}
+
+.day a {
+	opacity: .7;
+}
+
+.post {
+	padding: var(--spacing);
+	margin: var(--spacing) 0;
+	background: #f9f9f9;
+	border-radius: 3px;
+	font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 90%;
+
+	position: relative;
+}
+
+@media (min-width: 450px) {
+
+	.post {
+		max-width: var(--cap);
+		padding: 15px;
+	}
+
+}
+
+.post :first-child {
+	margin-top: 0;
+}
+
+.post .embed iframe {
+	border-radius: 3px;
+
+	max-height: 240;
+
+	margin-bottom: var(--spacing);
+}
+
+.post blockquote {
+	font-size: 90%;
+	opacity: 0.7;
+	margin: 0;
+	padding-left: calc(var(--spacing) / 2);
+	border-left: 2px solid #ddd;
+}
+
+.post code {
+	white-space: break-spaces;
+	word-break: break-all;
+	font-size: 90%;
+}
+
+.post pre {
+	font-size: 80%;
+
+	border: 1px solid #ddd;
+	padding: 8px
+}
+
+.post ol, .post ul {
+	padding-left: calc(var(--spacing) * 2);
+}
+
+.post .metadata {
+	display: flex;
+	align-items: end;
+}
+
+.post .metadata > :first-child {
+	flex-grow: 1;
+}
+
+.post .types a {
+	font-weight: bold;
+	font-size: 90%;
+
+	margin-left: var(--spacing);
+	
+	color: unset;
+	
+	opacity: 0.3;
+}
+
+footer {
+	max-width: var(--cap);
+	position: sticky;
+	bottom: 0;
+
+	z-index: 2;
+
+	background: var(--background);
+	background: linear-gradient(0deg, var(--background) 90%, rgba(255,255,255,0) 100%); 
+}
+
+.paginator {
+	padding: 15px;
+
+	display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 450px) {
+
+	.paginator {
+	 	max-width: var(--cap);
+	}
+
+}
+
+.paginator > * {
+	flex-grow: 1;
+}
+
+.paginator :last-child {
+	text-align: end;
+}
+
+footer small:not(.paginator small) {
+	padding: 5px;
+	display: block;
+
+	text-align: center;
+}
+
+footer small > * {
+	margin-right: 5px;
+}
