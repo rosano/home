@@ -1,0 +1,33 @@
+---
+date: 2024-11-15T11:08:18Z
+duration: 0:54
+publishedAt: 2024-11-15T11:08:18Z
+isPublished: true
+thumb: true
+youtube: -3UdQtva4V0
+subject: Lapinha
+id: m3imvrwq
+---
+If music was the only contribution to this world from capoeira, we'd still be quite rich for it.
+
+if music was the only contribution to this world from capoeira, we'd still be quite rich for it. this is barely one song of a thousand, happened to be in my head the last days.
+
+quando eu morrer, me enterre na Lapinha
+calça culote, palitó, almofadinha
+
+adeus Bahia, zumzumzum, cordão de ouro
+eu vou partir porque mataram meu Besouro
+
+zumzumzum é Besouro
+zumzumzum cordão de ouro
+
+---
+
+when I die, bury me in Lapinha
+breeches, blazer, shoulder pads
+
+goodbye Bahia, zumzumzum, chain of gold
+I'm leaving because they killed my Beetle
+
+zumzumzum, it's Beetle
+zumzumzum, chain of gold
