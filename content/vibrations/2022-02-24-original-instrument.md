@@ -7,7 +7,7 @@ isPublished: true
 around: 2022-02-24T12:00:00Z
 link: https://strolling.rosano.ca/0003
 youtube: FFt5eAOaBPQ
-subject: "\"Strolling Sketches 0003: original instrument\""
+subject: "Strolling Sketches 0003: original instrument"
 slug: lc1ywnso
 ---
 https://strolling.rosano.ca/0003
