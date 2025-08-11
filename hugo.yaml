@@ -30,6 +30,7 @@ permalinks:
   term:
     categories: /log/type/:slug/
     tags: /log/tag/:slug/
+    series: /log/series/:slug/
     place: /log/place/:slug/
     country: /log/country/:slug/
     browse_year: /log/:2006/
