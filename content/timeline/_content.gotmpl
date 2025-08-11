@@ -28,7 +28,7 @@
       ) }}
 
       {{ $page := dict
-        "content" (dict "mediaType" "text/markdown" "value" (index $parts 2))
+        "content" (dict "mediaType" "text/markdown" "value" (delimit (after 2 $parts) "---"))
         "dates" (dict "date" $date)
         "params" $params
         "kind" "page"
