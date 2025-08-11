@@ -9,7 +9,7 @@ thumb: true
 isPublished: true
 youtube: nYCo6w9lJTs
 subject: You've got a friend
-id: lhk4nrrh
+slug: lhk4nrrh
 ---
 this song is a beautiful and timeless message, reflects what i try to embody in friendship. sharing my musical take ❤️☀️✨
 

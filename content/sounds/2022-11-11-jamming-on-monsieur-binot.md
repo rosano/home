@@ -10,7 +10,7 @@ link: https://kaixiyang.com
 facebook: 1236802083858123
 youtube: 5KNB-V2T9lg
 subject: jamming on Monsieur Binot (with Kaixi Yang)
-id: lac8mrw8
+slug: lac8mrw8
 ---
 music should be fun… https://kaixiyang.com
 

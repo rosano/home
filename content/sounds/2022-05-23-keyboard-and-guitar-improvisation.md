@@ -11,6 +11,6 @@ oldMonth: 2022.05
 around: 2022-05-23T16:35:00Z
 youtube: ipQIPfJ4K60
 subject: keyboard and guitar improvisation (with Travis Broussard)
-id: l3iy8rhc
+slug: l3iy8rhc
 ---
 

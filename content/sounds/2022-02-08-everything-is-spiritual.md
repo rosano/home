@@ -9,7 +9,7 @@ around: 2022-02-08T12:00:00Z
 link: https://strolling.rosano.ca/0002
 youtube: mhWBvufyvFQ
 subject: "\"Strolling Sketches 0002: everything is spiritual\""
-id: lc1yrd7k
+slug: lc1yrd7k
 ---
 https://strolling.rosano.ca/0002
 

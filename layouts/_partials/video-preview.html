@@ -2,7 +2,7 @@
 
 {{ $title := or .Params.headline .Params.subject }}
 {{ $t := time.AsTime .Date }}
-<a href="{{ .Permalink }}" aria-text="{{ $title }}" style="background-image: url('https://static.rosano.ca/roco-video/vibrations/{{ .Params.id }}/mobile.jpg');">
+<a href="{{ .Permalink }}" aria-text="{{ $title }}" style="background-image: url('https://static.rosano.ca/roco-video/vibrations/{{ .Params.slug }}/mobile.jpg');">
 	<div class="date-strip"><time datetime="{{- $t.Format "2006-01-02" -}}">{{- $t.Format "January 02, 2006" -}}</time>
 	</div>
 	<div class="duration-strip"><time>{{ .Params.duration }}</time></div>

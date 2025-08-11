@@ -10,6 +10,6 @@ isPublished: true
 thumb: true
 youtube: RevGogovWQo
 subject: over the rainbow
-id: m18yg9y7
+slug: m18yg9y7
 ---
 crunchy chords

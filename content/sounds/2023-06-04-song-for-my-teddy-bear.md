@@ -6,6 +6,6 @@ youtube: CwejprBUwlk
 thumb: true
 isPublished: true
 subject: song for my teddy bear
-id: lih2yl7p
+slug: lih2yl7p
 ---
 

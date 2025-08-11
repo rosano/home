@@ -6,6 +6,6 @@ isPublished: true
 thumb: true
 youtube: s0notRbTxjA
 subject: resonance
-id: lq9blk88
+slug: lq9blk88
 ---
 finding reverberations

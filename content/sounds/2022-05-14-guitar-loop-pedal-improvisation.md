@@ -9,6 +9,6 @@ around: 2022-05-14T08:42:17Z
 link: https://strolling.rosano.ca/0043
 youtube: YBa1piiWkBU
 subject: guitar loop pedal improvisation (with travis broussard)
-id: l35me6g8
+slug: l35me6g8
 ---
 https://strolling.rosano.ca/0043

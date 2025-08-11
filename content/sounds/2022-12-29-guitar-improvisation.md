@@ -10,6 +10,6 @@ oldMonth: 2022.12
 around: 2022-12-29T23:14:00Z
 youtube: alMt94DxNgE
 subject: guitar improvisation
-id: lc9pdadc
+slug: lc9pdadc
 ---
 

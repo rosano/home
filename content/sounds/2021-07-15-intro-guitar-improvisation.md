@@ -11,6 +11,6 @@ around: 2021-07-15T08:25:00Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube: fYOrrzkXbdQ
 subject: intro guitar improvisation
-id: kr4ncuao
+slug: kr4ncuao
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

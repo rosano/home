@@ -14,7 +14,7 @@ link: https://rosano.ca/seeds
 youtube: h3b5Sxa47s0
 isPublished: true
 subject: trem das cores
-id: lcvwxuyw
+slug: lcvwxuyw
 ---
 those eyes, light like honey of a colour unequaled
 

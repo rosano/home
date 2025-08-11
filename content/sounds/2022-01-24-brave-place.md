@@ -9,7 +9,7 @@ around: 2022-01-24T12:00:00Z
 link: https://strolling.rosano.ca/0001
 youtube: jk5rWRprTAI
 subject: "\"Strolling Sketches 0001: brave place\""
-id: lc1ykbco
+slug: lc1ykbco
 ---
 https://strolling.rosano.ca/0001
 

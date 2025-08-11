@@ -8,6 +8,6 @@ around: 2023-01-14T13:20:06Z
 link: https://rosano.ca/seeds
 youtube: 8S3ZnxwRRQY
 subject: some seeds take a while
-id: lcvz75o0
+slug: lcvz75o0
 ---
 more: https://rosano.ca/seeds

@@ -9,7 +9,7 @@ youtube: Z-mhfpVhcqg
 subject: samba do amor
 thumb: true
 isPublished: true
-id: lcvwbpwg
+slug: lcvwbpwg
 ---
 https://rosano.ca/seeds
 

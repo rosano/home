@@ -10,7 +10,7 @@ author: tom jobim
 around: 2023-01-14T12:15:35Z
 link: https://rosano.ca/seeds
 subject: correnteza
-id: lcvww6s8
+slug: lcvww6s8
 ---
 I fell asleep smiling, dreaming of our love
 

@@ -9,7 +9,7 @@ around: 2022-01-22T12:00:00Z
 link: https://strolling.rosano.ca/0000
 youtube: k-wTsipUQRk
 subject: "\"Strolling Sketches 0000: my piano salad\""
-id: lc1yc988
+slug: lc1yc988
 ---
 https://strolling.rosano.ca/0000
 

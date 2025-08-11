@@ -9,7 +9,7 @@ thumb: true
 isPublished: true
 youtube: 2rtd9aMk0mQ
 subject: Toque de Iúna
-id: lj8o6z8w
+slug: lj8o6z8w
 ---
 Iúna é madeira é pedaço de pau
 Graúna, aroeira, beri-berimbau

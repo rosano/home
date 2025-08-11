@@ -6,7 +6,7 @@ thumb: true
 isPublished: true
 youtube: cEgkAa3OFy4
 subject: Um Só Lugar
-id: lmyypy5m
+slug: lmyypy5m
 ---
 Nós dois somos um só lugar
 Nós dois somos um só querer

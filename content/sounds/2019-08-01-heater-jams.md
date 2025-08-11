@@ -9,6 +9,6 @@ oldMonth: 2019.08
 around: 2019-08-01T12:00:00Z
 youtube: MjFbJ5nzMuA
 subject: heater jams
-id: jysmn400
+slug: jysmn400
 ---
 i'll make a beat with anything

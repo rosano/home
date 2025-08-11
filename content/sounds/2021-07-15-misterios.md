@@ -10,6 +10,6 @@ around: 2021-07-15T12:00:01Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube: 7DDjSDCJHsU
 subject: Mistérios
-id: la3o5tcg
+slug: la3o5tcg
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

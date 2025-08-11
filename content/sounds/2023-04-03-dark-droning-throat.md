@@ -6,6 +6,6 @@ thumb: true
 isPublished: true
 youtube: QpB4f-ynnzA
 subject: dark droning throat
-id: lg0ju7j7
+slug: lg0ju7j7
 ---
 

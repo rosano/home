@@ -10,7 +10,7 @@ isPublished: true
 thumb: true
 youtube: LIxBVqliwKU
 subject: toque de Angola
-id: lt4p0rpx
+slug: lt4p0rpx
 ---
 "I don't want your money
 Nor the good you possess

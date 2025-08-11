@@ -7,7 +7,7 @@ isPublished: true
 around: 2022-10-12T21:31:34Z
 youtube: 8ow-i6RYq2M
 subject: capoeira de besouro
-id: l965d434
+slug: l965d434
 ---
 music by paulo cesar pinheiro
 

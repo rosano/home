@@ -9,7 +9,7 @@ youtube: 97Al7uBx_E8
 subject: bayen habeit
 thumb: true
 isPublished: true
-id: lcvwpabs
+slug: lcvwpabs
 ---
 https://rosano.ca/seeds
 

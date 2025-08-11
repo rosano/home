@@ -22,7 +22,7 @@ disableKinds:
 
 permalinks:
   page:
-    sounds: /slog/:slugorcontentbasename/
+    sounds: /slog/:slug/
     timeline: /log/:slugorcontentbasename/
   section:
     sounds: /slog/

@@ -11,7 +11,7 @@ isPublished: true
 thumb: true
 youtube: lw7OwuG_D4g
 subject: prelude & fugue no. 5 in d major
-id: m305fu7c
+slug: m305fu7c
 ---
 Since 2023 I've been recording piano music from my past. This is one I played in my university audition.
 

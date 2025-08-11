@@ -6,6 +6,6 @@ thumb: true
 isPublished: true
 youtube: fe5JeGCcGjs
 subject: hello there old friend…
-id: ljofhbow
+slug: ljofhbow
 ---
 i tried playing some prokofiev after a long piano hiatus.

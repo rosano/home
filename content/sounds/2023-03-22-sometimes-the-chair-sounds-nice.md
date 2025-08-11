@@ -6,6 +6,6 @@ thumb: true
 isPublished: true
 youtube: -SI2ODsJIKA
 subject: sometimes the chair sounds nice
-id: lfj74s1t
+slug: lfj74s1t
 ---
 i'll make a beat with anything

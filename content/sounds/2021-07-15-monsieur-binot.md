@@ -9,6 +9,6 @@ around: 2021-07-15T12:00:02Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube: W6RP8QcjNjU
 subject: Monsieur Binot
-id: la3o9p08
+slug: la3o9p08
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

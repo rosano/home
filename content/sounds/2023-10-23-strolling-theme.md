@@ -6,6 +6,6 @@ thumb: true
 isPublished: true
 youtube: 7_FoXiSvdtk
 subject: strolling theme
-id: lo365jtf
+slug: lo365jtf
 ---
 composed this in 2022, still fun to play

@@ -6,7 +6,7 @@ thumb: true
 isPublished: true
 youtube: CzJ4Slp0PYE
 subject: music performance and perfection
-id: lo5zuiqa
+slug: lo5zuiqa
 ---
 > [Sharing and enjoyment become a source of truth and foundation on which you do everything.]
 

@@ -10,6 +10,6 @@ oldMonth: 2023.01
 around: 2023-01-06T23:57:00Z
 youtube: M0FM7SW3z88
 subject: tongue solo
-id: lcl6feg0
+slug: lcl6feg0
 ---
 

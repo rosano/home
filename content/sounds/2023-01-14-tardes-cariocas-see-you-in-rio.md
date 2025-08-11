@@ -9,7 +9,7 @@ youtube: fZGwCPJYr70
 subject: tardes cariocas / see you in rio
 thumb: true
 isPublished: true
-id: lcvwr020
+slug: lcvwr020
 ---
 https://rosano.ca/seeds
 

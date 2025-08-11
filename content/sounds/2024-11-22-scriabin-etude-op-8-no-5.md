@@ -7,7 +7,7 @@ thumb: true
 headline: scriabin etude op. 8 no. 5
 youtube: MG9gaCjSK6k
 subject: "\"etude op. 8 no. 5\" by alexander scriabin"
-id: m3sj7h9a
+slug: m3sj7h9a
 ---
 Since 2023 I've been recording piano music from my past. This is one I learned in my second year of university.
 

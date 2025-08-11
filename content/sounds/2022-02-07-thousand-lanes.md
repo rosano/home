@@ -9,7 +9,7 @@ around: 2022-02-07T12:00:00Z
 link: https://strolling.rosano.ca/0002
 youtube: gWh2C5gZ62o
 subject: "\"Strolling Sketches 0002: thousand lanes\""
-id: lc1yphb4
+slug: lc1yphb4
 ---
 https://strolling.rosano.ca/0002
 
