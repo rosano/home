@@ -1,7 +1,5 @@
-{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
-<script src="{{ $js.RelPermalink }}"></script>
 <script>
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
 	Array.from(document.querySelectorAll('.post .embed')).forEach(async function (e) {
 		const link = e.getAttribute('data-link');
 		const endpoint = OLSKEmbed.OLSKEmbedEndpointURL(link);
@@ -36,6 +34,5 @@
 
 		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] || metadata.OLSKEmbedHeight }" src="${ embed }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 	});
-})();
+});
 </script>
-

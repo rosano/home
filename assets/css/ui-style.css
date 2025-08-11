@@ -77,8 +77,6 @@ hr {
 .post .embed iframe {
 	border-radius: 3px;
 
-	max-height: 240;
-
 	margin-bottom: var(--spacing);
 }
 
@@ -248,4 +246,10 @@ body.sounds {
 	flex-wrap: wrap;
 	align-content: flex-start;
 	gap: 10px;
+}
+
+/* timeline */
+
+.timeline .embed iframe {
+	max-height: 200px;
 }
