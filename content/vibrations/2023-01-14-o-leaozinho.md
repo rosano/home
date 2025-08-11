@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T11:46:12Z
 duration: 1:32
-publishedAt: 2023-01-14T11:46:12Z
 author: caetano veloso
 around: 2023-01-14T11:46:12Z
 link: https://rosano.ca/seeds

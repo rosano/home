@@ -1,7 +1,6 @@
 ---
 date: 2024-11-02T13:08:24Z
 duration: 3:50
-publishedAt: 2024-11-02T13:08:24Z
 facebook: 8561034293980703
 threads_id: DB3vNFwIZ4V
 twitter_id: 1852702636916576606

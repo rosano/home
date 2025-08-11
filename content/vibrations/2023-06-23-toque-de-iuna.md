@@ -1,7 +1,6 @@
 ---
 date: 2023-06-23T14:34:07Z
 duration: 4:43
-publishedAt: 2023-06-23T14:34:07Z
 twitter_id: 1672253313427939328
 mastodon_id: 110594048532236396
 bluesky_id: 3jytnzuoet725

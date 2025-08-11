@@ -1,7 +1,6 @@
 ---
 date: 2023-09-25T14:11:35Z
 duration: 2:46
-publishedAt: 2023-09-25T14:11:35Z
 thumb: true
 isPublished: true
 youtube: cEgkAa3OFy4

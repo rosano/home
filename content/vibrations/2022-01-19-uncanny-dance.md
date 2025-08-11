@@ -1,7 +1,6 @@
 ---
 date: 2022-01-19T12:00:00Z
 duration: 1:04
-publishedAt: 2022-12-24T13:11:23Z
 headline: uncanny dance
 thumb: true
 isPublished: true

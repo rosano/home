@@ -1,7 +1,6 @@
 ---
 date: 2022-02-08T12:00:00Z
 duration: 1:23
-publishedAt: 2022-12-24T13:14:44Z
 headline: everything is spiritual
 thumb: true
 isPublished: true

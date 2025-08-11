@@ -1,7 +1,6 @@
 ---
 date: 2022-02-25T12:00:00Z
 duration: 1:03
-publishedAt: 2022-12-24T13:21:48Z
 headline: sacred twerk
 thumb: true
 isPublished: true

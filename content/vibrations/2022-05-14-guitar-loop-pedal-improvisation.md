@@ -1,7 +1,6 @@
 ---
 date: 2022-05-14T08:42:17Z
 duration: 4:22
-publishedAt: 2022-05-14T08:42:17Z
 headline: guitar loop pedal improvisation
 thumb: true
 isPublished: true

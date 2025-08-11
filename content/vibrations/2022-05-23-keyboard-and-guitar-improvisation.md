@@ -1,7 +1,6 @@
 ---
 date: 2022-05-23T16:35:00Z
 duration: 11:56
-publishedAt: 2022-12-24T13:25:29Z
 headline: keyboard and guitar improvisation
 thumb: true
 isPublished: true

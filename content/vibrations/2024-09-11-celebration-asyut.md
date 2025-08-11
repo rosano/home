@@ -1,7 +1,6 @@
 ---
 date: 2024-09-11T07:46:52Z
 duration: 1:01
-publishedAt: 2024-09-11T07:46:52Z
 facebook: 1033026335123933
 bluesky_id: 3l3uhek2lcw2l
 threads_id: C_xPIkviaVQ

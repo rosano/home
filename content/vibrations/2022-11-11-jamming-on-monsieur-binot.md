@@ -1,7 +1,6 @@
 ---
 date: 2022-11-11T08:29:23Z
 duration: 1:23
-publishedAt: 2022-11-11T08:29:23Z
 headline: jamming on Monsieur Binot
 thumb: true
 isPublished: true

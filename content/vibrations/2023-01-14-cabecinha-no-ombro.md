@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T12:13:59Z
 duration: 2:01
-publishedAt: 2023-01-14T12:13:59Z
 author: paulo borges
 around: 2023-01-14T12:13:59Z
 link: https://rosano.ca/seeds

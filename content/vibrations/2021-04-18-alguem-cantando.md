@@ -1,7 +1,6 @@
 ---
 date: 2021-04-18T12:00:00Z
 duration: 1:34
-publishedAt: 2022-12-23T09:51:41Z
 thumb: true
 isPublished: true
 author: caetano veloso

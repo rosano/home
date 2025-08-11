@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T12:10:13Z
 duration: 2:30
-publishedAt: 2023-01-14T12:10:13Z
 author: amr diab
 around: 2023-01-14T12:10:13Z
 link: https://rosano.ca/seeds

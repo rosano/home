@@ -1,7 +1,6 @@
 ---
 date: 2022-02-24T12:00:00Z
 duration: 0:48
-publishedAt: 2022-12-24T13:18:51Z
 headline: original instrument
 thumb: true
 isPublished: true

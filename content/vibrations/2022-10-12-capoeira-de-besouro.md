@@ -1,7 +1,6 @@
 ---
 date: 2022-10-12T21:31:34Z
 duration: 3:35
-publishedAt: 2022-10-12T21:31:34Z
 thumb: true
 isPublished: true
 around: 2022-10-12T21:31:34Z

@@ -1,7 +1,6 @@
 ---
 date: 2021-07-15T12:00:02Z
 duration: 3:22
-publishedAt: 2022-11-05T08:37:11Z
 author: Joyce Moreno
 thumb: true
 isPublished: true

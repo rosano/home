@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T12:16:53Z
 duration: 2:47
-publishedAt: 2024-10-25T06:07:38Z
 archive: [object Object]
 facebook: 390390164010804
 threads_id: DBLbi8fCjie

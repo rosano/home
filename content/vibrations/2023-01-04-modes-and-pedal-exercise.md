@@ -1,7 +1,6 @@
 ---
 date: 2023-01-04T23:20:00Z
 duration: 6:04
-publishedAt: 2023-01-07T10:18:28Z
 thumb: true
 isPublished: true
 time: 23h20

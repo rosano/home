@@ -1,7 +1,6 @@
 ---
 date: 2023-05-02T12:00:00Z
 duration: 4:43
-publishedAt: 2023-05-12T05:48:23Z
 features: with lyrics
 author: James Taylor
 around: 2023-05-02T12:00:00Z

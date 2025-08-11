@@ -1,7 +1,6 @@
 ---
 date: 2021-07-15T12:00:01Z
 duration: 4:45
-publishedAt: 2022-11-05T08:34:10Z
 headline: Misterios
 author: Milton Nascimento
 thumb: true

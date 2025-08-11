@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T13:20:06Z
 duration: 0:17
-publishedAt: 2023-01-14T13:20:06Z
 thumb: true
 isPublished: true
 around: 2023-01-14T13:20:06Z

@@ -1,7 +1,6 @@
 ---
 date: 2023-01-14T12:11:33Z
 duration: 2:56
-publishedAt: 2023-01-14T12:11:33Z
 author: joyce moreno
 around: 2023-01-14T12:11:33Z
 link: https://rosano.ca/seeds

@@ -1,7 +1,6 @@
 ---
 date: 2022-01-22T12:00:00Z
 duration: 0:58
-publishedAt: 2022-12-24T13:02:59Z
 headline: Strolling Theme Song
 thumb: true
 isPublished: true

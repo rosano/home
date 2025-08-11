@@ -1,7 +1,6 @@
 ---
 date: 2024-09-29T05:58:17Z
 duration: 1:31
-publishedAt: 2024-09-29T05:58:17Z
 threads_id: DAfZtd3iFge
 facebook: 1905135996650021
 mastodon_id: 113219367230731992

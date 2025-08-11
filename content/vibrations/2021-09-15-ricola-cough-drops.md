@@ -1,7 +1,6 @@
 ---
 date: 2021-09-15T12:00:00Z
 duration: 0:18
-publishedAt: 2022-12-23T10:04:22Z
 thumb: true
 isPublished: true
 oldDay: 2021.09.15

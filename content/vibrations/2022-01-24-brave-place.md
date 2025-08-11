@@ -1,7 +1,6 @@
 ---
 date: 2022-01-24T12:00:00Z
 duration: 1:05
-publishedAt: 2022-12-24T13:09:15Z
 headline: brave place
 thumb: true
 isPublished: true

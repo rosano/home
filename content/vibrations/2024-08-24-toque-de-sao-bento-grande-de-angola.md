@@ -1,7 +1,6 @@
 ---
 date: 2024-08-24T06:36:20Z
 duration: 2:45
-publishedAt: 2024-08-24T06:36:20Z
 facebook: 3934483136780305
 isPublished: true
 thumb: true

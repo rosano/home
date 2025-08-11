@@ -1,7 +1,6 @@
 ---
 date: 2022-02-07T12:00:00Z
 duration: 0:45
-publishedAt: 2022-12-24T13:13:16Z
 headline: thousand lanes
 thumb: true
 isPublished: true

@@ -1,7 +1,6 @@
 ---
 date: 2021-07-15T08:25:00Z
 duration: 3:23
-publishedAt: 2022-11-05T08:21:30Z
 thumb: true
 isPublished: true
 time: 08h25
