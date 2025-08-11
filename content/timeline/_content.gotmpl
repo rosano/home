@@ -9,7 +9,7 @@
 {{ range $dir := (slice "journal") }}
   {{ range readDir $dir }}
     {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
-      {{ $raw := readFile (path.Join "journal" .Name) }}
+      {{ $raw := readFile (path.Join $dir .Name) }}
       {{ $parts := split $raw "---" }}
       
       {{ $params := unmarshal (index $parts 1) }}
