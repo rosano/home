@@ -13,7 +13,11 @@
 	<article>
 		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}
-			{{ partial "items-singular.html" . }}
+			{{ if .Params.isContent }}
+				{{ partial "items-singular-content.html" . }}
+			{{ else }}
+				{{ partial "items-singular.html" . }}
+			{{ end }}
 			{{ .Scratch.Delete "kScope" }}
 		{{ end }}
 	</article>

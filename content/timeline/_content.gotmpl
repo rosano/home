@@ -6,7 +6,7 @@
 
 {{ .Site.Store.Set "kTravelHydrated" $hydrated }}
 
-{{ range $dir := (slice "journal") }}
+{{ range $dir := (slice "journal" "content/vibrations") }}
   {{ range readDir $dir }}
     {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
       {{ $raw := readFile (path.Join $dir .Name) }}
@@ -27,6 +27,13 @@
         "browse_month" ($params.date | time.Format "2006/01")
         "browse_day" ($params.date | time.Format "2006/01/02")
       ) }}
+
+      {{ if strings.Contains $dir "content" }}
+        {{ $params = merge $params (dict
+          "isContent" "true"
+          "originalSection" (index (split $dir "/") 1)
+        ) }}
+      {{ end }}
 
       {{ $page := dict
         "content" (dict "mediaType" "text/markdown" "value" (delimit (after 2 $parts) "---"))

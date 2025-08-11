@@ -70,6 +70,20 @@ hr {
 
 }
 
+.post.notification {
+	background: #555;
+	color: white;
+}
+
+.notification p {
+	margin-top: 6px;
+	margin-bottom: 3px;
+}
+
+.notification a {
+	color: #ece246;
+}
+
 .post :first-child {
 	margin-top: 0;
 }
