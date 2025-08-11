@@ -4,8 +4,6 @@ duration: 1:34
 thumb: true
 isPublished: true
 author: caetano veloso
-oldDay: 2021.04.18
-oldMonth: 2021.04
 around: 2021-04-18T12:00:00Z
 youtube: vPLO6soeal0
 subject: alguem cantando

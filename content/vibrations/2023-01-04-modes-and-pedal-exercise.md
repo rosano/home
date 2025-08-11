@@ -3,9 +3,6 @@ date: 2023-01-04T23:20:00Z
 duration: 6:04
 thumb: true
 isPublished: true
-time: 23h20
-oldDay: 2023.01.04
-oldMonth: 2023.01
 around: 2023-01-04T23:20:00Z
 youtube: xusbyqJ2xJA
 subject: modes and pedal exercise

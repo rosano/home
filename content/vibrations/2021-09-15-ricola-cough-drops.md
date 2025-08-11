@@ -3,8 +3,6 @@ date: 2021-09-15T12:00:00Z
 duration: 0:18
 thumb: true
 isPublished: true
-oldDay: 2021.09.15
-oldMonth: 2021.09
 around: 2021-09-15T12:00:00Z
 youtube: 1VBD5enJN0k
 subject: ricola cough drops
