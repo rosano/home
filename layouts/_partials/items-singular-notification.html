@@ -1,0 +1,24 @@
+<div class="post notification">
+
+{{ $slug := .Params.slug }}
+{{ $permalink := "" }}
+{{ with .Site.GetPage "section" .Params.originalSection }}
+	{{ range where .Pages "Params.slug" $slug }}
+		{{ $permalink = .Permalink }}
+	{{ end }}
+{{ end }}
+
+<small>
+	<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
+	<span>Published</span>
+	<span> to </span>
+	{{ with .Site.GetPage "section" .Params.originalSection }}
+		<a href="{{ .Permalink }}">{{ .Name }}</a>
+	{{ end }}
+</small>
+
+<br>
+
+<p><a href="{{ $permalink }}">{{ .Params.subject }}</a></p>
+
+</div>

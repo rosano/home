@@ -14,7 +14,7 @@
 		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScope" "kScopeList" }}
 			{{ if .Params.isContent }}
-				{{ partial "items-singular-content.html" . }}
+				{{ partial "items-singular-notification.html" . }}
 			{{ else }}
 				{{ partial "items-singular.html" . }}
 			{{ end }}
