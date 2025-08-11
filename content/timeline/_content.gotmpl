@@ -17,11 +17,12 @@
 
       {{ $first := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
       {{ $date = ($date | time.In $first.zone) }}
-      {{ $params := merge $params (dict
+
+      {{ $params = merge $params (dict
         "place" (slice $first.place)
         "country" (slice $first.country)
       ) }}
-      {{ $params := merge $params (dict
+      {{ $params = merge $params (dict
         "browse_year" ($params.date | time.Format "2006")
         "browse_month" ($params.date | time.Format "2006/01")
         "browse_day" ($params.date | time.Format "2006/01/02")
