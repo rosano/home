@@ -235,13 +235,13 @@ footer small > * {
 	position: relative;
 }
 
-/* sounds */
+/* vibrations */
 
-body.sounds {
+body.vibrations {
 	--cap: 600px;
 }
 
-.sounds .video-list {
+.vibrations .video-list {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-start;

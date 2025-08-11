@@ -22,10 +22,10 @@ disableKinds:
 
 permalinks:
   page:
-    sounds: /slog/:slug/
+    vibrations: /vibrations/:slug/
     timeline: /log/:slugorcontentbasename/
   section:
-    sounds: /slog/
+    vibrations: /vibrations/
     timeline: /log/
   term:
     categories: /log/type/:slug/
