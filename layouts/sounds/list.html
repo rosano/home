@@ -1,11 +1,13 @@
 {{ define "main" }}
 
-<ul>
-{{ range .Pages.ByDate.Reverse }}
-	<li><a href="{{ .Permalink }}">{{ .Page.Params.subject }}</a></li>
-{{ end }}	
-</ul>
+{{ range .Pages.ByDate.Reverse.GroupByDate "January 2006" "desc" }}
+	<h3>{{ .Key }}</h3>
 
-</div>
+	<div class="video-list">
+		{{ range .Pages }}
+		  {{ partial "video-preview" . }}
+		{{ end }}
+	</div>
+{{ end }}	
 
 {{ end }}

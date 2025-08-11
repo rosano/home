@@ -1,3 +1,3 @@
 ---
-title: Sounds
+title: Vibrations
 ---
