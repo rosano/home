@@ -6,33 +6,35 @@
 
 {{ .Site.Store.Set "kTravelHydrated" $hydrated }}
 
-{{ range readDir "journal" }}
-  {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
-    {{ $raw := readFile (path.Join "journal" .Name) }}
-    {{ $parts := split $raw "---" }}
-    
-    {{ $params := unmarshal (index $parts 1) }}
-    {{ $date := time $params.date }}
+{{ range $dir := (slice "journal") }}
+  {{ range readDir $dir }}
+    {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
+      {{ $raw := readFile (path.Join "journal" .Name) }}
+      {{ $parts := split $raw "---" }}
+      
+      {{ $params := unmarshal (index $parts 1) }}
+      {{ $date := time $params.date }}
 
-    {{ $first := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
-    {{ $date = ($date | time.In $first.zone) }}
-    {{ $params := merge $params (dict
-      "place" (slice $first.place)
-      "country" (slice $first.country)
-    ) }}
-    {{ $params := merge $params (dict
-      "browse_year" ($params.date | time.Format "2006")
-      "browse_month" ($params.date | time.Format "2006/01")
-      "browse_day" ($params.date | time.Format "2006/01/02")
-    ) }}
+      {{ $first := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
+      {{ $date = ($date | time.In $first.zone) }}
+      {{ $params := merge $params (dict
+        "place" (slice $first.place)
+        "country" (slice $first.country)
+      ) }}
+      {{ $params := merge $params (dict
+        "browse_year" ($params.date | time.Format "2006")
+        "browse_month" ($params.date | time.Format "2006/01")
+        "browse_day" ($params.date | time.Format "2006/01/02")
+      ) }}
 
-    {{ $page := dict
-      "content" (dict "mediaType" "text/markdown" "value" (index $parts 2))
-      "dates" (dict "date" $date)
-      "params" $params
-      "kind" "page"
-      "path" (index (split .Name ".") 0)
-    }}
-    {{ $.AddPage $page }}
+      {{ $page := dict
+        "content" (dict "mediaType" "text/markdown" "value" (index $parts 2))
+        "dates" (dict "date" $date)
+        "params" $params
+        "kind" "page"
+        "path" (index (split .Name ".") 0)
+      }}
+      {{ $.AddPage $page }}
+    {{ end }}
   {{ end }}
 {{ end }}
