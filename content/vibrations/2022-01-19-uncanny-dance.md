@@ -12,6 +12,4 @@ slug: lc1yn248
 ---
 https://strolling.rosano.ca/0001
 
-
-
 Buy this album on Bandcamp https://rosano.bandcamp.com/album/strolling-sketches
