@@ -2,7 +2,7 @@
 date: 2021-07-15T12:00:02Z
 duration: 3:22
 author: Joyce Moreno
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2021-07-15T12:00:02Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend

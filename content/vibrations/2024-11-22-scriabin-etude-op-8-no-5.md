@@ -2,7 +2,7 @@
 date: 2024-11-22T10:03:02Z
 duration: 2:51
 isPublished: true
-thumb: true
+hasThumb: true
 headline: scriabin etude op. 8 no. 5
 youtube: MG9gaCjSK6k
 subject: "\"etude op. 8 no. 5\" by alexander scriabin"

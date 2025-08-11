@@ -2,7 +2,7 @@
 date: 2022-02-24T12:00:00Z
 duration: 0:48
 headline: original instrument
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-02-24T12:00:00Z
 link: https://strolling.rosano.ca/0003

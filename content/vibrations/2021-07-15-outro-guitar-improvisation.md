@@ -1,7 +1,7 @@
 ---
 date: 2021-07-15T08:52:00Z
 duration: 3:14
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2021-07-15T08:52:00Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend

@@ -2,7 +2,7 @@
 date: 2022-01-24T12:00:00Z
 duration: 1:05
 headline: brave place
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-01-24T12:00:00Z
 link: https://strolling.rosano.ca/0001

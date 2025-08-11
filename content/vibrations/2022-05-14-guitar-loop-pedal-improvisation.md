@@ -2,7 +2,7 @@
 date: 2022-05-14T08:42:17Z
 duration: 4:22
 headline: guitar loop pedal improvisation
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-05-14T08:42:17Z
 link: https://strolling.rosano.ca/0043

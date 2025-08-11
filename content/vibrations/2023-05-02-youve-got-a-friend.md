@@ -4,7 +4,7 @@ duration: 4:43
 features: with lyrics
 author: James Taylor
 around: 2023-05-02T12:00:00Z
-thumb: true
+hasThumb: true
 isPublished: true
 youtube: nYCo6w9lJTs
 subject: You've got a friend

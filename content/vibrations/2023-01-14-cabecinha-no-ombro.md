@@ -6,7 +6,7 @@ around: 2023-01-14T12:13:59Z
 link: https://rosano.ca/seeds
 youtube: _IUhK_CekmI
 subject: cabecinha no ombro
-thumb: true
+hasThumb: true
 isPublished: true
 slug: lcvwu4pk
 ---

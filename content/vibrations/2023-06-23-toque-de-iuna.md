@@ -4,7 +4,7 @@ duration: 4:43
 twitter_id: 1672253313427939328
 mastodon_id: 110594048532236396
 bluesky_id: 3jytnzuoet725
-thumb: true
+hasThumb: true
 isPublished: true
 youtube: 2rtd9aMk0mQ
 subject: Toque de Iúna

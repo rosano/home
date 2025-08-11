@@ -7,7 +7,7 @@ bluesky_id: 3lcfarueqwk2c
 mastodon_id: 113588015371013713
 twitter_id: 1863867070858838077
 isPublished: true
-thumb: true
+hasThumb: true
 youtube: fRZUy2n5Xt0
 subject: toque de Amazonas
 slug: m4879q4m

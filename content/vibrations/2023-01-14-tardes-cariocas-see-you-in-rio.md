@@ -6,7 +6,7 @@ around: 2023-01-14T12:11:33Z
 link: https://rosano.ca/seeds
 youtube: fZGwCPJYr70
 subject: tardes cariocas / see you in rio
-thumb: true
+hasThumb: true
 isPublished: true
 slug: lcvwr020
 ---

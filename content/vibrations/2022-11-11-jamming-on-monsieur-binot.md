@@ -2,7 +2,7 @@
 date: 2022-11-11T08:29:23Z
 duration: 1:23
 headline: jamming on Monsieur Binot
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-11-11T08:29:23Z
 link: https://kaixiyang.com

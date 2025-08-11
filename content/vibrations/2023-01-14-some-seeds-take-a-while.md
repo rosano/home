@@ -1,7 +1,7 @@
 ---
 date: 2023-01-14T13:20:06Z
 duration: 0:17
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2023-01-14T13:20:06Z
 link: https://rosano.ca/seeds

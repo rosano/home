@@ -1,7 +1,7 @@
 ---
 date: 2023-07-04T15:31:11Z
 duration: 2:35
-thumb: true
+hasThumb: true
 isPublished: true
 youtube: fe5JeGCcGjs
 subject: hello there old friend…

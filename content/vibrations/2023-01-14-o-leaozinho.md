@@ -7,7 +7,7 @@ link: https://rosano.ca/seeds
 youtube: mfeOLwrTrjs
 subject: o leãozinho
 headline: o leaozinho
-thumb: true
+hasThumb: true
 isPublished: true
 slug: lcvvueg0
 ---

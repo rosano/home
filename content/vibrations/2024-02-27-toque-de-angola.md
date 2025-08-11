@@ -6,7 +6,7 @@ twitter_id: 1672253313427939328
 mastodon_id: 112004917269877252
 bluesky_id: 3kmg7oautw32g
 isPublished: true
-thumb: true
+hasThumb: true
 youtube: LIxBVqliwKU
 subject: toque de Angola
 slug: lt4p0rpx

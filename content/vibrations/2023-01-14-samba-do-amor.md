@@ -6,7 +6,7 @@ around: 2023-01-14T11:59:40Z
 link: https://rosano.ca/seeds
 youtube: Z-mhfpVhcqg
 subject: samba do amor
-thumb: true
+hasThumb: true
 isPublished: true
 slug: lcvwbpwg
 ---

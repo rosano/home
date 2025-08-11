@@ -1,7 +1,7 @@
 ---
 date: 2022-10-12T21:31:34Z
 duration: 3:35
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-10-12T21:31:34Z
 youtube: 8ow-i6RYq2M

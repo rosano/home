@@ -2,7 +2,7 @@
 date: 2022-02-08T12:00:00Z
 duration: 1:23
 headline: everything is spiritual
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-02-08T12:00:00Z
 link: https://strolling.rosano.ca/0002

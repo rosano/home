@@ -1,7 +1,7 @@
 ---
 date: 2022-12-29T23:14:00Z
 duration: 1:12
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-12-29T23:14:00Z
 youtube: alMt94DxNgE

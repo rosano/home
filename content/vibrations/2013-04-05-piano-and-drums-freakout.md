@@ -1,7 +1,7 @@
 ---
 date: 2013-04-05T05:14:03.000Z
 duration: 48:48
-thumb: true
+hasThumb: true
 isPublished: true
 headline: piano and drums freakout
 around: 2012-11-01T12:00:00Z

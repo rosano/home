@@ -1,7 +1,7 @@
 ---
 date: 2023-10-25T17:03:20Z
 duration: 1:17
-thumb: true
+hasThumb: true
 isPublished: true
 youtube: CzJ4Slp0PYE
 subject: music performance and perfection

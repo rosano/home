@@ -6,7 +6,7 @@ around: 2023-01-14T12:10:13Z
 link: https://rosano.ca/seeds
 youtube: 97Al7uBx_E8
 subject: bayen habeit
-thumb: true
+hasThumb: true
 isPublished: true
 slug: lcvwpabs
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2023-01-04T23:20:00Z
 duration: 6:04
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2023-01-04T23:20:00Z
 youtube: xusbyqJ2xJA

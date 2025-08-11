@@ -3,7 +3,7 @@ date: 2021-07-15T12:00:01Z
 duration: 4:45
 headline: Misterios
 author: Milton Nascimento
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2021-07-15T12:00:01Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend

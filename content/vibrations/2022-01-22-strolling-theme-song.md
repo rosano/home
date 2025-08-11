@@ -2,7 +2,7 @@
 date: 2022-01-22T12:00:00Z
 duration: 0:58
 headline: Strolling Theme Song
-thumb: true
+hasThumb: true
 isPublished: true
 around: 2022-01-22T12:00:00Z
 link: https://strolling.rosano.ca/0000
