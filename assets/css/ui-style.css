@@ -196,7 +196,7 @@ footer small > * {
 @media (max-width: 450px) {
 	
 	.video-preview a {
-		width: 125px;
+		width: 80px;
 		height: 125px;
 	}
 
