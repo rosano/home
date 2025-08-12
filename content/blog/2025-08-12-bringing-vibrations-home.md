@@ -45,6 +45,6 @@ One last detail is that I've mixed these with log entries to see them in a riche
 
 My inner librarian really gets excited by this sort of thing. I love information density, organizing things a certain way, and the potential to fill in more details as time goes on; I would like this site to become a very precise opinion about how that should be.
 
-I might also mention that this is powered by [Hugo](https://gohugo.io), which seems to always have an elegant place for things to rest.
+Might be worth mentioning that this is powered by [Hugo](https://gohugo.io), which seems to always have an elegant place for things to rest; I described some of the features I used on [their forum](https://discourse.gohugo.io/t/music-vlog-powered-by-hugo/55632).
 
 It feels cool to see so many parts of fragmented systems coming together. With search engines becoming increasingly hostile toward finding things, these approaches remind me of older internetting ways: links that don't break, having multiple ways to access things, openly accessibly without ads, and maybe owning more of your data.
