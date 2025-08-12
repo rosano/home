@@ -3,6 +3,11 @@ date: 2025-08-12T10:54:26.665Z
 slug: bringing-vibrations-home
 title: bringing vibrations home
 summary: What's the psychological impact of no platform, no ads, and no random obfuscation of my work?
+twitter_id: 1955259928571974074
+mastodon_id: 115016027089736724
+bluesky_id: 3lw7g7pbvjk2c
+threads_id: DNQbIBhtwt1
+facebook_id: 10234739855551569
 ---
 I'm starting a process to collect my online publishing across various platforms into one 'home'.
 
