@@ -335,3 +335,19 @@ body.vibrations {
 .timeline .embed iframe {
 	max-height: 200px;
 }
+
+/* blog */
+
+.blog-list ul {
+	padding-left: 0;
+	list-style: none;
+}
+
+.blog-list li {
+	display: flex;
+	gap: var(--spacing);
+}
+
+.blog-list li time {
+	flex-shrink: 0;
+}

@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="blog-list">
+{{ range .Pages.ByDate.Reverse.GroupByDate "January 2006" "desc" }}
+	<h3 class="sticky-heading">{{ .Key }}</h3>
+
+	<ul>
+	{{ range .Pages }}
+		<li>
+			<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "Jan 02" -}}</time>
+			<div>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+				{{ if .Summary }}
+					<br>
+					<span>{{ .Summary }}</span>
+				{{ end }}
+			</div>
+		</li>
+	{{ end }}
+	</ul>
+{{ end }}	
+</div>
+
+{{ end }}
