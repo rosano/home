@@ -75,6 +75,32 @@
 {{ end }}
 </span>
 
+{{ if (and .Params.around (not $isList)) }}
+	{{ $around := time .Params.around }}
+	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "time" "le" $around)) 0 }}
+	<small>
+		Recorded 
+
+		<!-- PLACE -->
+		{{ range $key, $val := .Site.Taxonomies.place }}
+			{{ if eq .Page.LinkTitle $departure.place }}
+				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
+			{{ end }}
+		{{ end}}
+
+		<!-- COUNTRY -->
+		{{ range $key, $val := .Site.Taxonomies.country }}
+			{{ if eq .Page.LinkTitle $departure.country }}
+				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
+			{{- end -}}
+		{{- end -}}
+
+		<!-- TIMESTAMP -->
+		{{ $t := $around | time.In $departure.timezone }}
+		around <time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{- $t.Format "Jan 2006" -}}</time></a>.
+	</small>
+{{ end }}
+
 <!-- IMPROVE -->
 {{ if (and (not $isList) (not $isRSS)) -}}
 <hr>
