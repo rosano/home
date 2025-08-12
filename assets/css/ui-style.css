@@ -24,6 +24,10 @@ a:hover {
 	color: #c00;
 }
 
+header a {
+	border: unset;
+}
+
 header h2 {
 	display: flex;
 	align-items: center;
@@ -78,6 +82,10 @@ hr {
 		padding: 15px;
 	}
 
+}
+
+.post a, footer a, .ROCOGazette a {
+	border-bottom: 1px rgba(0, 0, 0, 0.2) dotted;
 }
 
 .post.notification {
