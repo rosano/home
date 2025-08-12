@@ -4,7 +4,6 @@ duration: 3:22
 author: Joyce Moreno
 hasThumb: true
 isPublished: true
-around: 2021-07-15T12:00:02Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube: W6RP8QcjNjU
 subject: Monsieur Binot

@@ -4,7 +4,6 @@ duration: 1:23
 headline: jamming on Monsieur Binot
 hasThumb: true
 isPublished: true
-around: 2022-11-11T08:29:23Z
 link: https://kaixiyang.com
 facebook: 1236802083858123
 youtube: 5KNB-V2T9lg

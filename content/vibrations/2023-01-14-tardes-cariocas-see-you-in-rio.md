@@ -2,7 +2,6 @@
 date: 2023-01-14T12:11:33Z
 duration: 2:56
 author: joyce moreno
-around: 2023-01-14T12:11:33Z
 link: https://rosano.ca/seeds
 youtube: fZGwCPJYr70
 subject: tardes cariocas / see you in rio

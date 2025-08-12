@@ -2,7 +2,6 @@
 date: 2023-01-14T11:46:12Z
 duration: 1:32
 author: caetano veloso
-around: 2023-01-14T11:46:12Z
 link: https://rosano.ca/seeds
 youtube: mfeOLwrTrjs
 subject: o leãozinho

@@ -4,7 +4,6 @@ duration: 1:23
 headline: everything is spiritual
 hasThumb: true
 isPublished: true
-around: 2022-02-08T12:00:00Z
 link: https://strolling.rosano.ca/0002
 youtube: mhWBvufyvFQ
 subject: "Strolling Sketches 0002: everything is spiritual"

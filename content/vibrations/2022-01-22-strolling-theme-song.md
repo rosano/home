@@ -4,7 +4,6 @@ duration: 0:58
 headline: Strolling Theme Song
 hasThumb: true
 isPublished: true
-around: 2022-01-22T12:00:00Z
 link: https://strolling.rosano.ca/0000
 youtube: k-wTsipUQRk
 subject: "Strolling Sketches 0000: my piano salad"

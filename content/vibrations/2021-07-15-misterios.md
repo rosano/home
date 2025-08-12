@@ -5,7 +5,6 @@ headline: Misterios
 author: Milton Nascimento
 hasThumb: true
 isPublished: true
-around: 2021-07-15T12:00:01Z
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube: 7DDjSDCJHsU
 subject: Mistérios

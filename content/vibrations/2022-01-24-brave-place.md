@@ -4,7 +4,6 @@ duration: 1:05
 headline: brave place
 hasThumb: true
 isPublished: true
-around: 2022-01-24T12:00:00Z
 link: https://strolling.rosano.ca/0001
 youtube: jk5rWRprTAI
 subject: "Strolling Sketches 0001: brave place"

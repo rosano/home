@@ -3,7 +3,6 @@ date: 2023-05-02T12:00:00Z
 duration: 4:43
 features: with lyrics
 author: James Taylor
-around: 2023-05-02T12:00:00Z
 hasThumb: true
 isPublished: true
 youtube: nYCo6w9lJTs
