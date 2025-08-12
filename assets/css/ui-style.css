@@ -106,10 +106,13 @@ hr {
 	margin-top: 0;
 }
 
+.post .embed {
+	margin-bottom: var(--spacing);
+}
+
 .post .embed iframe {
 	border-radius: 3px;
 
-	margin-bottom: var(--spacing);
 }
 
 .post blockquote {
