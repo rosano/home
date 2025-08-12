@@ -3,7 +3,7 @@ date: 2019-08-01T12:00:00.000Z
 duration: 1:15
 hasThumb: true
 isPublished: true
-youtube: MjFbJ5nzMuA
+youtube_id: MjFbJ5nzMuA
 subject: heater jams
 slug: jysmn400
 ---

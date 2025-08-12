@@ -4,7 +4,7 @@ around: 2023-05-01T12:00:00.000Z
 duration: 2:46
 hasThumb: true
 isPublished: true
-youtube: cEgkAa3OFy4
+youtube_id: cEgkAa3OFy4
 subject: Um Só Lugar
 slug: lmyypy5m
 ---

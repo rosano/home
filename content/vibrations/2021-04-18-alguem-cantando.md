@@ -4,7 +4,7 @@ duration: 1:34
 hasThumb: true
 isPublished: true
 author: caetano veloso
-youtube: vPLO6soeal0
+youtube_id: vPLO6soeal0
 subject: alguem cantando
 slug: knn4adc0
 ---

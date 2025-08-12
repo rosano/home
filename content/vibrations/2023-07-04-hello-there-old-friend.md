@@ -4,7 +4,7 @@ around: 2023-06-10T12:00:00.000Z
 duration: 2:35
 hasThumb: true
 isPublished: true
-youtube: fe5JeGCcGjs
+youtube_id: fe5JeGCcGjs
 subject: hello there old friend…
 slug: ljofhbow
 ---

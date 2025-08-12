@@ -3,7 +3,7 @@ date: 2023-01-04T23:20:00Z
 duration: 6:04
 hasThumb: true
 isPublished: true
-youtube: xusbyqJ2xJA
+youtube_id: xusbyqJ2xJA
 subject: modes and pedal exercise
 slug: lcia845c
 ---

@@ -5,7 +5,7 @@ author: Joyce Moreno
 hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
-youtube: W6RP8QcjNjU
+youtube_id: W6RP8QcjNjU
 subject: Monsieur Binot
 slug: la3o9p08
 ---

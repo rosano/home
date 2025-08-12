@@ -6,7 +6,7 @@ isPublished: true
 headline: piano and drums freakout
 around: 2012-11-01T12:00:00.000Z
 link: https://archive.rosano.ca/tagged/opus%200%3A%20Pr%C3%A9lude/chrono
-youtube: EqxYE_pQHZ8
+youtube_id: EqxYE_pQHZ8
 subject: opus 0, no. 1
 slug: h8zto5c0
 ---

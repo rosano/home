@@ -4,7 +4,7 @@ duration: 3:23
 hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
-youtube: fYOrrzkXbdQ
+youtube_id: fYOrrzkXbdQ
 subject: intro guitar improvisation
 slug: kr4ncuao
 ---

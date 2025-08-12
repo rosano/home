@@ -1,7 +1,7 @@
 ---
 date: 2023-06-04T07:09:49Z
 duration: 3:12
-youtube: CwejprBUwlk
+youtube_id: CwejprBUwlk
 hasThumb: true
 isPublished: true
 subject: song for my teddy bear

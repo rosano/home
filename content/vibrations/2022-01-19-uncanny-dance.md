@@ -5,7 +5,7 @@ headline: uncanny dance
 hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0001
-youtube: 9vWOL-dsBfM
+youtube_id: 9vWOL-dsBfM
 subject: "Strolling Sketches 0001: uncanny dance"
 slug: lc1yn248
 ---

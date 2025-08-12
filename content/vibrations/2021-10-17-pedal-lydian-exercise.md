@@ -3,7 +3,7 @@ date: 2021-10-17T21:19:42Z
 duration: 2:25
 hasThumb: true
 isPublished: true
-youtube: -axyCKh6mrE
+youtube_id: -axyCKh6mrE
 subject: pedal lydian exercise
 slug: kuvqf6pc
 ---

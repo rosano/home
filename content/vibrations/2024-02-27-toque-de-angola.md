@@ -8,7 +8,7 @@ mastodon_id: 112004917269877252
 bluesky_id: 3kmg7oautw32g
 isPublished: true
 hasThumb: true
-youtube: LIxBVqliwKU
+youtube_id: LIxBVqliwKU
 subject: toque de Angola
 slug: lt4p0rpx
 ---

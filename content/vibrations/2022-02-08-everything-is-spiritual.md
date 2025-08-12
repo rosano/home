@@ -5,7 +5,7 @@ headline: everything is spiritual
 hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0002
-youtube: mhWBvufyvFQ
+youtube_id: mhWBvufyvFQ
 subject: "Strolling Sketches 0002: everything is spiritual"
 slug: lc1yrd7k
 ---

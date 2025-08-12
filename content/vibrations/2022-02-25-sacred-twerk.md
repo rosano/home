@@ -5,7 +5,7 @@ headline: sacred twerk
 hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0003
-youtube: lZzmGr0hpuk
+youtube_id: lZzmGr0hpuk
 subject: "Strolling Sketches 0003: sacred twerk"
 slug: lc1z0gdc
 ---

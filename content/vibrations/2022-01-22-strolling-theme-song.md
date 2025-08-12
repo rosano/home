@@ -5,7 +5,7 @@ headline: Strolling Theme Song
 hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0000
-youtube: k-wTsipUQRk
+youtube_id: k-wTsipUQRk
 subject: "Strolling Sketches 0000: my piano salad"
 slug: lc1yc988
 ---

@@ -3,7 +3,7 @@ date: 2022-10-12T21:31:34Z
 duration: 3:35
 hasThumb: true
 isPublished: true
-youtube: 8ow-i6RYq2M
+youtube_id: 8ow-i6RYq2M
 subject: capoeira de besouro
 slug: l965d434
 ---

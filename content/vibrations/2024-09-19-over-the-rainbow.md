@@ -8,7 +8,7 @@ bluesky_id: 3l4ijwzqt7d2y
 twitter_id: 1836670537679950311
 isPublished: true
 hasThumb: true
-youtube: RevGogovWQo
+youtube_id: RevGogovWQo
 subject: over the rainbow
 slug: m18yg9y7
 ---

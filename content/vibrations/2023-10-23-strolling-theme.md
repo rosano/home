@@ -4,7 +4,7 @@ around: 2023-06-10T12:00:00.000Z
 duration: 0:47
 hasThumb: true
 isPublished: true
-youtube: 7_FoXiSvdtk
+youtube_id: 7_FoXiSvdtk
 subject: strolling theme
 slug: lo365jtf
 ---

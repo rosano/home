@@ -6,7 +6,7 @@ author: Milton Nascimento
 hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
-youtube: 7DDjSDCJHsU
+youtube_id: 7DDjSDCJHsU
 subject: Mistérios
 slug: la3o5tcg
 ---

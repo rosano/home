@@ -9,7 +9,7 @@ mastodon_id: 113413568005548060
 bluesky_id: 3l7xrsa5crm2x
 isPublished: true
 hasThumb: true
-youtube: lw7OwuG_D4g
+youtube_id: lw7OwuG_D4g
 subject: prelude & fugue no. 5 in d major
 slug: m305fu7c
 ---

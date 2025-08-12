@@ -10,7 +10,7 @@ tiktok_id: 7426289374775627013
 hasThumb: true
 author: caetano veloso
 link: https://rosano.ca/seeds
-youtube: h3b5Sxa47s0
+youtube_id: h3b5Sxa47s0
 isPublished: true
 subject: trem das cores
 slug: lcvwxuyw

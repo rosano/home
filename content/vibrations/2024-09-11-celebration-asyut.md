@@ -9,7 +9,7 @@ mastodon_id: 113117850278722573
 twitter_id: 1833776705497887163
 isPublished: true
 hasThumb: true
-youtube: -4gTEdwqTKE
+youtube_id: -4gTEdwqTKE
 subject: celebration, Asyut
 slug: m0xk1sk1
 ---

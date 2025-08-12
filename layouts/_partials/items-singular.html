@@ -5,7 +5,7 @@
 
 {{ $dataLink := "" }}
 {{ if .Params.link }}{{ $dataLink = .Params.link }}{{ end }}
-{{ if .Params.youtube }}{{ $dataLink = print "https://youtu.be/" .Params.youtube }}{{ end }}
+{{ if .Params.youtube_id }}{{ $dataLink = print "https://youtu.be/" .Params.youtube_id }}{{ end }}
 
 {{ if not $isRSS -}}
 	{{ with $dataLink }}

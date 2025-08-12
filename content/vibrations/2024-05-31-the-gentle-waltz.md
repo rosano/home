@@ -5,7 +5,7 @@ duration: 1:53
 facebook: 981540679832951
 isPublished: true
 hasThumb: true
-youtube: ojubacLPywk
+youtube_id: ojubacLPywk
 subject: the gentle waltz
 slug: lwud7rr9
 ---

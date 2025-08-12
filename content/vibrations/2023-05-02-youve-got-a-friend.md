@@ -5,7 +5,7 @@ features: with lyrics
 author: James Taylor
 hasThumb: true
 isPublished: true
-youtube: nYCo6w9lJTs
+youtube_id: nYCo6w9lJTs
 subject: You've got a friend
 slug: lhk4nrrh
 ---

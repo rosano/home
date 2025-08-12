@@ -4,7 +4,7 @@ around: 2023-05-01T12:00:00.000Z
 duration: 1:17
 hasThumb: true
 isPublished: true
-youtube: CzJ4Slp0PYE
+youtube_id: CzJ4Slp0PYE
 subject: music performance and perfection
 slug: lo5zuiqa
 ---

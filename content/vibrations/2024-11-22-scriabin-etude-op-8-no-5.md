@@ -5,7 +5,7 @@ duration: 2:51
 isPublished: true
 hasThumb: true
 headline: scriabin etude op. 8 no. 5
-youtube: MG9gaCjSK6k
+youtube_id: MG9gaCjSK6k
 subject: "\"etude op. 8 no. 5\" by alexander scriabin"
 slug: m3sj7h9a
 ---
