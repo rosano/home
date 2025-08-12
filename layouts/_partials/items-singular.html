@@ -39,7 +39,7 @@
 		<!-- PLACE -->
 		{{ range $key, $val := .Site.Taxonomies.place }}
 			{{ if eq .Page.LinkTitle $departure.place }}
-				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
+				<span>from <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
