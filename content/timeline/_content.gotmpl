@@ -5,7 +5,7 @@
 
 {{ .Site.Store.Set "kDepartures" $departures }}
 
-{{ range $dir := (slice "journal" "content/vibrations") }}
+{{ range $dir := (slice "journal" "content/vibrations" "content/blog") }}
   {{ range readDir $dir }}
     {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
       {{ $raw := readFile (path.Join $dir .Name) }}
