@@ -84,6 +84,12 @@ hr {
 
 }
 
+.post img {
+	max-width: 90%;
+
+	border: 2px solid #e6e6e6;
+}
+
 .post a, footer a, .ROCOGazette a {
 	border-bottom: 1px rgba(0, 0, 0, 0.2) dotted;
 }
@@ -116,6 +122,14 @@ hr {
 
 .post .title {
 	margin-top: 0;
+}
+
+.post .nugget {
+	display: block;
+	border: 1px solid #777;
+	padding: 8px;
+	background: #eee;
+	border-left: 8px solid #777;
 }
 
 .post blockquote {
