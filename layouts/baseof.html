@@ -28,6 +28,8 @@
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
 
+<script src="https://olsk.rosano.ca/OLSKBanner/master/main.js"></script>
+
 {{- partial "media-embeds.html" . -}}
 
 </head>

@@ -162,7 +162,10 @@ footer {
 	position: sticky;
 	bottom: 0;
 
-	z-index: 2;
+	/* compensate for OLSKBanner */
+	padding-bottom: 50px;
+
+	z-index: 1;
 
 	background: var(--background);
 	background: linear-gradient(0deg, var(--background) 90%, rgba(255,255,255,0) 100%); 
