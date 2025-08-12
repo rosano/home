@@ -32,7 +32,7 @@
 
 </head>
 
-<body class="{{ $section }}">
+<body class="{{ $section }} {{ cond (eq .Kind "page") "single" "" }}">
 
 <header>
 	<h2>

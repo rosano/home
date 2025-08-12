@@ -207,6 +207,24 @@ footer small > * {
 	justify-content: space-between;
 }
 
+footer .video-preview a {
+	width: 80px;
+	height: 125px;
+}
+
+footer .title-strip {
+	display: none;
+}
+
+footer .video-list {
+	justify-content: space-between;
+}
+
+.single footer {
+	position: unset;
+	padding-bottom: 10px;
+}
+
 @media (max-width: 450px) {
 	
 	.video-preview a {

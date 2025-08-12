@@ -1,0 +1,11 @@
+{{ $pages := .CurrentSection.Pages.ByWeight }}
+
+<div class="video-list">
+  {{ with $pages.Prev . }}
+    {{ partial "video-preview" . }}
+  {{ end }}
+
+  {{ with $pages.Next . }}
+    {{ partial "video-preview" . }}
+  {{ end }}
+</div>
