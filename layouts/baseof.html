@@ -17,7 +17,7 @@
 {{ end }}
 {{ .Scratch.Delete "kIsHeadTitle" }}
 
-{{ .Scratch.Set "kIsTimeline" (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) }}
+{{ $section := cond (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) "timeline" .Section }}
 
 <link rel="alternate" type="application/rss+xml" href="https://utopia.rosano.ca/feed" title="Updates">
 
@@ -32,23 +32,23 @@
 
 </head>
 
-<body class="{{ cond (.Scratch.Get "kIsTimeline") "timeline" .Section }}">
+<body class="{{ $section }}">
 
 <header>
 	<h2>
 		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 		{{ if (and (not .IsHome) (ne .Kind "404")) }} / 
-			{{ $section := .Site.GetPage "section" .Section }}
+			{{ $sectionPage := .Site.GetPage "section" .Section }}
 
-			{{ if (.Scratch.Get "kIsTimeline") }}
+			{{ if eq $section "timeline" }}
 				{{ range .Site.Sections }}
 					{{ if eq .Page.Title "Journal" }}
-						{{ $section = .Page }}
+						{{ $sectionPage = .Page }}
 					{{ end }}
 				{{ end }}
 			{{ end }}
 			
-			<a href="{{ with $section }}{{ .Permalink }}{{ end }}">{{ with $section }}{{ .Title }}{{ end }}</a>
+			<a href="{{ with $sectionPage }}{{ .Permalink }}{{ end }}">{{ with $sectionPage }}{{ .Title }}{{ end }}</a>
 		{{- end }}
 	</h2>
 </header>
@@ -58,12 +58,10 @@
 <footer>
 {{ .Render "footer" }}
 
-{{ if (.Scratch.Get "kIsTimeline") }}
+{{ if eq $section "timeline" }}
 	{{- partial "timeline-footer.html" . -}}
 {{ end }}
 </footer>
-
-{{ .Scratch.Delete "kIsTimeline" }}
 
 </body>
 </html>
