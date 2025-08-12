@@ -16,7 +16,7 @@
       {{ $date := time $params.date }}
 
       {{ $first := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
-      {{ $date = ($date | time.In $first.zone) }}
+      {{ $date = ($date | time.In $first.timezone) }}
 
       {{ $params = merge $params (dict
         "place" (slice $first.place)
@@ -32,7 +32,7 @@
         {{ $params = merge $params (dict
           "isContent" "true"
           "originalSection" (index (split $dir "/") 1)
-          "timezone" $first.zone
+          "timezone" $first.timezone
         ) }}
       {{ end }}
 

@@ -29,7 +29,7 @@
 
 	<small>
 		<!-- TIMESTAMP -->
-		{{ $t := .Date | time.In $travel.zone }}
+		{{ $t := .Date | time.In $travel.timezone }}
 		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
