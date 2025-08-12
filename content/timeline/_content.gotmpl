@@ -32,6 +32,7 @@
         {{ $params = merge $params (dict
           "isContent" "true"
           "originalSection" (index (split $dir "/") 1)
+          "timezone" $first.zone
         ) }}
       {{ end }}
 

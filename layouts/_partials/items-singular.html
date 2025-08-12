@@ -25,16 +25,16 @@
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
 <span class="metadata">
+	{{ $travel := index (last 1 (where (.Site.Store.Get "kTravelHydrated") "date" "le" .Date)) 0 }}
+
 	<small>
 		<!-- TIMESTAMP -->
-		{{ $t := .Date }}
+		{{ $t := .Date | time.In $travel.zone }}
 		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
 			{{- $t.Format "Jan 02 2006, 15h04" -}}
 		{{- end }}</time></a>
-
-		{{ $travel := index (last 1 (where (.Site.Store.Get "kTravelHydrated") "date" "le" .Date)) 0 }}
 
 		<!-- PLACE -->
 		{{ range $key, $val := .Site.Taxonomies.place }}
