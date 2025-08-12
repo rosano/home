@@ -52,4 +52,4 @@ My inner librarian really gets excited by this sort of thing. I love information
 
 Might be worth mentioning that this is powered by [Hugo](https://gohugo.io), which seems to always have an elegant place for things to rest; I described some of the features I used on [their forum](https://discourse.gohugo.io/t/music-vlog-powered-by-hugo/55632).
 
-It feels cool to see so many parts of fragmented systems coming together. With search engines becoming increasingly hostile toward finding things, these approaches remind me of older internetting ways: links that don't break, having multiple ways to access things, openly accessibly without ads, and maybe owning more of your data.
+It feels cool to see so many parts of fragmented systems coming together. With search engines becoming increasingly hostile toward finding things, these approaches remind me of older internetting ways: links that don't break, having multiple ways to discover things, openly accessibly without ads, and maybe owning more of your data.
