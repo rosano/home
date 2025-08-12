@@ -5,7 +5,7 @@ duration: 2:35
 hasThumb: true
 isPublished: true
 youtube_id: fe5JeGCcGjs
-subject: hello there old friend…
+title: hello there old friend…
 slug: ljofhbow
 ---
 i tried playing some prokofiev after a long piano hiatus.

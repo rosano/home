@@ -6,7 +6,7 @@ hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: W6RP8QcjNjU
-subject: Monsieur Binot
+title: Monsieur Binot
 slug: la3o9p08
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

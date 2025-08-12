@@ -4,7 +4,7 @@ duration: 0:20
 hasThumb: true
 isPublished: true
 youtube_id: -SI2ODsJIKA
-subject: sometimes the chair sounds nice
+title: sometimes the chair sounds nice
 slug: lfj74s1t
 ---
 i'll make a beat with anything

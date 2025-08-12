@@ -7,7 +7,7 @@ isPublished: true
 link: https://kaixiyang.com
 facebook: 1236802083858123
 youtube_id: 5KNB-V2T9lg
-subject: jamming on Monsieur Binot (with Kaixi Yang)
+title: jamming on Monsieur Binot (with Kaixi Yang)
 slug: lac8mrw8
 ---
 music should be fun… https://kaixiyang.com

@@ -4,7 +4,7 @@ duration: 2:01
 author: paulo borges
 link: https://rosano.ca/seeds
 youtube_id: _IUhK_CekmI
-subject: cabecinha no ombro
+title: cabecinha no ombro
 hasThumb: true
 isPublished: true
 slug: lcvwu4pk

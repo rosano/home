@@ -8,7 +8,7 @@ archive:
  youtube: 59jqm41Og50
 author: tom jobim
 link: https://rosano.ca/seeds
-subject: correnteza
+title: correnteza
 slug: lcvww6s8
 ---
 I fell asleep smiling, dreaming of our love

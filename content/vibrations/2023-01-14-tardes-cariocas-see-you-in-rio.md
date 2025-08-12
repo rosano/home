@@ -4,7 +4,7 @@ duration: 2:56
 author: joyce moreno
 link: https://rosano.ca/seeds
 youtube_id: fZGwCPJYr70
-subject: tardes cariocas / see you in rio
+title: tardes cariocas / see you in rio
 hasThumb: true
 isPublished: true
 slug: lcvwr020

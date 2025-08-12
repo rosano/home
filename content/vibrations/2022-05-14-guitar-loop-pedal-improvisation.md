@@ -6,7 +6,7 @@ hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0043
 youtube_id: YBa1piiWkBU
-subject: guitar loop pedal improvisation (with Travis Broussard)
+title: guitar loop pedal improvisation (with Travis Broussard)
 slug: l35me6g8
 ---
 https://strolling.rosano.ca/0043

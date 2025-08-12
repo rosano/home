@@ -12,7 +12,7 @@ author: caetano veloso
 link: https://rosano.ca/seeds
 youtube_id: h3b5Sxa47s0
 isPublished: true
-subject: trem das cores
+title: trem das cores
 slug: lcvwxuyw
 ---
 those eyes, light like honey of a colour unequaled

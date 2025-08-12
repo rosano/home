@@ -6,7 +6,7 @@ facebook: 3934483136780305
 isPublished: true
 hasThumb: true
 youtube_id: ynJ3QQ1fqWc
-subject: toque de São Bento Grande de Angola
+title: toque de São Bento Grande de Angola
 slug: m07ri1jg
 ---
 "The scale of justice

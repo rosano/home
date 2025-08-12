@@ -6,7 +6,7 @@ hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0003
 youtube_id: FFt5eAOaBPQ
-subject: "Strolling Sketches 0003: original instrument"
+title: "Strolling Sketches 0003: original instrument"
 slug: lc1ywnso
 ---
 https://strolling.rosano.ca/0003

@@ -5,7 +5,7 @@ hasThumb: true
 isPublished: true
 link: https://rosano.ca/seeds
 youtube_id: 8S3ZnxwRRQY
-subject: some seeds take a while
+title: some seeds take a while
 slug: lcvz75o0
 ---
 more: https://rosano.ca/seeds

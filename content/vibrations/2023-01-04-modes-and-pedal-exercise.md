@@ -4,7 +4,7 @@ duration: 6:04
 hasThumb: true
 isPublished: true
 youtube_id: xusbyqJ2xJA
-subject: modes and pedal exercise
+title: modes and pedal exercise
 slug: lcia845c
 ---
 maintaining the root note helps hear the colour of each mode

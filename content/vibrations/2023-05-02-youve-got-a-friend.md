@@ -6,7 +6,7 @@ author: James Taylor
 hasThumb: true
 isPublished: true
 youtube_id: nYCo6w9lJTs
-subject: You've got a friend
+title: You've got a friend
 slug: lhk4nrrh
 ---
 this song is a beautiful and timeless message, reflects what i try to embody in friendship. sharing my musical take ❤️☀️✨

@@ -4,7 +4,7 @@ duration: 1:32
 author: caetano veloso
 link: https://rosano.ca/seeds
 youtube_id: mfeOLwrTrjs
-subject: o leãozinho
+title: o leãozinho
 headline: o leaozinho
 hasThumb: true
 isPublished: true

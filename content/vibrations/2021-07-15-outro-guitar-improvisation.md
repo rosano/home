@@ -5,7 +5,7 @@ hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: 8nFWPFJKeqo
-subject: outro guitar improvisation
+title: outro guitar improvisation
 slug: kr4obkao
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

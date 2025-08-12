@@ -9,7 +9,7 @@ bluesky_id: 3kmg7oautw32g
 isPublished: true
 hasThumb: true
 youtube_id: LIxBVqliwKU
-subject: toque de Angola
+title: toque de Angola
 slug: lt4p0rpx
 ---
 "I don't want your money

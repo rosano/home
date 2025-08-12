@@ -5,7 +5,7 @@ duration: 2:46
 hasThumb: true
 isPublished: true
 youtube_id: cEgkAa3OFy4
-subject: Um Só Lugar
+title: Um Só Lugar
 slug: lmyypy5m
 ---
 Nós dois somos um só lugar

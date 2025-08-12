@@ -5,7 +5,7 @@ duration: 1:17
 hasThumb: true
 isPublished: true
 youtube_id: CzJ4Slp0PYE
-subject: music performance and perfection
+title: music performance and perfection
 slug: lo5zuiqa
 ---
 > [Sharing and enjoyment become a source of truth and foundation on which you do everything.]

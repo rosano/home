@@ -5,7 +5,7 @@ hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: fYOrrzkXbdQ
-subject: intro guitar improvisation
+title: intro guitar improvisation
 slug: kr4ncuao
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

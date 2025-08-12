@@ -4,7 +4,7 @@ duration: 2:30
 author: amr diab
 link: https://rosano.ca/seeds
 youtube_id: 97Al7uBx_E8
-subject: bayen habeit
+title: bayen habeit
 hasThumb: true
 isPublished: true
 slug: lcvwpabs

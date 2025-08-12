@@ -4,7 +4,7 @@ duration: 2:14
 author: paulinho da viola
 link: https://rosano.ca/seeds
 youtube_id: Z-mhfpVhcqg
-subject: samba do amor
+title: samba do amor
 hasThumb: true
 isPublished: true
 slug: lcvwbpwg

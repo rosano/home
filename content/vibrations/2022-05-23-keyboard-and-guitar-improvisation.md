@@ -5,7 +5,7 @@ headline: keyboard and guitar improvisation
 hasThumb: true
 isPublished: true
 youtube_id: ipQIPfJ4K60
-subject: keyboard and guitar improvisation (with Travis Broussard)
+title: keyboard and guitar improvisation (with Travis Broussard)
 slug: l3iy8rhc
 ---
 

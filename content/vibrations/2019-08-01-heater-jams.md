@@ -4,7 +4,7 @@ duration: 1:15
 hasThumb: true
 isPublished: true
 youtube_id: MjFbJ5nzMuA
-subject: heater jams
+title: heater jams
 slug: jysmn400
 ---
 i'll make a beat with anything

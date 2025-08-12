@@ -4,7 +4,7 @@ duration: 0:18
 hasThumb: true
 isPublished: true
 youtube_id: 1VBD5enJN0k
-subject: ricola cough drops
+title: ricola cough drops
 slug: ktlgc5c0
 ---
 i'll make a beat with anything

@@ -4,7 +4,7 @@ duration: 1:12
 hasThumb: true
 isPublished: true
 youtube_id: alMt94DxNgE
-subject: guitar improvisation
+title: guitar improvisation
 slug: lc9pdadc
 ---
 

@@ -7,7 +7,7 @@ hasThumb: true
 isPublished: true
 link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: 7DDjSDCJHsU
-subject: Mistérios
+title: Mistérios
 slug: la3o5tcg
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

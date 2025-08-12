@@ -4,6 +4,6 @@ duration: 2:25
 hasThumb: true
 isPublished: true
 youtube_id: -axyCKh6mrE
-subject: pedal lydian exercise
+title: pedal lydian exercise
 slug: kuvqf6pc
 ---

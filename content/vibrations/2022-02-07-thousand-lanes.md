@@ -6,7 +6,7 @@ hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0002
 youtube_id: gWh2C5gZ62o
-subject: "Strolling Sketches 0002: thousand lanes"
+title: "Strolling Sketches 0002: thousand lanes"
 slug: lc1yphb4
 ---
 https://strolling.rosano.ca/0002

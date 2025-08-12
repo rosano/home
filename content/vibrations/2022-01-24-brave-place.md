@@ -6,7 +6,7 @@ hasThumb: true
 isPublished: true
 link: https://strolling.rosano.ca/0001
 youtube_id: jk5rWRprTAI
-subject: "Strolling Sketches 0001: brave place"
+title: "Strolling Sketches 0001: brave place"
 slug: lc1ykbco
 ---
 https://strolling.rosano.ca/0001

@@ -5,7 +5,7 @@ hasThumb: true
 isPublished: true
 author: caetano veloso
 youtube_id: vPLO6soeal0
-subject: alguem cantando
+title: alguem cantando
 slug: knn4adc0
 ---
 Alguém cantando longe daqui

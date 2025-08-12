@@ -15,5 +15,5 @@
 {{ else if eq .Section "timeline" }}
 	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
 {{- else }}
-	{{- or .Title .Params.subject -}}
+	{{- or .Title -}}
 {{ end -}}
