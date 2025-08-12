@@ -1,6 +1,6 @@
 ---
 date: 2025-08-12T10:54:26.665Z
-slug: me8fb4is
+slug: bringing-vibrations-home
 title: bringing vibrations home
 summary: What's the psychological impact of no platform, no ads, and no random obfuscation of my work?
 ---
@@ -19,27 +19,27 @@ By contrast:
 2. videos are ordered based on my actual chronology,
 3. and some even show the [recording date](https://rosano.ca/vibrations/m305fu7c).
 
-![example of recording date metadata](https://static.rosano.ca/blog/me8fb4is/recording.jpg)
+![example of recording date metadata](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/recording.jpg)
 
 It's crazy to perceive the psychological impact of no platform, no ads, and no random obfuscation of my work: I can browse and experience in peace.
 
-![scrolling one page](https://static.rosano.ca/blog/me8fb4is/one-page.gif)
+![scrolling one page](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/one-page.gif)
 
 # metadata details
 
 One thing I find cool is how I can derive the local time and place of any post with [my travel data](https://github.com/rosano/home/blob/master/assets/departures.csv).
 
-![CSV data of travel departures](https://static.rosano.ca/blog/me8fb4is/departures.jpg)
+![CSV data of travel departures](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/departures.jpg)
 
 Every page also has a "Source" link to view the original file (like the one for [this post](https://github.com/rosano/home/edit/master/content/blog/2025-08-12-bringing-vibrations-home.md)). A reader can easily correct something, or add tags if it makes sense.
 
 And the there are [direct social media links](http://rosano.ca/vibrations/m4879q4m/) saved from crossposting with [n8n](https://n8n.io) or manually.
 
-![direct links to a post on various social media platforms](https://static.rosano.ca/blog/me8fb4is/syndications.jpg)
+![direct links to a post on various social media platforms](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/syndications.jpg)
 
 One last detail is that I've mixed these with log entries to see them in a richer time context; see [2024](https://rosano.ca/log/2024) for an example of how this mixes together.
 
-![log entries mixed with links to published work](https://static.rosano.ca/blog/me8fb4is/notifications.jpg)
+![log entries mixed with links to published work](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/notifications.jpg)
 
 # vibes
 
