@@ -23,7 +23,7 @@ By contrast:
 
 It's crazy to perceive the psychological impact of no platform, no ads, and no random obfuscation of my work: I can browse and experience in peace.
 
-![scrolling one page](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/one-page.gif)
+![scrolling all my music on one page](https://static.rosano.ca/blog/2025-08-12-bringing-vibrations-home/one-page.gif)
 
 # metadata details
 
