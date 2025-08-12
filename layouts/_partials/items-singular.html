@@ -110,6 +110,58 @@
 	<span>
 		<a href="https://github.com/rosano/home/edit/master{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
 	</span>
+	{{ $syndications := slice
+		(dict
+			"key" "youtube_id"
+			"title" "YouTube"
+			"prefix" "https://youtu.be/")
+		(dict
+			"key" "mastodon_id"
+			"title" "Mastodon"
+			"prefix" "https://mastodon.online/@rosano/")
+		(dict
+			"key" "twitter_id"
+			"title" "Twitter"
+			"prefix" "xxx")
+		(dict
+			"key" "bluesky_id"
+			"title" "Bluesky"
+			"prefix" "https://bsky.app/profile/rosano.ca/post/")
+		(dict
+			"key" "twitter_id"
+			"title" "Twitter"
+			"prefix" "https://twitter.com/rosano/status/")
+		(dict
+			"key" "facebook_id"
+			"title" "Facebook"
+			"prefix" "https://facebook.com/")
+		(dict
+			"key" "nostr_id"
+			"title" "Nostr"
+			"prefix" "https://njump.me/")
+		(dict
+			"key" "threads_id"
+			"title" "Threads"
+			"prefix" "https://www.threads.net/@rosano/post/")
+	}}
+
+	{{ $params := .Params }}
+	{{ $existing := slice }}
+
+	{{ range $syndications }}
+		{{ if index $params (index . "key") }}
+			{{ $existing = $existing | append . }}
+		{{ end }}
+	{{ end }}
+
+	{{ if len $existing }}
+		<span>
+			Also on 
+			{{ range $existing }}
+				<a href="{{ index . "prefix" }}{{ index $params (index . "key") }}">{{ index . "title" }}</a>				
+			{{ end }}
+		</span>
+	{{ end }}
 </small>
 {{- end }}
 
