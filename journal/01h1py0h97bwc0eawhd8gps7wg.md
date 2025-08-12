@@ -1,9 +1,9 @@
 ---
 date: 2023-05-30T18:16:34.343Z
 categories: ["talk"]
-link: https://podcasters.spotify.com/pod/show/iwillteachyoualanguage/episodes/412---How-can-you-read-when-youre-still-a-beginner-e14og0h
+link: https://www.youtube.com/watch?v=_yTkRtLTbzQ
 ---
-[How can you read when you're still a beginner?](https://podcasters.spotify.com/pod/show/iwillteachyoualanguage/episodes/412---How-can-you-read-when-youre-still-a-beginner-e14og0h)
+[How can you read when you're still a beginner?](https://www.youtube.com/watch?v=_yTkRtLTbzQ)
 
 > [Whether you need X, Y, Z, A, B, I've got something for you.]
 
