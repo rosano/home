@@ -47,8 +47,8 @@
 		{{ range $key, $val := .Site.Taxonomies.country }}
 			{{ if eq .Page.LinkTitle $travel.country }}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
-			{{- end }}
-		{{ end}}
+			{{- end -}}
+		{{- end -}}
 
 		<!-- TAGS -->
 		{{- with .GetTerms "tags" -}}
