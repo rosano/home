@@ -1,10 +1,10 @@
 <div class="post notification">
 
 {{ $slug := .Params.slug }}
-{{ $permalink := "" }}
+{{ $page := "" }}
 {{ with .Site.GetPage "section" .Params.originalSection }}
 	{{ range where .Pages "Params.slug" $slug }}
-		{{ $permalink = .Permalink }}
+		{{ $page = . }}
 	{{ end }}
 {{ end }}
 
@@ -12,7 +12,7 @@
 	{{ $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" }}
 
 	{{ if not $hideTime }}
-		<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
+		<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $page.Permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
 	{{ end }}
 	<span>Published</span>
 	<span> to </span>
@@ -23,6 +23,6 @@
 
 <br>
 
-<p><a href="{{ $permalink }}">{{ .Title }}</a></p>
+<p><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></p>
 
 </div>
