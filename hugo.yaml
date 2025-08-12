@@ -24,9 +24,11 @@ permalinks:
   page:
     vibrations: /vibrations/:slug/
     timeline: /log/:slugorcontentbasename/
+    blog: /blog/:slug/
   section:
     vibrations: /vibrations/
     timeline: /log/
+    blog: /blog/
   term:
     categories: /log/type/:slug/
     tags: /log/tag/:slug/
