@@ -1,5 +1,8 @@
 ---
 date: 2024-01-21T04:14:42.861Z
+twitter_id: 1749445157517160528
+mastodon_id: 111800169557338665
+bluesky_id: 3kjlbyx2lek2a
 tags: ["idea","digital"]
 categories: ["thought"]
 ---

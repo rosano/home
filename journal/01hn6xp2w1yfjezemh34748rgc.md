@@ -1,5 +1,8 @@
 ---
 date: 2024-01-28T02:16:57.473Z
+twitter_id: 1751582191522332844
+mastodon_id: 111833562005071617
+bluesky_id: 3kk24jtgtef2o
 categories: ["article","project"]
 tags: ["digital","wellness","idea"]
 link: https://jon.bo/posts/new-tab/

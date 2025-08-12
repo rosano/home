@@ -1,5 +1,8 @@
 ---
 date: 2024-02-28T04:04:02.982Z
+twitter_id: 1762826771760664720
+mastodon_id: 112009257476448651
+bluesky_id: 3kmi5d2hr432e
 link: https://github.com/subconsciousnetwork/subtext/blob/main/archive/explorations/hashtags.md
 categories: ["article"]
 ---

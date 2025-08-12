@@ -1,5 +1,9 @@
 ---
 date: 2025-08-06T23:28:40.462Z
+twitter_id: 1953372550727086237
+mastodon_id: 114986562801075001
+bluesky_id: 3lvsdbdhis72q
+nostr_id: note1padvsw8zptsdmvqq5326drplakdwlvvj7fhuatuqf68dy84xq5gqfqdyg3
 categories: ["thought"]
 ---
 grouping these together:
