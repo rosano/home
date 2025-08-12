@@ -25,11 +25,11 @@
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
 <span class="metadata">
-	{{ $travel := index (last 1 (where (.Site.Store.Get "kTravelHydrated") "date" "le" .Date)) 0 }}
+	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "date" "le" .Date)) 0 }}
 
 	<small>
 		<!-- TIMESTAMP -->
-		{{ $t := .Date | time.In $travel.timezone }}
+		{{ $t := .Date | time.In $departure.timezone }}
 		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
@@ -38,14 +38,14 @@
 
 		<!-- PLACE -->
 		{{ range $key, $val := .Site.Taxonomies.place }}
-			{{ if eq .Page.LinkTitle $travel.place }}
+			{{ if eq .Page.LinkTitle $departure.place }}
 				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
 		<!-- COUNTRY -->
 		{{ range $key, $val := .Site.Taxonomies.country }}
-			{{ if eq .Page.LinkTitle $travel.country }}
+			{{ if eq .Page.LinkTitle $departure.country }}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
 		{{- end -}}

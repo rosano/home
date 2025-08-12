@@ -1,10 +1,10 @@
-{{ $travel := resources.Get "travel.csv" | transform.Unmarshal (dict "targetType" "map") }}
+{{ $departures := resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
 {{ $hydrated := slice }}
-{{ range $travel }}
+{{ range $departures }}
   {{ $hydrated = $hydrated | append (merge . (dict "date" (time .date))) }}
 {{ end }}
 
-{{ .Site.Store.Set "kTravelHydrated" $hydrated }}
+{{ .Site.Store.Set "kDepartures" $hydrated }}
 
 {{ range $dir := (slice "journal" "content/vibrations") }}
   {{ range readDir $dir }}
@@ -15,12 +15,12 @@
       {{ $params := unmarshal (index $parts 1) }}
       {{ $date := time $params.date }}
 
-      {{ $first := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
-      {{ $date = ($date | time.In $first.timezone) }}
+      {{ $departure := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
+      {{ $date = ($date | time.In $departure.timezone) }}
 
       {{ $params = merge $params (dict
-        "place" (slice $first.place)
-        "country" (slice $first.country)
+        "place" (slice $departure.place)
+        "country" (slice $departure.country)
       ) }}
       {{ $params = merge $params (dict
         "browse_year" ($params.date | time.Format "2006")
@@ -32,7 +32,7 @@
         {{ $params = merge $params (dict
           "isContent" "true"
           "originalSection" (index (split $dir "/") 1)
-          "timezone" $first.timezone
+          "timezone" $departure.timezone
         ) }}
       {{ end }}
 
