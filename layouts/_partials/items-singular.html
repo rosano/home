@@ -38,10 +38,11 @@
 	<small>
 		<!-- TIMESTAMP -->
 		{{ $t := .Date | time.In $departure.timezone }}
-		<a aria-label="Permalink for {{ $t | time.Format ":time_short" }}, {{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
+		{{ $hideTime := eq (substr (.Date.Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" }}
+		<a aria-label="Permalink for {{ cond $hideTime "" (print ($t | time.Format ":time_short") ", ") }}{{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
-			{{- $t.Format "Jan 02 2006, 15h04" -}}
+			{{- $t.Format (print "Jan 02 2006" (cond $hideTime "" ", 15h04")) -}}
 		{{- end }}</time></a>
 
 		<!-- PLACE -->
