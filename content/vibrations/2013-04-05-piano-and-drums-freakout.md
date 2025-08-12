@@ -4,7 +4,7 @@ duration: 48:48
 hasThumb: true
 isPublished: true
 headline: piano and drums freakout
-around: 2012-11-01T12:00:00Z
+around: 2012-11-01T12:00:00.000Z
 link: https://archive.rosano.ca/tagged/opus%200%3A%20Pr%C3%A9lude/chrono
 youtube: EqxYE_pQHZ8
 subject: opus 0, no. 1

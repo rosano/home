@@ -5,7 +5,7 @@ youtube: CwejprBUwlk
 hasThumb: true
 isPublished: true
 subject: song for my teddy bear
-around: 2023-05-01T12:00:00Z
+around: 2023-05-01T12:00:00.000Z
 slug: lih2yl7p
 ---
 

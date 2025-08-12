@@ -1,5 +1,5 @@
 ---
-date: 2022-02-08T12:00:00Z
+date: 2022-02-08T12:00:00.000Z
 duration: 1:23
 headline: everything is spiritual
 hasThumb: true

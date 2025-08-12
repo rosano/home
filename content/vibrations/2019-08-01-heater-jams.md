@@ -1,5 +1,5 @@
 ---
-date: 2019-08-01T12:00:00Z
+date: 2019-08-01T12:00:00.000Z
 duration: 1:15
 hasThumb: true
 isPublished: true
