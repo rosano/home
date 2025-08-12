@@ -11,6 +11,9 @@ slug: lhk4nrrh
 ---
 this song is a beautiful and timeless message, reflects what i try to embody in friendship. sharing my musical take ❤️☀️✨
 
+reply to [my dad's](https://www.youtube.com/watch?v=r5mcFWGpAG0)
+
+---
 When you′re down and troubled
 And you need a helping hand
 And nothing, oh, nothing is going right
