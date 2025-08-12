@@ -9,7 +9,11 @@
 {{ end }}
 
 <small>
-	<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
+	{{ $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" }}
+
+	{{ if not $hideTime }}
+		<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
+	{{ end }}
 	<span>Published</span>
 	<span> to </span>
 	{{ with .Site.GetPage "section" .Params.originalSection }}
