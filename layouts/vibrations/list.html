@@ -1,7 +1,8 @@
 {{ define "main" }}
 
+<div>
 {{ range .Pages.ByDate.Reverse.GroupByDate "January 2006" "desc" }}
-	<h3>{{ .Key }}</h3>
+	<h3 class="sticky-heading">{{ .Key }}</h3>
 
 	<div class="video-list">
 		{{ range .Pages }}
@@ -9,5 +10,6 @@
 		{{ end }}
 	</div>
 {{ end }}	
+</div>
 
 {{ end }}

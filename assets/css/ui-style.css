@@ -35,7 +35,7 @@ hr {
 	opacity: 0.3;
 }
 
-.day {
+.sticky-heading {
 	padding: var(--spacing) 0;
 	
 	position: sticky;
@@ -46,7 +46,7 @@ hr {
 	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%); 
 }
 
-.day a {
+.sticky-heading a {
 	opacity: .7;
 }
 
