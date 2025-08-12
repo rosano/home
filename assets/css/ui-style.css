@@ -112,7 +112,10 @@ hr {
 
 .post .embed iframe {
 	border-radius: 3px;
+}
 
+.post .title {
+	margin-top: 0;
 }
 
 .post blockquote {

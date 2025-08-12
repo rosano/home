@@ -13,6 +13,11 @@
 	{{ end }}
 {{- end }}
 
+<!-- TITLE -->
+{{- if .Title -}}
+	<h3 class=".title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+{{- end -}}
+
 <!-- CONTENT -->
 {{ if $isList -}}<div>{{- else -}}<article>{{- end }}
 {{ .Content }}
