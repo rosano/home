@@ -1,4 +1,4 @@
-date,place,country,timezone
+time,place,country,timezone
 2000-01-01T05:00:00.000Z,Toronto,Canada,America/Toronto
 2009-07-13T22:00:00.000Z,Venice,Italy,Europe/Rome
 2009-07-17T07:00:00.000Z,Rome,Italy,Europe/Rome

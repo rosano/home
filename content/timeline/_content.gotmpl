@@ -1,10 +1,9 @@
-{{ $departures := resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
-{{ $hydrated := slice }}
-{{ range $departures }}
-  {{ $hydrated = $hydrated | append (merge . (dict "date" (time .date))) }}
+{{ $departures := slice }}
+{{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
+  {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
 {{ end }}
 
-{{ .Site.Store.Set "kDepartures" $hydrated }}
+{{ .Site.Store.Set "kDepartures" $departures }}
 
 {{ range $dir := (slice "journal" "content/vibrations") }}
   {{ range readDir $dir }}
@@ -15,7 +14,7 @@
       {{ $params := unmarshal (index $parts 1) }}
       {{ $date := time $params.date }}
 
-      {{ $departure := index (last 1 (where $hydrated "date" "le" $date)) 0 }}
+      {{ $departure := index (last 1 (where $departures "time" "le" $date)) 0 }}
       {{ $date = ($date | time.In $departure.timezone) }}
 
       {{ $params = merge $params (dict

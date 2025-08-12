@@ -25,7 +25,7 @@
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
 <span class="metadata">
-	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "date" "le" .Date)) 0 }}
+	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "time" "le" .Date)) 0 }}
 
 	<small>
 		<!-- TIMESTAMP -->
