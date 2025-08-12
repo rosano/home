@@ -18,6 +18,11 @@
 	<h3 class=".title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 {{- end -}}
 
+<!-- NUGGET -->
+{{- if .Summary -}}
+	<p class="nugget">{{ .Summary }}</p>
+{{- end -}}
+
 <!-- CONTENT -->
 {{ if $isList -}}<div>{{- else -}}<article>{{- end }}
 {{ .Content }}
