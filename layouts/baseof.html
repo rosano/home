@@ -21,12 +21,9 @@
 
 <link rel="alternate" type="application/rss+xml" href="https://utopia.rosano.ca/feed" title="Updates">
 
-
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") | resources.Concat "css/bundle.css" | css.Sass $options }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
-
-
 
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
