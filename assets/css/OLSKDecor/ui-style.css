@@ -52,10 +52,6 @@
   --OLSKStickyHeaderTop: 0;
 }
 
-html, body {
-  height: 100vh;
-}
-
 body {
   background: var(--OLSKDecorBackgroundDeep);
 }
