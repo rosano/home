@@ -10,8 +10,8 @@ author: tom jobim
 link: https://rosano.ca/seeds
 title: correnteza
 slug: lcvww6s8
+summary: "\"I fell asleep smiling, dreaming of our love\""
 ---
-I fell asleep smiling, dreaming of our love
 
 https://rosano.ca/seeds
 

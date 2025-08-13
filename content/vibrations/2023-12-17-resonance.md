@@ -7,5 +7,5 @@ hasThumb: true
 youtube_id: s0notRbTxjA
 title: resonance
 slug: lq9blk88
+summary: finding reverberations
 ---
-finding reverberations

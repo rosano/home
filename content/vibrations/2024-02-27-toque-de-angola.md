@@ -11,12 +11,8 @@ hasThumb: true
 youtube_id: LIxBVqliwKU
 title: toque de Angola
 slug: lt4p0rpx
+summary: "\"I don't want your money<br>nor the good you possess<br>just a companion<br>who does justice\""
 ---
-"I don't want your money
-Nor the good you possess
-Just a companion
-Who does justice"
-
 camará, vem jogar de Angola
 camará, no terreiro grande
 camará, minha grande escola

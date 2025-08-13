@@ -8,7 +8,6 @@ hasThumb: true
 youtube_id: ynJ3QQ1fqWc
 title: toque de São Bento Grande de Angola
 slug: m07ri1jg
+summary: "\"The scale of justice<br>Never weighs what it should\""
 ---
-"The scale of justice
-Never weighs what it should"
 

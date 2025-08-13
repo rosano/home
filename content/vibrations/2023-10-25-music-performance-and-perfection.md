@@ -7,7 +7,6 @@ isPublished: true
 youtube_id: CzJ4Slp0PYE
 title: music performance and perfection
 slug: lo5zuiqa
+summary: Sharing and enjoyment become a source of truth and foundation on which you do everything.
 ---
-> [Sharing and enjoyment become a source of truth and foundation on which you do everything.]
-
 notes to myself that perhaps i wish i heard years prior

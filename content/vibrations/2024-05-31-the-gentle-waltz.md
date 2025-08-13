@@ -8,5 +8,6 @@ hasThumb: true
 youtube_id: ojubacLPywk
 title: the gentle waltz
 slug: lwud7rr9
+summary: Experimenting with visual guides for piano music.
 ---
-experimenting with visual guides for piano music, hoping to help the ears hear in more detail. i used to play this when i was younger and revisited it last year.
+hoping to help the ears hear in more detail. i used to play this when i was younger and revisited it last year.
