@@ -20,7 +20,7 @@
 
 <!-- NUGGET -->
 {{- if .Params.Summary -}}
-	<p class="nugget">{{ .Summary }}</p>
+	<div class="nugget">{{ .Summary | markdownify | safeHTML }}</div>
 {{- end -}}
 
 <!-- CONTENT -->

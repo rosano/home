@@ -1,3 +1,8 @@
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 baseURL: https://home.rosano.ca/
 title: Rosano
 params:
