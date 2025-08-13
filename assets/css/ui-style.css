@@ -301,6 +301,14 @@ footer .video-list {
 	font-weight: bold;
 }
 
+@media (max-width: 450px) {
+	
+	.video-preview a {
+		font-size: 50%;
+	}
+
+}
+
 .duration-strip {
 	text-align: right;
 	padding: 8px;
