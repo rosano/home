@@ -4,8 +4,10 @@ document.addEventListener('DOMContentLoaded', function() {
 		const link = e.getAttribute('data-link');
 		const endpoint = OLSKEmbed.OLSKEmbedEndpointURL(link);
 
+		const cancel = () => e.remove();
+
 		if (!endpoint) {
-			return;
+			return cancel();
 		}
 
 		const metadata = {};
@@ -29,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		}, undefined);
 
 		if (!embed) {
-			return;
+			return cancel();
 		}
 
 		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] || metadata.OLSKEmbedHeight }" src="${ embed }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
