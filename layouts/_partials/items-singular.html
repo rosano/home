@@ -118,7 +118,7 @@
 
 <small class="metadata">
 	<span>
-		<a href="https://github.com/rosano/home/edit/master{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
+		<a href="{{ .Site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
 	</span>
 	{{ $syndications := slice
 		(dict

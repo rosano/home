@@ -1,6 +1,9 @@
 baseURL: https://home.rosano.ca/
-languageCode: en-ca
 title: Rosano
+params:
+  sourcePrefix: https://github.com/rosano/home/edit/master
+
+languageCode: en-ca
 canonifyURLs: true
 titleCaseStyle: none
 
