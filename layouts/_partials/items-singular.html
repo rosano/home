@@ -56,14 +56,14 @@
 		{{- end }}</time></a>
 
 		<!-- PLACE -->
-		{{ range $key, $val := .Site.Taxonomies.place }}
+		{{ range .Site.Taxonomies.place }}
 			{{ if eq .Page.LinkTitle $departure.place }}
 				<span>from <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
 		<!-- COUNTRY -->
-		{{ range $key, $val := .Site.Taxonomies.country }}
+		{{ range .Site.Taxonomies.country }}
 			{{ if eq .Page.LinkTitle $departure.country }}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
@@ -93,14 +93,14 @@
 		Recorded 
 
 		<!-- PLACE -->
-		{{ range $key, $val := .Site.Taxonomies.place }}
+		{{ range .Site.Taxonomies.place }}
 			{{ if eq .Page.LinkTitle $departure.place }}
 				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
 		<!-- COUNTRY -->
-		{{ range $key, $val := .Site.Taxonomies.country }}
+		{{ range .Site.Taxonomies.country }}
 			{{ if eq .Page.LinkTitle $departure.country }}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
