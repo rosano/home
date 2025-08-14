@@ -31,7 +31,7 @@
 
 {{ .Scratch.Set "rss-pages" $pages }}
 
-{{ if not (in (.Site.Params.disabledRSSTaxonomies | default slice) .Section) }}
+{{ if not (in (.Site.Params.disabledRSSSections | default slice) .Section) }}
 {{ block "main" . }}{{ end }}
 {{ end }}
 
