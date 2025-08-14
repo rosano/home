@@ -2,6 +2,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+      hardWraps: true
 
 baseURL: https://home.rosano.ca/
 title: Rosano
