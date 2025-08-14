@@ -33,11 +33,11 @@
 
 {{ if $index }}<hr />{{ end }}
 
-{{ .Scratch.Set "kScope" "kScopeList" }}
+{{ .Scratch.Set "kScopeList" "true" }}
 {{ .Scratch.Set "kScopeRSS" "true" }}
 {{- partial "items-singular.html" . -}}
 {{ .Scratch.Delete "kScopeRSS" }}
-{{ .Scratch.Delete "kScope" }}
+{{ .Scratch.Delete "kScopeList" }}
 
 {{ end }}
 {{- printf "]]>" | safeHTML }}</content:encoded>
