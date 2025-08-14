@@ -24,16 +24,16 @@
 {{ $pageContext := cond .IsHome .Site . }}
 {{ $pages := cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages }}
 
-{{- $limit := .Site.Config.Services.RSS.Limit }}
-{{- if not .IsHome }}
-  {{- if ge $limit 1 }}
-    {{- $pages = $pages | first $limit }}
-  {{- end }}
+{{ $limit := .Site.Config.Services.RSS.Limit }}
+{{ if ge $limit 1 }}
+  {{ $pages = $pages | first $limit }}
 {{ end }}
 
 {{ .Scratch.Set "rss-pages" $pages }}
 
-{{- block "main" . }}{{- end }}
+{{ if not (in (.Site.Params.disabledRSSTaxonomies | default slice) .Section) }}
+{{ block "main" . }}{{ end }}
+{{ end }}
 
 </channel>
 

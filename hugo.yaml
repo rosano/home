@@ -7,6 +7,10 @@ baseURL: https://home.rosano.ca/
 title: Rosano
 params:
   sourcePrefix: https://github.com/rosano/home/edit/master
+  disabledRSSTaxonomies:
+    - browse_year
+    - browse_month
+    - browse_day
 
 languageCode: en-ca
 canonifyURLs: true
