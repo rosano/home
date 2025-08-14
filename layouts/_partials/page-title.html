@@ -1,7 +1,5 @@
 {{- if (eq .Kind "term") -}}
-	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }}
-		{{ .Pages.Len }}
-	{{ end }} {{ cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries" }} {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for")) }}
+	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }} {{ .Pages.Len }} {{ end }}{{ cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries" }} {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for")) }}
 {{ end }}
 
 {{- if (and (eq .Kind "term") (eq .Data.Singular "browse_day")) }}
