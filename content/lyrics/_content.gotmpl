@@ -21,7 +21,7 @@
         "title" $title
         "params" $params
         "kind" "page"
-        "path" (print (index (split $filename ".") 0) "-" "n" (printf "%02d" $i))
+        "path" (print (index $params "slug") "/" "n" (printf "%02d" $i))
       }}
       {{ $.AddPage $page }}
     {{ end }}

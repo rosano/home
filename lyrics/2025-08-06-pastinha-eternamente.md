@@ -1,5 +1,6 @@
 ---
 collection: pastinha eternamente
+slug: pastinha-eternamente
 topic:
   - capoeira
 ---

@@ -56,7 +56,7 @@ permalinks:
     browse_year: /log/:2006/
     browse_month: /log/:2006/:01/
     browse_day: /log/:2006/:01/:02/
-    collection: /lyrics/collection/:slug/
+    collection: /lyrics/:slug/
     topic: /lyrics/topic/:slug/
 
 services:

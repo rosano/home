@@ -1,5 +1,6 @@
 ---
 collection: capoeira songs uk
+slug: capoeira-songs-uk
 topic:
   - capoeira
 ---
