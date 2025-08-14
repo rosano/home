@@ -14,9 +14,9 @@
 		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScopeList" "true" }}
 			{{ if .Params.isContent }}
-				{{ partial "items-singular-notification.html" . }}
+				{{ partial "shared-single-notification.html" . }}
 			{{ else }}
-				{{ partial "items-singular.html" . }}
+				{{ partial "shared-single.html" . }}
 			{{ end }}
 			{{ .Scratch.Delete "kScopeList" }}
 		{{ end }}
