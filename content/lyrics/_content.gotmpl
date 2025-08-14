@@ -11,19 +11,34 @@
 
       {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
       {{ $title := lower (substr $titleMatch 2) }}
+      {{ $content = index (split $content $titleMatch) 1 }}
 
       {{ $params = merge $params (dict
         "filename" $filename
       ) }}
 
+      {{ $headingMatch := (index (findRE `\n(#.+)` $content) 0) }}
+      
+      {{ if $headingMatch }}
+        {{ $heading := lower (substr $headingMatch 1) }}
+        {{ $parts := split $content $headingMatch }}
+        {{ $extra := strings.TrimSpace (print $headingMatch (index $parts 1)) }}
+        {{ $content = index $parts 0 }}
+        
+        {{ $params = merge $params (dict
+          "extra" (replace $extra "# " "#### ")
+        ) }}
+      {{ end }}
+
       {{ $page := dict
-        "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace (index (split $content $titleMatch) 1)))
+        "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace $content))
         "title" $title
         "params" $params
         "kind" "page"
         "weight" (math.Sum $i 1)
         "path" (print (index $params "slug") "/" "n" (printf "%02d" $i))
       }}
+
       {{ $.AddPage $page }}
     {{ end }}
   {{ end }}

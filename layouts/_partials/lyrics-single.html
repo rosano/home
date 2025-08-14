@@ -10,6 +10,11 @@
 {{- .Content -}}
 </blockquote>
 
+<!-- EXTRA -->
+{{ if .Params.extra }}
+	{{- .Params.extra | markdownify | safeHTML -}}
+{{ end }}
+
 {{ if not (.Scratch.Get "kScopeList")  }}
 	<!-- COLLECTION -->
 	{{- range (.GetTerms "collection") -}}
