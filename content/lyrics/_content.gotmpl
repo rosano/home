@@ -12,6 +12,10 @@
       {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
       {{ $title := lower (substr $titleMatch 2) }}
 
+      {{ $params = merge $params (dict
+        "filename" $filename
+      ) }}
+
       {{ $page := dict
         "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace (index (split $content $titleMatch) 1)))
         "title" $title
