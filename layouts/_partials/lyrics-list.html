@@ -1,0 +1,5 @@
+{{ range .Pages }}
+	{{ .Scratch.Set "kScopeList" "true" }}
+	{{ partial "lyrics-single.html" . }}
+	{{ .Scratch.Delete "kScopeList" }}
+{{ end }}

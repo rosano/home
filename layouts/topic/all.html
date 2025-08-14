@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<h1>{{- partial "page-title" . -}}</h1>
+
+{{ range .Pages.GroupByParam "collection" }}
+	{{ $k := .Key }}
+
+	<h3 class="sticky-heading">
+		{{ range $.Site.Taxonomies.collection }}
+			{{ if eq .Page.LinkTitle $k }}
+				<a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
+			{{ end }}
+		{{ end}}
+	</h3>
+
+	{{ partial "lyrics-list" . }}
+{{ end }}	
+
+{{ end }}

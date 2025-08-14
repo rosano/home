@@ -1,0 +1,69 @@
+---
+collection: capoeira songs uk
+topic:
+  - capoeira
+---
+
+# MEU CAZUA
+
+meu cazua tem varanda
+varanda pra vadiar
+
+ê varanda boa
+varanda pra vadiar
+
+---
+
+# O, LELE
+
+Luanda e meu boi
+Luanda e para
+oi tereza canta sentada
+oi idalina samba de pe
+oi la no cais da bahia
+na roda de capoeira
+nao tem lele, nao tem
+nada
+nao tem lele, nem lala
+
+Oi lêlê
+Oi lae lae la
+Oi lêlê
+Oi laê laê la
+Oi lêlê
+Oi lae lae la
+Oi lêlê
+
+---
+
+# UM DIA É DO CAÇADOR, OUTRO DIA DA CAÇÁ
+
+aê, aê aê aê
+aá, aá aá aá
+um dia é do caçador
+outro dia da caçá
+
+aê caçador
+aê caçá
+um dia é do caçador
+outro dia da caçá
+
+jacarê debaixo da agua
+esperando pra pegar
+mas a caça foi ligeira
+saiu de salto mortal
+
+uma cobra ficou brava
+sem saber o que fazer
+perde o bote com sagui
+ele ginga pra valer
+
+o macaco inteligente
+pula no galho sem quebrar
+a cobra veneno ja não
+consegue lhe pegar
+
+passarinho é bem livre
+pode ele até voar
+mas a sua liberdade
+está mesmo no cantá

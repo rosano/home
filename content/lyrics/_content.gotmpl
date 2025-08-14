@@ -1,0 +1,29 @@
+{{ $dir := "lyrics" }}
+{{ range readDir $dir }}
+  {{ $filename := .Name }}
+  {{ if not (in (slice "." "_") (substr $filename 0 1)) }}
+    {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
+    
+    {{ $params := unmarshal (index $parts 1) }}
+
+    {{ range $i, $v := after 2 $parts }}
+      {{ $content := strings.TrimSpace $v }}
+
+      {{ $params = merge $params (dict
+        "weight" $i
+      ) }}
+
+      {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
+      {{ $title := lower (substr $titleMatch 2) }}
+
+      {{ $page := dict
+        "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace (index (split $content $titleMatch) 1)))
+        "title" $title
+        "params" $params
+        "kind" "page"
+        "path" (print (index (split $filename ".") 0) "-" "n" (printf "%02d" $i))
+      }}
+      {{ $.AddPage $page }}
+    {{ end }}
+  {{ end }}
+{{ end }}

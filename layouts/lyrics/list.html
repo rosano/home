@@ -1,0 +1,11 @@
+{{ define "main" }}
+
+<h1>topics</h1>
+
+<ul>
+	{{ range .Site.Taxonomies.topic }}
+		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+	{{ end}}
+</ul>
+
+{{ end }}

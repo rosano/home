@@ -12,6 +12,9 @@ params:
     - browse_year
     - browse_month
     - browse_day
+    - lyrics
+    - collection
+    - topic
 
 languageCode: en-ca
 canonifyURLs: true
@@ -29,6 +32,8 @@ taxonomies:
   browse_year: browse_year
   browse_month: browse_month
   browse_day: browse_day
+  collection: collection
+  topic: topic
 
 disableKinds:
 - taxonomy
@@ -51,6 +56,8 @@ permalinks:
     browse_year: /log/:2006/
     browse_month: /log/:2006/:01/
     browse_day: /log/:2006/:01/:02/
+    collection: /lyrics/collection/:slug/
+    topic: /lyrics/topic/:slug/
 
 services:
   rss:
