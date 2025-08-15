@@ -1,11 +1,16 @@
 {{ define "main" }}
 
-<h1>topics</h1>
-
+<h3>topics</h3>
 <ul>
-	{{ range .Site.Taxonomies.topic }}
+	{{ range $.Site.Taxonomies.topic }}
 		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
 	{{ end}}
 </ul>
 
+<h3>collections</h3>
+<ul>
+	{{ range $.Site.Taxonomies.collection }}
+		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+	{{ end}}
+</ul>
 {{ end }}
