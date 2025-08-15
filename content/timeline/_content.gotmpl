@@ -7,42 +7,44 @@
 
 {{ range $dir := (slice "journal" "content/vibrations" "content/blog") }}
   {{ range readDir $dir }}
-    {{ if not (in (slice "." "_") (substr .Name 0 1)) }}
-      {{ $raw := readFile (path.Join $dir .Name) }}
-      {{ $parts := split $raw "---" }}
-      
-      {{ $params := unmarshal (index $parts 1) }}
-      {{ $date := time $params.date }}
-
-      {{ $departure := index (last 1 (where $departures "time" "le" $date)) 0 }}
-      {{ $date = ($date | time.In $departure.timezone) }}
-
-      {{ $params = merge $params (dict
-        "place" (slice $departure.place)
-        "country" (slice $departure.country)
-      ) }}
-      {{ $params = merge $params (dict
-        "browse_year" ($params.date | time.Format "2006")
-        "browse_month" ($params.date | time.Format "2006/01")
-        "browse_day" ($params.date | time.Format "2006/01/02")
-      ) }}
-
-      {{ if strings.Contains $dir "content" }}
-        {{ $params = merge $params (dict
-          "isContent" "true"
-          "originalSection" (index (split $dir "/") 1)
-          "timezone" $departure.timezone
-        ) }}
-      {{ end }}
-
-      {{ $page := dict
-        "content" (dict "mediaType" "text/markdown" "value" (delimit (after 2 $parts) "---"))
-        "dates" (dict "date" $date)
-        "params" $params
-        "kind" "page"
-        "path" (index (split .Name ".") 0)
-      }}
-      {{ $.AddPage $page }}
+    {{ if in (slice "." "_") (substr .Name 0 1) }}
+      {{ continue }}
     {{ end }}
+
+    {{ $raw := readFile (path.Join $dir .Name) }}
+    {{ $parts := split $raw "---" }}
+    
+    {{ $params := unmarshal (index $parts 1) }}
+    {{ $date := time $params.date }}
+
+    {{ $departure := index (last 1 (where $departures "time" "le" $date)) 0 }}
+    {{ $date = ($date | time.In $departure.timezone) }}
+
+    {{ $params = merge $params (dict
+      "place" (slice $departure.place)
+      "country" (slice $departure.country)
+    ) }}
+    {{ $params = merge $params (dict
+      "browse_year" ($params.date | time.Format "2006")
+      "browse_month" ($params.date | time.Format "2006/01")
+      "browse_day" ($params.date | time.Format "2006/01/02")
+    ) }}
+
+    {{ if strings.Contains $dir "content" }}
+      {{ $params = merge $params (dict
+        "isContent" "true"
+        "originalSection" (index (split $dir "/") 1)
+        "timezone" $departure.timezone
+      ) }}
+    {{ end }}
+
+    {{ $page := dict
+      "content" (dict "mediaType" "text/markdown" "value" (delimit (after 2 $parts) "---"))
+      "dates" (dict "date" $date)
+      "params" $params
+      "kind" "page"
+      "path" (index (split .Name ".") 0)
+    }}
+    {{ $.AddPage $page }}
   {{ end }}
 {{ end }}
