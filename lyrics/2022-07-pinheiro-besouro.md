@@ -106,52 +106,6 @@ Se instigar vai provar o veneno dela
 
 ---
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-amazonas/#album:capoeira-de-besouro-2010
-
-Toque de Benguela
-
-Mãe-África engravidou em Angola
-Partiu de Luanda e de Benguela
-Chegou e pariu a capoeira
-No chão do Brasil, verde-e-amarela
-
-É de Angola
-Camará, que me veio essa cantiga
-De Luanda
-É um jogo, é uma dança, é uma briga
-De Benguela
-No Quilombo da Serra da Barriga
-De Aruanda
-Capoeira chegou com a caravela
-
-É de Angola
-O meu corpo é de pingo-de-riga
-De Luanda
-De maneira-de-lei é minha figa
-De Benguela
-Sou aluno da capoeira antiga
-De Aruanda
-Ganga-Zumba é que é meu sentinela
-
-É de Angola
-Mangangá nunca foi nem é de intriga
-De Luanda
-E esse sangue africano é minha liga
-De Benguela
-Capoeira que é bom ninguém instiga
-De Aruanda
-Se instigar vai provar o veneno dela
-
-(Camara que me veio essa cantiga?)
-
-
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
-
-
----
-
 # Toque de São Bento Pequeno
 
 No coração contra o veneno
