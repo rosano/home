@@ -287,7 +287,6 @@ So se for são bento grande
 
 # Toque de Barravento
 
-## Translation
 Ê, iê, iê, iê, iê
 Barravento chegou
 Iaô dança
@@ -339,7 +338,7 @@ Iaô dança
 
 ---
 
-# Paulo César Pinheiro: Toque de Iúna
+# Toque de Iúna
 
 Iúna é madeira é pedaço de pau
 Graúna, aroeira, beri-berimbau
