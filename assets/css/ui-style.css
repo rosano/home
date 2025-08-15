@@ -73,6 +73,9 @@ hr {
 	font-size: 90%;
 
 	position: relative;
+
+	/* wrap long urls  */
+	word-break: break-all;
 }
 
 @media (min-width: 450px) {
