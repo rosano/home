@@ -34,15 +34,13 @@
       ) }}
     {{ end }}
 
-    {{ $page := dict
+    {{ $.AddPage (dict
       "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace $content))
       "title" $title
       "params" $params
       "kind" "page"
       "weight" (math.Sum $i 1)
       "path" (print (index $params "slug") "/" "n" (printf "%02d" $i))
-    }}
-
-    {{ $.AddPage $page }}
+    ) }}
   {{ end }}
 {{ end }}
