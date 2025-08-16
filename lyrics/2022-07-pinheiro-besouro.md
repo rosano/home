@@ -1,5 +1,5 @@
 ---
-collection: "Paulo César Pinheiro - Capoeira de Besouro"
+collection: Pinheiro - Capoeira de Besouro
 slug: pinheiro-besouro
 topic:
   - capoeira

@@ -1,5 +1,5 @@
 ---
-collection: pastinha eternamente
+collection: Pastinha - Eternamente
 slug: pastinha-eternamente
 topic:
   - capoeira
