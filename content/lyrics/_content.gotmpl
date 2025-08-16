@@ -20,9 +20,8 @@
     {{ $params = merge $params (dict
       "filename" $filename
     ) }}
-
-    {{ $headingMatch := (index (findRE `\n(#.+)` $content) 0) }}
     
+    {{ $headingMatch := (index (findRE `\n(#.+)` $content) 0) }}
     {{ if $headingMatch }}
       {{ $heading := lower (substr $headingMatch 1) }}
       {{ $parts := split $content $headingMatch }}
