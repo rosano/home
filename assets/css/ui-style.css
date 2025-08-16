@@ -65,9 +65,11 @@ hr {
 }
 
 .post {
+	--background: #f9f9f9;
+
 	padding: var(--spacing);
 	margin: var(--spacing) 0;
-	background: #f9f9f9;
+	background: var(--background);
 	border-radius: 3px;
 	font-family: Lucida Grande, Helvetica Neue, Helvetica, Arial, sans-serif;
 	font-size: 90%;
@@ -362,4 +364,10 @@ body.vibrations {
 
 .blog-list li time {
 	flex-shrink: 0;
+}
+
+/* lyrics */
+
+.lyrics .post .sticky-heading {
+	padding: unset;
 }
