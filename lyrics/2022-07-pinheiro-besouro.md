@@ -5,7 +5,7 @@ topic:
   - capoeira
 ---
 
-# Toque de Amazonas
+# ~toque de Amazonas
 
 no largo do Pelourinho
 o bem convive com o mal
@@ -65,7 +65,7 @@ rei da Bahia
 
 ---
 
-# Toque de Benguela
+# ~toque de Benguela
 
 Mãe-África engravidou em Angola
 Partiu de Luanda e de Benguela
@@ -106,7 +106,7 @@ Se instigar vai provar o veneno dela
 
 ---
 
-# Toque de São Bento Pequeno
+# ~toque de São Bento Pequeno
 
 No coração contra o veneno
 A proteção é São Bento pequeno
@@ -146,7 +146,7 @@ Com respeito a meu São Bento pequeno
 
 ---
 
-# Toque de Cavalaria
+# ~toque de Cavalaria
 
 Já chegou o sargento da capitania
 Vamos tocar cavalaria
@@ -234,7 +234,7 @@ Vamos tocar cavalaria
 
 ---
 
-# Toque de São Bento Grande de Angola
+# ~toque de São Bento Grande de Angola
 
 Nesse mundo camará
 Mas não há mas não há
@@ -285,7 +285,7 @@ So se for são bento grande
 
 ---
 
-# Toque de Barravento
+# ~toque de Barravento
 
 Ê, iê, iê, iê, iê
 Barravento chegou
@@ -338,7 +338,7 @@ Iaô dança
 
 ---
 
-# Toque de Iúna
+# ~toque de Iúna
 
 Iúna é madeira é pedaço de pau
 Graúna, aroeira, beri-berimbau
@@ -433,7 +433,7 @@ their song is the key to this ritual
 
 ---
 
-# Toque de Angola Dobrada
+# ~toque de Angola Dobrada
 
 Iê iê iê iê iê
 Arrebentaram a corrente, quebraram a argola
@@ -487,7 +487,7 @@ Tem Besouro de frente no jogo de Angola
 
 ---
 
-# Toque de Angola
+# ~toque de Angola
 
 Camará, vem jogar de Angola
 Camará, no terreiro grande

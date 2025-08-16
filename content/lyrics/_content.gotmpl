@@ -14,7 +14,7 @@
     {{ $content := strings.TrimSpace $v }}
 
     {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
-    {{ $title := lower (substr $titleMatch 2) }}
+    {{ $title := cond (eq (substr $titleMatch 2 1) "~") (substr $titleMatch 3) (lower (substr $titleMatch 2)) }}
     {{ $content = index (split $content $titleMatch) 1 }}
 
     {{ $params = merge $params (dict
