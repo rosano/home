@@ -234,6 +234,52 @@ Vamos tocar cavalaria
 
 ---
 
+# Toque de Santa Maria
+
+No terreiro da lua (Santa Maria)
+Não tem mais quebranto (Santa Maria)
+Tem jogo de roda (Santa Maria)
+Tem roda de santo (Santa Maria)
+A espada do anjo (Santa Maria)
+Acendeu candieiro (Santa Maria)
+Louvando são Jorge (Santa Maria)
+O santo guerreiro (Santa Maria)
+
+Santo Jorge é o guarda da lua
+Sentinela da estrela guia
+O dragão caiu morto na rua
+Sob a lança do santo vigia
+A rainha chamou o soldado
+Pelo chefe da cavalaria
+Santo Jorge foi condecorado
+Cavaleiro de santa Maria (Cavaleira de santa Maria)
+Cavaleiro de santa Maria
+
+Quando a lua alumia o terreiro
+O major desce da montaria
+Santo Jorge virou padroeiro
+Tem seu quadro cada academia
+É que pra se acabar cativeiro
+Nos terreiros do chão da Bahia
+Santo Jorge é que foi o primeiro
+Capoeira de Santa Maria (capoeira de santa Maria)
+Capoeira de Santa Maria
+
+Essa historia nasceu com Besouro
+Que gostava também de poesia
+É passada pra cada calouro
+Quando tem roda de cantoria
+Se canta capoeira faz coro
+Que esse canto parece magia
+Ele veio com cordão de ouro
+Pelo Toque de Santa Maria (Pelo Toque de Santa Maria)
+Pelo Toque de Santa Maria
+
+# Sources
+- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/1943216/#album:capoeira-de-besouro-2010
+
+---
+
 # ~toque de São Bento Grande de Angola
 
 Nesse mundo camará
