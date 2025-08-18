@@ -101,8 +101,54 @@ Se instigar vai provar o veneno dela
 
 (Camara que me veio essa cantiga?)
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
+
+---
+
+# Jogo de Dentro
+
+Se você, camará, entrar eu entro
+Vim aqui pra jogar jogo de dentro
+
+Eu não temo quem me ataca
+Nem na luta nem no jogo
+Uso braço contra faca
+Perna contra arma de fogo
+Aprendi dessa maneira
+Encarar o desaforo
+Praticando capoeira
+Na pedreira são Diogo
+
+Pode vim, pode entrar que eu me concentro
+Vim aqui pra jogo de dentro
+
+Pra jogar com maestria
+É preciso que se adestre
+Quem é mestre desafia
+A qualquer poder terrestre
+Foi aluno cabaceira
+Em santana virei mestre
+Foi ao pé da gameleira
+Na fazenda são silvestre
+
+Oh de lá, oh de cá eu tô no centro
+Vim aqui pra jogar jogo de dentro
+
+O tirano que me atiça
+Vai tomar a sua dor
+Não engulo a injustiça
+Não aturo desaforo
+Zum zum zum é minha missa
+Capoeira é meu tesouro
+Quem perguntá pra polícia
+Vai saber quem é besouro
+
+Se você, camará, entrar eu entro
+Vim aqui pra jogar jogo de dentro
+Pode vim, pode entrar que eu me concentro
+Vim aqui pra jogo de dentro
+
+https://www.letras.mus.br/paulo-cesar-pinheiro/jogo-de-dentro/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -140,8 +186,7 @@ E ele foi protetor do nazareno
 Hoje protege a mim e eu cumpro trato
 Com respeito a meu São Bento pequeno
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-sao-bento-pequeno/
+- https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-sao-bento-pequeno/
 - https://www.arteculturacapoeira.com.br/site/index.php?option=com_content&view=article&id=102:dicionario&catid=57:dicionario-da-capoeira&Itemid=85
 
 ---
@@ -229,8 +274,7 @@ Vamos tocar cavalaria
 Vamos tocar cavalaria
 Vamos tocar cavalaria
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-cavalaria/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-cavalaria/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -275,8 +319,7 @@ Ele veio com cordão de ouro
 Pelo Toque de Santa Maria (Pelo Toque de Santa Maria)
 Pelo Toque de Santa Maria
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/1943216/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/1943216/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -326,8 +369,7 @@ Aprendi com mangangá
 Respectar
 So se for são bento grande
 
-# sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/1943215/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/1943215/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -379,8 +421,7 @@ Iaô dança
 Barravento chegou
 Iaô dança
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-barravento/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-barravento/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -474,8 +515,7 @@ pulling the rhythm of Iuna
 Iúna is a spiritual bird
 their song is the key to this ritual
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-iuna/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-iuna/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -528,8 +568,7 @@ Berimbau é o tenente, o major é a viola
 Iê iê iê iê iê
 Tem Besouro de frente no jogo de Angola
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola-dobrada/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola-dobrada/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -616,8 +655,219 @@ comrade, in the big 'terreiro'
 comrade, my great school
 comrade, son of Ghandi
 
-# Sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola/#album:capoeira-de-besouro-2010
+
+---
+
+# Toque de Idalina
+
+Camará abre a roda chegou negro mina
+(Veio no toque de Idalina)
+Ele passou no carro, Ribeira e Odina
+(Veio no toque de Idalina)
+
+Vento brando fez praia de areia fina
+(Veio no toque de Idalina)
+Fez até maré baixa Dona Janaína
+(Veio no toque de Idalina)
+
+Negro diz que a sua sina
+É um campo de batalha
+Ouve o toque de Idalina
+Lembra luta de navalha
+
+Camará abre a roda chegou negro mina
+(Veio no toque de Idalina)
+Foi com ele que a noite surgiu na surdina
+(Veio no toque de Idalina)
+
+Lua cheia ascendeu feita uma lamparina
+(Veio no toque de Idalina)
+A estrela no norte brilhou na colina
+(Veio no toque de Idalina)
+
+Quando a lâmina investe
+Corta a veia quando pega
+Mas pra Mangangá que é mestre
+A navalha fica cega
+
+Olha o filho de Ghandi na dobra da esquina
+(Veio no toque de Idalina)
+Olha o ogã no terreiro de mãe Marcolina
+(Veio no toque de Idalina)
+
+Olha o preto doutor com um anel de platina
+(Veio no toque de Idalina)
+Olha o padre mulato sem cruz e nem batina
+(Veio no toque de Idalina)
+
+Pra quem quer fio de prumo
+Perna abre igual compasso
+Quem ataca perde o rumo
+E a navalha perde o aço
+
+Camará abre a roda chegou negro mina
+(Veio no toque de Idalina)
+Ele passou no carro em Ribeira e Odina
+(Veio no toque de Idalina)
+
+Vento brando fez praia de areia fina
+(Veio no toque de Idalina)
+Fez até maré baixa Dona Janaína
+(Veio no toque de Idalina)
+
+Veio no toque de Idalina
+(Veio no toque de Idalina)
+Veio no toque de Idalina
+(Veio no toque de Idalina)
+Veio no toque de Idalina
+(Veio no toque de Idalina)
+Veio no toque de Idalina
+(Veio no toque de Idalina)
+
+https://www.musixmatch.com/pt/letras/Paulo-Cesar-Pinheiro-3/Toque-de-Idalina
+
+---
+
+# Jogo de Fora
+
+Eu quero ver quem fica
+Eu quero ver quem sai
+Eu quero ver quem pula
+Eu quero ver quem cai
+
+Eu quero ver quem vem
+Eu quero ver quem vai
+Eu quero ver quem honra
+Eu quero ver quem trai
+
+Ê camará, camaradinho
+Entra na roda e vem jogar
+No terreiro, no Pelourinho
+Camaradinho, camará
+
+Eu quero ver quem joga
+Eu quero ver quem há
+Eu quero ver quem foi
+Eu quero ver quem tá
+
+Eu quero ver quem nega
+Eu quero ver quem dá
+Eu quero ver quem nunca
+Eu quero ver quem já
+
+Ê zum-zum-zum cordão de ouro
+Querê que que do cantuá
+Ê camará, cadê besouro?
+Cadê besouro mangangá?
+
+Eu quero ver quem fica
+Eu quero ver quem sai
+Eu quero ver quem pula
+Eu quero ver quem cai
+
+Eu quero ver quem vem
+Eu quero ver quem vai
+Eu quero ver quem honra
+Eu quero ver quem trai
+
+Tô no afoxé, tô no terreiro
+Tô no mercado, tô no bar
+Tô no Bonfim, tô no puteiro
+Tô na Lapinha, tô no mar
+
+Eu quero ver quem joga
+Eu quero ver quem há
+Eu quero ver quem foi
+Eu quero ver quem tá
+
+Eu quero ver quem nega
+Eu quero ver quem dá
+Eu quero ver quem nunca
+Eu quero ver quem já
+
+Tô em Santana, tô em Feira
+Em Jequié, Taperoá
+Onde tem som de capoeira
+Tu me procure que eu tô lá
+
+Onde tem som de capoeira
+Tu me procure que eu tô lá
+Onde tem som de capoeira
+Tu me procure que eu tô lá
+
+https://www.musixmatch.com/lyrics/Paulo-Cesar-Pinheiro-3/Jogo-de-Fora
+
+---
+
+# Toque de Tico-Tico
+
+Eu em chão de senzala não fico
+Me tira daqui, tico-tico
+É no pé, é na asa, é no bico
+Me tira daqui, tico-tico
+
+Pau que dá em Francisco, dá em Chico
+Me tira daqui, tico-tico
+Quando o galo cantar eu me pico
+Me tira daqui, tico-tico
+
+Camará, ninguém dá tombo
+Num guerreiro de Guiné
+Vamo embora pro quilombo
+Lá de Ilha de Maré
+
+Não nasci pra capacho de rico
+Me tira daqui, tico-tico
+Não sou besta de carga ou jerico
+Me tira daqui, tico-tico
+
+Capoeira escondido eu pratico
+Me tira daqui, tico-tico
+Pra lutar com feitor e milico
+Me tira daqui, tico-tico
+
+Todo mundo é rei sem trono
+Não se vive na corrente
+Passarinho não tem dono
+Nem gente é dono de gente
+
+É com quem tem poder que eu implico
+Me tira daqui, tico-tico
+Com pancada eu não me modifico
+Me tira daqui, tico-tico
+
+Pra parar de bater não suplico
+Me tira daqui, tico-tico
+Vou morrer mas não peço penico
+Me tira daqui, tico-tico
+
+Sou guerreiro de Aruanda
+Beira-mar é que me guia
+Quem comigo sempre anda
+É o Besouro da Bahia
+
+Camará, ninguém dá tombo
+Num guerreiro de Guiné
+Vamo embora pro quilombo
+Lá de Ilha de Maré
+
+Todo mundo é rei sem trono
+Não se vive na corrente
+Passarinho não tem dono
+Nem gente é dono de gente
+
+Sou guerreiro de Aruanda
+Beira-mar é que me guia
+Quem comigo sempre anda
+É o Besouro da Bahia
+
+Camará, ninguém dá tombo
+Num guerreiro de Guiné
+Vamo embora pro quilombo
+Lá de Ilha de Maré
+
+https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-tico-tico/#album:capoeira-de-besouro-2010
 
 ---
 
@@ -672,5 +922,4 @@ Eu vou partir porque mataram meu besouro
 Zumzumzum é besouro
 Zumzumzum cordão de ouro
 
-# sources
-- lyrics https://www.letras.mus.br/paulo-cesar-pinheiro/samba-de-roda/#album:capoeira-de-besouro-2010
+https://www.letras.mus.br/paulo-cesar-pinheiro/samba-de-roda/#album:capoeira-de-besouro-2010
