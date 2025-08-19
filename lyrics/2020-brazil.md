@@ -91,3 +91,52 @@ Siga teu caminho eu não estou mais sozinho
 
 # Sources
 - lyrics https://www.kboing.com.br/samba-de-fatocristina-buarque/eu-nao-quero-saber/
+
+---
+
+# Teresa Cristina: Cantar
+
+   A
+Cantar
+     A6             A7M    F#7
+Desnudar-se diante da vida
+   Bm7      F#7             Bm7        E7
+Cantar é vestir-se com a voz que se tem
+                          Bm7    E7     A
+Achar o tom da alegria perdida
+                   E7         A   E7
+E não ter que explicar pra ninguém
+     A  A6              A7M  F#7  Bm7
+A razão    desta tal melodia
+              F#7       Bm7  E7  E/D  A/C#
+Encharcada de sorriso e pranto
+               Cdim     A/C#
+No cantar a lembrança se cria
+      F#7        Bm7
+E envelhece de repente
+             E7
+Vai solta no ar
+            A      A#m7(b5)
+Por isso eu canto
+Bm7
+Canto para amenizar
+                  E7
+Grande dor que me traz
+
+O sorriso de alguém
+      A              A6
+Se a minha escola querida
+           A7M
+Cruzar a avenida
+           F#7
+Eu canto também
+   Bm7
+No canto
+
+Vou jogando a minha vida pra você
+    B7            E7            A
+Por isso, fecho os olhos pra não ver
+
+# Sources
+- chords https://www.cifraclub.com.br/teresa-cristina-grupo-semente/cantar/
+- audio https://youtu.be/BTkgR3joi8w
