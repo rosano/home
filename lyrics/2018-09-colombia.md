@@ -1,5 +1,5 @@
 ---
-collection: colombia 2018
+collection: Colombia 2018
 slug: colombia-2018
 topic:
   - spanish
