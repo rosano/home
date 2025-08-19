@@ -368,7 +368,7 @@ body.vibrations {
 
 /* lyrics */
 
-.lyrics .post .sticky-heading {
+.lyrics.topic .post .sticky-heading {
 	padding-top: 5px;
 
 	margin-bottom: 0;
