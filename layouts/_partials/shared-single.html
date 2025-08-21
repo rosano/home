@@ -74,15 +74,21 @@
 		<span>, via: </span> 
 		<span>{{- if strings.Contains . "http" }}<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>{{ else }}{{ . }}{{ end }}</span>
 		{{ end }}
+
+		<!-- TYPES -->
+		{{ if $isRSS }}
+			{{ with .GetTerms "categories" }}
+				<span>, type: {{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}</span>
+			{{ end }}
+		{{ end }}
+		</span>
 	</small>
 
 <!-- TYPES -->
 {{ with .GetTerms "categories" }}
-	{{ if $isRSS }}<small>, type: {{ end -}}
 	<span class="types">
 		{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
 	</span>
-	{{- if $isRSS }}</small>{{end}}
 {{ end }}
 </span>
 
