@@ -35,7 +35,11 @@
 
 {{ .Scratch.Set "kScopeList" "true" }}
 {{ .Scratch.Set "kScopeRSS" "true" }}
-{{- partial "shared-single.html" . -}}
+{{ if .Params.isContent }}
+  {{ partial "shared-single-notification.html" . }}
+{{ else }}
+  {{ partial "shared-single.html" . }}
+{{ end }}
 {{ .Scratch.Delete "kScopeRSS" }}
 {{ .Scratch.Delete "kScopeList" }}
 
