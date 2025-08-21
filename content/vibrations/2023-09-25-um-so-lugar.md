@@ -7,22 +7,5 @@ isPublished: true
 youtube_id: cEgkAa3OFy4
 title: Um Só Lugar
 slug: lmyypy5m
+lyrics: lyrics/caetano-2021/n00/
 ---
-Nós dois somos um só lugar
-Nós dois somos um só querer
-Se todos fossem como nós dois somos
-Iria o céu chorar, então o mar se encher
-Além das ilusões que eu já tive
-Está o nosso sempre bom amor
-Tudo aqui é seu, inclusive eu
-Abandone sua dor
-
-Os dois rios lá se juntam
-O horizonte nos apanha
-Quando você vem sorrindo
-Meu sorriso você ganha
-
-Meu amor, vem mais pra cá
-Eu sou o seu lugar, não vou deixar você fugir
-Não vou, não vou deixar
-Você é meu lugar

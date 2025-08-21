@@ -4,6 +4,38 @@ slug: cristina-2021
 topic:
   - brazil
 ---
+# Samba do Amor
+
+Quanto me andei
+Talvez pra encontrar
+Pedaços de mim pelo mundo
+Que dura ilusão
+Só me desencontrei
+Sem me achar
+Aí eu voltei
+Voltar quase sempre é partir
+Para um outro lugar
+
+O meu olhar se turvou
+E a vida foi crescendo
+E se tornando maior
+Todo o seu desencanto
+Ah, todos os meus gestos de amor
+Foram tragados no mar
+Ou talvez se perderam
+Num tempo qualquer
+Mas há sempre um amanhecer
+E o novo dia chegou
+E eu vim me buscar
+Quem sabe em você
+
+# Sources
+- audio https://www.youtube.com/watch?v=5w4f0LWo-7g
+- Chords https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
+- Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
+
+---
+
 # Meu Mundo É Hoje
 
 Intro: Bm7/9 C#m7(b5) F#7(13)
@@ -85,38 +117,6 @@ Tão logo este tempo passe  para beijar você
 # Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/para-um-amor-no-recife/
 - audio https://youtu.be/PClFteQLPxI
-
----
-
-# Samba do Amor
-
-Quanto me andei
-Talvez pra encontrar
-Pedaços de mim pelo mundo
-Que dura ilusão
-Só me desencontrei
-Sem me achar
-Aí eu voltei
-Voltar quase sempre é partir
-Para um outro lugar
-
-O meu olhar se turvou
-E a vida foi crescendo
-E se tornando maior
-Todo o seu desencanto
-Ah, todos os meus gestos de amor
-Foram tragados no mar
-Ou talvez se perderam
-Num tempo qualquer
-Mas há sempre um amanhecer
-E o novo dia chegou
-E eu vim me buscar
-Quem sabe em você
-
-# Sources
-- audio https://www.youtube.com/watch?v=5w4f0LWo-7g
-- Chords https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
-- Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
 
 ---
 
