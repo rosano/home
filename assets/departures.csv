@@ -318,3 +318,6 @@ time,place,country,timezone
 2025-07-24T17:00:00.000Z,Lyon,France,Europe/Paris
 2025-07-26T12:00:00.000Z,London,England,Europe/London
 2025-07-26T14:00:00.000Z,Oxford,England,Europe/London
+2025-08-15T11:00:00.000Z,Brighton,England,Europe/London
+2025-08-18T18:00:00.000Z,Paris,France,Europe/Paris
+2025-08-19T14:00:00.000Z,Porto,Portugal,Europe/Lisbon
