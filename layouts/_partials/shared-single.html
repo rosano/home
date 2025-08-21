@@ -28,6 +28,18 @@
 {{ .Content }}
 {{ if $isList -}}</div>{{- else -}}</article>{{- end }}
 
+<!-- LYRICS -->
+{{ if not $isList }}
+	{{ if .Params.lyrics }}
+		{{ with .Site.GetPage .Params.lyrics }}
+			<h4>lyrics</h4>
+		  <blockquote class="lyrics">
+		  {{- .Content -}}
+		  </blockquote>
+		{{ end }}
+	{{ end }}
+{{ end }}
+
 <!-- RECORDED -->
 {{- if .Params.recorded -}}<p><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
 
