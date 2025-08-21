@@ -25,4 +25,9 @@
 
 <p><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></p>
 
+<!-- NUGGET -->
+{{ if $page.Params.Summary }}
+	<blockquote>{{ $page.Summary | markdownify | safeHTML }}</blockquote>
+{{ end }}
+
 </div>
