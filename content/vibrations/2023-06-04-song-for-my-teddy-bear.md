@@ -7,5 +7,5 @@ isPublished: true
 title: song for my teddy bear
 around: 2023-05-01T12:00:00.000Z
 slug: lih2yl7p
-lyrics: lyrics/teddy-bear/n00/
+lyrics: teddy-bear/song-for-my-teddy-bear
 ---

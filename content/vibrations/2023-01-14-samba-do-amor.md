@@ -8,7 +8,7 @@ title: samba do amor
 hasThumb: true
 isPublished: true
 slug: lcvwbpwg
-lyrics: lyrics/cristina-2021/n00
+lyrics: cristina-2021/samba-do-amor
 ---
 
 https://rosano.ca/seeds

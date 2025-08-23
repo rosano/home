@@ -9,6 +9,6 @@ link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: 7DDjSDCJHsU
 title: Mistérios
 slug: la3o5tcg
-lyrics: lyrics/tiny-concert-2021/n02
+lyrics: tiny-concert-2021/joyce-misterios
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

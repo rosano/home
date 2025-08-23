@@ -7,5 +7,5 @@ author: caetano veloso
 youtube_id: vPLO6soeal0
 title: alguem cantando
 slug: knn4adc0
-lyrics: lyrics/caetano-2021/n01
+lyrics: caetano-2021/alguem-cantando
 ---

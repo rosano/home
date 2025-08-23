@@ -9,6 +9,6 @@ youtube_id: ynJ3QQ1fqWc
 title: toque de São Bento Grande de Angola
 slug: m07ri1jg
 summary: "\"The scale of justice<br>Never weighs what it should\""
-lyrics: lyrics/pinheiro-besouro/n06/
+lyrics: pinheiro-besouro/toque-de-sao-bento-grande-de-angola
 ---
 

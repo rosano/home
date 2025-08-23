@@ -7,5 +7,5 @@ isPublished: true
 youtube_id: cEgkAa3OFy4
 title: Um Só Lugar
 slug: lmyypy5m
-lyrics: lyrics/caetano-2021/n00/
+lyrics: caetano-2021/um-so-lugar
 ---

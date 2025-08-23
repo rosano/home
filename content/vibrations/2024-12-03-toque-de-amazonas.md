@@ -13,5 +13,5 @@ youtube_id: fRZUy2n5Xt0
 title: toque de Amazonas
 slug: m4879q4m
 summary: "\"There are small birds that kill spiral snakes.\""
-lyrics: lyrics/pinheiro-besouro/n00/
+lyrics: pinheiro-besouro/toque-de-amazonas
 ---

@@ -11,7 +11,7 @@ link: https://rosano.ca/seeds
 title: correnteza
 slug: lcvww6s8
 summary: "\"I fell asleep smiling, dreaming of our love\""
-lyrics: lyrics/seeds/n05/
+lyrics: seeds/tom-jobim-correnteza
 ---
 
 https://rosano.ca/seeds

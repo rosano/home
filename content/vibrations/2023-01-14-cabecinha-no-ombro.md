@@ -8,6 +8,6 @@ title: cabecinha no ombro
 hasThumb: true
 isPublished: true
 slug: lcvwu4pk
-lyrics: lyrics/seeds/n04/
+lyrics: seeds/paulo-borges-cabecinha-no-ombro
 ---
 https://rosano.ca/seeds

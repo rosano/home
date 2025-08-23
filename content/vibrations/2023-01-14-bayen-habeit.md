@@ -8,6 +8,6 @@ title: bayen habeit
 hasThumb: true
 isPublished: true
 slug: lcvwpabs
-lyrics: lyrics/egypt-2021/n02
+lyrics: egypt-2021/amr-diab-bayen-habeit
 ---
 https://rosano.ca/seeds

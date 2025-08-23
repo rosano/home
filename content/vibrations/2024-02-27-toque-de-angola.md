@@ -12,5 +12,5 @@ youtube_id: LIxBVqliwKU
 title: toque de Angola
 slug: lt4p0rpx
 summary: "\"I don't want your money<br>nor the good you possess<br>just a companion<br>who does justice\""
-lyrics: lyrics/pinheiro-besouro/n10/
+lyrics: pinheiro-besouro/toque-de-angola
 ---

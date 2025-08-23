@@ -8,6 +8,6 @@ title: tardes cariocas / see you in rio
 hasThumb: true
 isPublished: true
 slug: lcvwr020
-lyrics: lyrics/seeds/n03
+lyrics: seeds/joyce-moreno-tardes-cariocassee-you-in-rio
 ---
 https://rosano.ca/seeds

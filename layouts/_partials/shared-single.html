@@ -31,7 +31,7 @@
 <!-- LYRICS -->
 {{ if not $isList }}
 	{{ if .Params.lyrics }}
-		{{ with .Site.GetPage .Params.lyrics }}
+		{{ with .Site.GetPage (print "lyrics/" .Params.lyrics) }}
 			<h4>lyrics</h4>
 		  <blockquote class="lyrics">
 		  {{- .Content -}}

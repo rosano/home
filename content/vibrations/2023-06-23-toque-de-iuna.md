@@ -10,5 +10,5 @@ isPublished: true
 youtube_id: 2rtd9aMk0mQ
 title: Toque de Iúna
 slug: lj8o6z8w
-lyrics: lyrics/pinheiro-besouro/n08/
+lyrics: pinheiro-besouro/toque-de-iuna
 ---

@@ -9,6 +9,6 @@ headline: o leaozinho
 hasThumb: true
 isPublished: true
 slug: lcvvueg0
-lyrics: lyrics/seeds/n00
+lyrics: seeds/caetano-veloso-o-leaozinho
 ---
 https://rosano.ca/seeds

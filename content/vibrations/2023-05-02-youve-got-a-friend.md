@@ -8,7 +8,7 @@ isPublished: true
 youtube_id: nYCo6w9lJTs
 title: You've got a friend
 slug: lhk4nrrh
-lyrics: lyrics/chiang-mai-2023/n00
+lyrics: chiang-mai-2023/james-taylor-youve-got-a-friend/
 ---
 this song is a beautiful and timeless message, reflects what i try to embody in friendship. sharing my musical take ❤️☀️✨
 
