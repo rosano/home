@@ -1,0 +1,22 @@
+{{ $dir := "lyrics" }}
+{{ range readDir $dir }}
+  {{ $filename := .Name }}
+  
+  {{ if in (slice "." "_") (substr $filename 0 1) }}
+    {{ continue }}
+  {{ end }}
+
+  {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
+  
+  {{ $params := unmarshal (index $parts 1) }}
+  {{ $title := index $params "collection" }}
+  {{ $slug := index $params "slug" }}
+  
+  {{ $.AddPage (dict
+    "content" (dict "mediaType" "text/markdown" "value" "")
+    "title" $title
+    "kind" "term"
+    "slug" $slug
+    "path" (replaceRE `\s` "-" ($title | lower))
+  ) }}
+{{ end }}
