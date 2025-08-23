@@ -3,6 +3,8 @@ markup:
     renderer:
       unsafe: true
       hardWraps: true
+    parser:
+      autoHeadingIDType: github-ascii
 
 baseURL: https://home.rosano.ca/
 title: Rosano

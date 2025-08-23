@@ -9,12 +9,14 @@
   {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
   
   {{ $params := unmarshal (index $parts 1) }}
+  {{ $collectionSlug := index $params "slug" }}
 
   {{ range $i, $v := after 2 $parts }}
     {{ $content := strings.TrimSpace $v }}
 
     {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
     {{ $title := cond (eq (substr $titleMatch 2 1) "~") (substr $titleMatch 3) (lower (substr $titleMatch 2)) }}
+    {{ $slug := $title | anchorize }}
     {{ $content = index (split $content $titleMatch) 1 }}
 
     {{ $params = merge $params (dict
@@ -36,10 +38,11 @@
     {{ $.AddPage (dict
       "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace $content))
       "title" $title
-      "params" $params
       "kind" "page"
+      "slug" $slug
+      "params" $params
       "weight" (math.Sum $i 1)
-      "path" (print (index $params "slug") "/" "n" (printf "%02d" $i))
+      "path" (print $collectionSlug "/" $slug)
     ) }}
   {{ end }}
 {{ end }}
