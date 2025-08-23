@@ -21,6 +21,7 @@
 
     {{ $params = merge $params (dict
       "filename" $filename
+      "extra" ""
     ) }}
     
     {{ $headingMatch := (index (findRE `\n(#.+)` $content) 0) }}
