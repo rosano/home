@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0001
 youtube_id: 9vWOL-dsBfM
 title: "Strolling Sketches 0001: uncanny dance"
 slug: lc1yn248
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0001
 

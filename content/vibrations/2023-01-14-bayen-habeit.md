@@ -9,5 +9,6 @@ hasThumb: true
 isPublished: true
 slug: lcvwpabs
 lyrics: egypt-2021/amr-diab-bayen-habeit
+series: seeds
 ---
 https://rosano.ca/seeds

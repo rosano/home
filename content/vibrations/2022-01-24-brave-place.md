@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0001
 youtube_id: jk5rWRprTAI
 title: "Strolling Sketches 0001: brave place"
 slug: lc1ykbco
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0001
 

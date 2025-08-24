@@ -10,5 +10,6 @@ hasThumb: true
 isPublished: true
 slug: lcvvueg0
 lyrics: seeds/caetano-veloso-o-leaozinho
+series: seeds
 ---
 https://rosano.ca/seeds

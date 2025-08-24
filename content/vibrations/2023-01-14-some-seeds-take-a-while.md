@@ -7,5 +7,6 @@ link: https://rosano.ca/seeds
 youtube_id: 8S3ZnxwRRQY
 title: some seeds take a while
 slug: lcvz75o0
+series: seeds
 ---
 more: https://rosano.ca/seeds

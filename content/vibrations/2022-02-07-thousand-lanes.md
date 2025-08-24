@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0002
 youtube_id: gWh2C5gZ62o
 title: "Strolling Sketches 0002: thousand lanes"
 slug: lc1yphb4
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0002
 

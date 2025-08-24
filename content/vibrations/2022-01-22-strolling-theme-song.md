@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0000
 youtube_id: k-wTsipUQRk
 title: "Strolling Sketches 0000: my piano salad"
 slug: lc1yc988
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0000
 

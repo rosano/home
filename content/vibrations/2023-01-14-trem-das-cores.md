@@ -16,6 +16,7 @@ title: trem das cores
 slug: lcvwxuyw
 summary: "\"Those eyes, light like honey of a colour unequaled\""
 lyrics: seeds/caetano-veloso-trem-das-cores
+series: seeds
 ---
 
 https://rosano.ca/seeds

@@ -9,5 +9,6 @@ hasThumb: true
 isPublished: true
 slug: lcvwu4pk
 lyrics: seeds/paulo-borges-cabecinha-no-ombro
+series: seeds
 ---
 https://rosano.ca/seeds

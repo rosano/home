@@ -11,4 +11,5 @@ youtube_id: 2rtd9aMk0mQ
 title: Toque de Iúna
 slug: lj8o6z8w
 lyrics: pinheiro-besouro/toque-de-iuna
+series: Capoeira de Besouro
 ---

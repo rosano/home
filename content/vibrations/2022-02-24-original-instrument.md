@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0003
 youtube_id: FFt5eAOaBPQ
 title: "Strolling Sketches 0003: original instrument"
 slug: lc1ywnso
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0003
 

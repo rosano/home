@@ -7,5 +7,6 @@ link: https://utopia.rosano.ca/tiny-concert-for-a-friend
 youtube_id: 8nFWPFJKeqo
 title: outro guitar improvisation
 slug: kr4obkao
+series: Tiny Concert for a Friend
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

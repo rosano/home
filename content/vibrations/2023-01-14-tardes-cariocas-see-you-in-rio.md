@@ -9,5 +9,6 @@ hasThumb: true
 isPublished: true
 slug: lcvwr020
 lyrics: seeds/joyce-moreno-tardes-cariocassee-you-in-rio
+series: seeds
 ---
 https://rosano.ca/seeds

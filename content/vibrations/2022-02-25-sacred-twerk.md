@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0003
 youtube_id: lZzmGr0hpuk
 title: "Strolling Sketches 0003: sacred twerk"
 slug: lc1z0gdc
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0003
 

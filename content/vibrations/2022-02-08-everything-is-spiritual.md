@@ -8,6 +8,7 @@ link: https://strolling.rosano.ca/0002
 youtube_id: mhWBvufyvFQ
 title: "Strolling Sketches 0002: everything is spiritual"
 slug: lc1yrd7k
+series: Strolling Sketches
 ---
 https://strolling.rosano.ca/0002
 

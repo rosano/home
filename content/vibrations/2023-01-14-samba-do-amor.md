@@ -9,6 +9,7 @@ hasThumb: true
 isPublished: true
 slug: lcvwbpwg
 lyrics: cristina-2021/samba-do-amor
+series: seeds
 ---
 
 https://rosano.ca/seeds
