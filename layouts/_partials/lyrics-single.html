@@ -16,8 +16,12 @@
 {{ end }}
 
 <!-- VIBRATIONS -->
-{{ range where ((.Site.GetPage "section" "vibrations").Pages) "Params.lyrics" "like" .Slug }}
-	{{ partial "video-preview" . }}
+{{ with where ((.Site.GetPage "section" "vibrations").Pages) "Params.lyrics" "like" .Slug }}
+	<div class="video-list">
+		{{ range . }}
+			{{ partial "video-preview" . }}
+		{{ end }}	
+	</div>
 {{ end }}
 
 {{ if not (.Scratch.Get "kScopeList")  }}

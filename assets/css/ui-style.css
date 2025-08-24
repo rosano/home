@@ -337,7 +337,7 @@ body.vibrations {
 	--cap: 600px;
 }
 
-.vibrations .video-list {
+.vibrations .video-list, .lyrics .video-list {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-start;
