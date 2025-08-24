@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.3] - 2025-08-24
 
 ### Added
-- Source links for collection files
+- Source links for lyric collection files
+- Search and Translate links for lyric single pages
 
 ## [0.2.2] - 2025-08-21
 

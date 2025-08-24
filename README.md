@@ -28,6 +28,8 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [sticky headers](https://rosano.ca/lyrics/topic/capoeira) for collections and songs
 - loose structure of [text files with songs separated by `---` and `#`](https://github.com/rosano/home/tree/master/lyrics)
 - [page and slug](https://rosano.ca/lyrics/pinheiro-besouro/toque-de-amazonas) generated per song
+- [search title via YouTube](https://rosano.ca/lyrics/caetano-2021/alguem-cantando/)
+- [translate text via DeepL](https://rosano.ca/lyrics/diab-2019/the-compassionate/)
 
 # Powered by [Hugo](https://gohugo.io)
 

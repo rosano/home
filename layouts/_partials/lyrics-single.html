@@ -35,6 +35,22 @@
 		<span>
 			<a href="{{ .Site.Params.sourcePrefix }}{{ print "/lyrics/" .Params.filename }}">Source</a>
 		</span>
+
+		<span>
+			{{ range $i, $v := slice
+				(dict
+					"title" "Search YouTube"
+					"prefix" "https://www.youtube.com/results?search_query="
+					"data" .Title
+				)
+				(dict
+					"title" "Translate via DeepL"
+					"prefix" "https://www.deepl.com/en/translator#en/en-us/"
+					"data" (replaceRE `\<\/?.+\>` "" .Content)
+				) }}
+				<a href="{{ index . "prefix" }}{{ index . "data" }}">{{ index . "title" }}</a>{{ if not $i }}, {{ end }}
+			{{ end }}
+		</span>
 	</small>
 {{ end }}
 
