@@ -368,13 +368,16 @@ body.vibrations {
 
 /* lyrics */
 
-.lyrics.topic .post .sticky-heading {
+.lyrics .post .sticky-heading {
 	padding-top: 5px;
 
 	margin-bottom: 0;
-	top: 40px;
 
 	z-index: 1;
 	background: inherit;
 	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%);
+}
+
+.lyrics.topic .post .sticky-heading {
+	top: 40px;
 }
