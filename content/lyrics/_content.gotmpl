@@ -16,7 +16,7 @@
 
     {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
     {{ $title := cond (eq (substr $titleMatch 2 1) "~") (substr $titleMatch 3) (lower (substr $titleMatch 2)) }}
-    {{ $slug := $title | anchorize }}
+    {{ $slug := delimit (complement (slice "") (split ($title | anchorize) "-")) "-" }}
     {{ $content = index (split $content $titleMatch) 1 }}
 
     {{ $params = merge $params (dict
