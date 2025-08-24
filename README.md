@@ -30,6 +30,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [page and slug](https://rosano.ca/lyrics/pinheiro-besouro/toque-de-amazonas) generated per song
 - [search title via YouTube](https://rosano.ca/lyrics/caetano-2021/alguem-cantando/)
 - [translate text via DeepL](https://rosano.ca/lyrics/diab-2019/the-compassionate/)
+- [embed in video posts](https://rosano.ca/vibrations/lt4p0rpx/) (by setting `lyrics` to public slug)
 
 # Powered by [Hugo](https://gohugo.io)
 
