@@ -31,6 +31,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [search title via YouTube](https://rosano.ca/lyrics/caetano-2021/alguem-cantando/)
 - [translate text via DeepL](https://rosano.ca/lyrics/diab-2019/the-compassionate/)
 - [embed in video posts](https://rosano.ca/vibrations/lt4p0rpx/) (by setting `lyrics` to public slug)
+- bidirectional link between [lyric](https://rosano.ca/lyrics/london-2024/lapinha) and [Vibration](https://rosano.ca/vibrations/m3imvrwq) pages
 
 # Powered by [Hugo](https://gohugo.io)
 

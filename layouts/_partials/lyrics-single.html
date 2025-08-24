@@ -15,7 +15,13 @@
 	{{- .Params.extra | markdownify | safeHTML -}}
 {{ end }}
 
+<!-- VIBRATIONS -->
+{{ range where ((.Site.GetPage "section" "vibrations").Pages) "Params.lyrics" "like" .Slug }}
+	{{ partial "video-preview" . }}
+{{ end }}
+
 {{ if not (.Scratch.Get "kScopeList")  }}
+
 	<!-- COLLECTION -->
 	{{- range (.GetTerms "collection") -}}
 		<p><small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small></p>

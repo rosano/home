@@ -32,7 +32,7 @@
 {{ if not $isList }}
 	{{ if .Params.lyrics }}
 		{{ with .Site.GetPage (print "lyrics/" .Params.lyrics) }}
-			<h4>lyrics</h4>
+			<h4><a href="{{ .RelPermalink }}">lyrics</a></h4>
 		  <blockquote class="lyrics">
 		  {{- .Content -}}
 		  </blockquote>

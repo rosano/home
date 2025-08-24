@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Source links for lyric collection files
 - Search and Translate links for lyric single pages
+- Bidirectional link between lyric and Vibrations pages
 
 ## [0.2.2] - 2025-08-21
 
