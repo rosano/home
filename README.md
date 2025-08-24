@@ -24,7 +24,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [summary callout](https://rosano.ca/blog/bringing-vibrations-home) (`summary`)
 
 ## [Lyrics](https://rosano.ca/lyrics)
-- list without pagination and grouped by topic
+- list without pagination and grouped by topic, recent collections first
 - [sticky headers](https://rosano.ca/lyrics/topic/capoeira) for collections and songs
 - loose structure of [text files with songs separated by `---` and `#`](https://github.com/rosano/home/tree/master/lyrics)
 - [page and slug](https://rosano.ca/lyrics/pinheiro-besouro/toque-de-amazonas) generated per song
