@@ -10,7 +10,7 @@
 {{ else if (and (eq .Kind "term") (eq .Data.Singular "browse_month")) }}
 	{{ $t := time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") }}
 	{{ time.Format "January 2006" $t }}
-{{ else if (or (eq .Data.Plural "categories") (eq .Data.Plural "tags")) -}}
+{{ else if (in (slice "categories" "tags" "series") .Data.Plural) -}}
 	"{{- .Title -}}"
 {{ else if eq $section "timeline" }}
 	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
