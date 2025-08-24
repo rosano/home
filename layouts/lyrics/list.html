@@ -1,16 +1,11 @@
 {{ define "main" }}
 
-<h3>topics</h3>
-<ul>
-	{{ range $.Site.Taxonomies.topic }}
-		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-	{{ end}}
-</ul>
-
-<h3>collections</h3>
-<ul>
-	{{ range $.Site.Taxonomies.collection }}
-		<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
-	{{ end}}
-</ul>
+{{ range $.Site.Taxonomies.topic }}
+	<h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
+	<ul>
+		{{ range (where $.Site.Taxonomies.collection "Params.topic" "intersect" (slice .Page.Title)) }}
+			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+		{{ end}}
+	</ul>
+{{ end}}
 {{ end }}

@@ -17,6 +17,7 @@
     "title" $title
     "kind" "term"
     "slug" $slug
+    "params" $params
     "path" (replaceRE `\s` "-" ($title | lower))
   ) }}
 {{ end }}
