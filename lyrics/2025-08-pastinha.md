@@ -256,7 +256,7 @@ No fundo do mar tem dinheiro
 
 ---
 
-# Adeus adeus,
+# Adeus adeus
 
 Adeus adeus,
 boa viagem
