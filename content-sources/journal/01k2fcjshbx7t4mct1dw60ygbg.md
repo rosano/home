@@ -1,0 +1,9 @@
+---
+date: 2025-08-12T14:57:35.786Z
+tags: ["capoeira"]
+link: https://youtu.be/APS0W92Hjf0
+categories: ["talk"]
+---
+[Mestre Gato Preto e CM Jorge](https://youtu.be/APS0W92Hjf0)
+
+Crazy flying cartwheel at 5:50
