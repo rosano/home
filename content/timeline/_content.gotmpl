@@ -26,6 +26,10 @@
       {{ continue }}
     {{ end }}
 
+    {{ if (index $params "draft") }}
+      {{ continue }}
+    {{ end }}
+
     {{ $departure := index (last 1 (where $departures "time" "le" $date)) 0 }}
     {{ $date = ($date | time.In $departure.timezone) }}
 
