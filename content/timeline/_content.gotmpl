@@ -22,6 +22,11 @@
     {{ $params := unmarshal (index $parts 1) }}
     {{ $date := time $params.date }}
 
+
+    {{ if eq $raw "" }}
+      {{ continue }}
+    {{ end }}
+
     {{ if eq (index $params "title") "Content Placeholder" }}
       {{ continue }}
     {{ end }}
