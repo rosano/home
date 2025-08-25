@@ -5,7 +5,7 @@
 
 {{ .Site.Store.Set "kDepartures" $departures }}
 
-{{ range $dir := (slice "journal" "content/vibrations" "content/blog") }}
+{{ range $dir := (slice "content-sources/journal" "content/vibrations" "content/blog") }}
   {{ range readDir $dir }}
     {{ if in (slice "." "_") (substr .Name 0 1) }}
       {{ continue }}
@@ -30,7 +30,7 @@
       "browse_day" ($params.date | time.Format "2006/01/02")
     ) }}
 
-    {{ if strings.Contains $dir "content" }}
+    {{ if strings.Contains $dir "content/" }}
       {{ $params = merge $params (dict
         "isContent" "true"
         "originalSection" (index (split $dir "/") 1)
