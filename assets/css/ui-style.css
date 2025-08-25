@@ -57,7 +57,11 @@ hr {
 	z-index: 2;
 
 	background: var(--background);
-	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%); 
+	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%);
+	
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: auto;
 }
 
 .sticky-heading a {
