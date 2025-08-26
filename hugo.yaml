@@ -28,7 +28,6 @@ params:
     - topic
 
 languageCode: en-ca
-canonifyURLs: true
 titleCaseStyle: none
 
 pagination:
