@@ -39,9 +39,11 @@
 
 <header>
 	<h2>
-		<a aria-hidden="true" href="{{ .Site.BaseURL }}">
-			<img src="https://rosano.ca/_shared/__external/ROCORootLink/identity.svg" />
-		</a>
+		{{ if .Site.Params.logoURL }}
+			<a aria-hidden="true" href="{{ .Site.BaseURL }}">
+				<img src="{{ .Site.Params.logoURL }}" />
+			</a>
+		{{ end }}
 		
 		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 		{{ if (and (not .IsHome) (ne .Kind "404")) }} / 
