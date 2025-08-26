@@ -5,9 +5,11 @@
 	{{ end }}
 </ul>
 
-<div class="post notification">
-	<p>This page is temporary.</p>
+{{ if .Site.Params.showTemporary }}
+	<div class="post notification">
+		<p>This page is temporary.</p>
 
-	<p><a href="https://rosano.ca">Return to rosano.ca</a></p>
-</div>
+		<p><a href="https://rosano.ca">Return to rosano.ca</a></p>
+	</div>
+{{ end }}
 {{ end }}

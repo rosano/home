@@ -13,6 +13,7 @@ params:
   mediaPrefix: https://static.rosano.ca/home
   showGazette: true
   logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
+  showTemporary: true
   disabledFeedSections:
     - browse_year
     - browse_month
