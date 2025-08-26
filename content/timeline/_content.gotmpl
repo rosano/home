@@ -13,7 +13,7 @@
 
 {{ .Site.Store.Set "kDepartures" $departures }}
 
-{{ range $dir := (slice "content-sources/journal" "content/vibrations" "content/blog") }}
+{{ range $dir := (default slice .Site.Params.timelineSources) }}
   {{ range readDir $dir }}
     {{ if in (slice "." "_") (substr .Name 0 1) }}
       {{ continue }}
