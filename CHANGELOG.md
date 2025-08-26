@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.5] - 2025-08-26
 
 ### Added
+- Link via titles using `[[title]]` or `[alternate text](official title)` formats
 - Show recorded in timeline
 
 ## [0.2.4] - 2025-08-24

@@ -8,6 +8,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - local time and place on all posts site-wide based on post date (add to [`assets/departures.csv`](https://github.com/rosano/home/blob/master/assets/departures.csv) in destination timezone)
 - [syndication links](https://rosano.ca/vibrations/m4879q4m/) for crossposts on other platforms (`youtube_id`, `mastodon_id`, `bluesky_id`, `twitter_id`, `facebook_id`, `nostr_id`, `threads_id`)
 - 'Source' links on every post to direct edit via GitHub (`params.sourcePrefix` in `hugo.yaml`)
+- link via titles using `[[title]]` or `[alternate text](official title)` formats
 
 ## [Journal](https://rosano.ca/log)
 - list mixing various sections together, grouped by day and filterable by location or `tags`

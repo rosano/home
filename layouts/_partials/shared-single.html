@@ -25,7 +25,31 @@
 
 <!-- CONTENT -->
 {{ if $isList -}}<div>{{- else -}}<article>{{- end }}
-{{ .Content }}
+{{- $Content := .Content -}}
+
+{{- /* 
+//   via https://discourse.gohugo.io/t/making-replacere-substitutions-lowercase-for-an-implementation-of-wikilinks/35793/2
+*/ -}}
+{{- range (findRE `\[{2}(?U:.+)\]{2}` $Content) -}}
+  {{- $title := trim . "[ ]" -}}
+  {{- $match := index (where $.Site.Pages "Title" $title) 0 -}}
+  {{ if $match }}
+  	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $title -}}
+  	{{- $Content = replace $Content . $link 1 -}}
+  {{ end }}
+{{- end -}}
+
+{{- $linkRE := `\[(.+)\]\((.+)\)` -}}
+{{- range (findRE $linkRE $Content) -}}
+  {{- $text := replaceRE $linkRE "$1" . -}}
+  {{- $match := index (where $.Site.Pages "Title" (replaceRE $linkRE "$2" .)) 0 -}}
+  {{ if $match }}
+  	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $text -}}
+  	{{- $Content = replace $Content . $link 1 -}}
+  {{ end }}
+{{- end -}}
+
+{{- $Content | safeHTML -}}
 {{ if $isList -}}</div>{{- else -}}</article>{{- end }}
 
 <!-- LYRICS -->
