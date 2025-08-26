@@ -14,7 +14,7 @@
 	{{ if not $hideTime }}
 		<a aria-label="Permalink for {{ .Date | time.Format ":time_short" }}, {{ .Date | time.Format ":date_long" }}" href="{{ $page.Permalink }}"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "15h04" }}</time></a>
 	{{ end }}
-	<span>Published</span>
+	<span>{{ .Params.action }}</span>
 	<span> to </span>
 	{{ with .Site.GetPage "section" .Params.originalSection }}
 		<a href="{{ .Permalink }}">{{ .Name }}</a>
