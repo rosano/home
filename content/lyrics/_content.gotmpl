@@ -20,8 +20,11 @@
     
     {{ $lines := split $content "\n" }}
 
-    {{ $titleMatch := index $lines 0 }}
-    {{ $title := cond (eq (substr $titleMatch 0 1) "~") (substr $titleMatch 1) (lower $titleMatch) }}
+    {{ $title := index $lines 0 }}
+    {{ if site.Params.lowerLyricTitles }}
+      {{ $title = cond (eq (substr $title 0 1) "~") (substr $title 1) (lower $title) }}
+    {{ end }}
+    
     {{ $slug := delimit (complement (slice "") (split ($title | anchorize) "-")) "-" }}
     {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
 
