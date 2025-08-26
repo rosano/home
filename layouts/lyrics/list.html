@@ -1,5 +1,14 @@
 {{ define "main" }}
 
+{{ $withoutTopic := where $.Site.Taxonomies.collection "Params.topic" "eq" nil }}
+{{ if $withoutTopic }}
+	<ul>
+		{{ range $withoutTopic }}
+			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+		{{ end}}
+	</ul>
+{{ end }}
+
 {{ range $.Site.Taxonomies.topic }}
 	<h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
 	<ul>
@@ -7,5 +16,6 @@
 			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
 		{{ end}}
 	</ul>
-{{ end}}
+{{ end }}
+
 {{ end }}
