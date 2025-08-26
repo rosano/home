@@ -14,6 +14,7 @@ params:
   showGazette: true
   logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
   showTemporary: true
+  showTypes: true
   timelineSources:
     - content-sources/journal
     - content/vibrations

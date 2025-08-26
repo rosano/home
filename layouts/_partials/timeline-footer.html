@@ -21,21 +21,23 @@
 
 <!-- TYPES -->
 
-<small class="types">
-	{{ range .Site.Sections }}
-		{{ if eq .Page.Title "Journal" }}
-			<a href="{{ .Page.Permalink }}">all</a>
+{{ if .Site.Params.showTypes }}
+	<small class="types">
+		{{ range .Site.Sections }}
+			{{ if eq .Page.Title "Journal" }}
+				<a href="{{ .Page.Permalink }}">all</a>
+			{{ end }}
 		{{ end }}
-	{{ end }}
-	
-	<span>·</span>
-	
-	{{ range .Site.Taxonomies.categories.ByCount }}
-		{{ if ne .Page.Title "move" }}
-			<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+		
+		<span>·</span>
+		
+		{{ range .Site.Taxonomies.categories.ByCount }}
+			{{ if ne .Page.Title "move" }}
+				<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+			{{ end }}
 		{{ end }}
-	{{ end }}
-</small>
+	</small>
+{{ end }}
 
 <!-- TIME -->
 
