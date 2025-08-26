@@ -96,10 +96,12 @@
 	</small>
 
 <!-- TYPES -->
-{{ with .GetTerms "categories" }}
-	<span class="types">
-		{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
-	</span>
+{{ if not $isRSS }}
+	{{ with .GetTerms "categories" }}
+		<span class="types">
+			{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
+		</span>
+	{{ end }}
 {{ end }}
 </span>
 
