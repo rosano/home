@@ -10,7 +10,7 @@
   {{ $params := unmarshal (index $parts 1) }}
 
   {{ $title := index $params "collection" }}
-  {{ $slug := index $params "slug" }}
+  {{ $slug := default (path.BaseName $filename) (index $params "slug") }}
   
   {{ $.AddPage (dict
     "content" (dict "mediaType" "text/markdown" "value" "")
