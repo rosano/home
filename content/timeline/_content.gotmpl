@@ -4,9 +4,11 @@
   "country" "Canada"
   "timezone" "America/Toronto"
 ) }}
+{{ $enableDepartures := false }}
 
 {{ if fileExists "assets/departures.csv" }}
   {{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
+    {{ $enableDepartures = true }}
     {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
   {{ end }}
 {{ end }}
@@ -44,13 +46,22 @@
     {{ end }}
     
     {{ range $k, $v := $dates }}
-      {{ $departure := index (last 1 (where $departures "time" "le" $v)) 0 }}
-      {{ $v = ($v | time.In $departure.timezone) }}
+      {{ if $enableDepartures }}
+        {{ $departure := index (last 1 (where $departures "time" "le" $v)) 0 }}
+        {{ $v = ($v | time.In $departure.timezone) }}
 
-      {{ $params = merge $params (dict
-        "place" (slice $departure.place)
-        "country" (slice $departure.country)
-      ) }}
+        {{ $params = merge $params (dict
+          "place" (slice $departure.place)
+          "country" (slice $departure.country)
+        ) }}
+
+        {{ if strings.Contains $dir "content/" }}
+          {{ $params = merge $params (dict
+            "timezone" $departure.timezone
+          ) }}
+        {{ end }}
+      {{ end }}
+      
       {{ $params = merge $params (dict
         "browse_year" ($v | time.Format "2006")
         "browse_month" ($v | time.Format "2006/01")
@@ -61,7 +72,6 @@
         {{ $params = merge $params (dict
           "isContent" "true"
           "originalSection" (index (split $dir "/") 1)
-          "timezone" $departure.timezone
         ) }}
       {{ end }}
 
