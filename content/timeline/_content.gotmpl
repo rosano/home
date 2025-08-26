@@ -4,8 +4,11 @@
   "country" "Canada"
   "timezone" "America/Toronto"
 ) }}
-{{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
-  {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
+
+{{ if fileExists "assets/departures.csv" }}
+  {{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
+    {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
+  {{ end }}
 {{ end }}
 
 {{ .Site.Store.Set "kDepartures" $departures }}
