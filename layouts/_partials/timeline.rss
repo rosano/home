@@ -1,4 +1,7 @@
-{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "browse_day" "desc" | first .Site.Config.Services.RSS.Limit }}
+{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "browse_day" "desc" }}
+{{ if gt .Site.Config.Services.RSS.Limit 0 }}
+  {{- $pages := first .Site.Config.Services.RSS.Limit }}
+{{ end }}
 
 {{/* exclude today from home feed */}}
 {{- $pages := where $pages "Key" "ne" (time.Now.Format "2006/01/02") }}
