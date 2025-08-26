@@ -7,8 +7,8 @@
   {{ end }}
 
   {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
-  
   {{ $params := unmarshal (index $parts 1) }}
+
   {{ $title := index $params "collection" }}
   {{ $slug := index $params "slug" }}
   
