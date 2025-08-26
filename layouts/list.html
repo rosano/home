@@ -2,7 +2,7 @@
 
 <ul>
 {{ range .Pages.ByDate.Reverse }}
-	<li><a href="{{ .Permalink }}">{{ .Permalink }}</a>: {{ .Params }} </li>
+	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 {{ end }}	
 </ul>
 
