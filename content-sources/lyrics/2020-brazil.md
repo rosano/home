@@ -4,7 +4,6 @@ slug: brazil-2020
 topic:
   - brazil
 ---
-
 # Quando você me beija
 
 um beijo durante aquele amor e meu coração estava lá

@@ -4,7 +4,6 @@ slug: lobisomem-2022
 topic:
   - capoeira
 ---
-
 # Volta no Tempo (Esquilo)
  
 Se eu pudesse eu voltava no tempo iáiá

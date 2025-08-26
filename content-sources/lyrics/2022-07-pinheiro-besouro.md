@@ -4,7 +4,6 @@ slug: pinheiro-besouro
 topic:
   - capoeira
 ---
-
 # ~toque de Amazonas
 
 no largo do Pelourinho

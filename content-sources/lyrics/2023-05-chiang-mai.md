@@ -4,7 +4,6 @@ slug: chiang-mai-2023
 topic:
   - english
 ---
-
 # James Taylor: You've Got A Friend
 
 When you′re down and troubled

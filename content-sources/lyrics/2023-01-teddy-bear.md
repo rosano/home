@@ -2,7 +2,6 @@
 collection: teddy bear
 slug: teddy-bear
 ---
-
 # song for my teddy bear
 
 teddy bear, teddy bear

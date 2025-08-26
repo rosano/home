@@ -4,7 +4,6 @@ slug: tiny-concert-2021
 topic:
   - brazil
 ---
-
 # Joyce: Monsieur Binot
 
 Olha aí, monsieur Binot

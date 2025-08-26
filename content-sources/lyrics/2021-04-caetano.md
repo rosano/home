@@ -4,7 +4,6 @@ slug: caetano-2021
 topic:
   - brazil
 ---
-
 # Um Só Lugar
 
 nós dois somos um só lugar

@@ -4,7 +4,6 @@ slug: pastinha-eternamente
 topic:
   - capoeira
 ---
-
 # Ladainha
 
 Iê, maior é Deus, pequeno sou eu

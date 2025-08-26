@@ -4,7 +4,6 @@ slug: colombia-2018
 topic:
   - spanish
 ---
-
 # Marta Gómez: Yo te espero
 
 Un recuerdo borroso de tu cara
