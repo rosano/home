@@ -32,7 +32,6 @@
     
     {{ $headingMatch := (index (findRE `\n(##.+)` $content) 0) }}
     {{ if $headingMatch }}
-      {{ $heading := lower (substr $headingMatch 1) }}
       {{ $parts := split $content $headingMatch }}
       {{ $extra := strings.TrimSpace (print $headingMatch (index $parts 1)) }}
       {{ $content = index $parts 0 }}
