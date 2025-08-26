@@ -29,7 +29,7 @@ E o novo dia chegou
 E eu vim me buscar
 Quem sabe em você
 
-# Sources
+## Sources
 - audio https://www.youtube.com/watch?v=5w4f0LWo-7g
 - Chords https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
 - Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
@@ -84,7 +84,7 @@ Nada mais vai no caixão
 
 (Refrão)
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/meu-mundo-hoje/
 
 ---
@@ -114,7 +114,7 @@ Que voltarei depressa tão logo a noite acabe
  A7                D#m7(b5)    G#7        C#m7
 Tão logo este tempo passe  para beijar você
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/para-um-amor-no-recife/
 - audio https://youtu.be/PClFteQLPxI
 
@@ -154,7 +154,7 @@ Quando consegue do peito tirar um espinho
 
 Já não pode morrer
 
-# Sources
+## Sources
 - video https://www.youtube.com/watch?v=ZQNIa6VhHoY
 - chords https://www.cifraclub.com.br/paulinho-da-viola/onde-dor-nao-tem-razao/
 
@@ -197,7 +197,7 @@ Ele trata com ternura o sofrimento
            D                A7
 E afasta a solidão   ( Mas vem... )
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/quando-bate-uma-saudade/
 
 ---
@@ -244,7 +244,7 @@ De um coração leviano
     Db7    F#m7 B7     E
 Que nunca será de ninguém
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-leviano/
 
 ---
@@ -294,7 +294,7 @@ e ficou maluco de tanta alegria (domingo)
 
 Refrão
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/no-pagode-do-vava/
 
 ---
@@ -364,7 +364,7 @@ O Sol da Bahia te queimou
             D7       G
 Teu corpo morena morenou
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/moema-morenou/
 
 ---
@@ -436,7 +436,7 @@ E uma ilusão deve morrer
 
 Am7(9)
 
-# Sources
+## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-vulgar/
 
 ---
@@ -494,7 +494,7 @@ Nem se prende a coisas banais
  G
 Repare bem
 
-# Sources
+## Sources
 - audio https://www.youtube.com/watch?v=xCP3T9i7Kb0&list=PLTaRWr5sdDvlH94QabxSqKTnelrwTzXms&index=14
 - Chords https://www.cifraclub.com.br/tereza-cristina/coisas-banais/
 
@@ -543,7 +543,7 @@ Até quando por direito
 Este amor chegar
 
 
-# Sources
+## Sources
 - lyrics https://www.letras.mus.br/paulinho-da-viola/278698/
 
 ---

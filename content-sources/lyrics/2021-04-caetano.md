@@ -111,7 +111,7 @@ debaixo do meu cobertor de lã
 eu faço samba e amor a noite inteira
 não tenho a quem prestar satisfação
 
-# Sources
+## Sources
 - Chords https://www.ultimate-tabs.com/caetano-veloso/samba-e-amor-chords
 
 ---
@@ -130,7 +130,7 @@ que não chegasse a madrugada
 eu só queria amor
 amor e mais nada
 
-# Sources
+## Sources
 - Madrugada e Amor - Caetano Veloso - LETRAS.MUS.BR https://www.letras.mus.br/caetano-veloso/1201680/
 - https://www.ultimate-tabs.com/caetano-veloso/madrugada-e-amor-chords
 
@@ -153,7 +153,7 @@ cor do céu de lá
 se não drume esse mandu de carnaval
 não vai pegar 
 
-# Sources
+## Sources
 - Chords https://www.ultimate-tabs.com/caetano-veloso/drume-negrinha-chords
 
 ---
@@ -183,7 +183,7 @@ Muito momento que nasce
 Muito tempo que morreu
 Mas nada é igual a ela e eu
 
-# Sources
+## Sources
 - lyrics https://www.letras.mus.br/caetano-veloso/144564/
 
 ---
@@ -240,5 +240,5 @@ esse papo meu tá qualquer coisa
 e você tá pra lá de Teerã!
 (qualquer coisa, você já tá…)
 
-# Sources
+## Sources
 - Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
