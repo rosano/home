@@ -11,20 +11,26 @@
   {{ $params := unmarshal (index $parts 1) }}
   {{ $collectionSlug := index $params "slug" }}
 
-  {{ range $i, $v := after 2 $parts }}
+  {{ range $i, $v := split (delimit (after 2 $parts) "---") "\n# " }}
     {{ $content := strings.TrimSpace $v }}
 
-    {{ $titleMatch := (index (findRE `^# (.+)` $content) 0) }}
-    {{ $title := cond (eq (substr $titleMatch 2 1) "~") (substr $titleMatch 3) (lower (substr $titleMatch 2)) }}
+    {{ if eq $content "" }}
+      {{ continue }}
+    {{ end }}
+    
+    {{ $lines := split $content "\n" }}
+
+    {{ $titleMatch := index $lines 0 }}
+    {{ $title := cond (eq (substr $titleMatch 0 1) "~") (substr $titleMatch 1) (lower $titleMatch) }}
     {{ $slug := delimit (complement (slice "") (split ($title | anchorize) "-")) "-" }}
-    {{ $content = index (split $content $titleMatch) 1 }}
+    {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
 
     {{ $params = merge $params (dict
       "filename" $filename
       "extra" ""
     ) }}
     
-    {{ $headingMatch := (index (findRE `\n(#.+)` $content) 0) }}
+    {{ $headingMatch := (index (findRE `\n(##.+)` $content) 0) }}
     {{ if $headingMatch }}
       {{ $heading := lower (substr $headingMatch 1) }}
       {{ $parts := split $content $headingMatch }}
@@ -32,7 +38,7 @@
       {{ $content = index $parts 0 }}
       
       {{ $params = merge $params (dict
-        "extra" (replace $extra "# " "#### ")
+        "extra" (replace $extra "## " "#### ")
       ) }}
     {{ end }}
 

@@ -30,8 +30,6 @@ E o resto nunca se espera
 O resto é próxima esfera
 O resto é outra encarnação
 
----
-
 # Chico Buarque: Capitão
 
 Brasil
@@ -64,8 +62,6 @@ Inda bem,
 quem ama a vida prefere o ofício de salvar
 quem ama a terra prefere o ofício de sonhar
 quem ama mesmo prefere o ofício de amar.
-
----
 
 # Joyce: Mistérios
 

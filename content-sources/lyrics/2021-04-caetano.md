@@ -63,8 +63,6 @@ Não vou, não vou deixar
 Você é meu lugar
 [you're my place]
 
----
-
 # Alguém Cantando
 
 Alguém cantando longe daqui
@@ -83,8 +81,6 @@ A voz de alguém quando vem do coração
 De quem mantém toda a pureza
 Da natureza
 Onde não há pecado nem perdão
-
----
 
 # Samba E Amor
 
@@ -113,8 +109,6 @@ não tenho a quem prestar satisfação
 ## Sources
 - Chords https://www.ultimate-tabs.com/caetano-veloso/samba-e-amor-chords
 
----
-
 # Madrugada e Amor
 
 madrugada chegou
@@ -132,8 +126,6 @@ amor e mais nada
 ## Sources
 - Madrugada e Amor - Caetano Veloso - LETRAS.MUS.BR https://www.letras.mus.br/caetano-veloso/1201680/
 - https://www.ultimate-tabs.com/caetano-veloso/madrugada-e-amor-chords
-
----
 
 # Drume Negrinha
 
@@ -154,8 +146,6 @@ não vai pegar
 
 ## Sources
 - Chords https://www.ultimate-tabs.com/caetano-veloso/drume-negrinha-chords
-
----
 
 # Ela e Eu
 
@@ -185,8 +175,6 @@ Mas nada é igual a ela e eu
 ## Sources
 - lyrics https://www.letras.mus.br/caetano-veloso/144564/
 
----
-
 # Deusa do Amor
 
 Tudo fica mais bonito quando você está por perto
@@ -207,8 +195,6 @@ O cupido me flechou
 Foi no bloco Olodum que encontrei meu amor
 Vem pra cá deusa do amor
 Vem me embalar, neném
-
----
 
 # Qualquer Coisa
 

@@ -62,8 +62,6 @@ Ogum, meu guia
 salve o Besouro, mangangá
 rei da Bahia
 
----
-
 # ~toque de Benguela
 
 Mãe-África engravidou em Angola
@@ -101,8 +99,6 @@ Se instigar vai provar o veneno dela
 (Camara que me veio essa cantiga?)
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
-
----
 
 # Jogo de Dentro
 
@@ -149,8 +145,6 @@ Vim aqui pra jogo de dentro
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/jogo-de-dentro/#album:capoeira-de-besouro-2010
 
----
-
 # ~toque de São Bento Pequeno
 
 No coração contra o veneno
@@ -187,8 +181,6 @@ Com respeito a meu São Bento pequeno
 
 - https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-sao-bento-pequeno/
 - https://www.arteculturacapoeira.com.br/site/index.php?option=com_content&view=article&id=102:dicionario&catid=57:dicionario-da-capoeira&Itemid=85
-
----
 
 # ~toque de Cavalaria
 
@@ -275,8 +267,6 @@ Vamos tocar cavalaria
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-cavalaria/#album:capoeira-de-besouro-2010
 
----
-
 # Toque de Santa Maria
 
 No terreiro da lua (Santa Maria)
@@ -319,8 +309,6 @@ Pelo Toque de Santa Maria (Pelo Toque de Santa Maria)
 Pelo Toque de Santa Maria
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/1943216/#album:capoeira-de-besouro-2010
-
----
 
 # ~toque de São Bento Grande de Angola
 
@@ -369,8 +357,6 @@ Respectar
 So se for são bento grande
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/1943215/#album:capoeira-de-besouro-2010
-
----
 
 # ~toque de Barravento
 
@@ -422,8 +408,6 @@ Iaô dança
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-barravento/#album:capoeira-de-besouro-2010
 
----
-
 # ~toque de Iúna
 
 Iúna é madeira é pedaço de pau
@@ -469,11 +453,12 @@ Puxando o toque de Iúna
 Iúna é uma ave espiritual
 Seu canto é a chave desse ritual
 
+
 ## English
 
 Iúna is wood, a piece of wood
 wood for berimbau
- 
+
 crack of the bell that tolls
 gavel struck in court
 shell of the snake's egg
@@ -515,8 +500,6 @@ Iúna is a spiritual bird
 their song is the key to this ritual
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-iuna/#album:capoeira-de-besouro-2010
-
----
 
 # ~toque de Angola Dobrada
 
@@ -568,8 +551,6 @@ Iê iê iê iê iê
 Tem Besouro de frente no jogo de Angola
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola-dobrada/#album:capoeira-de-besouro-2010
-
----
 
 # ~toque de Angola
 
@@ -656,8 +637,6 @@ comrade, son of Ghandi
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola/#album:capoeira-de-besouro-2010
 
----
-
 # Toque de Idalina
 
 Camará abre a roda chegou negro mina
@@ -725,8 +704,6 @@ Veio no toque de Idalina
 (Veio no toque de Idalina)
 
 https://www.musixmatch.com/pt/letras/Paulo-Cesar-Pinheiro-3/Toque-de-Idalina
-
----
 
 # Jogo de Fora
 
@@ -797,8 +774,6 @@ Tu me procure que eu tô lá
 
 https://www.musixmatch.com/lyrics/Paulo-Cesar-Pinheiro-3/Jogo-de-Fora
 
----
-
 # Toque de Tico-Tico
 
 Eu em chão de senzala não fico
@@ -867,8 +842,6 @@ Vamo embora pro quilombo
 Lá de Ilha de Maré
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-tico-tico/#album:capoeira-de-besouro-2010
-
----
 
 # Samba de Roda
 

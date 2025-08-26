@@ -34,8 +34,6 @@ Quem sabe em você
 - Chords https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
 - Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
 
----
-
 # Meu Mundo É Hoje
 
 Intro: Bm7/9 C#m7(b5) F#7(13)
@@ -87,8 +85,6 @@ Nada mais vai no caixão
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/meu-mundo-hoje/
 
----
-
 # Para Um Amor No Recife
 
 [Intro] C#m7  G#7(b13)  C#m7  G#7(b13) G#7 
@@ -117,8 +113,6 @@ Tão logo este tempo passe  para beijar você
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/para-um-amor-no-recife/
 - audio https://youtu.be/PClFteQLPxI
-
----
 
 # Onde a Dor Não Tem Razão
 
@@ -157,8 +151,6 @@ Já não pode morrer
 ## Sources
 - video https://www.youtube.com/watch?v=ZQNIa6VhHoY
 - chords https://www.cifraclub.com.br/paulinho-da-viola/onde-dor-nao-tem-razao/
-
----
 
 # Quando Bate Uma Saudade
 
@@ -199,8 +191,6 @@ E afasta a solidão   ( Mas vem... )
 
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/quando-bate-uma-saudade/
-
----
 
 # Coração Leviano
 
@@ -246,8 +236,6 @@ Que nunca será de ninguém
 
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-leviano/
-
----
 
 # No Pagode do Vavá
 
@@ -296,8 +284,6 @@ Refrão
 
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/no-pagode-do-vava/
-
----
 
 # Moema Morenou
 
@@ -366,8 +352,6 @@ Teu corpo morena morenou
 
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/moema-morenou/
-
----
 
 # Coração Vulgar
 
@@ -439,8 +423,6 @@ Am7(9)
 ## Sources
 - chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-vulgar/
 
----
-
 # Coisas Banais
 
 Cifra: Principal (violão e guitarra)
@@ -498,8 +480,6 @@ Repare bem
 - audio https://www.youtube.com/watch?v=xCP3T9i7Kb0&list=PLTaRWr5sdDvlH94QabxSqKTnelrwTzXms&index=14
 - Chords https://www.cifraclub.com.br/tereza-cristina/coisas-banais/
 
----
-
 # Depois de Tanto Amor
 
 É será melhor
@@ -545,8 +525,6 @@ Este amor chegar
 
 ## Sources
 - lyrics https://www.letras.mus.br/paulinho-da-viola/278698/
-
----
 
 # Pecado Capital
 

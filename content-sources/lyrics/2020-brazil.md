@@ -26,8 +26,6 @@ que me balança e me desperta, sempre mais
 - [Audio](https://www.youtube.com/watch?v=OfIM0uBIPpg)
 - [Lyrics](https://www.cifraclub.com.br/art-popular/quando-voce-me-beija/)
 
----
-
 # Paulinho da Viola: Timoneiro
 
 Não sou eu quem me navega  quem me navega e o mar
@@ -71,8 +69,6 @@ A onda que me carrega ela mesma  quem me traz
 - video https://www.youtube.com/watch?v=7DXfO39necU
 - chords https://www.cifraclub.com.br/paulinho-da-viola/timoneiro/
 
----
-
 # Chico Buarque: Eu Não Quero Saber
 
 Eu não quero saber da onde vens 
@@ -90,8 +86,6 @@ Siga teu caminho eu não estou mais sozinho
 
 ## Sources
 - lyrics https://www.kboing.com.br/samba-de-fatocristina-buarque/eu-nao-quero-saber/
-
----
 
 # Teresa Cristina: Cantar
 

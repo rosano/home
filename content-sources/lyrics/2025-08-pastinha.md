@@ -30,16 +30,12 @@ Iê Rio de Janeiro
 Iê Morro de São Paulo
 Iê Farol da Bahia
 
----
-
 # Dona Alice não me pegue não
 
 Dona Alice não me pegue não
 Não me pegue,
 não me encoste,
 não me pegue não
-
----
 
 # Canarinho da Alemanha
 
@@ -60,8 +56,6 @@ Quem matou meu curió ?
 Eu jogo capoeira
 Na Bahia e em Maceió
 
----
-
 # Valha-me Deus, senhor São Bento
 
 Valha-me Deus, senhor São Bento
@@ -78,8 +72,6 @@ Valha-me Deus, senhor São Bento
 Eu tanto jogo para cima
 Valha-me Deus, senhor São Bento
 Quanto jogo para o chão
-
----
 
 # Ladainha
 
@@ -115,22 +107,16 @@ Iêê Galo Cantou,
 Iêê Cocorocou,
 Iêê Minino É Bom Camará...
 
----
-
 # Quebra jereba
 
 Quebra jereba
 Quebra tudo hoje
 Amanhã nada quebra
 
----
-
 # Dona Maria que vende aí ?
 
 Dona Maria que vende aí ?
 Coco e pipoca que é do Brasil
-
----
 
 # Lapinha
 
@@ -142,8 +128,6 @@ Eu vou partir porque mataram meu Besouro
 
 Ê zum zum zum zum !
 Ê Besouro !
-
----
 
 # Ladainha
 
@@ -168,8 +152,6 @@ o Berimbau é o maior
 Camaradinho
 Iê Viva meu Deus
 
----
-
 # Ai ai ai dê
 
 Ai ai ai dê
@@ -179,8 +161,6 @@ Era eu era meu mano
 Quando nos andava junto
 Eu não sei se Deus consente
 Numa cova dois defuntos
-
----
 
 # Xô xô meu canário
 
@@ -195,8 +175,6 @@ Nego velho também apanha
 Xô xô meu canário
 Alemão que me mandou
 
----
-
 # Luanda ê meu boi
 
 Luanda ê meu boi
@@ -207,8 +185,6 @@ Lá no cais da Bahia
 Não tem le le nem la la
 O la e la e la
 O le le
-
----
 
 # Ladainha
 
@@ -237,8 +213,6 @@ Iê salve o Brasil
 E vamonos embora
 Pelo mundo afora
 
----
-
 # a manteiga derramou
 
 Vai dizer a meu senhor
@@ -246,14 +220,10 @@ Que a manteiga derramou
 A manteiga não é minha
 A manteiga é de ioiô
 
----
-
 # A canoa virou marinheiro
 
 A canoa virou marinheiro
 No fundo do mar tem dinheiro
-
----
 
 # Adeus adeus
 
@@ -266,8 +236,6 @@ boa viagem
 Com Nossa senhora
 boa viagem
 
----
-
 # Quem vem lá ?
 
 Quem vem lá ?
@@ -276,8 +244,6 @@ Quem vem lá ?
 A cancela bateu
 Quem vem lá ?
 Quem vem junto sou eu
-
----
 
 # Dá dá, dá no nego
 
@@ -289,8 +255,6 @@ Dá dá, dá no nego
 Esse nego é malvado, esse nego é maluco, esse nego é o cão
 Dá dá, dá no nego
 
----
-
 # Pega esse nego, derruba no chão
 
 Pega esse nego, derruba no chão
@@ -299,8 +263,6 @@ Pega esse nego, derruba no chão
 Esse nego é o diavo, esse nego é o cão
 Pega esse nego, derruba no chão
 Esse nego é maluco, esse nego é o cão
-
----
 
 # Ladainha
 
@@ -332,14 +294,10 @@ Iê cocoroco
 Vamonos embora
 Ele é mandingueiro
 
----
-
 # Tabaréu que vem do sertão
 
 Tabaréu que vem do sertão
 Que vende maxixe, quiabo e limão
-
----
 
 # Esse gunga é meu, esse gunga é meu
 
@@ -348,8 +306,6 @@ Gunga é meu, eu não posso vender
 Esse gunga é meu, esse gunga é meu
 Gunga é meu, foi meu pai que me deu
 
----
-
 # Adão, Adão, cadê Salomé Adão ?
 
 Adão, Adão, cadê Salomé Adão ?
@@ -357,14 +313,10 @@ Salomé foi passear
 Adão, Adão, cadê Salomé Adão ?
 Foi para a ilha de Maré
 
----
-
 # Tô dormindo, tô sonhando
 
 Tô dormindo, tô sonhando
 Tão falando mal de mim
-
----
 
 # Mandá lecô
 

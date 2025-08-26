@@ -38,8 +38,6 @@ Só pra ver como a capoeira nasceu
 
 https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%203
 
----
-
 # Luanda Eu Volto (Lobisomem)
  
 Luanda eu volto
@@ -78,8 +76,6 @@ Mas antes vou à Bahia
 Pra buscar meu berimbau
 
 https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%203
-
----
 
 # Camafeu do Mercado (Lobisomem)
  
@@ -120,8 +116,6 @@ Da barraca do mercado
 ## Sources
 - lyrics https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%2010
 
----
-
 # No Balanço do Mar (Esquilo)
  
 No balanço do mar ioiô
@@ -150,8 +144,6 @@ e voltar pra minha terra
 Eu vou no balanço do mar
 
 https://abadadc.org/paginas/musicas/abada_Lobisomem.htm
-
----
 
 # Benguela me Chama (Lobisomem)
  
@@ -189,8 +181,6 @@ Me encandeou
 Com Deus é que eu vou
  
 https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%203
-
----
 
 # Magia da Bahia (Pantalona)
  
