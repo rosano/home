@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Lyrics section
 
 ### Fixed
-- exclude RSS feeds for `params.disabledFeedSections` in `hugo.yml`
+- exclude RSS feeds for `params._disabledFeedSections` in `hugo.yml`
 
 ## [0.2.0] - 2025-08-12
 

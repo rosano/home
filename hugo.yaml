@@ -77,7 +77,7 @@ params:
     - content-sources/journal
     - content/vibrations
     - content/blog
-  disabledFeedSections:
+  _disabledFeedSections:
     - browse_year
     - browse_month
     - browse_day
