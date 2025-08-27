@@ -22,7 +22,9 @@
 {{ end }}
 {{ .Scratch.Delete "kIsHeadTitle" }}
 
-<link rel="alternate" type="application/rss+xml" href="https://utopia.rosano.ca/feed" title="Updates">
+{{ range $k, $v := .Site.Params.RSSFeedURLs }}
+	<link rel="alternate" type="application/rss+xml" href="{{ $v }}" title="{{ $k }}">
+{{ end }}
 
 {{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") | resources.Concat "css/bundle.css" | css.Sass $options }}
