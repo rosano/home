@@ -82,7 +82,7 @@
 {{ end }}
 </footer>
 
-{{ if .Site.Params.showGazette }}
+{{ if (and (eq hugo.Environment "production") .Site.Params.showGazette) }}
 	<div class="ROCOGazette OLSKDecorModule">
 
 	<p class="OLSKFollow">Find me on <a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/mastodon">Mastodon</a> or <a class="OLSKFollowTwitter" target="_blank" href="https://rosano.ca/twitter">Twitter</a>.</p>
