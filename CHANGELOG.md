@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.6] - 2025-08-27
 
 ### Added
-- Configure `logoURL`, `touchURL`, `bannerScriptURL`, `RSSFeedURLs`
+- Configure `logoURL`, `touchURL`, `_bannerScriptURL`, `RSSFeedURLs`
 
 ### Fixed
 - Show remote assets only in production
