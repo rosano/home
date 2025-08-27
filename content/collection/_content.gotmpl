@@ -8,6 +8,10 @@
 
   {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
   {{ $params := unmarshal (index $parts 1) }}
+  {{ $params = merge $params (dict
+    "lyrics_topic" (index $params "topic")
+    "topic" nil
+  ) }}
 
   {{ $title := index $params "collection" }}
   {{ $slug := default (path.BaseName $filename) (index $params "slug") }}

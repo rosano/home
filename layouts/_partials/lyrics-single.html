@@ -32,7 +32,7 @@
 	{{- end -}}
 
 	<!-- TOPIC -->
-	{{- with .GetTerms "topic" -}}
+	{{- with .GetTerms "lyrics_topic" -}}
 	<small>Topics: {{ range $index, $element := . -}}
 		{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
 	{{- end -}}.

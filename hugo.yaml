@@ -25,7 +25,7 @@ taxonomies:
   browse_month: browse_month
   browse_day: browse_day
   collection: collection
-  topic: topic
+  lyrics_topic: lyrics_topic
 
 permalinks:
   page:
@@ -46,7 +46,7 @@ permalinks:
     browse_month: /log/:2006/:01/
     browse_day: /log/:2006/:01/:02/
     collection: /lyrics/:slug/
-    topic: /lyrics/topic/:slug/
+    lyrics_topic: /lyrics/topic/:slug/
 
 services:
   rss:
@@ -83,4 +83,4 @@ params:
     - browse_day
     - lyrics
     - collection
-    - topic
+    - lyrics_topic
