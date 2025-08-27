@@ -1,3 +1,10 @@
+title: Rosano
+baseURL: https://home.rosano.ca/
+languageCode: en-ca
+pagination:
+  pagerSize: 20
+
+titleCaseStyle: none
 markup:
   goldmark:
     renderer:
@@ -5,34 +12,8 @@ markup:
       hardWraps: true
     parser:
       autoHeadingIDType: github-ascii
-
-baseURL: https://home.rosano.ca/
-title: Rosano
-params:
-  sourcePrefix: https://github.com/rosano/home/edit/master
-  mediaPrefix: https://static.rosano.ca/home
-  showGazette: true
-  logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
-  showTemporary: true
-  showTypes: true
-  lowerLyricTitles: true
-  timelineSources:
-    - content-sources/journal
-    - content/vibrations
-    - content/blog
-  disabledFeedSections:
-    - browse_year
-    - browse_month
-    - browse_day
-    - lyrics
-    - collection
-    - topic
-
-languageCode: en-ca
-titleCaseStyle: none
-
-pagination:
-  pagerSize: 20
+disableKinds:
+- taxonomy
 
 taxonomies:
   category: categories
@@ -45,9 +26,6 @@ taxonomies:
   browse_day: browse_day
   collection: collection
   topic: topic
-
-disableKinds:
-- taxonomy
 
 permalinks:
   page:
@@ -82,3 +60,23 @@ outputFormats:
   RSS:
     mediatype: "application/rss"
     baseName: "feed"
+
+params:
+  sourcePrefix: https://github.com/rosano/home/edit/master
+  mediaPrefix: https://static.rosano.ca/home
+  showGazette: true
+  logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
+  showTemporary: true
+  showTypes: true
+  lowerLyricTitles: true
+  timelineSources:
+    - content-sources/journal
+    - content/vibrations
+    - content/blog
+  disabledFeedSections:
+    - browse_year
+    - browse_month
+    - browse_day
+    - lyrics
+    - collection
+    - topic
