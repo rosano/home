@@ -1,6 +1,8 @@
 ---
 collection: teddy bear
 slug: teddy-bear
+topic:
+  - english
 ---
 # song for my teddy bear
 
