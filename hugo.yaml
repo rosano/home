@@ -71,7 +71,7 @@ params:
   RSSFeedURLs:
     updates: https://utopia.rosano.ca/feed
   _showTemporary: true
-  showTypes: true
+  _showTypes: true
   lowerLyricTitles: true
   timelineSources:
     - content-sources/journal
