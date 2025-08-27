@@ -29,7 +29,9 @@
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
 
-<script src="https://olsk.rosano.ca/OLSKBanner/master/main.js"></script>
+{{ if (and (eq hugo.Environment "production") .Site.Params.bannerScriptURL) }}
+	<script src="{{ .Site.Params.bannerScriptURL }}"></script>
+{{ end }}
 
 {{- partial "media-embeds.html" . -}}
 
