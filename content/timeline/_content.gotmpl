@@ -6,11 +6,9 @@
 ) }}
 {{ $enableDepartures := false }}
 
-{{ if fileExists "assets/departures.csv" }}
-  {{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
-    {{ $enableDepartures = true }}
-    {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
-  {{ end }}
+{{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
+  {{ $enableDepartures = true }}
+  {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
 {{ end }}
 
 {{ .Site.Store.Set "kDepartures" $departures }}
