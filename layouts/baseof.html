@@ -5,7 +5,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link rel="icon" href="https://static.rosano.ca/rcreativ/touch.png" type="image/png">
+{{ if (and (eq hugo.Environment "production") .Site.Params.touchURL) }}
+	<link rel="icon" href="{{ .Site.Params.touchURL }}" type="image/png">
+{{ end }}
 
 {{ $section := cond (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "collection" "topic") .Section) "lyrics" .Section) }}
 

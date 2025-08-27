@@ -66,6 +66,7 @@ params:
   mediaPrefix: https://static.rosano.ca/home
   showGazette: true
   logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
+  touchURL: https://static.rosano.ca/rcreativ/touch.png
   bannerScriptURL: https://olsk.rosano.ca/OLSKBanner/master/main.js
   showTemporary: true
   showTypes: true
