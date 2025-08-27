@@ -42,9 +42,11 @@
 	<hr>
 
 	<small class="metadata">
-		<span>
-			<a href="{{ .Site.Params.sourcePrefix }}{{ print "/lyrics/" .Params.filename }}">Source</a>
-		</span>
+		{{ if .Site.Params.sourcePrefix }}
+			<span>
+				<a href="{{ .Site.Params.sourcePrefix }}{{ print "/lyrics/" .Params.filename }}">Source</a>
+			</span>
+		{{ end }}
 
 		<span>
 			{{ range $i, $v := slice

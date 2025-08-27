@@ -160,9 +160,11 @@
 <hr>
 
 <small class="metadata">
-	<span>
-		<a href="{{ .Site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
-	</span>
+	{{ if .Site.Params.sourcePrefix }}
+		<span>
+			<a href="{{ .Site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
+		</span>
+	{{ end }}
 	{{ $syndications := slice
 		(dict
 			"key" "youtube_id"
