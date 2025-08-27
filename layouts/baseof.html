@@ -45,7 +45,7 @@
 
 <header>
 	<h2>
-		{{ if .Site.Params.logoURL }}
+		{{ if (and (eq hugo.Environment "production") .Site.Params.logoURL) }}
 			<a aria-hidden="true" href="{{ .Site.Home.RelPermalink }}">
 				<img src="{{ .Site.Params.logoURL }}" />
 			</a>
