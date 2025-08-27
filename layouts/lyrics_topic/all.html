@@ -3,10 +3,10 @@
 <h1>{{- partial "page-title" . -}}</h1>
 
 {{ range .Pages.GroupByParam "filename" "desc" }}
-	{{ $collection := (index .Pages 0).Params.collection }}
+	{{ $collection := (index .Pages 0).Params.lyrics_collection }}
 	
 	<h3 class="sticky-heading">collection: 
-		{{ range $.Site.Taxonomies.collection }}
+		{{ range $.Site.Taxonomies.lyrics_collection }}
 			{{ if eq .Page.LinkTitle $collection }}
 				<a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a>
 			{{ end }}

@@ -11,6 +11,8 @@
   {{ $params = merge $params (dict
     "lyrics_topic" (index $params "topic")
     "topic" nil
+    "lyrics_collection" (index $params "collection")
+    "collection" nil
   ) }}
 
   {{ $collectionSlug := default (path.BaseName $filename) (index $params "slug") }}

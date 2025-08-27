@@ -9,7 +9,7 @@
 	<link rel="icon" href="{{ .Site.Params.touchURL }}" type="image/png">
 {{ end }}
 
-{{ $section := cond (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "collection" "lyrics_topic") .Section) "lyrics" .Section) }}
+{{ $section := cond (in (slice "timeline" "browse_year" "browse_month" "browse_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "lyrics_collection" "lyrics_topic") .Section) "lyrics" .Section) }}
 
 {{ .Scratch.Set "kSemanticSection" $section }}
 {{ .Scratch.Set "kIsHeadTitle" "true" }}

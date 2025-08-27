@@ -11,9 +11,11 @@
   {{ $params = merge $params (dict
     "lyrics_topic" (index $params "topic")
     "topic" nil
+    "lyrics_collection" (index $params "collection")
+    "collection" nil
   ) }}
 
-  {{ $title := index $params "collection" }}
+  {{ $title := index $params "lyrics_collection" }}
   {{ $slug := default (path.BaseName $filename) (index $params "slug") }}
   
   {{ $.AddPage (dict

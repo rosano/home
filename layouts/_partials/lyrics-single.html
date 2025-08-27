@@ -27,7 +27,7 @@
 {{ if not (.Scratch.Get "kScopeList")  }}
 
 	<!-- COLLECTION -->
-	{{- range (.GetTerms "collection") -}}
+	{{- range (.GetTerms "lyrics_collection") -}}
 		<p><small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small></p>
 	{{- end -}}
 
