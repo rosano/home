@@ -34,6 +34,18 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [embed in video posts](https://rosano.ca/vibrations/lt4p0rpx/) (by setting `lyrics` to public slug)
 - bidirectional link between [lyric](https://rosano.ca/lyrics/london-2024/lapinha) and [Vibration](https://rosano.ca/vibrations/m3imvrwq) pages
 
+# Parameters
+
+| param | type | notes |
+|-------|---------|-------|
+| `sourcePrefix` | string | prepended to file paths for Source links |
+| `mediaPrefix` | string | prepended to image paths in content |
+| `logoURL` | URL | used as an image near the site title |
+| `touchURL` | URL | image for adding to home screens |
+| `RSSFeedURLs` | map[name: url] | external RSS urls |
+| `lowerLyricTitles` | boolean | show lyric titles in lowercase unless preceeded by `~` |
+| `timelineSources` | list | paths (relative to project root) to include as timeline content |
+
 # Powered by [Hugo](https://gohugo.io)
 
 Notable aspects include:
