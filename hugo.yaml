@@ -70,7 +70,7 @@ params:
   _bannerScriptURL: https://olsk.rosano.ca/OLSKBanner/master/main.js
   RSSFeedURLs:
     updates: https://utopia.rosano.ca/feed
-  showTemporary: true
+  _showTemporary: true
   showTypes: true
   lowerLyricTitles: true
   timelineSources:
