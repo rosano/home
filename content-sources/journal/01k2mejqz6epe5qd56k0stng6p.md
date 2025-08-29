@@ -1,7 +1,8 @@
 ---
 date: 2025-08-14T14:08:43.494Z
+tags: ["capoeira"]
+categories: ["sound"]
 link: https://www.youtube.com/watch?v=YRe9t2OFaXU
-categories: ["talk"]
 ---
 [Capoeira Music Practice: Profa Minha Velha](https://www.youtube.com/watch?v=YRe9t2OFaXU)
 

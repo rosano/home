@@ -1,6 +1,7 @@
 ---
 date: 2024-02-24T19:27:30.118Z
 categories: ["sound"]
+tags: ["capoeira"]
 link: https://www.youtube.com/watch?v=8lBorFpEeYo
 ---
 [Berimbaus da Bahia: Camafeu de Oxóssi (1964)](https://www.youtube.com/watch?v=8lBorFpEeYo)
