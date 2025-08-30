@@ -175,6 +175,10 @@ hr {
 	flex-grow: 1;
 }
 
+.post .types {
+	flex-shrink: 0;
+}
+
 .post .types a {
 	font-weight: bold;
 	font-size: 90%;
