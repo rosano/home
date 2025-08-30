@@ -1,11 +1,11 @@
-{{ $isDay := (and (eq .Kind "term") (eq .Data.Singular "browse_day")) }}
+{{ $isDay := (and (eq .Kind "term") (eq .Data.Singular "timeline_day")) }}
 
 <div>
-{{ range .Paginator.Pages.GroupByParam "browse_day" "desc" }}
+{{ range .Paginator.Pages.GroupByParam "timeline_day" "desc" }}
 	{{ $browseDay := .Key }}
 
 	{{ if not $isDay }}
-		{{ with (index ((index .Pages 0).GetTerms "browse_day") 0) }}
+		{{ with (index ((index .Pages 0).GetTerms "timeline_day") 0) }}
 		  <h3 class="sticky-heading"><a href="{{ .Page.Permalink }}">{{ time.Format "Monday, January 2, 2006" (time.AsTime (replace $browseDay "/" "-")) }}</a></h3>
 		{{ end }}
 	{{ end }}

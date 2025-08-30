@@ -61,9 +61,9 @@
       {{ end }}
       
       {{ $params = merge $params (dict
-        "browse_year" ($v | time.Format "2006")
-        "browse_month" ($v | time.Format "2006/01")
-        "browse_day" ($v | time.Format "2006/01/02")
+        "timeline_year" ($v | time.Format "2006")
+        "timeline_month" ($v | time.Format "2006/01")
+        "timeline_day" ($v | time.Format "2006/01/02")
       ) }}
 
       {{ if strings.Contains $dir "content/" }}

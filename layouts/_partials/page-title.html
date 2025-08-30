@@ -4,10 +4,10 @@
 	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }} {{ (where .Pages "Section" "timeline").Len }} {{ end }}{{ cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries" }} {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for")) }}
 {{ end }}
 
-{{- if (and (eq .Kind "term") (eq .Data.Singular "browse_day")) }}
+{{- if (and (eq .Kind "term") (eq .Data.Singular "timeline_day")) }}
 	{{ $t := time.AsTime (replace .Data.Term "/" "-") }}
 	{{ time.Format "Monday, January 2, 2006" $t }}
-{{ else if (and (eq .Kind "term") (eq .Data.Singular "browse_month")) }}
+{{ else if (and (eq .Kind "term") (eq .Data.Singular "timeline_month")) }}
 	{{ $t := time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") }}
 	{{ time.Format "January 2006" $t }}
 {{ else if (in (slice "categories" "tags" "series") .Data.Plural) -}}

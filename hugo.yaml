@@ -20,9 +20,9 @@ taxonomies:
   place: place
   country: country
   series: series
-  browse_year: browse_year
-  browse_month: browse_month
-  browse_day: browse_day
+  timeline_year: timeline_year
+  timeline_month: timeline_month
+  timeline_day: timeline_day
   lyrics_collection: lyrics_collection
   lyrics_topic: lyrics_topic
 
@@ -41,9 +41,9 @@ permalinks:
     series: /log/series/:slug/
     place: /log/place/:slug/
     country: /log/country/:slug/
-    browse_year: /log/:2006/
-    browse_month: /log/:2006/:01/
-    browse_day: /log/:2006/:01/:02/
+    timeline_year: /log/:2006/
+    timeline_month: /log/:2006/:01/
+    timeline_day: /log/:2006/:01/:02/
     lyrics_collection: /lyrics/:slug/
     lyrics_topic: /lyrics/topic/:slug/
 
@@ -77,9 +77,9 @@ params:
     - content/vibrations
     - content/blog
   _disabledFeedSections:
-    - browse_year
-    - browse_month
-    - browse_day
+    - timeline_year
+    - timeline_month
+    - timeline_day
     - lyrics
     - lyrics_collection
     - lyrics_topic

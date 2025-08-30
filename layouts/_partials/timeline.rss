@@ -1,4 +1,4 @@
-{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "browse_day" "desc" }}
+{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "timeline_day" "desc" }}
 {{ if gt .Site.Config.Services.RSS.Limit 0 }}
   {{- $pages = first .Site.Config.Services.RSS.Limit $pages }}
 {{ end }}
@@ -13,7 +13,7 @@
 <title>{{ time.Format "Monday, January 2, 2006" $t }}</title>
 <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $t | safeHTML }}</pubDate>
 
-{{ with (index ((index .Pages 0).GetTerms "browse_day") 0) }}
+{{ with (index ((index .Pages 0).GetTerms "timeline_day") 0) }}
   <link>{{ .Permalink }}</link>
   <guid>{{ .Permalink }}</guid>
 {{ end }}
