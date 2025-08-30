@@ -54,7 +54,6 @@ hr {
 	
 	position: sticky;
 	top: 0;
-	z-index: 2;
 
 	background: var(--background);
 	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%);
@@ -194,8 +193,6 @@ footer {
 
 	/* compensate for OLSKBanner */
 	padding-bottom: 50px;
-
-	z-index: 1;
 
 	background: var(--background);
 	background: linear-gradient(0deg, var(--background) 90%, rgba(255,255,255,0) 100%); 
@@ -377,11 +374,28 @@ body.vibrations {
 
 	margin-bottom: 0;
 
-	z-index: 1;
 	background: inherit;
 	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%);
 }
 
 .lyrics_topic .post .sticky-heading {
 	top: 40px;
+}
+
+/* z-index */
+
+.sticky-heading {
+	z-index: 2;
+}
+
+.lyrics_topic .post .sticky-heading {
+	z-index: 1;
+}
+
+footer {
+	z-index: 3;
+}
+
+.OLSKBanner {
+	z-index: 4;
 }
