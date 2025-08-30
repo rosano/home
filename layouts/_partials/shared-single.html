@@ -99,8 +99,8 @@
 		{{ end}}
 
 		<!-- COUNTRY -->
-		{{ range .Site.Taxonomies.country }}
-			{{ if eq .Page.LinkTitle $departure.country }}
+		{{- range .Site.Taxonomies.country -}}
+			{{- if eq .Page.LinkTitle $departure.country -}}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
 		{{- end -}}
