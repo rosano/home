@@ -64,8 +64,11 @@
         "timeline_year" ($v | time.Format "2006")
         "timeline_month" ($v | time.Format "2006/01")
         "timeline_day" ($v | time.Format "2006/01/02")
+        
+        "action" $k
+        "date" $v
       ) }}
-
+      
       {{ if strings.Contains $dir "content/" }}
         {{ $params = merge $params (dict
           "isContent" "true"
@@ -73,10 +76,6 @@
         ) }}
       {{ end }}
 
-      {{ $params = merge $params (dict
-        "action" $k
-        "date" $v
-      ) }}
       {{ $.AddPage (dict
         "content" (dict "mediaType" "text/markdown" "value" (delimit (after 2 $parts) "---"))
         "dates" (dict "date" $v)
