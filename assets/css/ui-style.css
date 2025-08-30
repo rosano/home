@@ -382,6 +382,6 @@ body.vibrations {
 	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--background) 10%);
 }
 
-.lyrics.topic .post .sticky-heading {
+.lyrics_topic .post .sticky-heading {
 	top: 40px;
 }
