@@ -112,11 +112,11 @@
 		{{ end }}
 
 		<!-- TYPES -->
-		{{ if $isRSS }}
-			{{ with .GetTerms "categories" }}
-				<span>, type: {{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}</span>
-			{{ end }}
-		{{ end }}
+		{{- if $isRSS -}}
+			{{- with .GetTerms "categories" -}}
+				<span>, type: {{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end -}}</span>
+			{{- end -}}
+		{{- end -}}
 	</small>
 
 <!-- TYPES -->
