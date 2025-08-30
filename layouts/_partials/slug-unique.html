@@ -1,0 +1,21 @@
+{{ $state := . }}
+{{ $usedSlugs := (index . "used") }}
+{{ $slug := (index . "slug") }}
+{{ $offset := (index . "offset") }}
+
+{{ if $offset }}
+	{{ $slug = (print $slug "-" $offset)}}
+{{ end }}
+
+{{ if in $usedSlugs $slug }}
+	{{ $state = (partial "slug-unique" (merge $state (dict
+	  "offset" (add (default 0 $offset) 1)
+	))) }}
+{{ else }}
+	{{ $state = merge $state (dict
+	  "used" ($usedSlugs | append $slug)
+	  "slug" $slug
+	) }}
+{{ end }}
+
+{{ return $state }}

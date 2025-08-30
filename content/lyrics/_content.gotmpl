@@ -16,6 +16,7 @@
   ) }}
 
   {{ $collectionSlug := default (path.BaseName $filename) (index $params "slug") }}
+  {{ $slugState := dict "used" slice }}
 
   {{ range $i, $v := split (delimit (after 2 $parts) "---") "\n# " }}
     {{ $content := strings.TrimSpace $v }}
@@ -31,7 +32,11 @@
       {{ $title = cond (eq (substr $title 0 1) "~") (substr $title 1) (lower $title) }}
     {{ end }}
     
-    {{ $slug := delimit (complement (slice "") (split ($title | anchorize) "-")) "-" }}
+    {{ $slugState = merge $slugState (dict
+      "slug" (delimit (complement (slice "") (split ($title | anchorize) "-")) "-")
+    ) }}
+    {{ $slugState = (partial "slug-unique" $slugState) }}
+
     {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
 
     {{ $params = merge $params (dict
@@ -54,10 +59,10 @@
       "content" (dict "mediaType" "text/markdown" "value" (strings.TrimSpace $content))
       "title" $title
       "kind" "page"
-      "slug" $slug
+      "slug" (index $slugState "slug")
       "params" $params
       "weight" (math.Sum $i 1)
-      "path" (print $collectionSlug "/" $slug)
+      "path" (print $collectionSlug "/" (index $slugState "slug"))
     ) }}
   {{ end }}
 {{ end }}
