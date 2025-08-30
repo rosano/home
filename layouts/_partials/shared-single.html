@@ -107,9 +107,8 @@
 
 		<!-- VIA -->
 		{{- with .Param "via" -}}
-		<span>, via: </span> 
-		<span>{{- if strings.Contains . "http" }}<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>{{ else }}{{ . }}{{ end }}</span>
-		{{ end }}
+		<span>, via: {{ if strings.Contains . "http" }}<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>{{ else }}{{ . }}{{ end }}</span>
+		{{- end -}}
 
 		<!-- TYPES -->
 		{{- if $isRSS -}}
