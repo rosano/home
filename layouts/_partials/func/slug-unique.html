@@ -8,7 +8,7 @@
 {{ end }}
 
 {{ if in $usedSlugs $slug }}
-	{{ $state = (partial "slug-unique" (merge $state (dict
+	{{ $state = (partial "func/slug-unique" (merge $state (dict
 	  "offset" (add (default 0 $offset) 1)
 	))) }}
 {{ else }}

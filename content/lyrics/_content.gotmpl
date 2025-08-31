@@ -35,7 +35,7 @@
     {{ $slugState = merge $slugState (dict
       "slug" (delimit (complement (slice "") (split ($title | anchorize) "-")) "-")
     ) }}
-    {{ $slugState = (partial "slug-unique" $slugState) }}
+    {{ $slugState = (partial "func/slug-unique" $slugState) }}
 
     {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
 
