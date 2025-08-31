@@ -7,7 +7,7 @@
   "collection" nil
 ) }}
 
-{{ return (dict
+{{ return dict
 	"params" $params
 	"body" (delimit (after 2 $parts) "---")
-) }}
+}}
