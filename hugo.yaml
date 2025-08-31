@@ -56,7 +56,7 @@ mediaTypes:
     suffix: ""
     delimiter: ""
 outputFormats:
-  RSS:
+  rss:
     mediatype: "application/rss"
     baseName: "feed"
 
