@@ -6,19 +6,13 @@
     {{ continue }}
   {{ end }}
 
-  {{ $parts := split (readFile (path.Join $dir $filename)) "---" }}
-  {{ $params := unmarshal (index $parts 1) }}
-  {{ $params = merge $params (dict
-    "lyrics_topic" (index $params "topic")
-    "topic" nil
-    "lyrics_collection" (index $params "collection")
-    "collection" nil
-  ) }}
+  {{ $doc := partial "func/lyrics-doc" (readFile (path.Join $dir $filename)) }}
+  {{ $params := index $doc "params" }}
 
   {{ $collectionSlug := default (path.BaseName $filename) (index $params "slug") }}
   {{ $slugState := dict "used" slice }}
 
-  {{ range $i, $v := split (delimit (after 2 $parts) "---") "\n# " }}
+  {{ range $i, $v := split (index $doc "body") "\n# " }}
     {{ $content := strings.TrimSpace $v }}
 
     {{ if eq $content "" }}

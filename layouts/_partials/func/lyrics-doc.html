@@ -1,0 +1,13 @@
+{{ $parts := split . "---" }}
+{{ $params := unmarshal (index $parts 1) }}
+{{ $params = merge $params (dict
+  "lyrics_topic" (index $params "topic")
+  "topic" nil
+  "lyrics_collection" (index $params "collection")
+  "collection" nil
+) }}
+
+{{ return (dict
+	"params" $params
+	"body" (delimit (after 2 $parts) "---")
+) }}
