@@ -79,7 +79,7 @@
 {{ end }}
 
 <span class="metadata">
-	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "time" "le" .Date)) 0 }}
+	{{ $departure := partial "func/departures-closest" .Date }}
 
 	<small>
 		<!-- TIMESTAMP -->
@@ -130,7 +130,7 @@
 
 {{ if (and .Params.around (not $isList)) }}
 	{{ $around := time .Params.around }}
-	{{ $departure := index (last 1 (where (.Site.Store.Get "kDepartures") "time" "le" $around)) 0 }}
+	{{ $departure := partial "func/departures-closest" $around }}
 	<small>
 		Recorded 
 

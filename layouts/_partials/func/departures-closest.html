@@ -1,0 +1,1 @@
+{{ return (index (last 1 (where (site.Store.Get "kDepartures") "time" "le" .)) 0) }}

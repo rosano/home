@@ -45,7 +45,7 @@
     
     {{ range $k, $v := $dates }}
       {{ if $enableDepartures }}
-        {{ $departure := index (last 1 (where $departures "time" "le" $v)) 0 }}
+        {{ $departure := partial "func/departures-closest" $v }}
         {{ $v = ($v | time.In $departure.timezone) }}
 
         {{ $params = merge $params (dict
