@@ -1,3 +1,5 @@
 ---
 title: Lyrics
+outputs:
+- html
 ---

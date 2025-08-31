@@ -1,0 +1,12 @@
+{{- define "main" -}}
+{{- $output := slice -}}
+{{- range .Pages.ByDate.Reverse -}}
+	{{- $output = $output | append (dict
+		"slug" .Slug
+		"title" .Title
+		"summary" .Params.Summary
+		"permalink" .Permalink
+	) -}}
+{{- end -}}	
+{{- $output | jsonify -}}
+{{- end }}

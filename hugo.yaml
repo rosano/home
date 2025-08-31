@@ -59,6 +59,14 @@ outputFormats:
   rss:
     mediatype: "application/rss"
     baseName: "feed"
+  json:
+    baseName: "data"
+
+outputs:
+  section:
+  - html
+  - rss
+  - json
 
 params:
   sourcePrefix: https://github.com/rosano/home/edit/master
