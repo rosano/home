@@ -1,5 +1,0 @@
-{{ define "main" }}
-
-{{ partial "timeline.rss" . }}
-
-{{ end }}
