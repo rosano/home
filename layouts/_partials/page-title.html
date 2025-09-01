@@ -18,7 +18,7 @@
 	{{- $stack = $stack | append (time.Format "2006" (time.AsTime (print .Data.Term "-01-01"))) -}}
 {{- else if (in (slice "categories" "tags" "series" "place" "country") .Data.Plural) -}}
 	{{- $stack = $stack | append (printf `"%s"` .Title) -}}
-{{- else if eq $section "timeline" -}}
+{{- else if and .IsPage (eq $section "timeline") -}}
 	{{- $stack = $stack | append (printf `entry for %s` (.Date.Format "Monday, January 2, 2006")) -}}
 {{- else -}}
 	{{- $stack = $stack | append .Title -}}
