@@ -4,7 +4,7 @@
 <channel>
 
 {{ .Scratch.Set "kIsHeadTitle" "true" -}}
-<title>{{ partial "page-title.html" . }}</title>
+<title>{{ if not .IsHome }}{{ site.Title }} / {{ end }}{{ partial "page-title.html" . }}</title>
 {{- .Scratch.Delete "kIsHeadTitle" }}
 
 <link>{{ .Permalink }}</link>
