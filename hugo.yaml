@@ -76,8 +76,6 @@ params:
   logoURL: https://rosano.ca/_shared/__external/ROCORootLink/identity.svg
   touchURL: https://static.rosano.ca/rcreativ/touch.png
   _bannerScriptURL: https://olsk.rosano.ca/OLSKBanner/master/main.js
-  RSSFeedURLs:
-    updates: https://utopia.rosano.ca/feed
   _showTemporary: true
   _showTypes: true
   lowerLyricTitles: true
