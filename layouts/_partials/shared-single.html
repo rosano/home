@@ -164,9 +164,9 @@
 <hr>
 
 <small class="metadata">
-	{{ if .Site.Params.sourcePrefix }}
+	{{ if site.Params.sourcePrefix }}
 		<span>
-			<a href="{{ .Site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
+			<a href="{{ site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print (replace .Path "/timeline" "/journal") ".md") }}">Source</a>
 		</span>
 	{{ end }}
 	{{ $syndications := slice

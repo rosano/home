@@ -5,8 +5,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-{{ if (and (eq hugo.Environment "production") .Site.Params.touchURL) }}
-	<link rel="icon" href="{{ .Site.Params.touchURL }}" type="image/png">
+{{ if (and (eq hugo.Environment "production") site.Params.touchURL) }}
+	<link rel="icon" href="{{ site.Params.touchURL }}" type="image/png">
 {{ end }}
 
 {{ $section := cond (in (slice "timeline" "timeline_year" "timeline_month" "timeline_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "lyrics_collection" "lyrics_topic") .Section) "lyrics" .Section) }}
@@ -22,7 +22,7 @@
 {{ end }}
 {{ .Scratch.Delete "kIsHeadTitle" }}
 
-{{ range $k, $v := .Site.Params.RSSFeedURLs }}
+{{ range $k, $v := site.Params.RSSFeedURLs }}
 	<link rel="alternate" type="application/rss+xml" href="{{ $v }}" title="{{ $k }}">
 {{ end }}
 
@@ -33,8 +33,8 @@
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
 <script src="{{ $js.RelPermalink }}"></script>
 
-{{ if (and (eq hugo.Environment "production") .Site.Params._bannerScriptURL) }}
-	<script src="{{ .Site.Params._bannerScriptURL }}"></script>
+{{ if (and (eq hugo.Environment "production") site.Params._bannerScriptURL) }}
+	<script src="{{ site.Params._bannerScriptURL }}"></script>
 {{ end }}
 
 {{- partial "media-embeds.html" . -}}
@@ -45,9 +45,9 @@
 
 <header>
 	<h2>
-		{{ if (and (eq hugo.Environment "production") .Site.Params.logoURL) }}
+		{{ if (and (eq hugo.Environment "production") site.Params.logoURL) }}
 			<a aria-hidden="true" href="{{ .Site.Home.RelPermalink }}">
-				<img src="{{ .Site.Params.logoURL }}" />
+				<img src="{{ site.Params.logoURL }}" />
 			</a>
 		{{ end }}
 		
@@ -86,7 +86,7 @@
 {{ end }}
 </footer>
 
-{{ if (and (eq hugo.Environment "production") .Site.Params._showGazette) }}
+{{ if (and (eq hugo.Environment "production") site.Params._showGazette) }}
 	<div class="ROCOGazette OLSKDecorModule">
 
 	<p class="OLSKFollow">Find me on <a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/mastodon">Mastodon</a> or <a class="OLSKFollowTwitter" target="_blank" href="https://rosano.ca/twitter">Twitter</a>.</p>

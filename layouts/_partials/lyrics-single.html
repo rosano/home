@@ -42,9 +42,9 @@
 	<hr>
 
 	<small class="metadata">
-		{{ if .Site.Params.sourcePrefix }}
+		{{ if site.Params.sourcePrefix }}
 			<span>
-				<a href="{{ .Site.Params.sourcePrefix }}{{ print "/content-sources/lyrics/" .Params.filename }}">Source</a>
+				<a href="{{ site.Params.sourcePrefix }}{{ print "/content-sources/lyrics/" .Params.filename }}">Source</a>
 			</span>
 		{{ end }}
 

@@ -1,1 +1,1 @@
-<img src="{{ cond (or (eq (substr .Destination 0 1) "/") (findRE `^https?:` .Destination)) "" (print .Page.Site.Params.mediaPrefix .Page.Path "/") }}{{ .Destination | safeURL }}" alt="{{ .PlainText }}">
+<img src="{{ cond (or (eq (substr .Destination 0 1) "/") (findRE `^https?:` .Destination)) "" (print site.Params.mediaPrefix .Page.Path "/") }}{{ .Destination | safeURL }}" alt="{{ .PlainText }}">
