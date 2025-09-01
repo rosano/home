@@ -3,9 +3,9 @@
 
 <channel>
 
-{{ .Scratch.Set "kIsHeadTitle" "true" }}
+{{ .Scratch.Set "kIsHeadTitle" "true" -}}
 <title>{{ partial "page-title.html" . }}</title>
-{{ .Scratch.Delete "kIsHeadTitle" }}
+{{- .Scratch.Delete "kIsHeadTitle" }}
 
 <link>{{ .Permalink }}</link>
 
@@ -13,27 +13,27 @@
 
 <language>{{ site.Language.LanguageCode }}</language>
 
-{{ if not .Date.IsZero }}
+{{ if not .Date.IsZero -}}
 <lastBuildDate>{{ time.Now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-{{ end }}
+{{- end }}
 
-{{ with .OutputFormats.Get "RSS" }}
+{{ with .OutputFormats.Get "RSS" -}}
 {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
-{{ end }}
+{{- end }}
 
-{{ $pageContext := cond .IsHome .Site . }}
-{{ $pages := cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages }}
+{{- $pageContext := cond .IsHome .Site . -}}
+{{- $pages := cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages -}}
 
-{{ $limit := .Site.Config.Services.RSS.Limit }}
-{{ if ge $limit 1 }}
-  {{ $pages = $pages | first $limit }}
-{{ end }}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+  {{- $pages = $pages | first $limit -}}
+{{- end -}}
 
-{{ .Scratch.Set "rss-pages" $pages }}
+{{- .Scratch.Set "rss-pages" $pages -}}
 
-{{ if not (in (.Site.Params._disabledFeedSections | default slice) .Section) }}
-{{ block "main" . }}{{ end }}
-{{ end }}
+{{- if not (in (.Site.Params._disabledFeedSections | default slice) .Section) -}}
+{{- block "main" . -}}{{- end -}}
+{{- end -}}
 
 </channel>
 
