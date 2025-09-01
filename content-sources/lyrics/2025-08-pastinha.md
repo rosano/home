@@ -37,24 +37,24 @@ Não me pegue,
 não me encoste,
 não me pegue não
 
-# Canarinho da Alemanha
+# canarinho da Alemanha
 
-Canarinho da Alemanha,
-Quem matou meu curió ?
-Quem tem fé em Deus
+canarinho da Alemanha,
+quem matou meu curió ?
+quem tem fé em Deus
 nunca cai em bozó
-Canarinho da Alemanha
-Quem matou meu curió ?
-Eu jogo capoeira,
+canarinho da Alemanha
+quem matou meu curió ?
+eu jogo capoeira,
 mas Pastinha é o maior
-Canarinho da Alemanha
-Quem matou meu curió ?
-O segredo da lua,
-Quem sabe é o clarão do sol
-Canarinho da Alemanha
-Quem matou meu curió ?
-Eu jogo capoeira
-Na Bahia e em Maceió
+canarinho da Alemanha
+quem matou meu curió ?
+o segredo da lua,
+quem sabe é o clarão do sol
+canarinho da Alemanha
+quem matou meu curió ?
+eu jogo capoeira
+na Bahia e em Maceió
 
 # Valha-me Deus, senhor São Bento
 
@@ -152,27 +152,27 @@ o Berimbau é o maior
 Camaradinho
 Iê Viva meu Deus
 
-# Ai ai ai dê
+# ai ai aidê
 
-Ai ai ai dê
-Dona Maria como vai vosmecê
-Joga bonito que eu quero aprender
-Era eu era meu mano
-Quando nos andava junto
-Eu não sei se Deus consente
-Numa cova dois defuntos
+ai ai aidê
+dona Maria como vai vosmecê
+joga bonito que eu quero aprender
+era eu era meu mano
+quando nos andava junto
+eu não sei se Deus consente
+numa cova dois defuntos
 
-# Xô xô meu canário
+# xô xô meu canário
 
-Xô xô meu canário
-Meu canário é cantador
-Xô xô meu canário
-Foi embora e me deixou
-Xô xô meu canário
-Meu canário é da Alemanha
-Xô xô meu canário
-Nego velho também apanha
-Xô xô meu canário
+xô xô meu canário
+meu canário é cantador
+xô xô meu canário
+foi embora e me deixou
+xô xô meu canário
+meu canário é da Alemanha
+xô xô meu canário
+nego velho também apanha
+xô xô meu canário
 Alemão que me mandou
 
 # Luanda ê meu boi
