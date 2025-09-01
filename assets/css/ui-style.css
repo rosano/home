@@ -364,11 +364,12 @@ body.vibrations {
 
 .blog-list li {
 	display: flex;
-	gap: var(--spacing);
+	gap: 10px;
 }
 
 .blog-list li time {
 	flex-shrink: 0;
+	min-width: 50px;
 }
 
 /* lyrics */
