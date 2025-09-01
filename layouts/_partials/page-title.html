@@ -1,19 +1,27 @@
 {{- $section := .Scratch.Get "kSemanticSection" -}}
+{{- $stack := slice -}}
 
-{{- if (and (ne $section "lyrics") (eq .Kind "term")) -}}
-	{{ if ne (.Scratch.Get "kIsHeadTitle") "true" }} {{ (where .Pages "Section" "timeline").Len }} {{ end }}{{ cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries" }} {{ cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for")) }}
-{{ end }}
+{{- if and (eq .Kind "term") (ne $section "lyrics") -}}
+	{{- if ne (.Scratch.Get "kIsHeadTitle") "true" -}}
+		{{- $stack = $stack | append (where .Pages "Section" "timeline").Len -}}
+	{{- end -}}
+	
+	{{- $stack = $stack | append (cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries") -}}
+	{{- $stack = $stack | append (cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for"))) -}}
+{{- end -}}
 
-{{- if (and (eq .Kind "term") (eq .Data.Singular "timeline_day")) }}
-	{{ $t := time.AsTime (replace .Data.Term "/" "-") }}
-	{{ time.Format "Monday, January 2, 2006" $t }}
-{{ else if (and (eq .Kind "term") (eq .Data.Singular "timeline_month")) }}
-	{{ $t := time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") }}
-	{{ time.Format "January 2006" $t }}
-{{ else if (in (slice "categories" "tags" "series") .Data.Plural) -}}
-	"{{- .Title -}}"
-{{ else if eq $section "timeline" }}
-	entry for {{ .Date.Format "Monday, January 2, 2006" -}}
-{{- else }}
-	{{- or .Title -}}
-{{ end -}}
+{{- if and (eq .Kind "term") (eq .Data.Singular "timeline_day") -}}
+	{{- $stack = $stack | append (time.Format "Monday, January 2, 2006" (time.AsTime (replace .Data.Term "/" "-"))) -}}
+{{- else if (and (eq .Kind "term") (eq .Data.Singular "timeline_month")) -}}
+	{{- $stack = $stack | append (time.Format "January 2006" (time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-"))) -}}
+{{- else if (and (eq .Kind "term") (eq .Data.Singular "timeline_year")) -}}
+	{{- $stack = $stack | append (time.Format "2006" (time.AsTime (print .Data.Term "-01-01"))) -}}
+{{- else if (in (slice "categories" "tags" "series" "place" "country") .Data.Plural) -}}
+	{{- $stack = $stack | append (printf `"%s"` .Title) -}}
+{{- else if eq $section "timeline" -}}
+	{{- $stack = $stack | append (printf `entry for %s` (.Date.Format "Monday, January 2, 2006")) -}}
+{{- else -}}
+	{{- $stack = $stack | append .Title -}}
+{{- end -}}
+
+{{- delimit $stack " " -}}
