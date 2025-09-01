@@ -1,4 +1,5 @@
 title: Rosano
+baseURL: https://home.rosano.ca/
 languageCode: en-ca
 pagination:
   pagerSize: 20
