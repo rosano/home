@@ -89,6 +89,5 @@ params:
     - timeline_year
     - timeline_month
     - timeline_day
-    - lyrics
     - lyrics_collection
     - lyrics_topic
