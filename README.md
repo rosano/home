@@ -22,7 +22,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [previous / next as thumbnails](https://rosano.ca/vibrations/m1n63wm7/)
 
 ## [Blog](https://rosano.ca/blog)
-- list without pagination and grouped by month
+- list without pagination and grouped by year
 - [summary callout](https://rosano.ca/blog/bringing-vibrations-home) (`summary`)
 
 ## [Lyrics](https://rosano.ca/lyrics)

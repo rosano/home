@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Show `related` after body
 
+### Changed
+- Group blog by year
+
 ## [0.2.8] - 2025-08-31
 
 ### Added

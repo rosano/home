@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="blog-list">
-{{ range .Pages.ByDate.Reverse.GroupByDate "January 2006" "desc" }}
+{{ range .Pages.ByDate.Reverse.GroupByDate "2006" "desc" }}
 	<h3 class="sticky-heading">{{ .Key }}</h3>
 
 	<ul>
