@@ -22,7 +22,7 @@
 {{- end }}
 
 {{- $pageContext := cond .IsHome .Site . -}}
-{{- $pages := cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages -}}
+{{- $pages := (cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages).ByDate.Reverse -}}
 
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
