@@ -19,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 - Increment lyric slugs until unique
+
+### Changed
 - Group Vibrations by year
 
 ## [0.2.6] - 2025-08-27
