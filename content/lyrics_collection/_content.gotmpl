@@ -18,5 +18,6 @@
     "slug" $slug
     "params" $params
     "path" (replaceRE `\s` "-" ($title | lower))
+    "outputs" (slice "html")
   ) }}
 {{ end }}
