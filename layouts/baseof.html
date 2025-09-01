@@ -14,6 +14,9 @@
 {{ .Scratch.Set "kSemanticSection" $section }}
 {{ .Scratch.Set "kIsHeadTitle" "true" }}
 <title>{{- partial "page-title.html" . -}}</title>
+{{- if .Params.summary }}
+<meta name="description" content="{{ .Summary }}" />
+{{ end }}
 
 {{ if not (and (eq .Kind "term") (in (slice "timeline_year" "timeline_month" "timeline_day") .Data.Singular)) }}
 	{{ range .AlternativeOutputFormats -}}
