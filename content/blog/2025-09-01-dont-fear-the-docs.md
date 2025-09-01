@@ -1,4 +1,8 @@
 ---
+nostr_id: note1jsryvn2gyqg9m760tlpxv0py936v8l2geyr7wtg50qxq005a6l5qrtzmck
+bluesky_id: 3lxrdzb4o5227
+mastodon_id: "115128470047256268"
+twitter_id: "1962456127855120792"
 slug: dont-fear-the-docs
 title: don't fear the docs
 summary: I feel powerful, as if I can tackle anything. I can get answers by
