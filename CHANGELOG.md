@@ -5,10 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.8] - 2025-08-31
+
+### Added
+- JSON list/output for each section
+
+## [0.2.7] - 2025-08-30
+
+### Fixed
+- Increment lyric slugs until unique
+- Group Vibrations by year
+
 ## [0.2.6] - 2025-08-27
 
 ### Added
-- Configure `logoURL`, `touchURL`, `_bannerScriptURL`, `RSSFeedURLs`
+- Configure `logoURL`, `touchURL`, `_bannerScriptURL`, `RSSFeedURLs`, `lowerLyricTitles`, `timelineSources`
 
 ### Fixed
 - Show remote assets only in production

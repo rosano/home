@@ -9,6 +9,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [syndication links](https://rosano.ca/vibrations/m4879q4m/) for crossposts on other platforms (`youtube_id`, `mastodon_id`, `bluesky_id`, `twitter_id`, `facebook_id`, `nostr_id`, `threads_id`)
 - 'Source' links on every post to direct edit via GitHub (`params.sourcePrefix` in `hugo.yaml`)
 - link via titles using `[[title]]` or `[alternate text](official title)` formats
+- [JSON lists](https://rosano.ca/vibrations/data.json) per section
 
 ## [Journal](https://rosano.ca/log)
 - list mixing various sections together, grouped by day and filterable by location or `tags`
@@ -16,7 +17,7 @@ An attempt to collect my online publishing across various platforms into one 'ho
 - [embed rendering](https://rosano.ca/log/01k208ka0ffjawrw9aq479t8te/) (when setting `link`)
 
 ## [Video posts](https://rosano.ca/vibrations)
-- list without pagination, grouped by month, focused on thumbnails (`duration`)
+- list without pagination, grouped by year, focused on thumbnails (`duration`)
 - [recording date](https://rosano.ca/vibrations/m3sj7h9a/) separate from publish date (`around`)
 - [previous / next as thumbnails](https://rosano.ca/vibrations/m1n63wm7/)
 
