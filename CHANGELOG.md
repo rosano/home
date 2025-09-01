@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Group blog by year
 
+### Fixed
+- Exclude lyrics and timeline from `.RegularPages`
+
 ## [0.2.8] - 2025-08-31
 
 ### Added

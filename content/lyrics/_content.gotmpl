@@ -57,6 +57,7 @@
       "params" $params
       "weight" (math.Sum $i 1)
       "path" (print $collectionSlug "/" (index $slugState "slug"))
+      "build" (dict "list" "local")
     ) }}
   {{ end }}
 {{ end }}
