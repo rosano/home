@@ -1,16 +1,16 @@
 <div class="post">
 
-{{ $isRSS := eq (.Scratch.Get "kScopeRSS") "true" }}
-{{ $isList := eq (.Scratch.Get "kScopeList") "true" }}
+{{- $isRSS := eq (.Scratch.Get "kScopeRSS") "true" -}}
+{{- $isList := eq (.Scratch.Get "kScopeList") "true" -}}
 
-{{ $dataLink := "" }}
-{{ if .Params.link }}{{ $dataLink = .Params.link }}{{ end }}
-{{ if .Params.youtube_id }}{{ $dataLink = print "https://youtu.be/" .Params.youtube_id }}{{ end }}
+{{- $dataLink := "" -}}
+{{- if .Params.link }}{{ $dataLink = .Params.link }}{{ end -}}
+{{- if .Params.youtube_id }}{{ $dataLink = print "https://youtu.be/" .Params.youtube_id }}{{ end -}}
 
-{{ if not $isRSS -}}
-	{{ with $dataLink }}
+{{- if not $isRSS -}}
+	{{- with $dataLink }}
 	<div class="embed" data-link="{{ . }}"></div>
-	{{ end }}
+	{{- end -}}
 {{- end }}
 
 <!-- TITLE -->
@@ -50,24 +50,24 @@
 {{- end -}}
 
 {{- $Content | safeHTML -}}
-{{ if .Params.related }}
+{{- if .Params.related -}}
 	<hr>
 	<p><small>{{ .Params.related | markdownify | safeHTML }}</small></p>
 	<hr>
-{{ end }}
-{{ if $isList -}}</div>{{- else -}}</article>{{- end }}
+{{- end -}}
+{{- if $isList }}</div>{{ else }}</article>{{ end -}}
 
 <!-- LYRICS -->
-{{ if not $isList }}
-	{{ if .Params.lyrics }}
-		{{ with .Site.GetPage (print "lyrics/" .Params.lyrics) }}
+{{- if not $isList -}}
+	{{- if .Params.lyrics -}}
+		{{- with .Site.GetPage (print "lyrics/" .Params.lyrics) -}}
 			<h4><a href="{{ .RelPermalink }}">lyrics</a></h4>
 		  <blockquote class="lyrics">
 		  {{- .Content -}}
 		  </blockquote>
-		{{ end }}
-	{{ end }}
-{{ end }}
+		{{- end -}}
+	{{- end -}}
+{{- end }}
 
 <!-- RECORDED -->
 {{- if .Params.recorded -}}<p><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
@@ -79,17 +79,17 @@
 {{- with .GetTerms "tags" -}}
 <small>Tagged: {{ range $index, $element := . -}}
 	{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
-{{- end -}}.
+{{- end }}.
 </small>
-{{ end }}
+{{- end }}
 
 <span class="metadata">
-	{{ $departure := partial "func/departures-closest" .Date }}
+	{{- $departure := partial "func/departures-closest" .Date }}
 
 	<small>
 		<!-- TIMESTAMP -->
-		{{ $t := .Date | time.In $departure.timezone }}
-		{{ $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" }}
+		{{- $t := .Date | time.In $departure.timezone -}}
+		{{- $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" -}}
 		<a aria-label="Permalink for {{ cond $hideTime "" (print ($t | time.Format ":time_short") ", ") }}{{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
@@ -97,11 +97,11 @@
 		{{- end }}</time></a>
 
 		<!-- PLACE -->
-		{{ range .Site.Taxonomies.place }}
-			{{ if eq .Page.LinkTitle $departure.place }}
+		{{ range .Site.Taxonomies.place -}}
+			{{- if eq .Page.LinkTitle $departure.place -}}
 				<span>from <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
-			{{ end }}
-		{{ end}}
+			{{- end -}}
+		{{- end}}
 
 		<!-- COUNTRY -->
 		{{- range .Site.Taxonomies.country -}}
@@ -124,16 +124,16 @@
 	</small>
 
 <!-- TYPES -->
-{{ if not $isRSS }}
-	{{ with .GetTerms "categories" }}
+{{- if not $isRSS -}}
+	{{- with .GetTerms "categories" -}}
 		<span class="types">
 			{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
 		</span>
-	{{ end }}
-{{ end }}
+	{{- end -}}
+{{- end -}}
 </span>
 
-{{ if (and .Params.around (not $isList)) }}
+{{- if (and .Params.around (not $isList)) }}
 	{{ $around := time .Params.around }}
 	{{ $departure := partial "func/departures-closest" $around }}
 	<small>
@@ -157,10 +157,10 @@
 		{{ $t := $around | time.In $departure.timezone }}
 		around <time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{- $t.Format "Jan 2006" -}}</time></a>.
 	</small>
-{{ end }}
+{{- end -}}
 
 <!-- SOURCE -->
-{{ if (and (not $isList) (not $isRSS)) -}}
+{{- if (and (not $isList) (not $isRSS)) -}}
 <hr>
 
 <small class="metadata">

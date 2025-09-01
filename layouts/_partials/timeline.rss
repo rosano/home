@@ -1,53 +1,55 @@
-{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "timeline_day" "desc" }}
-{{ if gt .Site.Config.Services.RSS.Limit 0 }}
-  {{- $pages = first .Site.Config.Services.RSS.Limit $pages }}
-{{ end }}
+{{- $pages := (.Scratch.Get "rss-pages").GroupByParam "timeline_day" "desc" -}}
+{{- if gt .Site.Config.Services.RSS.Limit 0 -}}
+  {{- $pages = first .Site.Config.Services.RSS.Limit $pages -}}
+{{- end -}}
 
 {{/* exclude today from home feed */}}
-{{- $pages := where $pages "Key" "ne" (time.Now.Format "2006/01/02") }}
+{{- $pages := where $pages "Key" "ne" (time.Now.Format "2006/01/02") -}}
 
-{{ range $pages }}
+{{- range $pages -}}
 <item>
 
-{{ $t := time.AsTime (delimit (slice (replace .Key "/" "-") "T" "12:00:00Z") "") }}
+{{- $t := time.AsTime (delimit (slice (replace .Key "/" "-") "T" "12:00:00Z") "") }}
 <title>{{ time.Format "Monday, January 2, 2006" $t }}</title>
 <pubDate>{{ time.Format "Mon, 02 Jan 2006 15:04:05 -0700" $t | safeHTML }}</pubDate>
 
-{{ with (index ((index .Pages 0).GetTerms "timeline_day") 0) }}
-  <link>{{ .Permalink }}</link>
-  <guid>{{ .Permalink }}</guid>
-{{ end }}
+{{- with (index ((index .Pages 0).GetTerms "timeline_day") 0) }}
 
-{{ $categories := slice }}
-{{ $tags := slice }}
-{{ range .Pages }}
-  {{ if .Params.categories }}
-    {{ $categories = $categories | append .Params.categories }}
-  {{ end }}
+<link>{{ .Permalink }}</link>
+<guid>{{ .Permalink }}</guid>
 
-  {{ if .Params.tags }}
-    {{ $tags = $tags | append .Params.tags }}
-  {{ end }}
-{{ end }}
+{{ end -}}
+
+{{- $categories := slice -}}
+{{- $tags := slice -}}
+{{- range .Pages -}}
+  {{- if .Params.categories -}}
+    {{- $categories = $categories | append .Params.categories -}}
+  {{- end -}}
+
+  {{- if .Params.tags -}}
+    {{- $tags = $tags | append .Params.tags -}}
+  {{- end -}}
+{{- end -}}
 <description>{{ .Pages.Len }} {{ cond (gt .Pages.Len 1) "entries" "entry" }}{{ with $categories | uniq }} under {{ delimit $categories ", " }}{{ end }}{{ with $tags | uniq }}; tagged: {{ delimit $tags ", " }}{{ end }}</description>
 
 <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
-{{ range $index, $element := .Pages }}
+{{ range $index, $element := .Pages -}}
 
-{{ if $index }}<hr />{{ end }}
+{{- if $index }}<hr />{{ end -}}
 
-{{ .Scratch.Set "kScopeList" "true" }}
-{{ .Scratch.Set "kScopeRSS" "true" }}
-{{ if .Params.isContent }}
-  {{ partial "shared-single-notification.html" . }}
-{{ else }}
-  {{ partial "shared-single.html" . }}
-{{ end }}
-{{ .Scratch.Delete "kScopeRSS" }}
-{{ .Scratch.Delete "kScopeList" }}
+{{- .Scratch.Set "kScopeList" "true" -}}
+{{- .Scratch.Set "kScopeRSS" "true" -}}
+{{- if .Params.isContent -}}
+  {{- partial "shared-single-notification.html" . -}}
+{{- else -}}
+  {{- partial "shared-single.html" . -}}
+{{- end -}}
+{{- .Scratch.Delete "kScopeRSS" -}}
+{{- .Scratch.Delete "kScopeList" -}}
 
-{{ end }}
+{{- end }}
 {{- printf "]]>" | safeHTML }}</content:encoded>
 
 </item>
-{{- end }}
+{{- end -}}
