@@ -50,6 +50,11 @@
 {{- end -}}
 
 {{- $Content | safeHTML -}}
+{{ if .Params.related }}
+	<hr>
+	<p><small>{{ .Params.related | markdownify | safeHTML }}</small></p>
+	<hr>
+{{ end }}
 {{ if $isList -}}</div>{{- else -}}</article>{{- end }}
 
 <!-- LYRICS -->
