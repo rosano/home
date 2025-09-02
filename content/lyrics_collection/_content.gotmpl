@@ -1,5 +1,5 @@
 {{ $dir := "content-sources/lyrics" }}
-{{ range readDir $dir }}
+{{ range readDir (path.Join (default "" site.Params._contentAdapterPrefix) $dir) }}
   {{ $filename := .Name }}
   
   {{ if in (slice "." "_") (substr $filename 0 1) }}
