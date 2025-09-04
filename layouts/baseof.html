@@ -56,7 +56,7 @@
 		
 		<a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
 		{{ if (and (not .IsHome) (ne .Kind "404")) }} / 
-			{{ $sectionPage := .Site.GetPage "section" .Section }}
+			{{ $sectionPage := .CurrentSection }}
 
 			{{ if eq $section "timeline" }}
 				{{ range .Site.Sections }}
