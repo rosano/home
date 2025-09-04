@@ -82,6 +82,7 @@ params:
   timelineSources:
     - content-sources/journal
     - content/vlog/vibrations
+    - content/vlog/strolling
     - content/blog
   _disabledFeedSections:
     - timeline_year
