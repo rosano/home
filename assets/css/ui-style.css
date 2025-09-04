@@ -336,13 +336,13 @@ footer .video-list {
 	position: relative;
 }
 
-/* vibrations */
+/* vlog */
 
-body.vibrations {
+body.vlog {
 	--cap: 600px;
 }
 
-.vibrations .video-list, .lyrics .video-list {
+.vlog .video-list, .lyrics .video-list {
 	display: flex;
 	flex-wrap: wrap;
 	align-content: flex-start;

@@ -1,7 +1,14 @@
 {{ define "main" }}
 
 <div>
-{{ range .Pages.ByDate.Reverse.GroupByDate "2006" "desc" }}
+
+<ul>
+{{ range .Sections }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+
+{{ range .RegularPagesRecursive.ByDate.Reverse.GroupByDate "2006" "desc" }}
 	<h3 class="sticky-heading">{{ .Key }}</h3>
 
 	<div class="video-list">

@@ -29,11 +29,11 @@ taxonomies:
 
 permalinks:
   page:
-    vibrations: /vibrations/:slug/
+    vlog: /:sections[last]/:slug/
     timeline: /log/:slugorcontentbasename/
     blog: /blog/:slug/
   section:
-    vibrations: /vibrations/
+    vlog: /vlog/
     timeline: /log/
     blog: /blog/
   term:
@@ -81,7 +81,7 @@ params:
   lowerLyricTitles: true
   timelineSources:
     - content-sources/journal
-    - content/vibrations
+    - content/vlog/vibrations
     - content/blog
   _disabledFeedSections:
     - timeline_year
