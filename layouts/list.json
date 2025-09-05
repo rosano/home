@@ -1,6 +1,6 @@
 {{- define "main" -}}
 {{- $output := slice -}}
-{{- range .Pages.ByDate.Reverse -}}
+{{- range .RegularPagesRecursive.ByDate.Reverse -}}
 	{{- $output = $output | append (dict
 		"slug" .Slug
 		"title" .Title
