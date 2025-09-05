@@ -74,6 +74,10 @@
           "isContent" "true"
           "originalSection" (index (last 1 (split $dir "/")) 0)
         ) }}
+      {{ else }}
+        {{ $params = merge $params (dict
+          "originalBasename" $basename
+        ) }}
       {{ end }}
 
       {{ $.AddPage (dict
