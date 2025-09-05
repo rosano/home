@@ -31,9 +31,7 @@
 
 {{- .Scratch.Set "rss-pages" $pages -}}
 
-{{- if not (in (site.Params._disabledFeedSections | default slice) .Section) -}}
 {{- block "main" . -}}{{- end -}}
-{{- end -}}
 
 </channel>
 

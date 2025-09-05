@@ -18,10 +18,8 @@
 <meta name="description" content="{{ .Summary }}" />
 {{ end }}
 
-{{ if not (and (eq .Kind "term") (in (slice "timeline_year" "timeline_month" "timeline_day") .Data.Singular)) }}
-	{{ range .AlternativeOutputFormats -}}
-	  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
-	{{ end }}
+{{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
 {{ end }}
 {{ .Scratch.Delete "kIsHeadTitle" }}
 

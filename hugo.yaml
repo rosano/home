@@ -84,9 +84,3 @@ params:
     - content/vlog/vibrations
     - content/vlog/strolling
     - content/blog
-  _disabledFeedSections:
-    - timeline_year
-    - timeline_month
-    - timeline_day
-    - lyrics_collection
-    - lyrics_topic

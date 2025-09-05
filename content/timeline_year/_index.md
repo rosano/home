@@ -1,0 +1,5 @@
+---
+cascade:
+  outputs:
+    - html
+---
