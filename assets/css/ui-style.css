@@ -141,6 +141,10 @@ hr {
 	border-left: 8px solid #777;
 }
 
+.nugget p {
+	margin: 0;
+}
+
 .post blockquote {
 	font-size: 90%;
 	opacity: 0.7;
