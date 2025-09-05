@@ -9,29 +9,29 @@
 	<link rel="icon" href="{{ site.Params.touchURL }}" type="image/png">
 {{ end }}
 
-{{ $section := cond (in (slice "timeline" "timeline_year" "timeline_month" "timeline_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "lyrics_collection" "lyrics_topic") .Section) "lyrics" .Section) }}
+{{- $section := cond (in (slice "timeline" "timeline_year" "timeline_month" "timeline_day" "categories" "tags" "series" "place" "country") .Section) "timeline" (cond (in (slice "lyrics_collection" "lyrics_topic") .Section) "lyrics" .Section) -}}
 
-{{ .Scratch.Set "kSemanticSection" $section }}
-{{ .Scratch.Set "kIsHeadTitle" "true" }}
+{{- .Scratch.Set "kSemanticSection" $section -}}
+{{- .Scratch.Set "kIsHeadTitle" "true" -}}
 <title>{{- partial "page-title.html" . -}}</title>
 {{- if .Params.summary }}
 <meta name="description" content="{{ .Summary }}" />
 {{ end }}
 
-{{ range .AlternativeOutputFormats -}}
+{{- range .AlternativeOutputFormats -}}
   <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
-{{ end }}
-{{ .Scratch.Delete "kIsHeadTitle" }}
+{{ end -}}
+{{- .Scratch.Delete "kIsHeadTitle" -}}
 
-{{ range $k, $v := site.Params.RSSFeedURLs }}
+{{- range $k, $v := site.Params.RSSFeedURLs }}
 	<link rel="alternate" type="application/rss+xml" href="{{ $v }}" title="{{ $k }}">
 {{ end }}
 
-{{ $options := (dict "outputStyle" "compressed" "enableSourceMap" true) }}
-{{ $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options }}
+{{- $options := (dict "outputStyle" "compressed" "enableSourceMap" true) -}}
+{{- $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options -}}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
 
-{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" }}
+{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" -}}
 <script src="{{ $js.RelPermalink }}"></script>
 
 {{ if (and (eq hugo.Environment "production") site.Params._bannerScriptURL) }}
