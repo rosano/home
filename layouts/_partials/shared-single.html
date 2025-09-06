@@ -1,7 +1,7 @@
 <div class="post">
 
-{{- $isRSS := eq (.Scratch.Get "kScopeRSS") "true" -}}
-{{- $isList := eq (.Scratch.Get "kScopeList") "true" -}}
+{{- $isRSS := .Scratch.Get "kScopeRSS" -}}
+{{- $isList := .Scratch.Get "kScopeList" -}}
 
 {{- $dataLink := "" -}}
 {{- if .Params.link }}{{ $dataLink = .Params.link }}{{ end -}}
