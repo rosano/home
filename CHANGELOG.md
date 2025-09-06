@@ -60,7 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Link via titles using `[[title]]` or `[alternate text](official title)` formats
 - Show recorded in timeline
 
-## [0.2.4] - 2025-08-24
+## [0.2.4] - 2025-08-25
 
 ### Added
 - Prepends image paths with `params.mediaPrefix` in `hugo.yml`
