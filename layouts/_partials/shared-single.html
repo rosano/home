@@ -166,7 +166,7 @@
 {{- if (and (not $isList) (not $isRSS)) -}}
 <hr>
 
-<small class="metadata">
+<small class="external">
 	{{ if site.Params.sourcePrefix }}
 		<span>
 			<a href="{{ site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print "/content-sources/journal/" .Page.Params.originalBasename ".md") }}">Source</a>

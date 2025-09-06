@@ -183,6 +183,18 @@ hr {
 	flex-grow: 1;
 }
 
+.post .external {
+	display: flex;
+}
+
+.post .external > :first-child {
+	flex-shrink: 0;
+}
+
+.post .external > :last-child {
+	text-align: right;
+}
+
 .post .types {
 	flex-shrink: 0;
 }
