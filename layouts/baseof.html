@@ -47,17 +47,17 @@
 <header>
 	<h2>
 		{{ if (and (eq hugo.Environment "production") site.Params.logoURL) }}
-			<a aria-hidden="true" href="{{ .Site.Home.RelPermalink }}">
+			<a aria-hidden="true" href="{{ site.Home.RelPermalink }}">
 				<img src="{{ site.Params.logoURL }}" />
 			</a>
 		{{ end }}
 		
-		<a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
+		<a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
 		{{ if (and (not .IsHome) (ne .Kind "404")) }} / 
 			{{ $sectionPage := .CurrentSection }}
 
 			{{ if eq $section "timeline" }}
-				{{ range .Site.Sections }}
+				{{ range site.Sections }}
 					{{ if eq .Page.Title "Journal" }}
 						{{ $sectionPage = .Page }}
 					{{ end }}
@@ -65,7 +65,7 @@
 			{{ end }}
 			
 			{{ if eq $section "lyrics" }}
-				{{ range .Site.Sections }}
+				{{ range site.Sections }}
 					{{ if eq .Page.Title "Lyrics" }}
 						{{ $sectionPage = .Page }}
 					{{ end }}

@@ -32,7 +32,7 @@
 */ -}}
 {{- range (findRE `\[{2}(?U:.+)\]{2}` $Content) -}}
   {{- $title := trim . "[ ]" -}}
-  {{- $match := index (where $.Site.Pages "Title" $title) 0 -}}
+  {{- $match := index (where site.Pages "Title" $title) 0 -}}
   {{ if $match }}
   	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $title -}}
   	{{- $Content = replace $Content . $link 1 -}}
@@ -42,7 +42,7 @@
 {{- $linkRE := `\[(.+)\]\((.+)\)` -}}
 {{- range (findRE $linkRE $Content) -}}
   {{- $text := replaceRE $linkRE "$1" . -}}
-  {{- $match := index (where $.Site.Pages "Title" (replaceRE $linkRE "$2" .)) 0 -}}
+  {{- $match := index (where site.Pages "Title" (replaceRE $linkRE "$2" .)) 0 -}}
   {{ if $match }}
   	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $text -}}
   	{{- $Content = replace $Content . $link 1 -}}
@@ -60,7 +60,7 @@
 <!-- LYRICS -->
 {{- if not $isList -}}
 	{{- if .Params.lyrics -}}
-		{{- with .Site.GetPage (print "lyrics/" .Params.lyrics) -}}
+		{{- with site.GetPage (print "lyrics/" .Params.lyrics) -}}
 			<h4><a href="{{ .RelPermalink }}">lyrics</a></h4>
 		  <blockquote class="lyrics">
 		  {{- .Content -}}
@@ -97,14 +97,14 @@
 		{{- end }}</time></a>
 
 		<!-- PLACE -->
-		{{ range .Site.Taxonomies.place -}}
+		{{ range site.Taxonomies.place -}}
 			{{- if eq .Page.LinkTitle $departure.place -}}
 				<span>from <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{- end -}}
 		{{- end}}
 
 		<!-- COUNTRY -->
-		{{- range .Site.Taxonomies.country -}}
+		{{- range site.Taxonomies.country -}}
 			{{- if eq .Page.LinkTitle $departure.country -}}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
@@ -140,14 +140,14 @@
 		Recorded 
 
 		<!-- PLACE -->
-		{{ range .Site.Taxonomies.place }}
+		{{ range site.Taxonomies.place }}
 			{{ if eq .Page.LinkTitle $departure.place }}
 				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
 		<!-- COUNTRY -->
-		{{ range .Site.Taxonomies.country }}
+		{{ range site.Taxonomies.country }}
 			{{ if eq .Page.LinkTitle $departure.country }}
 				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}

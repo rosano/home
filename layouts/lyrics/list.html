@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $withoutTopic := where $.Site.Taxonomies.lyrics_collection "Params.lyrics_topic" "eq" nil }}
+{{ $withoutTopic := where site.Taxonomies.lyrics_collection "Params.lyrics_topic" "eq" nil }}
 {{ if $withoutTopic }}
 	<ul>
 		{{ range $withoutTopic }}
@@ -9,10 +9,10 @@
 	</ul>
 {{ end }}
 
-{{ range $.Site.Taxonomies.lyrics_topic }}
+{{ range site.Taxonomies.lyrics_topic }}
 	<h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
 	<ul>
-		{{ range (where $.Site.Taxonomies.lyrics_collection "Params.lyrics_topic" "intersect" (slice .Page.Title)) }}
+		{{ range (where site.Taxonomies.lyrics_collection "Params.lyrics_topic" "intersect" (slice .Page.Title)) }}
 			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
 		{{ end}}
 	</ul>

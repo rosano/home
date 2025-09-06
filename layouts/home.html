@@ -1,6 +1,6 @@
 {{ define "main" }}
 <ul>
-	{{ range .Site.Sections }}
+	{{ range site.Sections }}
 		<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
 	{{ end }}
 </ul>

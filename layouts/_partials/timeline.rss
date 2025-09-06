@@ -1,6 +1,6 @@
 {{- $pages := (.Scratch.Get "rss-pages").GroupByParam "timeline_day" "desc" -}}
-{{- if gt .Site.Config.Services.RSS.Limit 0 -}}
-  {{- $pages = first .Site.Config.Services.RSS.Limit $pages -}}
+{{- if gt site.Config.Services.RSS.Limit 0 -}}
+  {{- $pages = first site.Config.Services.RSS.Limit $pages -}}
 {{- end -}}
 
 {{/* exclude today from home feed */}}

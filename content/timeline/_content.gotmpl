@@ -11,7 +11,7 @@
   {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
 {{ end }}
 
-{{ .Site.Store.Set "kDepartures" $departures }}
+{{ site.Store.Set "kDepartures" $departures }}
 
 {{ range $dir := (default slice site.Params.timelineSources) }}
   {{ range readDir (path.Join (default "" site.Params._contentAdapterPrefix) $dir) }}

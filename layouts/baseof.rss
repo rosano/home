@@ -21,10 +21,10 @@
 {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
 {{- end }}
 
-{{- $pageContext := cond .IsHome .Site . -}}
+{{- $pageContext := cond .IsHome site . -}}
 {{- $pages := (cond (or $.IsHome $.IsSection) $pageContext.RegularPages $pageContext.Pages).ByDate.Reverse -}}
 
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
   {{- $pages = $pages | first $limit -}}
 {{- end -}}
