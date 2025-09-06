@@ -1,0 +1,46 @@
+<table>
+
+<thead>
+  <th>order</th>
+  <th>group</th>
+  <th>place</th>
+</thead>
+
+<tbody>
+{{- $places := slice -}}
+{{- $countries := slice -}}
+{{- range $k, $v := resources.Get "capoeira-visits.csv" | transform.Unmarshal (dict "targetType" "map") }}
+  <tr>
+    <td>{{ add $k 1 }}.</td>
+    <td>
+      {{- if eq (index $v "regular") "TRUE" }}🔁 {{ end -}}
+      {{- if eq (index $v "workshop") "TRUE" }}🎟 {{ end -}}
+      {{- index $v "group" }}</td>
+    <td>
+      {{- index $v "city" }}, {{ index $v "country" }} {{ index $v "emoji" -}}
+      {{- $places = $places | append (index $v "city") }}
+      {{- $countries = $countries | append (index $v "country") }}
+    </td>
+  </tr>
+{{ end -}}
+</tbody>
+
+</table>
+
+<style>
+th {
+  word-break: normal;
+}
+
+td {
+  font-size: 90%;
+}
+
+td:nth-child(2) {
+  max-width: 230px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+</style>
+
+<small>These groups are in {{ $places | uniq | len }} places across {{ $countries | uniq | len }} countries; 🔁 means trained regularly, and 🎟 means participated in a workshop or special event.</small>

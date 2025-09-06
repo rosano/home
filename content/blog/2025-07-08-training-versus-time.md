@@ -10,56 +10,7 @@ I'm starting to train capoeira again with some new groups and thought to reflect
 
 My accountant brain enjoys a good spreadsheet, so it naturally manifested in this list:
 
-| order | group | place |
-| - | - | - |
-| 1. | 🔁 Kadara Capoeira | Toronto, Canada 🇨🇦 |
-| 2. | 🔁 🎟 Capoeira Raiz | Berlin, Germany 🇩🇪 |
-| 3. | 🎟 Xará Capo | Göttingen, Germany 🇩🇪 |
-| 4. | Pressinha | Mannheim, Germany 🇩🇪 |
-| 5. | Arte Nacional | Stuttgart, Germany 🇩🇪 |
-| 6. | Capoeira Corrupio | Freiburg, Germany 🇩🇪 |
-| 7. | 🔁 🎟 Capoeira de Besouro | Berlin, Germany 🇩🇪 |
-| 8. | 🎟 Senzala | Stuttgart, Germany 🇩🇪 |
-| 9. | Capoeira Angola Bangkok | Thailand 🇹🇭 |
-| 10. | Associação de Capoeira Angola Dobrada | Freiburg, Germany 🇩🇪 |
-| 11. | Capoeira São Salomão Roma | Italy 🇮🇹 |
-| 12. | Mojubá | Los Angeles, United States 🇺🇸 |
-| 13. | 🔁 Terrêru | Belo Horizonte, Brazil 🇧🇷 |
-| 14. | Escola de Capoeira Angola Ifé | Recife, Brazil 🇧🇷 |
-| 15. | 🔁 Centro de Capoeira São Salomão | Recife, Brazil 🇧🇷 |
-| 16. | Nzinga DF | Brasilia, Brazil 🇧🇷 |
-| 17. | Capoeira Angola Toronto | Canada 🇨🇦 |
-| 18. | 🔁 🎟 Mojubá | London, England 🇬🇧 |
-| 19. | UR Capoeira | London, England 🇬🇧 |
-| 20. | Capoeira Bemvindo | London, England 🇬🇧 |
-| 21. | 🔁 Oxford Capoeira Society | England 🇬🇧 |
-| 22. | Dendê de Maré | London, England 🇬🇧 |
-| 23. | Academy of Capoeira | Goa, India 🇮🇳 |
-| 24. | 🔁 Axé | Goa, India 🇮🇳 |
-| 25. | Semente do Jogo de Angola | Montreal, Canada 🇨🇦 |
-| 26. | Escola de Capoeira Angola Irmãos Gêmeos de Mestre Curió | Basel, Switzerland 🇨🇭 |
-| 27. | Preservação da Mandinga | Berlin, Germany 🇩🇪 |
-| 28. | 🔁 Grupo de Capoeira Filh@s de Angola | Berlin, Germany 🇩🇪 |
-| 29. | Associação de capoeira angola navio negreiro (ACANNE) | Lyon, France 🇫🇷 |
-| 30. | Mucambo Capoeira Angola | Brighton, England 🇬🇧 |
-| 31. | Associação de Capoeira Angola Relíquia Espinho Remoso (ACARER) | Porto, Portugal 🇵🇹 |
-
-<style>
-th {  word-break: normal;
-}
-
-td {
-  font-size: 90%;
-}
-
-td:nth-child(2) {
-  max-width: 230px;
-  word-wrap: break-word;
-  overflow: hidden;
-}
-</style>
-
-<small>These groups are in 20 places across 11 countries; 🔁 means trained regularly, and 🎟 means participated in a workshop or special event.</small>
+{{< capoeira-visits >}}
 
 I'm not sure how to make sense of time versus experience. 
 
