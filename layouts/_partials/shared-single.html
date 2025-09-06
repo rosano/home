@@ -80,10 +80,12 @@
 
 <!-- TAGS -->
 {{- with .GetTerms "tags" -}}
-<small>Tagged: {{ range $index, $element := . -}}
-	{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
-{{- end }}.
-</small>
+<p>
+	<small>Tagged: {{ range $index, $element := . -}}
+		{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+	{{- end }}.
+	</small>
+</p>
 {{- end }}
 
 <span class="metadata">
