@@ -58,7 +58,7 @@ Notable aspects include:
 
 ## Run it locally
 
-First [install Hugo](https://gohugo.io/installation/) extended edition; I prefer the [pre-built binary](https://github.com/gohugoio/hugo/releases/latest).
+First [install Hugo](https://gohugo.io/installation/) extended edition v0.148.2; I prefer the [pre-built binary](https://github.com/gohugoio/hugo/releases/tag/v0.148.2).
 
 Then start the web server which reloads on any change:
 
