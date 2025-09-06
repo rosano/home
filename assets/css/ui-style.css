@@ -128,6 +128,10 @@ hr {
 	border-radius: 3px;
 }
 
+.post iframe {
+	width: 100%;
+}
+
 .post .title {
 	margin-top: 0;
 }
