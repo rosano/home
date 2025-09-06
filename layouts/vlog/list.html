@@ -13,7 +13,9 @@
 
 	<div class="video-list">
 		{{ range .Pages }}
+			{{ .Scratch.Set "kScopeList" "true" }}
 		  {{ partial "video-preview" . }}
+			{{ .Scratch.Delete "kScopeList" }}
 		{{ end }}
 	</div>
 {{ end }}	
