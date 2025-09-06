@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - YouTube embed in RSS from `youtube_id`
+- Timeline footer on all posts
 
 ## [0.2.11] - 2025-09-05
 

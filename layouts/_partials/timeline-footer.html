@@ -1,3 +1,5 @@
+{{ $isTimeline := eq (.Scratch.Get "kSemanticSection") "timeline" }}
+
 <!-- PAGINATION -->
 
 {{ if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0)) }}
@@ -21,7 +23,7 @@
 
 <!-- TYPES -->
 
-{{ if site.Params._showTypes }}
+{{ if and site.Params._showTypes $isTimeline }}
 	<small class="types">
 		{{ range site.Sections }}
 			{{ if eq .Page.Title "Journal" }}
@@ -43,13 +45,17 @@
 
 <small class="time">
 
-	{{ range site.Sections }}
-		{{ if eq .Page.Title "Journal" }}
-			<a href="{{ .Page.Permalink }}">recent</a>
-		{{ end }}
+{{ if $isTimeline }}
+	
+{{- range site.Sections }}
+	{{ if eq .Page.Title "Journal" }}
+		<a href="{{ .Page.Permalink }}">recent</a>
 	{{ end }}
+{{ end }}
 
 <span>·</span>
+
+{{- end }}
 
 <!-- CONTEXT -->
 {{ $timeContext := "" }}
