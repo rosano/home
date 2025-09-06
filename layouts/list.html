@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <ul>
-{{ range .Pages.ByDate.Reverse }}
+{{ range .RegularPagesRecursive.ByDate.Reverse }}
 	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
 {{ end }}	
 </ul>
