@@ -3,6 +3,8 @@
 {{- $pages := .Scratch.Get "rss-pages" }}
 
 {{- range $pages }}
+{{- .Scratch.Set "kScopeRSS" "true" -}}
+
 
 <item>
   <title>{{ or .Title (.Date.Format "Monday, January 2, 2006 15h04") }}</title>
@@ -23,6 +25,7 @@
   {{- printf "]]>" | safeHTML }}</content:encoded>
 </item>
 
+{{- .Scratch.Delete "kScopeRSS" -}}
 {{- end }}
 
 {{ end }}
