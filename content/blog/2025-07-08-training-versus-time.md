@@ -5,6 +5,7 @@ title: training versus time
 summary: What's the difference between years passed and time trained?
 tags:
  - capoeira
+instagram_id: /p/DL2XiP1tmG1
 ---
 I'm starting to train capoeira again with some new groups and thought to reflect on how many different places I've done this.
 

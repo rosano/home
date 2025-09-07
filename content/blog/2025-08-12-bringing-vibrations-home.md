@@ -10,6 +10,7 @@ mastodon_id: 115016027089736724
 bluesky_id: 3lw7g7pbvjk2c
 threads_id: DNQbIBhtwt1
 facebook_id: 10234739855551569
+instagram_id: DNQcoFotjb3
 ---
 I'm starting a process to collect my online publishing across various platforms into one 'home'.
 

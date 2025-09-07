@@ -204,6 +204,14 @@
 			"key" "threads_id"
 			"title" "Threads"
 			"prefix" "https://www.threads.net/@rosano/post/")
+		(dict
+			"key" "instagram_id"
+			"title" "Instagram"
+			"prefix" "https://instagram.com/rosano")
+		(dict
+			"key" "tiktok_id"
+			"title" "TikTok"
+			"prefix" "https://www.tiktok.com/@rosano.ca/video/")
 	}}
 
 	{{ $params := .Params }}
@@ -219,7 +227,8 @@
 		<span>
 			Also on 
 			{{ range $existing }}
-				<a href="{{ index . "prefix" }}{{ index $params (index . "key") }}">{{ index . "title" }}</a>				
+				{{ $id := index $params (index . "key") }}
+				<a href="{{ print (index . "prefix") (cond (and (eq (index . "key") "instagram_id") (ne (substr $id 0 1) "/")) "/reel/" "") $id }}">{{ index . "title" }}</a>				
 			{{ end }}
 		</span>
 	{{ end }}
