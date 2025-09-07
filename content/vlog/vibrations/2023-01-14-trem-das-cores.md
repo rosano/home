@@ -17,6 +17,8 @@ slug: lcvwxuyw
 summary: "\"Those eyes, light like honey of a colour unequaled\""
 lyrics: seeds/caetano-veloso-trem-das-cores
 series: seeds
+instagram_id: DBLbQN-iblG
+tiktok_id: 7426289374775627013
 ---
 
 https://rosano.ca/seeds

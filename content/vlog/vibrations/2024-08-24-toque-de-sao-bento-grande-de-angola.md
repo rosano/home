@@ -11,4 +11,6 @@ slug: m07ri1jg
 summary: "\"The scale of justice<br>Never weighs what it should\""
 lyrics: pinheiro-besouro/toque-de-sao-bento-grande-de-angola
 series: Capoeira de Besouro
+instagram_id: C_FFylHiDJY
+tiktok_id: 7406588845514329350
 ---

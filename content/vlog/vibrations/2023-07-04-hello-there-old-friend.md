@@ -7,5 +7,7 @@ isPublished: true
 youtube_id: fe5JeGCcGjs
 title: hello there old friend…
 slug: ljofhbow
+instagram_id: CuR7jSwLJ_p
+tiktok_id: 7251985572976200965
 ---
 i tried playing some prokofiev after a long piano hiatus.

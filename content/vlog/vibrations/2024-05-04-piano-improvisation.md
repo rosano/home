@@ -11,4 +11,6 @@ mastodon_id: 115112551595023025
 title: piano improvisation
 slug: mewm2a6n
 summary: enjoying simple percussive piano textures
+instagram_id: DN8ZfmrgkYM
+tiktok_id: 7544027476700253446
 ---

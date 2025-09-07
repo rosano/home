@@ -9,5 +9,7 @@ youtube_id: ojubacLPywk
 title: the gentle waltz
 slug: lwud7rr9
 summary: Experimenting with visual guides for piano music.
+instagram_id: C7oAF7ZCYW7
+tiktok_id: 7375066488870391046
 ---
 hoping to help the ears hear in more detail. i used to play this when i was younger and revisited it last year.

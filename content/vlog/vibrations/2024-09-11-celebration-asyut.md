@@ -12,6 +12,8 @@ hasThumb: true
 youtube_id: -4gTEdwqTKE
 title: celebration, Asyut
 slug: m0xk1sk1
+instagram_id: C_xOW2ICVW-
+tiktok_id: 7413289133742771461
 ---
 I was walking by this house and stopped when I heard music. It was quite a sensation to hear such powerful sounds coming from a door. I didn't know what the context was, but someone might have explained to me later that it was a marriage-related celebration. Egypt and Brazil have two of my most favourite music cultures.
 

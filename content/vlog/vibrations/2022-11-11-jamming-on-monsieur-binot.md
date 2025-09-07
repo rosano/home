@@ -10,6 +10,8 @@ youtube_id: 5KNB-V2T9lg
 title: jamming on Monsieur Binot (with Kaixi Yang)
 slug: lac8mrw8
 lyrics: tiny-concert-2021/joyce-monsieur-binot
+instagram_id: Ck0H9kapshs
+tiktok_id: 7164677323109764357
 ---
 music should be fun… https://kaixiyang.com
 

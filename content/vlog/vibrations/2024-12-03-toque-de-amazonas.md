@@ -15,4 +15,6 @@ slug: m4879q4m
 summary: "\"There are small birds that kill spiral snakes.\""
 lyrics: pinheiro-besouro/toque-de-amazonas
 series: Capoeira de Besouro
+instagram_id: DDHC4zwiFtW
+tiktok_id: 7444104709821992247
 ---

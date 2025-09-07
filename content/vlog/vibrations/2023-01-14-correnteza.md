@@ -13,6 +13,8 @@ slug: lcvww6s8
 summary: "\"I fell asleep smiling, dreaming of our love\""
 lyrics: seeds/tom-jobim-correnteza
 series: seeds
+instagram_id: DB_FHqDCKvQ
+tiktok_id: 7433733704918306053
 ---
 
 https://rosano.ca/seeds

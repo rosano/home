@@ -8,4 +8,6 @@ youtube_id: cEgkAa3OFy4
 title: Um Só Lugar
 slug: lmyypy5m
 lyrics: caetano-2021/um-so-lugar
+instagram_id: Cxnl0yniHgB
+tiktok_id: 7282774550125759750
 ---

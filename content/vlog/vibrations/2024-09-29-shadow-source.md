@@ -10,5 +10,7 @@ hasThumb: true
 youtube_id: ckW5a_99FR0
 title: shadow source
 slug: m1n63wm7
+instagram_id: DAfYSFBiPN0
+tiktok_id: 7419941165203606789
 ---
 reposting my 'shadow' video from the source angle because i like it, and to share the awesome music i was listening to (mestre acordeon: eu vi lá)

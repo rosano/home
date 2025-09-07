@@ -8,4 +8,6 @@ youtube_id: s0notRbTxjA
 title: resonance
 slug: lq9blk88
 summary: finding reverberations
+instagram_id: C083FCFCTNd
+tiktok_id: 7313509883880508677
 ---

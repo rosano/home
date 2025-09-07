@@ -12,6 +12,8 @@ hasThumb: true
 youtube_id: lw7OwuG_D4g
 title: prelude & fugue no. 5 in d major
 slug: m305fu7c
+instagram_id: DB3uSQhiBe7
+tiktok_id: 7432673231716355334
 ---
 Since 2023 I've been recording piano music from my past. This is one I played in my university audition.
 

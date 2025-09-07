@@ -8,6 +8,8 @@ headline: scriabin etude op. 8 no. 5
 youtube_id: MG9gaCjSK6k
 title: "\"etude op. 8 no. 5\" by alexander scriabin"
 slug: m3sj7h9a
+instagram_id: DCq5yo9CoY8
+tiktok_id: 7440049345317145912
 ---
 Since 2023 I've been recording piano music from my past. This is one I learned in my second year of university.
 
