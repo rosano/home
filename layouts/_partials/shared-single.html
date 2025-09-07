@@ -21,6 +21,7 @@
 <!-- NUGGET -->
 {{- if .Params.Summary -}}
 	<div class="nugget">{{ .Summary | markdownify | safeHTML }}</div>
+	{{- if $isRSS -}}<hr>{{- end }}
 {{- end -}}
 
 <!-- CONTENT -->
