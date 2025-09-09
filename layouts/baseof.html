@@ -88,15 +88,7 @@
 </footer>
 
 {{ if (and (eq hugo.Environment "production") site.Params._showGazette) }}
-	<div class="ROCOGazette OLSKDecorModule">
-
-	<p class="OLSKFollow">Find me on <a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/mastodon">Mastodon</a> or <a class="OLSKFollowTwitter" target="_blank" href="https://rosano.ca/twitter">Twitter</a>.</p>
-
-	<p class="ROCOBulletin">
-	  <div><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-label-1="Strolling" data-button-color="#424242" data-button-text-color="#FFFFFF" data-site="https://utopia.rosano.ca/" async></script></div>
-	</p>
-
-	</div>
+	<script src="https://pkg.rosano.ca/gazette/master/main.js" data-gazette></script>
 {{ end }}
 
 {{ .Scratch.Delete "kSemanticSection" }}
