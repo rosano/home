@@ -256,6 +256,12 @@ footer small > * {
 	margin-right: 5px;
 }
 
+/* gazette */
+
+.ROCOGazette {
+	font-size: 90%;
+}
+
 /* video */
 
 .video-preview {
