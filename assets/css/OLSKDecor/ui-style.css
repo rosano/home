@@ -1,5 +1,3 @@
-/* OLSKDecor */
-
 :root {
   --OLSKDecorBackgroundDeep: default;
   --OLSKDecorBackgroundDeepEdge: default;
@@ -951,7 +949,7 @@ a.OLSKDecorPress {
   justify-content: center;
   align-items: center;
 
-  z-index: 2;
+  z-index: 1;
 }
 
 .OLSKBanner * {
@@ -1010,6 +1008,8 @@ a.OLSKDecorPress {
   border-color: black;
 
   background: #333;
+  
+  font-family: var(--OLSKCommonFontFamily);
 }
 
 .ROCOGazette * {
@@ -1025,6 +1025,10 @@ a.OLSKDecorPress {
 
 .ROCOGazette input::placeholder  {
   color: grey !important;
+}
+
+.ROCOGazette h1 {
+  font-family: var(--OLSKCommonHeadingFontFamily);
 }
 
 /* OLSKJar */
