@@ -116,7 +116,7 @@ hr {
 	color: #ece246;
 }
 
-.content > :first-child {
+.post > :first-child {
 	margin-top: 0;
 }
 
