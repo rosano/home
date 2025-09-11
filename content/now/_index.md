@@ -1,5 +1,5 @@
 ---
-title: now
+title: Now
 layout: single
 ---
 I'm currently in Porto with my partner to research affordable places to settle in Europe. Portugal seems to have many places that could fit our streetrat backpacker lifestyle, but France or Germany are also interesting as I have more friends and connections there.
