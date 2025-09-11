@@ -89,6 +89,8 @@
 </p>
 {{- end }}
 
+{{ if .Date }}
+
 <span class="metadata">
 	{{- $departure := partial "func/departures-closest" .Date }}
 
@@ -234,5 +236,7 @@
 	{{ end }}
 </small>
 {{- end }}
+	
+{{ end }}
 
 </div>
