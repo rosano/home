@@ -11,4 +11,4 @@ categories: ["article"]
 
 > they rely on low and no-code tools. And they do wildly complex things within them, pushing these apps to their limits.
 
-This describes my technical capacities well. Though sometimes I can surmount the "command line wall", I often always prefer other ways.
+This describes my technical capacities well. Though sometimes I can surmount the "command line wall", I almost always prefer other ways.
