@@ -14,7 +14,7 @@
 {{- end }}
 
 <!-- TITLE -->
-{{- if and (not $isRSS) .Title -}}
+{{- if and (not $isRSS) .Title (ne .Layout "single") -}}
 	<h3 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 {{- end -}}
 
