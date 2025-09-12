@@ -87,7 +87,7 @@
 {{ end }}
 </footer>
 
-{{ if (and (eq hugo.Environment "production") site.Params._showGazette) }}
+{{ if and (eq hugo.Environment "production") site.Params._showGazette (ne .Path "/occasion") }}
 	<script src="https://pkg.rosano.ca/gazette/master/main.js" data-gazette></script>
 {{ end }}
 
