@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.15] - 2025-09-12
 
+### Added
+- Occasion page
+
 ### Changed
 - Hide title when `layout` is "single"
 - Refactor CSS
