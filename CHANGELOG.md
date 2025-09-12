@@ -15,6 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Now page
 
+### Fixed
+- Hide metadata if no `.Date`
+
 ## [0.2.13] - 2025-09-07
 
 ### Added
