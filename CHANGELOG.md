@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Hide title when `layout` is "single"
+- Refactor CSS
 
 ## [0.2.14] - 2025-09-11
 
