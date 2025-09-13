@@ -1,6 +1,5 @@
 ---
 title: Occasion
-layout: single
 ---
 
 ## Follow my journey
@@ -27,9 +26,6 @@ I think you'll find something to enjoy inside and I'll be glad if you join me ðŸ
 
 <p class="OLSKFollow post">I post more often on <a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/mastodon">Mastodon</a>, <a class="OLSKFollowBluesky" target="_blank" href="https://rosano.ca/bluesky">Bluesky</a>, and <a href="https://rosano.ca/log">Journal</a>.</p>
 
-<p class="post notification"><a href="https://rosano.ca">Return to rosano.ca</a></p>
-
-
 <style type="text/css">
 .post h2 {
   font-family: var(--OLSKCommonHeadingFontFamily);
@@ -43,6 +39,3 @@ I think you'll find something to enjoy inside and I'll be glad if you join me ðŸ
   margin: 0;
 }
 </style>
-
-<div>
-<!-- div not terminated as a hack to use single layout as is -->
