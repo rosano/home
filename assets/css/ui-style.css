@@ -444,6 +444,70 @@ footer {
 	top: 30px;
 }
 
+/* gift */
+
+.gift {
+
+	.grouping {
+
+		padding-left: 0;
+		list-style: none;
+
+		margin: calc(var(--spacing) * 4) 0;
+
+		display: flex;
+		flex-wrap: wrap;
+		gap: var(--spacing);
+
+		a {
+			display: block;
+			width: 100px;
+			height: 100px;
+			border: 0;
+			border-radius: var(--corner);
+
+			color: white;
+			text-shadow: 0px 0px 2px black;
+
+			background-size: contain;
+			background-repeat: no-repeat;
+
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+
+			.price {
+				padding: calc(var(--spacing) / 2);
+
+				text-align: center;
+
+				span {
+					padding: calc(var(--spacing) / 3);
+					border-radius: var(--corner);
+
+					color: white;
+					background: rgba(0, 0, 0, 0.9);
+					font-size: 80%;
+
+					opacity: 0.9;
+				}
+
+			}
+
+			.name {
+				padding: calc(var(--spacing) / 2);
+
+				text-align: center;
+				font-size: 85%;
+
+				background: rgba(0, 0, 0, 0.35);
+			}
+		}
+
+	}
+
+}
+
 /* z-index */
 
 .lyrics_topic .post .sticky, .occasion .post h3 {

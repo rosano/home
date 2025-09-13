@@ -1,0 +1,21 @@
+{{ $grouped := dict }}
+
+{{- range resources.Get "gifts.csv" | transform.Unmarshal (dict "targetType" "map") }}
+  {{ $group := index . "group" }}
+  {{ $grouped = merge $grouped (dict $group ((default slice (index $grouped $group)) | append .)) }}
+{{ end }}
+
+{{ range $group, $items := $grouped }}
+  <ul class="grouping grouping-{{ $group }}">
+    {{ range $items }}
+      <li>
+        <a href="https://rosano.ca/back" style="background-image: url('{{ print site.Params.mediaPrefix page.Path "/" (index (split (index . "price") "–") 0) }}.jpg');">
+          <span class="price">
+            <span><sup>$</sup>{{ index . "price" }}</span>
+          </span>
+          <span class="name">{{ index . "name" }}</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}
