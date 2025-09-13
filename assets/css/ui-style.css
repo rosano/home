@@ -60,7 +60,7 @@ hr {
 	opacity: 0.3;
 }
 
-.sticky {
+.sticky, .draft h2, .draft .post h3 {
 	padding: var(--spacing) 0;
 	
 	position: sticky;
@@ -414,31 +414,38 @@ footer {
 
 /* lyrics */
 
-.lyrics .post {
-
+.lyrics .post, , .post.large {
 	padding-top: 0;
+}
 
-	.sticky {
-		margin-bottom: 0;
+.lyrics .post blockquote:first-of-type p:first-child {
+	margin-top: 0;
+	padding-top: 0;
+}
 
-		background: inherit;
-		background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, var(--background) 10%);
-	}
+.lyrics .post .sticky, .draft h3 {
+	margin-bottom: 0;
 
+	background: inherit;
+	background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, var(--background) 10%);
+}
+
+.lyrics_topic .post .sticky, .draft .post h3 {
+	padding: calc(var(--spacing) * 1.5) 0;
+	top: 43px;
 }
 
 .lyrics_topic .post .sticky {
-	padding: var(--spacing) 0;
 	top: 30px;
 }
 
 /* z-index */
 
-.lyrics_topic .post .sticky {
+.lyrics_topic .post .sticky, .draft .post h3 {
 	z-index: 1;
 }
 
-.sticky {
+.sticky, .draft h2 {
 	z-index: 2;
 }
 
