@@ -1,12 +1,16 @@
 ---
+date: 2025-09-14T10:39:28.833Z
 slug: introducing-occasion
 title: introducing Occasion
-summary: My posture has shifted from "I should take less space" to "I'd like to
-  connect regularly with people who want more".
-tags:
-  - ""
-related: ""
-date: 2025-09-14T10:39:28.833Z
+summary: I've shifted from "I should take less space" to "I'd like to connect regularly with people who want more".
+twitter_id: 1967179143986249750
+mastodon_id: 115202262813543583
+bluesky_id: 3lys4nqsews2s
+nostr_id: note1q9dmad6ucwz8kjcctv5tndlc7x3ttngajjc68e7cnfvfy2cfx4psgzw3um
+instagram_id: DOlIkKZCOL5
+tiktok_id: 7549897345085787393
+threads_id: DOlIlp5CNyB
+facebook_id: 1155421126462475
 ---
 I'm motivated to start a newsletter again, after being out of it for some years, and mix the approaches I've tried so far.
 
