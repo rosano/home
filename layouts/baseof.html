@@ -40,6 +40,10 @@
 
 {{- partial "media-embeds.html" . -}}
 
+{{ if eq .Section "occasion" }}
+	<base target="_blank">
+{{ end }}
+
 </head>
 
 <body class="{{ $section }}{{ cond (eq .Kind "page") " single" "" }}{{ with .Section }} {{ . }}{{ end }}">
