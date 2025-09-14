@@ -65,3 +65,7 @@ Then start the web server which reloads on any change:
 ```
 hugo server
 ```
+
+## Questions
+
+Feel free to reach out on [Mastodon](https://rosano.ca/mastodon) or [Twitter](https://rosano.ca/twitter).
