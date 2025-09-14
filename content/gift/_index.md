@@ -1,5 +1,7 @@
 ---
 title: Send me a gift
+alias:
+- gifts
 ---
 
 This is a page where people who appreciate what I do can send me "gifts" by clicking on pictures.
