@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+<small>edition {{ .Slug }} • {{ .Date | time.Format "January" }} {{ humanize (time.Format "2" .Date) }}, {{ .Date | time.Format "2006" }}</small>
+
+{{ .Content }}
+
+<p class="OLSKFollow post"><small><a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/log">Journal</a> | <a class="OLSKFollowMastodon" target="_blank" href="https://rosano.ca/mastodon">Mastodon</a> | <a class="OLSKFollowBluesky" target="_blank" href="https://rosano.ca/bluesky">Bluesky</a> | <a href="https://rosano.ca/instagram">Instagram</a></small></p>
+
+{{ end }}

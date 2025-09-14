@@ -518,6 +518,26 @@ footer {
 
 }
 
+/* occasion */
+
+.occasion {
+
+	header, header h2 {
+		margin-bottom: 0;
+		padding-bottom: 0 !important;
+	}
+
+	header + p {
+		margin-top: 0;
+	}
+
+	.OLSKFollow {
+	  background: #e3e3e3;
+	  text-align: center;
+	}
+
+}
+
 /* z-index */
 
 .lyrics_topic .post .sticky, .occasion .post h3 {
