@@ -274,6 +274,8 @@ footer {
 	}
 
 	& > * {
+		padding: var(--spacing) 0;
+
 		flex-grow: 1;
 	}
 
