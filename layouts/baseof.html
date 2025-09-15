@@ -84,18 +84,18 @@
 {{- block "main" . }}{{- end }}
 
 <footer>
-{{ .Render "footer" }}
+{{- .Render "footer" }}
 
-{{ if or (eq $section "timeline") (and .IsPage (ne .Section "occasion")) }}
+{{ if or (eq $section "timeline") (and .IsPage (ne .Section "occasion")) -}}
 	{{- partial "timeline-footer.html" . -}}
-{{ end }}
+{{- end }}
 </footer>
 
-{{ if and (eq hugo.Environment "production") site.Params._showGazette (not (hasPrefix .Path "/occasion")) }}
+{{ if and (eq hugo.Environment "production") site.Params._showGazette (not (hasPrefix .Path "/occasion")) -}}
 	<script src="https://pkg.rosano.ca/gazette/master/main.js" data-gazette></script>
-{{ end }}
+{{- end -}}
 
-{{ .Scratch.Delete "kSemanticSection" }}
+{{- .Scratch.Delete "kSemanticSection" -}}
 
 </body>
 </html>

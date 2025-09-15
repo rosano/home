@@ -1,154 +1,148 @@
-{{ $isTimeline := eq (.Scratch.Get "kSemanticSection") "timeline" }}
+{{- $isTimeline := eq (.Scratch.Get "kSemanticSection") "timeline" -}}
 
 <!-- PAGINATION -->
-
-{{ if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0)) }}
-	
+{{- if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0)) }}
 <div class="paginator">
 	<span>
-		{{ if .Paginator.HasNext }}
+		{{- if .Paginator.HasNext }}
 			<a href="{{ .Paginator.Next.URL }}">older</a> · 
 			<small><a href="{{ .Paginator.Last.URL }}">start</a></small>
-		{{ end }}
+		{{ end -}}
 	</span>
 	<span>
-		{{ if .Paginator.HasPrev }}
+		{{- if .Paginator.HasPrev }}
 			<small><a href="{{ .Paginator.First.URL }}">end</a></small> · 
 			<a href="{{ .Paginator.Prev.URL }}">newer</a>
-		{{ end }}
+		{{ end -}}
 	</span>
 </div>
-
-{{ end }}
+{{ end -}}
 
 <!-- TYPES -->
-
-{{ if and site.Params._showTypes $isTimeline }}
+{{- if and site.Params._showTypes $isTimeline -}}
 	<small class="types">
-		{{ range site.Sections }}
-			{{ if eq .Page.Title "Journal" }}
+		{{- range site.Sections -}}
+			{{- if eq .Page.Title "Journal" -}}
 				<a href="{{ .Page.Permalink }}">all</a>
-			{{ end }}
-		{{ end }}
+			{{- end -}}
+		{{- end }}
 		
 		<span>·</span>
 		
-		{{ range site.Taxonomies.categories.ByCount }}
-			{{ if ne .Page.Title "move" }}
+		{{ range site.Taxonomies.categories.ByCount -}}
+			{{- if ne .Page.Title "move" }}
 				<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-			{{ end }}
-		{{ end }}
+			{{- end -}}
+		{{- end -}}
 	</small>
-{{ end }}
+{{- end -}}
 
 <!-- TIME -->
-
 <small class="time">
-
-{{ if $isTimeline }}
+{{- if $isTimeline -}}
 	
 {{- range site.Sections }}
-	{{ if eq .Page.Title "Journal" }}
+	{{ if eq .Page.Title "Journal" -}}
 		<a href="{{ .Page.Permalink }}">recent</a>
-	{{ end }}
-{{ end }}
+	{{- end -}}
+{{- end }}
 
-<span>·</span>
+	<span>·</span>
 
 {{- end }}
 
 <!-- CONTEXT -->
-{{ $timeContext := "" }}
-{{ $currentYear := "" }}
-{{ $currentMonth := "" }}
-{{ $currentDay := "" }}
+{{- $timeContext := "" -}}
+{{- $currentYear := "" -}}
+{{- $currentMonth := "" -}}
+{{- $currentDay := "" -}}
 
-{{ if (and (eq .Kind "term") (eq .Data.Singular "timeline_day")) }}
-	{{ $timeContext = time.AsTime (replace .Data.Term "/" "-") }}
-{{ else if (and (eq .Kind "term") (eq .Data.Singular "timeline_month")) }}
-	{{ $timeContext = time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") }}
-{{ else if (and (eq .Kind "term") (eq .Data.Singular "timeline_year")) }}
-	{{ $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") }}
-{{ else if .IsPage }}
-	{{ $timeContext = .Date }}
-{{ end }}
+{{- if (and (eq .Kind "term") (eq .Data.Singular "timeline_day")) -}}
+	{{- $timeContext = time.AsTime (replace .Data.Term "/" "-") -}}
+{{- else if (and (eq .Kind "term") (eq .Data.Singular "timeline_month")) -}}
+	{{- $timeContext = time.AsTime (delimit (slice (replace .Data.Term "/" "-") "01") "-") -}}
+{{- else if (and (eq .Kind "term") (eq .Data.Singular "timeline_year")) -}}
+	{{- $timeContext = time.AsTime (delimit (slice .Data.Term "01-01") "-") -}}
+{{- else if .IsPage -}}
+	{{- $timeContext = .Date -}}
+{{- end -}}
 
-{{ if $timeContext }}
-	{{ $currentYear = time.Format "2006" $timeContext }}
-	{{ $currentMonth = time.Format "01" $timeContext }}
-	{{ $currentDay = time.Format "02" $timeContext }}
-{{ end }}
+{{- if $timeContext -}}
+	{{- $currentYear = time.Format "2006" $timeContext -}}
+	{{- $currentMonth = time.Format "01" $timeContext -}}
+	{{- $currentDay = time.Format "02" $timeContext -}}
+{{- end -}}
 
-{{ if not $timeContext }}
+{{ if not $timeContext -}}
 	<!-- ALL YEARS -->
 	{{ range site.Taxonomies.timeline_year }}
 		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
-	{{ end }}
-{{ else }}
+	{{- end }}
+{{- else }}
 	<!-- CURRENT YEAR -->
 	{{ if eq .Section "timeline_year" }}
 		<span>{{ $currentYear }}</span>
-	{{ else }}
-		{{ range site.Taxonomies.timeline_year }}
-			{{ if strings.Contains .Page.Title $currentYear }}
+	{{- else }}
+		{{ range site.Taxonomies.timeline_year -}}
+			{{- if strings.Contains .Page.Title $currentYear -}}
 				<a href="{{ .Page.Permalink }}">{{ $currentYear }}</a>
-			{{ end }}
-		{{ end }}
-	{{ end }}
+			{{- end -}}
+		{{- end -}}
+	{{- end }}
 	
 	<span>·</span>
 
-	{{ if eq .Section "timeline_year" }}
+	{{ if eq .Section "timeline_year" -}}
 		<!-- ALL MONTHS -->
-		{{ range site.Taxonomies.timeline_month }}
-			{{ if strings.Contains .Page.Title $currentYear }}
-				{{ $t := time.AsTime (delimit (slice (replace .Page.Title "/" "-") "01") "-") }}
+		{{ range site.Taxonomies.timeline_month -}}
+			{{- if strings.Contains .Page.Title $currentYear -}}
+				{{- $t := time.AsTime (delimit (slice (replace .Page.Title "/" "-") "01") "-") -}}
 				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
-			{{ end }}
-		{{ end }}
-	{{ end }}
-{{ end }}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
 
-{{ if (or (in (slice "timeline_month" "timeline_day") .Section) .IsPage) }}
-	{{ $format := time.Format "January" $timeContext }}
+{{ if (or (in (slice "timeline_month" "timeline_day") .Section) .IsPage) -}}
+	{{- $format := time.Format "January" $timeContext -}}
 
 	<!-- CURRENT MONTH -->
-	{{ if eq .Section "timeline_month" }}
+	{{- if eq .Section "timeline_month" }}
 		<span>{{ $format }}</span>
-	{{ else }}
+	{{- else }}
 		{{ range site.Taxonomies.timeline_month }}
-			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
+			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
 				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
-			{{ end }}
-		{{ end }}
-	{{ end }}
+			{{- end -}}
+		{{- end -}}
+	{{- end }}
 	
 	<span>·</span>
 
-	{{ if eq .Section "timeline_month" }}
+	{{- if eq .Section "timeline_month" -}}
 		<!-- ALL DAYS -->
-		{{ range site.Taxonomies.timeline_day }}
-			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
+		{{ range site.Taxonomies.timeline_day -}}
+			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
 				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime (replace .Page.Title "/" "-")))  }}</a>
-			{{ end }}
-		{{ end }}
-	{{ end }}
-{{ end }}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+{{- end -}}
 
-{{ if (or (in (slice "timeline_day") .Section) .IsPage) }}
-	{{ $format := humanize (time.Format "2" $timeContext)  }}
+{{ if (or (in (slice "timeline_day") .Section) .IsPage) -}}
+	{{- $format := humanize (time.Format "2" $timeContext)  -}}
 
 	<!-- CURRENT DAY -->
-	{{ if eq .Section "timeline_day" }}
+	{{- if eq .Section "timeline_day" }}
 		<span>{{ $format }}</span>
-	{{ else }}
-		{{ range site.Taxonomies.timeline_day }}
-			{{ if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth $currentDay) "/") }}
+	{{- else }}
+		{{ range site.Taxonomies.timeline_day -}}
+			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth $currentDay) "/") -}}
 				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
-			{{ end }}
-		{{ end }}
-	{{ end }}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
 	
-{{ end }}
+{{- end }}
 
 </small>

@@ -172,12 +172,12 @@
 <hr>
 
 <small class="external">
-	{{ if site.Params.sourcePrefix }}
+	{{ if site.Params.sourcePrefix -}}
 		<span>
 			<a href="{{ site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print "/content-sources/journal/" .Page.Params.originalBasename ".md") }}">Source</a>
 		</span>
-	{{ end }}
-	{{ $syndications := slice
+	{{- end }}
+	{{- $syndications := slice
 		(dict
 			"key" "youtube_id"
 			"title" "YouTube"
@@ -214,24 +214,24 @@
 			"key" "tiktok_id"
 			"title" "TikTok"
 			"prefix" "https://www.tiktok.com/@rosano.ca/video/")
-	}}
+	-}}
 
-	{{ $params := .Params }}
-	{{ $existing := slice }}
+	{{- $params := .Params -}}
+	{{- $existing := slice -}}
 
-	{{ range $syndications }}
-		{{ if index $params (index . "key") }}
-			{{ $existing = $existing | append . }}
-		{{ end }}
-	{{ end }}
+	{{- range $syndications -}}
+		{{- if index $params (index . "key") -}}
+			{{- $existing = $existing | append . -}}
+		{{- end -}}
+	{{- end -}}
 
-	{{ if len $existing }}
+	{{- if len $existing }}
 		<span>
 			Also on 
-			{{ range $existing }}
-				{{ $id := index $params (index . "key") }}
+			{{- range $existing }}
+				{{- $id := index $params (index . "key") -}}
 				<a href="{{ print (index . "prefix") (cond (and (eq (index . "key") "instagram_id") (ne (substr $id 0 1) "/")) "/reel/" "") $id }}">{{ index . "title" }}</a>				
-			{{ end }}
+			{{ end -}}
 		</span>
 	{{ end }}
 </small>
