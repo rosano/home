@@ -4,8 +4,8 @@
   "country" "Canada"
   "timezone" "America/Toronto"
 ) }}
-{{ $enableDepartures := false }}
 
+{{ $enableDepartures := false }}
 {{ range resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") }}
   {{ $enableDepartures = true }}
   {{ $departures = $departures | append (merge . (dict "time" (time .time))) }}
