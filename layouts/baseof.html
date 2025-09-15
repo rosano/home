@@ -82,11 +82,11 @@
 {{- block "main" . }}{{- end }}
 
 <footer>
-{{- .Render "footer" }}
-
-{{ if or (eq $section "timeline") (and .IsPage .Date) -}}
+{{- if or (eq $section "timeline") (and .IsPage .Date) -}}
 	{{- partial "timeline-footer.html" . -}}
 {{- end }}
+
+{{- .Render "footer" -}}
 </footer>
 
 {{ if and (eq hugo.Environment "production") site.Params._showGazette (ne $section "occasion") -}}
