@@ -31,14 +31,12 @@
 {{- $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options -}}
 <link rel="stylesheet" href="{{ $style.Permalink }}" />
 
-{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") | resources.Concat "js/bundle.js" -}}
+{{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") (resources.Get "js/embed.js") | resources.Concat "js/bundle.js" -}}
 <script src="{{ $js.RelPermalink }}"></script>
 
 {{ if (and (eq hugo.Environment "production") site.Params._bannerScriptURL) }}
 	<script src="{{ site.Params._bannerScriptURL }}"></script>
 {{ end }}
-
-{{- partial "media-embeds.html" . -}}
 
 {{ if eq .Section "occasion" }}
 	<base target="_blank">

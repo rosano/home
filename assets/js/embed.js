@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
 	Array.from(document.querySelectorAll('.post .embed')).forEach(async function (e) {
 		const link = e.getAttribute('data-link');
@@ -37,4 +36,3 @@ document.addEventListener('DOMContentLoaded', function() {
 		e.innerHTML = `<iframe width="100%" height="${ metadata['og:video:height'] || metadata.OLSKEmbedHeight }" src="${ embed }" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`;
 	});
 });
-</script>
