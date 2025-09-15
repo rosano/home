@@ -230,6 +230,10 @@ hr {
 
 }
 
+.post.large {
+	padding-top: 0;
+}
+
 .nugget p {
 	margin: 0;
 }
@@ -431,10 +435,6 @@ footer {
 }
 
 /* lyrics */
-
-.lyrics .post, , .post.large {
-	padding-top: 0;
-}
 
 .lyrics .post blockquote:first-of-type p:first-child {
 	margin-top: 0;
