@@ -209,7 +209,7 @@
 		(dict
 			"key" "instagram_id"
 			"title" "Instagram"
-			"prefix" "https://instagram.com/rosano")
+			"prefix" "https://instagram.com/rosano/p/")
 		(dict
 			"key" "tiktok_id"
 			"title" "TikTok"
@@ -230,7 +230,7 @@
 			Also on 
 			{{ range $existing }}
 				{{- $id := index $params (index . "key") -}}
-				<a href="{{ print (index . "prefix") (cond (and (eq (index . "key") "instagram_id") (ne (substr $id 0 1) "/")) "/reel/" "") $id }}">{{ index . "title" }}</a>				
+				<a href="{{ print (index . "prefix") $id }}">{{ index . "title" }}</a>				
 			{{ end -}}
 		</span>
 	{{ end }}
