@@ -34,7 +34,7 @@
 <description>{{ .Pages.Len }} {{ cond (gt .Pages.Len 1) "entries" "entry" }}{{ with $categories | uniq }} under {{ delimit $categories ", " }}{{ end }}{{ with $tags | uniq }}; tagged: {{ delimit $tags ", " }}{{ end }}</description>
 
 <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
-{{ range $index, $element := .Pages -}}
+{{ range $index, $element := .Pages.Reverse -}}
 
 {{- if $index }}<hr />{{ end -}}
 
