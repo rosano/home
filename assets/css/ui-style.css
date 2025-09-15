@@ -385,7 +385,6 @@ footer {
 	.video-preview a {
 		--video-width: var(--video-width-condensed);
 		--video-height: var(--video-height-condensed);
-			font-size: var(--video-font-condensed);
 	}
 
 }
