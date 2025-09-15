@@ -84,7 +84,7 @@
 <footer>
 {{- .Render "footer" }}
 
-{{ if or (eq $section "timeline") (and .IsPage (ne .Section "occasion")) -}}
+{{ if or (eq $section "timeline") (and .IsPage .Date) -}}
 	{{- partial "timeline-footer.html" . -}}
 {{- end }}
 </footer>
