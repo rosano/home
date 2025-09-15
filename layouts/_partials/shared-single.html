@@ -228,7 +228,7 @@
 	{{- if len $existing }}
 		<span>
 			Also on 
-			{{- range $existing }}
+			{{ range $existing }}
 				{{- $id := index $params (index . "key") -}}
 				<a href="{{ print (index . "prefix") (cond (and (eq (index . "key") "instagram_id") (ne (substr $id 0 1) "/")) "/reel/" "") $id }}">{{ index . "title" }}</a>				
 			{{ end -}}
