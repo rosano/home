@@ -224,6 +224,16 @@ hr {
 		}
 	}
 
+	figure img {
+		max-width: 100%;
+	}
+
+	figcaption {
+		text-align: center;
+		font-size: 90%;
+		opacity: 0.5;
+	}
+
 }
 
 .notification {
