@@ -1,0 +1,17 @@
+{{- $pages := .CurrentSection.Pages.ByWeight -}}
+<ul class="paginator">
+  <span>
+    {{- with $pages.Prev . }}
+      <small>previous</small><br>
+      <!-- <small>{{- .Date.Format "Jan 02 2006" }}</small><br> -->
+      <a href="{{ .RelPermalink  }}">{{ .Title }}</a>
+    {{ end -}}
+  </span>
+  <span>
+    {{- with $pages.Next . }}
+      <small>next</small><br>
+      <!-- <small>{{- .Date.Format "Jan 02 2006" }}</small><br> -->
+      <a href="{{ .RelPermalink  }}">{{ .Title }}</a>
+    {{ end -}}
+  </span>
+</div>
