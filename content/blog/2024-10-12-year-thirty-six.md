@@ -10,8 +10,6 @@ My birthday reflection this year is a kind of online update since I've been more
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_9458-1.JPG">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_9191.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_9275.jpg">
-</gallery>
-<gallery>
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_9384.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_0703.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1657.jpg">
@@ -22,7 +20,7 @@ My birthday reflection this year is a kind of online update since I've been more
 My [father's passing](https://strolling.rosano.ca/0168/) shuffled around many things beyond what I could have expected, and I'm still trying to make sense of this new life. I learned that when a loved one passes away, your old life dies with them and things never 'get back to normal' at some point. Life and death somehow feels a needle apart, which has shifted my priorities, and so I find myself with even less attention to the unnecessary, travelling lighter. At the same time, feeling fortunate to be alive and make the most of it with who or what nourishes me.
 
 <gallery>
-<img src="https://utopia.rosano.ca/content/images/2024/10/RZKZ7523.JPG" style="flex: 2 1 0%;">
+<img src="https://utopia.rosano.ca/content/images/2024/10/RZKZ7523.JPG">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_0447.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/moon-export.gif">
 </gallery>
@@ -45,8 +43,6 @@ Although I'm grateful for what seems like years where food just happened around 
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_0723.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_0493.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1408.jpg">
-</gallery>
-<gallery>
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1582.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1634.jpg">
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1825.jpg">
@@ -71,16 +67,3 @@ Perhaps, as someone recently said to me: everything we do matters.
 * * *
 
 All yearly reflections: [33](https://utopia.rosano.ca/thirty-three/), [34](https://utopia.rosano.ca/thirty-four/), [35](https://utopia.rosano.ca/year-thirty-four), [36](https://utopia.rosano.ca/year-thirty-six/).
-
-<style>
-gallery {
-	display: flex;
-	justify-content: center;
-	max-width: 100%;
-	align-items: center;
-}
-
-gallery > img {
-	max-width: 33% !important;
-}
-</style>

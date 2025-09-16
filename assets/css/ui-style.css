@@ -210,6 +210,19 @@ hr {
 		margin-bottom: 0;
 		padding-bottom: 0;
 	}
+	
+	gallery {
+		max-width: 100%;
+		
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+
+		img {
+			max-width: 32% !important;
+		}
+	}
 
 }
 
