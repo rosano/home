@@ -16,7 +16,7 @@
 {{ end }}
 
 <!-- VIBRATIONS -->
-{{ with where ((site.GetPage "section" "vibrations").Pages) "Params.lyrics" "like" .Slug }}
+{{ with where ((site.GetPage "vlog/vibrations").Pages) "Params.lyrics" "like" .Slug }}
 	<div class="video-list">
 		{{ range . }}
 			{{ partial "video-preview" . }}

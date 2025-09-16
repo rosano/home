@@ -72,7 +72,7 @@
       {{ if strings.Contains $dir "content/" }}
         {{ $params = merge $params (dict
           "isContent" "true"
-          "originalSection" (index (last 1 (split $dir "/")) 0)
+          "originalSection" (replace $dir "content/" "")
         ) }}
       {{ else }}
         {{ $params = merge $params (dict
