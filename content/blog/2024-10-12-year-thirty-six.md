@@ -29,7 +29,7 @@ My [father's passing](https://strolling.rosano.ca/0168/) shuffled around many th
 
 ## movement
 
-I gave myself the gift of training capoeira [some weeks in London](https://www.instagram.com/rosano/p/C-3JkNONkeV/) with a group and master I've been following the past two years. Life-changing by my standards, but not sure how to describe it other than new sensations of what is possible and a vibe that I'll probably carry with me everywhere. Well, at the least it makes me want to [dance](https://www.youtube.com/watch?v=ckW5a_99FR0&ref=utopia.rosano.ca).
+I gave myself the gift of training capoeira [some weeks in London](https://www.instagram.com/rosano/p/C-3JkNONkeV/) with a group and master I've been following the past two years. Life-changing by my standards, but not sure how to describe it other than new sensations of what is possible and a vibe that I'll probably carry with me everywhere. Well, at the least it makes me want to [dance](https://www.youtube.com/watch?v=ckW5a_99FR0).
 
 <gallery>
 <img src="https://utopia.rosano.ca/content/images/2024/10/IMG_1464.jpg">
@@ -58,7 +58,7 @@ The past year seems to have been characterized by much uncertainty about the fut
 
 I passed many periods overwhelmed by my perception of [bad things happening in the world](https://utopia.rosano.ca/when-bad-things-happen-in-the-world/), and although I have my own ways to cope, I would invite anyone reading this to share with me: what helps you? I often come back to doing what feels meaningful, even if it's not sufficient. Seems hard to estimate what the world will be like in even five years.
 
-With respect to the technology threads I've been cultivating in previous years, I'm not sure where to place myself considering how the landscape is changing. [Conversations](https://strolling.rosano.ca/) and [music](https://rosano.ca/vibrations) feel more obvious, as their significance will likely not change in the future. It's interesting to consider what technical things will remain constant… I don't know, but I want to feel like I'm working with a strong sense of purpose.
+With respect to the technology threads I've been cultivating in previous years, I'm not sure where to place myself considering how the landscape is changing. [Conversations](https://strolling.rosano.ca) and [music](https://rosano.ca/vibrations) feel more obvious, as their significance will likely not change in the future. It's interesting to consider what technical things will remain constant… I don't know, but I want to feel like I'm working with a strong sense of purpose.
 
 Perhaps, as someone recently said to me: everything we do matters.
 
