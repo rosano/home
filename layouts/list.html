@@ -2,7 +2,7 @@
 
 <ul>
 {{ range .RegularPagesRecursive.ByDate.Reverse }}
-	<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
 {{ end }}	
 </ul>
 

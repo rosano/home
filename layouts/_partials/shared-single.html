@@ -15,7 +15,7 @@
 
 <!-- TITLE -->
 {{- if and (not $isRSS) .Title (ne .Layout "single") -}}
-	<h3 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	<h3 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 {{- end -}}
 
 <!-- NUGGET -->
@@ -35,7 +35,7 @@
   {{- $title := trim . "[ ]" -}}
   {{- $match := index (where site.Pages "Title" $title) 0 -}}
   {{ if $match }}
-  	{{- $link := printf `<a href="%s">%s</a>` $match.Permalink $title -}}
+  	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $title -}}
   	{{- $Content = replace $Content . $link 1 -}}
   {{ end }}
 {{- end -}}
@@ -45,7 +45,7 @@
   {{- $text := replaceRE $linkRE "$1" . -}}
   {{- $match := index (where site.Pages "Title" (replaceRE $linkRE "$2" .)) 0 -}}
   {{ if $match }}
-  	{{- $link := printf `<a href="%s">%s</a>` $match.Permalink $text -}}
+  	{{- $link := printf `<a href="%s">%s</a>` $match.RelPermalink $text -}}
   	{{- $Content = replace $Content . $link 1 -}}
   {{ end }}
 {{- end -}}
@@ -65,7 +65,7 @@
 {{- if not $isList -}}
 	{{- if .Params.lyrics -}}
 		{{- with site.GetPage (print "lyrics/" .Params.lyrics) -}}
-			<h4><a href="{{ .Permalink }}">lyrics</a></h4>
+			<h4><a href="{{ .RelPermalink }}">lyrics</a></h4>
 		  <blockquote class="lyrics">
 		  {{- .Content -}}
 		  </blockquote>
@@ -77,13 +77,13 @@
 {{- if .Params.recorded -}}<p><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
 
 <!-- SERIES -->
-{{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small>{{- end -}}
+{{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
 <!-- TAGS -->
 {{- with .GetTerms "tags" -}}
 <p>
 	<small>Tagged: {{ range $index, $element := . -}}
-		{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+		{{- if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 	{{- end }}.
 	</small>
 </p>
@@ -98,7 +98,7 @@
 		<!-- TIMESTAMP -->
 		{{- $t := .Date | time.In $departure.timezone -}}
 		{{- $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" -}}
-		<a aria-label="Permalink for {{ cond $hideTime "" (print ($t | time.Format ":time_short") ", ") }}{{ $t | time.Format ":date_long" }}" href="{{ .Permalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
+		<a aria-label="Permalink for {{ cond $hideTime "" (print ($t | time.Format ":time_short") ", ") }}{{ $t | time.Format ":date_long" }}" href="{{ .RelPermalink }}"><time datetime="{{ $t.Format "2006-01-02T15:04:05Z07:00" }}">{{ if $isList -}}
 			{{- $t.Format "15h04" -}}
 		{{- else -}}
 			{{- $t.Format (print "Jan 02 2006" (cond $hideTime "" ", 15h04")) -}}
@@ -107,14 +107,14 @@
 		<!-- PLACE -->
 		{{ range site.Taxonomies.place -}}
 			{{- if eq .Page.LinkTitle $departure.place -}}
-				<span>from <a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a> / </span>
+				<span>from <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{- end -}}
 		{{- end}}
 
 		<!-- COUNTRY -->
 		{{- range site.Taxonomies.country -}}
 			{{- if eq .Page.LinkTitle $departure.country -}}
-				<span><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a></span>
+				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
 		{{- end -}}
 
@@ -126,7 +126,7 @@
 		<!-- TYPES -->
 		{{- if $isRSS -}}
 			{{- with .GetTerms "categories" -}}
-				<span>, type: {{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end -}}</span>
+				<span>, type: {{- range . -}}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end -}}</span>
 			{{- end -}}
 		{{- end -}}
 	</small>
@@ -135,7 +135,7 @@
 {{- if not $isRSS -}}
 	{{- with .GetTerms "categories" -}}
 		<span class="types">
-			{{- range . -}}<a href="{{ .Permalink }}">{{ .Title }}</a> {{ end -}}
+			{{- range . -}}<a href="{{ .RelPermalink }}">{{ .Title }}</a> {{ end -}}
 		</span>
 	{{- end -}}
 {{- end -}}
@@ -150,14 +150,14 @@
 		<!-- PLACE -->
 		{{ range site.Taxonomies.place }}
 			{{ if eq .Page.LinkTitle $departure.place }}
-				<span>in <a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a> / </span>
+				<span>in <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> / </span>
 			{{ end }}
 		{{ end}}
 
 		<!-- COUNTRY -->
 		{{ range site.Taxonomies.country }}
 			{{ if eq .Page.LinkTitle $departure.country }}
-				<span><a href="{{ .Page.Permalink }}">{{ .Page.LinkTitle }}</a></span>
+				<span><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a></span>
 			{{- end -}}
 		{{- end -}}
 

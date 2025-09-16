@@ -19,7 +19,7 @@
 {{ end }}
 
 {{- range .AlternativeOutputFormats -}}
-  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}" title="{{- partial "page-title.html" page -}}">
 {{ end -}}
 {{- .Scratch.Delete "kIsHeadTitle" -}}
 
@@ -29,7 +29,7 @@
 
 {{- $options := (dict "outputStyle" "compressed" "enableSourceMap" true) -}}
 {{- $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options -}}
-<link rel="stylesheet" href="{{ $style.Permalink }}" />
+<link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") (resources.Get "js/embed.js") | resources.Concat "js/bundle.js" -}}
 <script src="{{ $js.RelPermalink }}"></script>
@@ -74,7 +74,7 @@
 				{{ end }}
 			{{ end }}
 			
-			<a href="{{ with $sectionPage }}{{ .Permalink }}{{ end }}">{{ with $sectionPage }}{{ .Title }}{{ end }}</a>
+			<a href="{{ with $sectionPage }}{{ .RelPermalink }}{{ end }}">{{ with $sectionPage }}{{ .Title }}{{ end }}</a>
 		{{- end }}
 	</h2>
 </header>

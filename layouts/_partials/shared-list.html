@@ -6,7 +6,7 @@
 
 	{{ if not $isDay }}
 		{{ with (index ((index .Pages 0).GetTerms "timeline_day") 0) }}
-		  <h3 class="sticky"><a href="{{ .Page.Permalink }}">{{ time.Format "Monday, January 2, 2006" (time.AsTime (replace $browseDay "/" "-")) }}</a></h3>
+		  <h3 class="sticky"><a href="{{ .Page.RelPermalink }}">{{ time.Format "Monday, January 2, 2006" (time.AsTime (replace $browseDay "/" "-")) }}</a></h3>
 		{{ end }}
 	{{ end }}
 

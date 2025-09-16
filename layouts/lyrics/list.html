@@ -4,16 +4,16 @@
 {{ if $withoutTopic }}
 	<ul>
 		{{ range $withoutTopic }}
-			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
 		{{ end}}
 	</ul>
 {{ end }}
 
 {{ range site.Taxonomies.lyrics_topic }}
-	<h3><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h3>
+	<h3><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></h3>
 	<ul>
 		{{ range (where site.Taxonomies.lyrics_collection "Params.lyrics_topic" "intersect" (slice .Page.Title)) }}
-			<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+			<li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
 		{{ end}}
 	</ul>
 {{ end }}

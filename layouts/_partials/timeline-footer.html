@@ -23,7 +23,7 @@
 	<small class="types">
 		{{- range site.Sections -}}
 			{{- if eq .Page.Title "Journal" -}}
-				<a href="{{ .Page.Permalink }}">all</a>
+				<a href="{{ .Page.RelPermalink }}">all</a>
 			{{- end -}}
 		{{- end }}
 		
@@ -31,7 +31,7 @@
 		
 		{{ range site.Taxonomies.categories.ByCount -}}
 			{{- if ne .Page.Title "move" }}
-				<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
 			{{- end -}}
 		{{- end -}}
 	</small>
@@ -43,7 +43,7 @@
 	
 {{- range site.Sections }}
 	{{ if eq .Page.Title "Journal" -}}
-		<a href="{{ .Page.Permalink }}">recent</a>
+		<a href="{{ .Page.RelPermalink }}">recent</a>
 	{{- end -}}
 {{- end }}
 
@@ -76,7 +76,7 @@
 {{ if not $timeContext -}}
 	<!-- ALL YEARS -->
 	{{ range site.Taxonomies.timeline_year }}
-		<a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+		<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
 	{{- end }}
 {{- else }}
 	<!-- CURRENT YEAR -->
@@ -85,7 +85,7 @@
 	{{- else }}
 		{{ range site.Taxonomies.timeline_year -}}
 			{{- if strings.Contains .Page.Title $currentYear -}}
-				<a href="{{ .Page.Permalink }}">{{ $currentYear }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ $currentYear }}</a>
 			{{- end -}}
 		{{- end -}}
 	{{- end }}
@@ -97,7 +97,7 @@
 		{{ range site.Taxonomies.timeline_month -}}
 			{{- if strings.Contains .Page.Title $currentYear -}}
 				{{- $t := time.AsTime (delimit (slice (replace .Page.Title "/" "-") "01") "-") -}}
-				<a href="{{ .Page.Permalink }}">{{ time.Format "Jan" $t }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ time.Format "Jan" $t }}</a>
 			{{- end -}}
 		{{- end -}}
 	{{- end -}}
@@ -112,7 +112,7 @@
 	{{- else }}
 		{{ range site.Taxonomies.timeline_month }}
 			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
-				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ $format }}</a>
 			{{- end -}}
 		{{- end -}}
 	{{- end }}
@@ -123,7 +123,7 @@
 		<!-- ALL DAYS -->
 		{{ range site.Taxonomies.timeline_day -}}
 			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth) "/") }}
-				<a href="{{ .Page.Permalink }}">{{ humanize (time.Format "2" (time.AsTime (replace .Page.Title "/" "-")))  }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ humanize (time.Format "2" (time.AsTime (replace .Page.Title "/" "-")))  }}</a>
 			{{- end -}}
 		{{- end -}}
 	{{- end -}}
@@ -138,7 +138,7 @@
 	{{- else }}
 		{{ range site.Taxonomies.timeline_day -}}
 			{{- if strings.Contains .Page.Title (delimit (slice $currentYear $currentMonth $currentDay) "/") -}}
-				<a href="{{ .Page.Permalink }}">{{ $format }}</a>
+				<a href="{{ .Page.RelPermalink }}">{{ $format }}</a>
 			{{- end -}}
 		{{- end -}}
 	{{- end -}}

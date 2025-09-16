@@ -2,7 +2,7 @@
 
 <!-- TITLE -->
 {{- if .Title -}}
-	<h3 class="title sticky"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	<h3 class="title sticky"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
 {{- end -}}
 
 <!-- CONTENT -->
@@ -28,13 +28,13 @@
 
 	<!-- COLLECTION -->
 	{{- range (.GetTerms "lyrics_collection") -}}
-		<p><small>Part of <a href="{{ .Permalink }}">{{ .Title }}</a>.</small></p>
+		<p><small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small></p>
 	{{- end -}}
 
 	<!-- TOPIC -->
 	{{- with .GetTerms "lyrics_topic" -}}
 	<small>Topics: {{ range $index, $element := . -}}
-		{{- if $index }}, {{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a>
+		{{- if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 	{{- end -}}.
 	</small>
 	{{ end }}
