@@ -247,6 +247,13 @@ hr {
 		opacity: 0.5;
 	}
 
+	details {
+		summary {
+			font-weight: bold;
+			cursor: pointer;
+		}
+	}
+
 }
 
 .notification {
