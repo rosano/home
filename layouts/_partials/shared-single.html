@@ -13,6 +13,11 @@
 	{{- end -}}
 {{- end }}
 
+<!-- FEATURE IMAGE -->
+{{- if .Params.feature_image -}}
+	<img class="feature-image" src="{{ .Params.feature_image }}" aria-hidden="true">
+{{- end -}}
+
 <!-- TITLE -->
 {{- if and (not $isRSS) .Title (ne .Layout "single") -}}
 	<h3 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
