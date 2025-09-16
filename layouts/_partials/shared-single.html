@@ -225,15 +225,15 @@
 		{{- end -}}
 	{{- end -}}
 
-	{{- if len $existing }}
-		<span>
+	<span>
+		{{- if len $existing -}}
 			Also on 
 			{{ range $existing }}
 				{{- $id := index $params (index . "key") -}}
 				<a href="{{ print (index . "prefix") $id }}">{{ index . "title" }}</a>				
 			{{ end -}}
-		</span>
-	{{ end }}
+		{{- end -}}
+	</span>
 </small>
 {{- end }}
 	
