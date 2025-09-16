@@ -8,8 +8,8 @@
 {{- if .Params.youtube_id }}{{ $dataLink = print "https://youtu.be/" .Params.youtube_id }}{{ end -}}
 
 {{- if not $isRSS -}}
-	{{- with $dataLink }}
-	<div class="embed" data-link="{{ . }}"></div>
+	{{- with $dataLink -}}
+		<div class="embed" data-link="{{ . }}"></div>
 	{{- end -}}
 {{- end }}
 
