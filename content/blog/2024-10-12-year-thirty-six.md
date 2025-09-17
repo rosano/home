@@ -3,6 +3,8 @@ date: 2024-10-12T06:30:13.000Z
 slug: year-thirty-six
 title: year thirty-six
 summary: Everything we do matters.
+tags:
+  - birthday
 ---
 My birthday reflection this year is a kind of online update since I've been more offline the last while. I'm currently not so clear-minded, somewhat fatigued, with less to say even though a lot happened. But I'm here, and happy to share this.
 

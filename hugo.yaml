@@ -31,7 +31,7 @@ permalinks:
   page:
     vlog: /:sections[last]/:slug/
     timeline: /log/:slugorcontentbasename/
-    blog: /blog/:slug/
+    blog: /:sections[last]/:slug/
   section:
     vlog: /vlog/
     timeline: /log/
@@ -84,3 +84,4 @@ params:
     - content/vlog/vibrations
     - content/vlog/strolling
     - content/blog
+    - content/blog/ephemerata
