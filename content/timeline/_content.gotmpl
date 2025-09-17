@@ -19,6 +19,10 @@
       {{ continue }}
     {{ end }}
 
+    {{ if .IsDir }}
+      {{ continue }}
+    {{ end }}
+
     {{ $raw := readFile (path.Join $dir .Name) }}
     {{ $parts := split $raw "---" }}
     
