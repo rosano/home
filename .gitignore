@@ -8,6 +8,9 @@ package-lock.json
 public
 resources
 
+# OS
+**/*.DS_Store
+
 # LOCAL
 .env*
 !.env-sample
