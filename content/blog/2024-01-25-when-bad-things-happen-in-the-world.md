@@ -6,7 +6,6 @@ summary: My projects won't save a life or end that bad problem over there, but
   without hesitation I know my actions to be completely holistic.
 feature_image: 1024px-Spear_03.jpg
 tags:
-  - writing
   - Vibrations
   - Strolling
   - reflection

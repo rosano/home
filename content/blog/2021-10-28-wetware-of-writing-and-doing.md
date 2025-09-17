@@ -3,7 +3,6 @@ date: 2021-10-28T16:20:48.000Z
 slug: wetware-of-writing-and-doing
 title: Wetware of writing and doing
 tags:
-  - writing
   - Apps
 wiki_id: 01fk3v8d7s6jw0wbhp3ck7xkyf
 ---
