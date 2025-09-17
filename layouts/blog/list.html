@@ -1,24 +1,39 @@
 {{ define "main" }}
 
-<div class="blog-list">
-{{ range .Pages.ByDate.Reverse.GroupByDate "2006" "desc" }}
-	<h3 class="sticky">{{ .Key }}</h3>
+<ul>
+{{ range .Sections }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
 
-	<ul>
+<table>
+{{ range .Pages.ByDate.Reverse.GroupByDate "2006" "desc" }}
+	<tr>
+		<th class="sticky" colspan="2">{{ .Key }}</th>
+	</tr>
+
 	{{ range .Pages }}
-		<li>
+	<tr>
+		<td>
 			<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "Jan 02" -}}</time>
-			<div>
-				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-				{{ if .Params.Summary }}
-					<br>
-					<span>{{ .Summary }}</span>
-				{{ end }}
-			</div>
-		</li>
+		</td>
+		<td>
+			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+			{{ if .Params.Summary }}
+				<br>
+				<span>{{ .Summary }}</span>
+			{{ end }}
+		</td>
+	</tr>
 	{{ end }}
-	</ul>
 {{ end }}	
-</div>
+</table>
+
+<style>
+td:first-child {
+	white-space: nowrap;
+	vertical-align: text-top;
+}
+</style>
 
 {{ end }}
