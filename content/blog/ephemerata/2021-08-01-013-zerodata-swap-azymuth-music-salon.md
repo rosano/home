@@ -2,8 +2,6 @@
 date: 2021-08-01T12:29:27.000Z
 slug: 013-zerodata-swap-azymuth-music-salon
 title: "#013: #ZeroData Swap • Azymuth • music salon"
-tags:
-  - Ephemerata
 cafe_id: "118"
 ---
 Welcome to the thirteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

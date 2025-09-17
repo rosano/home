@@ -2,8 +2,6 @@
 date: 2021-12-05T16:26:33.000Z
 slug: 023-evolution-one-fleeting-arrivals-gimme-gimme
 title: "#023: evolution one • Fleeting Arrivals • Gimme Gimme"
-tags:
-  - Ephemerata
 cafe_id: "161"
 ---
 Welcome to the twenty-third edition of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

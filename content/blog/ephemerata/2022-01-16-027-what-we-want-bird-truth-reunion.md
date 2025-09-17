@@ -2,8 +2,6 @@
 date: 2022-01-16T07:20:36.000Z
 slug: 027-what-we-want-bird-truth-reunion
 title: "#027: what we want • bird truth • Reunion"
-tags:
-  - Ephemerata
 cafe_id: "172"
 ---
 Welcome to the twenty-seventh ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

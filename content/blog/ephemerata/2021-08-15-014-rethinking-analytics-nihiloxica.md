@@ -2,8 +2,6 @@
 date: 2021-08-15T14:15:58.000Z
 slug: 014-rethinking-analytics-nihiloxica
 title: "#014: rethinking analytics • Nihiloxica"
-tags:
-  - Ephemerata
 cafe_id: "123"
 ---
 Welcome to the fourteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

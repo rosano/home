@@ -2,8 +2,6 @@
 date: 2021-05-23T12:46:13.000Z
 slug: 003-mirrors-dessert-that-dispels-drums-ablaze
 title: "#003: mirrors • dessert that dispels • drums ablaze"
-tags:
-  - Ephemerata
 cafe_id: "79"
 ---
 Welcome to the third edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

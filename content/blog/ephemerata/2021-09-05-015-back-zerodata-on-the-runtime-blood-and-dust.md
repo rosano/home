@@ -2,8 +2,6 @@
 date: 2021-09-05T14:04:43.000Z
 slug: 015-back-zerodata-on-the-runtime-blood-and-dust
 title: "#015: Back • #ZeroData on The Runtime • Blood and Dust"
-tags:
-  - Ephemerata
 cafe_id: "127"
 ---
 Welcome to the fifteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

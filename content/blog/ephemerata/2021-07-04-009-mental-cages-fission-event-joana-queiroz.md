@@ -2,8 +2,6 @@
 date: 2021-07-04T13:20:23.000Z
 slug: 009-mental-cages-fission-event-joana-queiroz
 title: "#009: mental cages • Fission event • Joana Queiroz"
-tags:
-  - Ephemerata
 cafe_id: "99"
 ---
 Welcome to the ninth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

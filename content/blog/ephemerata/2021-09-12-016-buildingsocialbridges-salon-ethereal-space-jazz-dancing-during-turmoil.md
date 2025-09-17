@@ -3,8 +3,6 @@ date: 2021-09-12T12:25:00.000Z
 slug: 016-buildingsocialbridges-salon-ethereal-space-jazz-dancing-during-turmoil
 title: "#016: #BuildingSocialBridges salon • ethereal space jazz • dancing
   during turmoil"
-tags:
-  - Ephemerata
 cafe_id: "130"
 ---
 Welcome to the sixteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

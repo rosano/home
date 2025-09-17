@@ -2,8 +2,6 @@
 date: 2022-02-13T07:20:02.000Z
 slug: 029-hyperspeed-musical-note-taking-technology-as-parent
 title: "#029: hyperspeed • musical note-taking • technology as parent"
-tags:
-  - Ephemerata
 cafe_id: "193"
 ---
 Welcome to the twenty-ninth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

@@ -2,8 +2,6 @@
 date: 2022-03-27T08:18:12.000Z
 slug: 031-strolling-format-berlin-arrival-reflections-dont-stop
 title: "#031: Strolling format • Berlin arrival reflections • Don't Stop"
-tags:
-  - Ephemerata
 cafe_id: "204"
 ---
 Welcome to the thirty-first ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

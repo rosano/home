@@ -2,8 +2,6 @@
 date: 2021-07-11T17:02:58.000Z
 slug: 010-mastery-moon-river-josue-costa
 title: "#010: mastery • Moon River • Josué Costa"
-tags:
-  - Ephemerata
 cafe_id: "101"
 ---
 Welcome to the tenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

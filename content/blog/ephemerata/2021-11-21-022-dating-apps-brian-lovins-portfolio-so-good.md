@@ -2,8 +2,6 @@
 date: 2021-11-21T13:08:23.000Z
 slug: 022-dating-apps-brian-lovins-portfolio-so-good
 title: "#022: dating apps • Brian Lovin's portfolio • So Good"
-tags:
-  - Ephemerata
 cafe_id: "159"
 ---
 Welcome to the twenty-second edition of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

@@ -2,8 +2,6 @@
 date: 2022-03-06T09:19:31.000Z
 slug: 030-berlin-transcendence-of-twerking-im-dead
 title: "#030: Berlin • transcendence of twerking • I'M DEAD"
-tags:
-  - Ephemerata
 cafe_id: "195"
 ---
 Welcome to the thirtieth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

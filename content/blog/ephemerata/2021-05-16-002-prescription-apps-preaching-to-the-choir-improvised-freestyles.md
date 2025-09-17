@@ -2,8 +2,6 @@
 date: 2021-05-16T13:03:00.000Z
 slug: 002-prescription-apps-preaching-to-the-choir-improvised-freestyles
 title: "#002: prescription apps • preaching to the choir • improvised freestyles"
-tags:
-  - Ephemerata
 cafe_id: "74"
 ---
 Welcome to the second edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.
