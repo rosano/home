@@ -7,5 +7,4 @@ tags:
   - event
 cafe_id: "97"
 ---
-
 {{< rc-youtube H2MrmAcSiYg >}}
