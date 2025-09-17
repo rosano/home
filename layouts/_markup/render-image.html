@@ -1,4 +1,4 @@
-<img src="{{ cond (or (eq (substr .Destination 0 1) "/") (findRE `^https?:` .Destination)) "" (print site.Params.mediaPrefix page.Path "/") }}{{ .Destination | safeURL }}" {{ if .PlainText -}}
+<img src="{{ cond (or (eq (substr .Destination 0 1) "/") (findRE `^https?:` .Destination)) "" (print site.Params.mediaPrefix .Page.Path "/") }}{{ .Destination | safeURL }}" {{ if .PlainText -}}
 	alt="{{ .PlainText }}"
 	{{- else -}}
 	aria-hidden="true"
