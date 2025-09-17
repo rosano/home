@@ -5,7 +5,7 @@ title: introducing feedbox
 summary: Embed an RSS feed on any website with a few lines of code.
 tags:
   - process
-  - introduction
+  - debut
   - technical
 ---
 [feedbox](https://github.com/rosano/feedbox) is an embed for previewing RSS feeds. Here's what it looks like:

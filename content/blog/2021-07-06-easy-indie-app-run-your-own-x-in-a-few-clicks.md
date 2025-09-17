@@ -4,7 +4,7 @@ slug: easy-indie-app-run-your-own-x-in-a-few-clicks
 title: Easy Indie App—Run your own X in a few clicks
 summary: Promoting self-hosting via 'one-click install' systems.
 tags:
-  - introduction
+  - debut
   - Easy Indie App
   - Zero Data
 cafe_id: "100"

@@ -3,7 +3,7 @@ date: 2020-06-24T16:15:00.000Z
 slug: kommit-flashcards-space-repetition-system
 title: Kommit — Flashcards / Space-Repetition System
 tags:
-  - introduction
+  - debut
   - Kommit
   - Zero Data
 cafe_id: "126"

@@ -6,7 +6,7 @@ summary: Enjoy video or audio links from different platforms and keep a record
   of what you’ve played.
 tags:
   - Joybox
-  - introduction
+  - debut
   - Zero Data
 cafe_id: "25"
 ---

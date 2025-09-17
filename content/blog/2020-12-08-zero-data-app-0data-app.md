@@ -3,7 +3,7 @@ date: 2020-12-08T14:41:00.000Z
 slug: zero-data-app-0data-app
 title: Zero Data App / 0data.app
 tags:
-  - introduction
+  - debut
   - Zero Data
 cafe_id: "59"
 ---

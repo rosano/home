@@ -3,7 +3,7 @@ date: 2021-03-29T03:00:00.000Z
 slug: doorless-app-ring-apps-that-work-without-accounts
 title: Doorless App Ring—Apps that work without accounts
 tags:
-  - introduction
+  - debut
   - Zero Data
 chat_id: "25"
 ---

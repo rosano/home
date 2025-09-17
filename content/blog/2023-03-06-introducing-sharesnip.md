@@ -4,7 +4,7 @@ slug: introducing-sharesnip
 title: Introducing Sharesnip
 tags:
   - Apps
-  - introduction
+  - debut
 ---
 I'm making a QR code generator and scanner that works offline:
 

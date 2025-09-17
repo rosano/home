@@ -3,7 +3,7 @@ date: 2019-10-09T06:11:00.000Z
 slug: launchlet-customize-any-website-with-javascript-or-css
 title: Launchlet—Customize any website with JavaScript or CSS
 tags:
-  - introduction
+  - debut
   - Launchlet
   - Zero Data
 chat_id: "26"

@@ -3,7 +3,7 @@ date: 2021-03-25T15:37:00.000Z
 slug: emoji-log-personal-tracker
 title: Emoji Log – Personal tracker
 tags:
-  - introduction
+  - debut
   - Emoji Log
   - Zero Data
 cafe_id: "57"
