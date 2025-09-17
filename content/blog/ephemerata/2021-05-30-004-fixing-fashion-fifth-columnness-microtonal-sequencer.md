@@ -1,7 +1,7 @@
 ---
 date: 2021-05-30T14:20:03.000Z
 slug: 004-fixing-fashion-fifth-columnness-microtonal-sequencer
-title: "#004: fixing fashion • fifth-columnness • microtonal sequencer"
+title: "#004: fixing fashion · fifth-columnness · microtonal sequencer"
 cafe_id: "81"
 ---
 Welcome to the fourth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

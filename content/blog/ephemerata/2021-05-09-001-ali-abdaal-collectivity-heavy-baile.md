@@ -1,7 +1,7 @@
 ---
 date: 2021-05-09T14:31:34.000Z
 slug: 001-ali-abdaal-collectivity-heavy-baile
-title: "#001: Ali Abdaal • collectivity • Heavy Baile"
+title: "#001: Ali Abdaal · collectivity · Heavy Baile"
 cafe_id: "64"
 ---
 Welcome to the first edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

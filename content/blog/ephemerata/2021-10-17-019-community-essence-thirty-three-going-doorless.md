@@ -1,7 +1,7 @@
 ---
 date: 2021-10-17T13:00:59.000Z
 slug: 019-community-essence-thirty-three-going-doorless
-title: "#019: community essence • thirty-three • going #doorless"
+title: "#019: community essence · thirty-three · going #doorless"
 cafe_id: "145"
 ---
 Welcome to the nineteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

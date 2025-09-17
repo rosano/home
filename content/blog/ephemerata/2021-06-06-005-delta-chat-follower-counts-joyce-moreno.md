@@ -1,7 +1,7 @@
 ---
 date: 2021-06-06T12:56:15.000Z
 slug: 005-delta-chat-follower-counts-joyce-moreno
-title: "#005: delta chat • follower counts • Joyce Moreno"
+title: "#005: delta chat · follower counts · Joyce Moreno"
 cafe_id: "87"
 ---
 Welcome to the fifth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

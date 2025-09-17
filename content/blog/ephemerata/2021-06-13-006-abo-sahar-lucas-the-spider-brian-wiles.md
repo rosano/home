@@ -1,7 +1,7 @@
 ---
 date: 2021-06-13T12:36:31.000Z
 slug: 006-abo-sahar-lucas-the-spider-brian-wiles
-title: "#006: Abo Sahar (أبو سهر) • Lucas the Spider • Brian Wiles"
+title: "#006: Abo Sahar (أبو سهر) · Lucas the Spider · Brian Wiles"
 cafe_id: "91"
 ---
 Welcome to the sixth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

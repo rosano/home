@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<small>edition {{ .Slug }} • {{ .Date | time.Format "January" }} {{ humanize (time.Format "2" .Date) }}, {{ .Date | time.Format "2006" }}</small>
+<small>edition {{ .Slug }} · {{ .Date | time.Format "January" }} {{ humanize (time.Format "2" .Date) }}, {{ .Date | time.Format "2006" }}</small>
 
 {{ .Content }}
 

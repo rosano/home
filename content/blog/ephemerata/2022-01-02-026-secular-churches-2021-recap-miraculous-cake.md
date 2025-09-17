@@ -1,7 +1,7 @@
 ---
 date: 2022-01-02T09:20:48.000Z
 slug: 026-secular-churches-2021-recap-miraculous-cake
-title: "#026: secular churches • 2021 recap • miraculous cake"
+title: "#026: secular churches · 2021 recap · miraculous cake"
 cafe_id: "169"
 ---
 Welcome to the twenty-sixth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

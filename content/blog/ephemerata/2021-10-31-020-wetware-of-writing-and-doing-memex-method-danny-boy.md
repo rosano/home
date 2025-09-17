@@ -1,7 +1,7 @@
 ---
 date: 2021-10-31T13:31:47.000Z
 slug: 020-wetware-of-writing-and-doing-memex-method-danny-boy
-title: "#020: wetware of writing and doing • memex method • danny boy"
+title: "#020: wetware of writing and doing · memex method · danny boy"
 cafe_id: "149"
 ---
 Welcome to the twentieth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of ideas, learnings, links, and sounds.

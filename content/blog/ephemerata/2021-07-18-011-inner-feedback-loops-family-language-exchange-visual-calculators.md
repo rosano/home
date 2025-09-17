@@ -1,7 +1,7 @@
 ---
 date: 2021-07-18T14:12:25.000Z
 slug: 011-inner-feedback-loops-family-language-exchange-visual-calculators
-title: "#011: inner feedback loops • family language exchange • visual calculators"
+title: "#011: inner feedback loops · family language exchange · visual calculators"
 cafe_id: "104"
 ---
 Welcome to the eleventh edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

@@ -1,7 +1,7 @@
 ---
 date: 2021-12-19T07:20:47.000Z
 slug: 025-icons-with-words-disaster-relief-alvin-lucier
-title: "#025: icons with words • disaster relief • Alvin Lucier"
+title: "#025: icons with words · disaster relief · Alvin Lucier"
 cafe_id: "166"
 ---
 Welcome to the twenty-fifth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

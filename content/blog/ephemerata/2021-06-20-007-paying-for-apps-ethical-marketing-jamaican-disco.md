@@ -1,7 +1,7 @@
 ---
 date: 2021-06-20T12:31:32.000Z
 slug: 007-paying-for-apps-ethical-marketing-jamaican-disco
-title: "#007: paying for apps • ethical marketing • Jamaican disco"
+title: "#007: paying for apps · ethical marketing · Jamaican disco"
 cafe_id: "95"
 ---
 Welcome to the seventh edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

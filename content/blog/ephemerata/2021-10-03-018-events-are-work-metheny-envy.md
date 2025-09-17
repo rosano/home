@@ -1,7 +1,7 @@
 ---
 date: 2021-10-03T12:04:52.000Z
 slug: 018-events-are-work-metheny-envy
-title: "#018: events are work • Metheny • envy"
+title: "#018: events are work · Metheny · envy"
 cafe_id: "140"
 ---
 Welcome to the eighteenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

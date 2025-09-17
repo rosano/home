@@ -1,7 +1,7 @@
 ---
 date: 2021-11-14T16:46:38.000Z
 slug: 021-going-fully-web-basu-emotional-vocabulary
-title: "#021: going fully web • BASU • emotional vocabulary"
+title: "#021: going fully web · BASU · emotional vocabulary"
 cafe_id: "156"
 ---
 Welcome to the twenty-first edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of ideas, learnings, links, and sounds.

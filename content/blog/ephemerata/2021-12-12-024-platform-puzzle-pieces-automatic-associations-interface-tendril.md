@@ -1,7 +1,7 @@
 ---
 date: 2021-12-12T09:20:47.000Z
 slug: 024-platform-puzzle-pieces-automatic-associations-interface-tendril
-title: "#024: platform puzzle pieces • automatic associations interface • Tendril"
+title: "#024: platform puzzle pieces · automatic associations interface · Tendril"
 cafe_id: "163"
 ---
 Welcome to the twenty-fourth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

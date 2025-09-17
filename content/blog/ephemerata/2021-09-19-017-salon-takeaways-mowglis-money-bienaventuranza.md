@@ -1,7 +1,7 @@
 ---
 date: 2021-09-19T13:21:05.000Z
 slug: 017-salon-takeaways-mowglis-money-bienaventuranza
-title: "#017: salon takeaways • Mowgli's money • Bienaventuranza"
+title: "#017: salon takeaways · Mowgli's money · Bienaventuranza"
 cafe_id: "135"
 ---
 Welcome to the seventeenth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.

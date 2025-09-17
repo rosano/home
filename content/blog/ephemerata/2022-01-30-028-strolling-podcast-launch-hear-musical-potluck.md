@@ -1,7 +1,7 @@
 ---
 date: 2022-01-30T07:20:32.000Z
 slug: 028-strolling-podcast-launch-hear-musical-potluck
-title: "#028: Strolling podcast launch • hear • musical potluck"
+title: "#028: Strolling podcast launch · hear · musical potluck"
 cafe_id: "190"
 ---
 Welcome to the twenty-eighth ceremony of [Ephemerata](https://rosano.ca/ephemerata): reflections, observations, and life at the edge.

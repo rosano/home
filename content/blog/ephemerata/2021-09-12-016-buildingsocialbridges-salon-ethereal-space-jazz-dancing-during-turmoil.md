@@ -1,7 +1,7 @@
 ---
 date: 2021-09-12T12:25:00.000Z
 slug: 016-buildingsocialbridges-salon-ethereal-space-jazz-dancing-during-turmoil
-title: "#016: #BuildingSocialBridges salon • ethereal space jazz • dancing
+title: "#016: #BuildingSocialBridges salon · ethereal space jazz · dancing
   during turmoil"
 cafe_id: "130"
 ---

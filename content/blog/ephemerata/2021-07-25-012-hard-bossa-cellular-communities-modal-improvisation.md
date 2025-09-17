@@ -1,7 +1,7 @@
 ---
 date: 2021-07-25T13:55:48.000Z
 slug: 012-hard-bossa-cellular-communities-modal-improvisation
-title: "#012: Hard Bossa • cellular communities • modal improvisation"
+title: "#012: Hard Bossa · cellular communities · modal improvisation"
 cafe_id: "111"
 ---
 Welcome to the twelfth edition of [Ephemerata](https://rosano.ca/ephemerata), a weekly-ish digest of links, ideas, learnings, and sounds that I think are worth sharing.
