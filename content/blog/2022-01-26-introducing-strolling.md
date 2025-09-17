@@ -3,6 +3,7 @@ date: 2022-01-26T19:37:05.000Z
 slug: introducing-strolling
 title: "Introducing Strolling: Conversations with people I meet along the way"
 tags:
+  - debut
   - Strolling
 ---
 i'm beyond excited to present to you my (second) foray into podcasting, which i call Strolling. i published a trailer last week to describe it, but i wanted to wait until the first episode before sharing with everyone, and it's finally out <https://strolling.rosano.ca/0001>

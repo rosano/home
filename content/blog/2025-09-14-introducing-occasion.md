@@ -11,6 +11,8 @@ instagram_id: DOlIkKZCOL5
 tiktok_id: 7549897345085787393
 threads_id: DOlIlp5CNyB
 facebook_id: 1155421126462475
+tags:
+  - debut
 ---
 I'm motivated to start a newsletter again, after being out of it for some years, and mix the approaches I've tried so far.
 
