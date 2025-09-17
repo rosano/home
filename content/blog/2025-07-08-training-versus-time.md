@@ -35,14 +35,14 @@ I definitely value meeting so many great people, and feel grateful for being wel
 
 Someday I'll have a nice game I can share. For now here's me practicing and singing on my own.
 
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/LIxBVqliwKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/ckW5a_99FR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/-3UdQtva4V0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< rc-youtube LIxBVqliwKU >}}
+{{< rc-youtube ckW5a_99FR0 >}}
+{{< rc-youtube -3UdQtva4V0 >}}
 
 ---
 
 If you're interested to learn more or try capoeira, there's probably a group near you even though it's invisible to most people. Here are some games I like:
 
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/Dmc4xeILz9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/hhPmrpxGLqc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="250" height="250" src="https://www.youtube-nocookie.com/embed/Ryf003ekSHs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< rc-youtube Dmc4xeILz9A >}}
+{{< rc-youtube hhPmrpxGLqc >}}
+{{< rc-youtube Ryf003ekSHs >}}

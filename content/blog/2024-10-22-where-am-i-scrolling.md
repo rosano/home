@@ -6,7 +6,7 @@ summary: Watching myself scroll, on the web or on the street.
 ---
 My video about [scrolling meme platforms](am I scrolling?) talks about how random unrelated bits and pieces can leave you confused.
 
-<iframe width="300" height="250" src="https://www.youtube-nocookie.com/embed/1NtRak8SQw8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< rc-youtube 1NtRak8SQw8 >}}
 
 Here I wanted to talk about the scrolling aspect, as I have my own interpretation of this and am trying to become more aware as I do it.
 

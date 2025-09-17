@@ -140,4 +140,4 @@ This is what lead me personally toward building Noosphere protocol… it's essen
 
 <small>P.P.S. I was thinking about this post before Jesse got me 'interop-pilled', but [our conversation](https://utopia.rosano.ca/interoperable-collaborative-apps-with-jess-martin/) certainly helped add fuel to the fire:</small>
 
-<iframe width="300" height="250" src="https://www.youtube-nocookie.com/embed/UNKgD8OzjCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< rc-youtube UNKgD8OzjCk >}}
