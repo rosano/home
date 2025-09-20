@@ -5,7 +5,7 @@ series: "Codie Sanchez: Main Street Millionaire"
 ---
 > Raise your prices. Add a three-tiered price structure (low, medium, high). Add discounts for up-front payment, annual plans, and institutional versus retail pricing.
 
-> [It's easier to sell more to existing customers than find new ones, so offer a menu of addons to increase your average revenue per job.]
+> [It's easier to sell more to existing customers than find new ones, so offer a menu of add-ons to increase your average revenue per job.]
 
 > [Use leads, conversion, jobs, and average revenue to calculate annual revenue, then annual expenses to calculate annual profits.]
 

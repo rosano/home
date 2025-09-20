@@ -7,7 +7,7 @@ series: "The News: A User's Manual"
 
 > [Choosing of what we wish to be informed  requires knowing ourselves well enough to not selectively ignore what we need; perhaps it's a position that could be prepared for with therapy.]
 
-> [Political news could draw us into how our society works and equip us to improve it intelligently. Word news could humanize foreign cultures and add context beyond dramatic events to help break us from fixating too locally. Economic news could go beyond standard figures to instill understanong of the human realities behind our goods. Celebrity news could be refocused on people from who we can learn how to be better and realize our own talents. Disaster news could help us feel grateful for every pain-free moment. Consumer news could point us to what can help us live a more fulfilling existence.]
+> [Political news could draw us into how our society works and equip us to improve it intelligently. World news could humanize foreign cultures and add context beyond dramatic events to help break us from fixating too locally. Economic news could go beyond standard figures to instill understanding of the human realities behind our goods. Celebrity news could be refocused on people from who we can learn how to be better and realize our own talents. Disaster news could help us feel grateful for every pain-free moment. Consumer news could point us to what can help us live a more fulfilling existence.]
 
 > [As humans evolved from a time where not much would change, where when something that did might be important or deadly, we need to readjust our perceptions to clarify that what is novel is not always important.]
 

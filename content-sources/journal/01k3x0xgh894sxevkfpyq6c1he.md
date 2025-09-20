@@ -5,8 +5,8 @@ link: https://gitlab.com/tp3/Entropy-Piano-Tuner
 ---
 [Entropy Piano Tuner](https://gitlab.com/tp3/Entropy-Piano-Tuner)
 
-[David Braid](http://www.davidbraid.com) told me he uses this open-source software to tune pianos in the following way:
+[David Braid](https://www.davidbraid.com) told me he uses this open-source software to tune pianos in the following way:
 
 1. Play each note to calibrate.
 2. Let the software analyze and then you can preview with MIDI.
-3. Adjust each strings until the feedback shows a positive result.
+3. Adjust each string until the feedback shows a positive result.

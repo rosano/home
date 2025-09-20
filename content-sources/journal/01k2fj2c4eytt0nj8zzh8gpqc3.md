@@ -5,4 +5,4 @@ categories: ["article"]
 ---
 [My first open source psyop - postmortem](https://defenderofthebasic.substack.com/p/my-first-open-source-psyop-postmortem)
 
-> [Information asymmetry is not only about lies, but whether someone can hear the correction or feedback]
+> [Information asymmetry is not only about lies, but whether someone can hear the correction or feedback.]

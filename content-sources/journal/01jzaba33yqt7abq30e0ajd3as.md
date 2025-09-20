@@ -3,7 +3,7 @@ date: 2025-07-04T09:12:04.478Z
 link: https://eev.ee/blog/2025/07/03/the-rise-of-whatever/
 categories: ["article"]
 ---
-[The rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
+[The rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
 
 > The Web is a cool thing because anyone can just put stuff on it.  It is the largest town square bulletin board ever devised.  Back in the day, your ISP would even give you your own website!  I don’t think they do that so much any more, but there are more cheap or free options than ever — hell, you can host a little website on GitHub.
 > 

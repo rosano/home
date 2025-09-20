@@ -6,4 +6,4 @@ link: https://www.youtube.com/watch?v=K28H04Y2IdE
 ---
 [Jacob Collier: Fascinating Rhythm](https://www.youtube.com/watch?v=K28H04Y2IdE)
 
-This video is almost ten years old.
+One of his first popular videos, from 2014 yet doesn't feel dated.

@@ -5,4 +5,4 @@ link: https://aboutfeeds.com
 ---
 [About Feeds](https://aboutfeeds.com)
 
-> [Getting started guide to RSS.]
+> [Friendly explainer and guide to getting started with RSS feeds.]
