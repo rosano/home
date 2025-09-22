@@ -372,6 +372,7 @@ footer {
 		
 		width: var(--video-width);
 		height: var(--video-height);
+		border-bottom: unset;
 
 		background-size: 100%;
 		background-position: center;
