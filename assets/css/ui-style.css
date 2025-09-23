@@ -152,11 +152,11 @@ hr {
 			margin-top: 0;
 			padding-top: 0;
 		}
+	}
 
-		&:last-child p:last-child {
-			margin-bottom: 0;
-			padding-bottom: 0;
-		}
+	> blockquote:last-child p:last-child {
+		margin-bottom: 0;
+		padding-bottom: 0;
 	}
 
 	code {
