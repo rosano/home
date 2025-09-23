@@ -39,7 +39,7 @@ The threat of these workflow disruptions means one needs to keep backup copies o
 
 ![](Untitled-2-export.jpg)
 
-<figcaption>removing native support for older systems</figcaption>
+<figcaption>locking Element on macOS to prevent it from incompatible upgrades</figcaption>
 </figure>
 
 locking Element on macOS to prevent it from incompatible upgrades
@@ -65,10 +65,10 @@ If you can't afford larger storage capacity, you might find yourself managing sp
 Is the solution is an open standard like [Matrix](https://matrix.org)? It's not so easy. Their ["join" explainer](https://joinmatrix.org) is not as intuitive as other decentralized projects like [Mastodon](https://joinmastodon.org), [PeerTube](https://joinpeertube.org), or [Lemmy](https://join-lemmy.org). I don't believe a non-programmer would be able to do this without help, but assuming they sort through and understand the options of picking both a server and client, they will get stuck on errors like "Unable to decrypt message", "Verification failed", and the scary thought of losing messages if you log out.
 
 <gallery>![](2023.11.23-at-14.31.33-1.jpg) ![](2024-02-14-at-12-12-14-1.jpg) ![](2024-02-14-at-12-12-48-1.jpg) ![](IMG_E7520-1.JPG)</gallery>
-<figcaption>scary messages</figcaption></figure>
+<figure><figcaption>scary messages</figcaption></figure>
 
 <gallery>![](2024.01.03-at-10-20-25.jpg) ![](2024.01.03-at-10-20-37.jpg)</gallery>
-<figcaption>do these match?</figcaption></figure>
+<figure><figcaption>do these match?</figcaption></figure>
 
 Well, it was tricky to figure out how to trigger the Matrix verification process, but I managed to revive access to my Beeper messages with [FluffyChat](https://fluffychat.im) (which really might be "The cutest messenger in the Matrix network"), and it's nice to have access to my data in a variety of web apps that will probably remain backwards compatible forever. Still, "I managed to get it working" is a hard sell for normal people.
 
