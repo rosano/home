@@ -262,6 +262,10 @@ hr {
 		}
 	}
 
+	&:last-of-type {
+		margin-bottom: unset;
+	}
+
 }
 
 .notification {
@@ -311,6 +315,10 @@ footer {
 		}
 	}
 
+	.timeline-footer {
+		padding: var(--spacing) 0;
+	}
+
 }
 
 .single footer {
@@ -319,8 +327,6 @@ footer {
 }
 
 .paginator {
-	padding: var(--spacing);
-
 	display: flex;
 	justify-content: space-between;
 
@@ -329,8 +335,6 @@ footer {
 	}
 
 	& > * {
-		padding: var(--spacing) 0;
-
 		flex-grow: 1;
 	}
 
