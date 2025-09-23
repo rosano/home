@@ -96,6 +96,10 @@
 
 {{ if .Date }}
 
+{{- if $isRSS -}}
+	<hr>
+{{ end -}}
+
 <span class="metadata">
 	{{- $departure := partial "func/departures-closest" .Date }}
 
