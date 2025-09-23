@@ -3,7 +3,7 @@
 {{- $isTimeline := eq (.Scratch.Get "kSemanticSection") "timeline" -}}
 
 <!-- PAGINATION -->
-{{- if (and .Page.IsNode .Paginator (ne .Paginator.TotalPages 0)) }}
+{{- if (and .Page.IsNode .Paginator.TotalPages) }}
 <div class="paginator">
 	<span>
 		{{- if .Paginator.HasNext }}
