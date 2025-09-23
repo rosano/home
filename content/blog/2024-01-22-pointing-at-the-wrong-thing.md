@@ -6,7 +6,6 @@ summary: Would it make sense to point Google Docs at your Twitter likes? Or
   Google Maps at your contact list? Or a flashcards app at your music
   collection?
 tags:
-  - design
   - Zero Data
 ---
 <small>👋 Heads up: if you're looking for the longer, more technical version, read [interoperable visions](https://utopia.rosano.ca/interoperable-visions/).</small>
