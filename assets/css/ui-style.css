@@ -593,6 +593,12 @@ footer {
 
 }
 
+/* OLSKBanner */
+
+.OLSKBanner a {
+	border-bottom: unset;
+}
+
 /* z-index */
 
 .lyrics_topic .post .sticky, .occasion .post h3 {
