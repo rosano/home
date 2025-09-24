@@ -266,6 +266,17 @@ hr {
 		margin-bottom: unset;
 	}
 
+	roco-divider {
+		display: block;
+
+		text-align: center;
+		opacity: 0.5;
+	}
+
+	article:last-child > p:last-child {
+		margin-bottom: 0;
+	}
+
 }
 
 .notification {
