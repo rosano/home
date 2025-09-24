@@ -492,6 +492,10 @@ footer {
 
 /* lyrics */
 
+.lyrics .post {
+	padding-top: 0;
+}
+
 .lyrics .post blockquote:first-of-type p:first-child {
 	margin-top: 0;
 	padding-top: 0;
