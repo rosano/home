@@ -6,6 +6,9 @@
 		"title" .Title
 		"summary" .Params.Summary
 		"permalink" .Permalink
+		"youtube_id" .Params.youtube_id
+		"tiktok_id" .Params.tiktok_id
+		"instagram_id" .Params.instagram_id
 	) -}}
 {{- end -}}	
 {{- $output | jsonify -}}
