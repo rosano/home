@@ -4,7 +4,7 @@ slug: pastinha-eternamente
 topic:
   - capoeira
 ---
-# Ladainha
+# Bahia nossa Bahia
 
 Iê, maior é Deus, pequeno sou eu
 O que eu tenho, foi Deus que me deu
@@ -73,7 +73,7 @@ Eu tanto jogo para cima
 Valha-me Deus, senhor São Bento
 Quanto jogo para o chão
 
-# Ladainha
+# eu já vivo enjoado
 
 Iê, cidade de Assunção
 capital de Itamaraty
@@ -129,7 +129,7 @@ Eu vou partir porque mataram meu Besouro
 Ê zum zum zum zum !
 Ê Besouro !
 
-# Ladainha
+# eu vou ler o B-A-Bá
 
 Menino preste atenção no que eu vou dizer
 O que eu faço brincando você não faz nem zangado
@@ -186,7 +186,7 @@ Não tem le le nem la la
 O la e la e la
 O le le
 
-# Ladainha
+# vou me embora para São Paulo
 
 Eu vou ler o meu abc
 Porque não queria cantar
@@ -264,7 +264,7 @@ Esse nego é o diavo, esse nego é o cão
 Pega esse nego, derruba no chão
 Esse nego é maluco, esse nego é o cão
 
-# Ladainha
+# iê eu tava em casa
 
 Iê
 Eu nasci para a capoeira
