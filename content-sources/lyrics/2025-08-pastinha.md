@@ -6,35 +6,36 @@ topic:
 ---
 # Bahia nossa Bahia
 
-Iê, maior é Deus, pequeno sou eu
-O que eu tenho, foi Deus que me deu
-Na roda de capoeira,
-Grande e pequeno sou eu
+iê, maior é Deus, pequeno sou eu
+o que eu tenho, foi Deus que me deu
+na roda de capoeira,
+grande e pequeno sou eu
 
 Bahia nossa Bahia
-Capital é Salvador
-Quem não conhece a capoeira
-Não pode dar seu valor
-Capoeira veio da África
-Africano quem a trouxe
-Todos podem aprender
-General e também quem é Doutor
-Quem desejar aprender
-Venha aqui em Salvador
-Procure o Mestre Pastinha
-Ele é professor
+capital é Salvador
+quem não conhece a capoeira
+não pode dar seu valor
+capoeira veio da África
+africano quem a trouxe
+todos podem aprender
+general e também quem é Doutor
+quem desejar aprender
+venha aqui em Salvador
+procure o Mestre Pastinha
+ele é professor
 
-Iê viva meu mestre
-Iê que me ensinou
-Iê Rio de Janeiro
-Iê Morro de São Paulo
-Iê Farol da Bahia
+iê viva meu mestre
+iê que me ensinou
+iê capoeiragem
+iê Rio de Janeiro
+iê Morro de São Paulo
+iê Farol da Bahia
 
 # Dona Alice não me pegue não
 
 Dona Alice não me pegue não
-Não me pegue,
-não me encoste,
+não me pegue,
+não me agarre,
 não me pegue não
 
 # canarinho da Alemanha
@@ -75,37 +76,37 @@ Quanto jogo para o chão
 
 # eu já vivo enjoado
 
-Iê, cidade de Assunção
+iê, cidade de Assunção
 capital de Itamaraty
-Somos todos das nações
-Dessa cultura do Brasil
+somos todos das nações
+dessa cultura do Brasil
 Pastinha já foi à África
-Para mostrar a capoeira do Brasil
+para mostrar a capoeira do Brasil
 
-Eu já vivo enjoado,
-De viver aqui na Terra,
-Ó mamãe eu vou pra Lua,
-Falei com minha mulher,
-Ela então me respondeu,
-Nós vamos se Deus quiser,
-Vamos fazer um ranchinho,
-Todo cheio de sapé,
-Amanhã as 7 horas,
-Nós vamos tomar café,
-Eu que nunca acreditei,
-Não posso me conformar,
-Que a Lua venha à Terra,
-Que a Terra vai ao ar,
-Tudo isso é conversa,
-Vão comer sem trabalhar,
-O senhor amigo meu,
-Veja bem o meu cantar,
-Quem é dono não ciúma,
-Quem não é quer ciumar ?
+eu já vivo enjoado,
+de viver aqui na Terra,
+ó mamãe eu vou pra Lua,
+falei com minha mulher,
+ela então me respondeu,
+nós vamos se Deus quiser,
+vamos fazer um ranchinho,
+todo cheio de sapé,
+amanhã as 7 horas,
+nós vamos tomar café,
+eu que nunca acreditei,
+não posso me conformar,
+que a Lua venha à Terra,
+que a Terra vai ao ar,
+tudo isso é conversa,
+vão comer sem trabalhar,
+o senhor amigo meu,
+veja bem o meu cantar,
+quem é dono não ciúma,
+quem não é quer ciumar ?
 
-Iêê Galo Cantou,
-Iêê Cocorocou,
-Iêê Minino É Bom Camará...
+iê Galo Cantou,
+iê Cocorocou,
+iê Minino É Bom Camará...
 
 # Quebra jereba
 
@@ -129,28 +130,28 @@ Eu vou partir porque mataram meu Besouro
 Ê zum zum zum zum !
 Ê Besouro !
 
-# eu vou ler o B-A-Bá
+# ~eu vou ler o B-A-Bá
 
-Menino preste atenção no que eu vou dizer
-O que eu faço brincando você não faz nem zangado
-Não seja vaidoso nem despeitado
-Na roda de capoeira, Pastinha já está classificado
+menino preste atenção no que eu vou dizer
+o que eu faço brincando você não faz nem zangado
+não seja vaidoso nem despeitado
+na roda de capoeira, Pastinha já está classificado
 
-Eu vou ler o B-A-Bá
-B-A-Bá do Berimbau
-A cabaça e o caxixi
-Com dois pedaços de pau
-A moeda e o arame
-Aí está o berimbau
-Berimbau é um instrumento
-Que toca numa corda só
-Vai tocar São Bento Grande
-Toca Angola em tom maior
-Agora acabei de crer
-o Berimbau é o maior
+eu vou ler o B-A-Bá
+B-A-Bá do berimbau
+a cabaça e o caxixi
+com dois pedaços de pau
+a moeda e o arame
+aí está o berimbau
+berimbau é um instrumento
+que toca numa corda só
+vai tocar São Bento Grande
+toca Angola em tom maior
+agora acabei de crer
+o berimbau é o maior
 
-Camaradinho
-Iê Viva meu Deus
+camaradinho
+iê Viva meu Deus
 
 # ai ai aidê
 
@@ -188,30 +189,30 @@ O le le
 
 # vou me embora para São Paulo
 
-Eu vou ler o meu abc
-Porque não queria cantar
-Foi no [... Incomprehensible place name...] quem me dera esse lugar
-Vieram muitos mestres com pastinha jogar
+eu vou ler o meu abc
+porque não queria cantar
+foi no ijimpi quem me dera esse lugar
+vieram muitos mestres com pastinha jogar
 
-Vou me embora para São Paulo
-Vou me embora seu doutor
-Mas trouxe meu berimbau
-Um amigo de quem sou
-Eu não sou querido aqui
-Mas em minha terra eu sou
-Quem quiser meu nome
-Quem quiser saber quem sou
-Sou discípulo de Pastinha
-Menino de Salvador
-Delegado me intimou
-Dentro da secretaria
-Para prestar depoimento
-Daquilo que eu nao sabia
+vou me embora para São Paulo
+vou me embora seu doutor
+mas trouxe meu berimbau
+um amigo de quem sou
+eu não sou querido aqui
+mas em minha terra eu sou
+quem quiser saber meu nome
+quem quiser saber quem sou
+sou discípulo de Pastinha
+menino de Salvador
+delegado me intimou
+dentro da secretaria
+para prestar depoimento
+daquilo que eu nao sabia
 
-Iê salve a Bahia
-Iê salve o Brasil
-E vamonos embora
-Pelo mundo afora
+iê salve a Bahia
+iê salve o Brasil
+e vamonos embora
+pelo mundo afora
 
 # a manteiga derramou
 
@@ -225,15 +226,15 @@ A manteiga é de ioiô
 A canoa virou marinheiro
 No fundo do mar tem dinheiro
 
-# Adeus adeus
+# adeus adeus
 
-Adeus adeus,
+adeus adeus,
 boa viagem
-Eu vou com Deus
+eu vou me embora
 boa viagem
-Eu vou me embora
+eu vou com Deus
 boa viagem
-Com Nossa senhora
+com nossa senhora
 boa viagem
 
 # Quem vem lá ?
@@ -266,33 +267,35 @@ Esse nego é maluco, esse nego é o cão
 
 # iê eu tava em casa
 
-Iê
-Eu nasci para a capoeira
+iê
+eu nasci para a capoeira
 a capoeira homem me fez
-Só deixarei a capoeira
-Quando eu morrer
+só deixarei a capoeira
+quando eu morrer
 
-Iê eu tava em casa
-Sem pensar sem imaginar
-Quando ouvi bater na porta
-salomão mandou chamar
-Para ajudar a vencer
-A batalha liderar
-Eu que nunca viajei
-Nem pretendo viajar
-Entre Campos[1] e Campinas[2]
-Pernambuco[3] e Ceará[4]
-Era eu era meu mano
-Era meu mano era eu
-Eu não sei se Deus consente
-Numa cova dois defuntos
-Na Bahia eu nasci
+iê eu tava em casa
+sem pensar sem imaginar
+quando ouvi bater na porta
+Salomão mandou chamar
+para ajudar a vencer
+a batalha liderar
+eu que nunca viajei
+nem pretendo viajar
+entre Campos e Campinas
+Pernambuco e Ceará
+era eu era meu mano
+era meu mano era eu
+nos pegamos uma luta
+nem ele venceu nem eu
+eu não sei se Deus consente
+numa cova dois defuntos
+na Bahia eu nasci
 Salvador eu me criei
 
-Iê galo cantou
-Iê cocoroco
-Vamonos embora
-Ele é mandingueiro
+iê galo cantou
+iê cocoroco
+vamonos embora
+ele é mandingueiro
 
 # Tabaréu que vem do sertão
 
