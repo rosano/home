@@ -41,38 +41,38 @@ não me pegue não
 # canarinho da Alemanha
 
 canarinho da Alemanha,
-quem matou meu curió ?
+quem matou meu curió?
 quem tem fé em Deus
 nunca cai em bozó
 canarinho da Alemanha
-quem matou meu curió ?
+quem matou meu curió?
 eu jogo capoeira,
 mas Pastinha é o maior
 canarinho da Alemanha
-quem matou meu curió ?
+quem matou meu curió?
 o segredo da lua,
 quem sabe é o clarão do sol
 canarinho da Alemanha
-quem matou meu curió ?
+quem matou meu curió?
 eu jogo capoeira
 na Bahia e em Maceió
 
-# Valha-me Deus, senhor São Bento
+# valha-me Deus, senhor São Bento
 
-Valha-me Deus, senhor São Bento
-Vou cantar meu barravento
-Valha-me Deus, senhor São Bento
-Buraco velho tem cobra dentro
-Valha-me Deus, senhor São Bento
-Com uma, duas ou tres lá dentro
-Valha-me Deus, senhor São Bento
-Capoeira só angola
-Valha-me Deus, senhor São Bento
-Essa é minha opiniao
-Valha-me Deus, senhor São Bento
-Eu tanto jogo para cima
-Valha-me Deus, senhor São Bento
-Quanto jogo para o chão
+valha-me Deus, senhor São Bento
+vou cantar meu barravento
+valha-me Deus, senhor São Bento
+buraco velho tem cobra dentro
+valha-me Deus, senhor São Bento
+com uma, duas ou tres lá dentro
+valha-me Deus, senhor São Bento
+capoeira só angola
+valha-me Deus, senhor São Bento
+essa é minha opiniao
+valha-me Deus, senhor São Bento
+eu tanto jogo para cima
+valha-me Deus, senhor São Bento
+quanto jogo para o chão
 
 # eu já vivo enjoado
 
@@ -102,21 +102,21 @@ vão comer sem trabalhar,
 o senhor amigo meu,
 veja bem o meu cantar,
 quem é dono não ciúma,
-quem não é quer ciumar ?
+quem não é quer ciumar?
 
 iê Galo Cantou,
 iê Cocorocou,
 iê Minino É Bom Camará...
 
-# Quebra jereba
+# quebra jereba
 
-Quebra jereba
-Quebra tudo hoje
-Amanhã nada quebra
+quebra jereba
+quebra tudo hoje
+amanhã nada quebra
 
-# Dona Maria que vende aí ?
+# Dona Maria que vende aí?
 
-Dona Maria que vende aí ?
+Dona Maria que vende aí?
 Coco e pipoca que é do Brasil
 
 # Lapinha
@@ -153,9 +153,9 @@ o berimbau é o maior
 camaradinho
 iê Viva meu Deus
 
-# ai ai aidê
+# ai ai Aidê
 
-ai ai aidê
+ai ai Aidê
 dona Maria como vai vosmecê
 joga bonito que eu quero aprender
 era eu era meu mano
@@ -182,10 +182,10 @@ Luanda ê meu boi
 Luanda ê, pará
 Marina samba de pé
 Tereza samba deitada
-Lá no cais da Bahia
-Não tem le le nem la la
-O la e la e la
-O le le
+lá no cais da Bahia
+não tem le le nem la la
+o la e la e la
+o le le
 
 # vou me embora para São Paulo
 
@@ -216,15 +216,15 @@ pelo mundo afora
 
 # a manteiga derramou
 
-Vai dizer a meu senhor
-Que a manteiga derramou
-A manteiga não é minha
-A manteiga é de ioiô
+vai dizer a meu senhor
+que a manteiga derramou
+a manteiga não é minha
+a manteiga é de ioiô
 
-# A canoa virou marinheiro
+# a canoa virou marinheiro
 
-A canoa virou marinheiro
-No fundo do mar tem dinheiro
+a canoa virou marinheiro
+no fundo do mar tem dinheiro
 
 # adeus adeus
 
@@ -237,33 +237,33 @@ boa viagem
 com nossa senhora
 boa viagem
 
-# Quem vem lá ?
+# quem vem lá?
 
-Quem vem lá ?
-Sou eu sou eu
-Quem vem lá ?
-A cancela bateu
-Quem vem lá ?
-Quem vem junto sou eu
+quem vem lá?
+sou eu sou eu
+quem vem lá?
+a cancela bateu
+quem vem lá?
+quem vem junto sou eu
 
-# Dá dá, dá no nego
+# dá dá, dá no nego
 
-Dá dá, dá no nego
-No nego voce nao dá
-Dá dá, dá no nego
-Se não der, vai apanhar
-Dá dá, dá no nego
-Esse nego é malvado, esse nego é maluco, esse nego é o cão
-Dá dá, dá no nego
+dá dá, dá no nego
+no nego voce nao dá
+dá dá, dá no nego
+se não der, vai apanhar
+dá dá, dá no nego
+esse nego é malvado, esse nego é maluco, esse nego é o cão
+dá dá, dá no nego
 
-# Pega esse nego, derruba no chão
+# pega esse nego, derruba no chão
 
-Pega esse nego, derruba no chão
-Esse nego é malvado, esse nego é o cão
-Pega esse nego, derruba no chão
-Esse nego é o diavo, esse nego é o cão
-Pega esse nego, derruba no chão
-Esse nego é maluco, esse nego é o cão
+pega esse nego, derruba no chão
+esse nego é malvado, esse nego é o cão
+pega esse nego, derruba no chão
+esse nego é o diavo, esse nego é o cão
+pega esse nego, derruba no chão
+esse nego é maluco, esse nego é o cão
 
 # iê eu tava em casa
 
@@ -300,26 +300,26 @@ ele é mandingueiro
 # Tabaréu que vem do sertão
 
 Tabaréu que vem do sertão
-Que vende maxixe, quiabo e limão
+que vende maxixe, quiabo e limão
 
-# Esse gunga é meu, esse gunga é meu
+# esse gunga é meu, esse gunga é meu
 
-Esse gunga é meu, esse gunga é meu
-Gunga é meu, eu não posso vender
-Esse gunga é meu, esse gunga é meu
-Gunga é meu, foi meu pai que me deu
+esse gunga é meu, esse gunga é meu
+gunga é meu, eu não posso vender
+esse gunga é meu, esse gunga é meu
+gunga é meu, foi meu pai que me deu
 
-# Adão, Adão, cadê Salomé Adão ?
+# Adão, Adão, cadê Salomé Adão?
 
-Adão, Adão, cadê Salomé Adão ?
+Adão, Adão, cadê Salomé Adão?
 Salomé foi passear
-Adão, Adão, cadê Salomé Adão ?
-Foi para a ilha de Maré
+Adão, Adão, cadê Salomé Adão?
+foi para a ilha de Maré
 
-# Tô dormindo, tô sonhando
+# tô dormindo, tô sonhando
 
-Tô dormindo, tô sonhando
-Tão falando mal de mim
+tô dormindo, tô sonhando
+tão falando mal de mim
 
 # Mandá lecô
 
