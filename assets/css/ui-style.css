@@ -528,6 +528,10 @@ footer {
 	top: 30px;
 }
 
+.lyrics_collection .sticky {
+	padding-top: var(--spacing);
+}
+
 /* gift */
 
 .gift {
