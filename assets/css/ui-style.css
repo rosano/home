@@ -528,7 +528,7 @@ footer {
 	top: 30px;
 }
 
-.lyrics_collection .sticky {
+.lyrics_collection .sticky, .lyrics.single .sticky {
 	padding-top: var(--spacing);
 }
 
