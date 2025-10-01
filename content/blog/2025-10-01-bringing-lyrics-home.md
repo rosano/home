@@ -2,9 +2,14 @@
 slug: bringing-lyrics-home
 title: bringing lyrics home
 summary: From 'trapped in my notes' to 'public data' that anyone can use.
-tags:
-  - ""
 date: 2025-10-01T08:22:02.109Z
+twitter_id: 1973314769957560762
+mastodon_id: 115298132436446030
+bluesky_id: 3m24p5h6m4c27
+nostr_id: note13f5fvvkwuza8eecwdl82nmcrzmyf6rfy4ummkjrs27yav5n8tqvq3jljkr
+instagram_id: DPQycUICO58
+tiktok_id: 7556178897222552833
+threads_id: DPQtyxwDdFz
 ---
 High off the fumes from [[bringing Vibrations home]], I made a "room" for all the lyrics I've accumulated over the years from capoeira classes, deep listening albums, and learning languages, motivated because there were too many mixed into my notes and other stuff to find anything when I needed it.
 
@@ -83,3 +88,4 @@ My endeavour in writing this is not really to focus on the technology but an att
 I would close with a quote from [Heddi](https://heddiried.com) that describes what it's like for me to have a personal website or corner of the Internet where I can do niche things like this without some company's blessing:
 
 > "Having a platform profile is like living in a single-room apartment, whereas having your own site is a castle with unlimited rooms."
+
