@@ -12,7 +12,7 @@ tags:
   - community
   - Apps
 ---
-Suffering, lots of it, has been around since before you and I were born. It's not new, but still impacts us so strongly that seeing people in pain or learning about possible future issues can numb us into paralysis ("there's nothing I can do", "let me think about something else") or provoke us into finding solutions ("what can I do?", "how do I make a difference?").
+Human suffering on an immense scale has been an inseparable part of how we got here. It's not new, but still impacts us so strongly that seeing people in pain or learning about possible future issues can numb us into paralysis ("there's nothing I can do", "let me think about something else") or provoke us into finding solutions ("what can I do?", "how do I make a difference?").
 
 I went through a short period considering myself an activist when I was helping organize events and student initiatives to raise awareness about various issues: this was a time when I shared news and political outrage on social media, using whatever platform I had to publicly call out hypocrisy in anger, often shouting into the void; saying it this way is not meant to demean anyone who does similar-seeming things, but a way to acknowledge my own misalignment of intentions as I operated under confusion without realizing—I thought that's what _my_ response needed to be.
 
