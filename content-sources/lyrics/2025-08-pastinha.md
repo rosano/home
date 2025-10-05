@@ -8,7 +8,7 @@ topic:
 
 iê, maior é Deus, pequeno sou eu
 o que eu tenho, foi Deus que me deu
-na roda de capoeira,
+na roda de capoeira
 grande e pequeno sou eu
 
 Bahia nossa Bahia
@@ -34,23 +34,23 @@ iê Farol da Bahia
 # Dona Alice não me pegue não
 
 Dona Alice não me pegue não
-não me pegue,
-não me agarre,
+não me pegue
+não me agarre
 não me pegue não
 
 # canarinho da Alemanha
 
-canarinho da Alemanha,
+canarinho da Alemanha
 quem matou meu curió?
 quem tem fé em Deus
 nunca cai em bozó
 canarinho da Alemanha
 quem matou meu curió?
-eu jogo capoeira,
+eu jogo capoeira
 mas Pastinha é o maior
 canarinho da Alemanha
 quem matou meu curió?
-o segredo da lua,
+o segredo da lua
 quem sabe é o clarão do sol
 canarinho da Alemanha
 quem matou meu curió?
@@ -83,29 +83,30 @@ dessa cultura do Brasil
 Pastinha já foi à África
 para mostrar a capoeira do Brasil
 
-eu já vivo enjoado,
-de viver aqui na Terra,
-ó mamãe eu vou pra Lua,
-falei com minha mulher,
-ela então me respondeu,
-nós vamos se Deus quiser,
-vamos fazer um ranchinho,
-todo cheio de sapé,
-amanhã as 7 horas,
-nós vamos tomar café,
-eu que nunca acreditei,
-não posso me conformar,
-que a Lua venha à Terra,
-que a Terra vai ao ar,
-tudo isso é conversa,
-vão comer sem trabalhar,
-o senhor amigo meu,
-veja bem o meu cantar,
-quem é dono não ciúma,
+eu já vivo enjoado
+de viver aqui na Terra
+ó mamãe eu vou pra Lua
+falei com minha mulher
+ela então me respondeu
+nós vamos se Deus quiser
+vamos fazer um ranchinho
+todo cheio de sapé
+amanhã as 7 horas
+nós vamos tomar café
+
+eu que nunca acreditei
+não posso me conformar
+que a Lua venha à Terra
+que a Terra vai ao ar
+tudo isso é conversa
+vão comer sem trabalhar
+o senhor amigo meu
+veja bem o meu cantar
+quem é dono não ciúma
 quem não é quer ciumar?
 
-iê Galo Cantou,
-iê Cocorocou,
+iê Galo Cantou
+iê Cocorocou
 iê Minino É Bom Camará...
 
 # quebra jereba
@@ -121,7 +122,7 @@ Coco e pipoca que é do Brasil
 
 # Lapinha
 
-Quando eu morrer,
+Quando eu morrer
 Me enterrem na Lapinha
 calça, culote e paletó almofadinha
 Adeus Bahia, zum zum zum cordão de ouro
@@ -228,7 +229,7 @@ no fundo do mar tem dinheiro
 
 # adeus adeus
 
-adeus adeus,
+adeus adeus
 boa viagem
 eu vou me embora
 boa viagem
