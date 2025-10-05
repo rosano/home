@@ -8,7 +8,7 @@ topic:
 
 iê, maior é Deus, pequeno sou eu
 o que eu tenho, foi Deus que me deu
-na roda de capoeira
+na roda da capoeira
 grande e pequeno sou eu
 
 Bahia nossa Bahia
@@ -18,11 +18,11 @@ não pode dar seu valor
 capoeira veio da África
 africano quem a trouxe
 todos podem aprender
-general e também quem é Doutor
+general também Doutor
 quem desejar aprender
 venha aqui em Salvador
 procure o Mestre Pastinha
-ele é professor
+ele é o professor
 
 iê viva meu mestre
 iê que me ensinou
@@ -31,9 +31,9 @@ iê Rio de Janeiro
 iê Morro de São Paulo
 iê Farol da Bahia
 
-# Dona Alice não me pegue não
+# dona Alice não me pegue não
 
-Dona Alice não me pegue não
+dona Alice não me pegue não
 não me pegue
 não me agarre
 não me pegue não
@@ -42,18 +42,16 @@ não me pegue não
 
 canarinho da Alemanha
 quem matou meu curió?
+
 quem tem fé em Deus
 nunca cai em bozó
-canarinho da Alemanha
-quem matou meu curió?
+
 eu jogo capoeira
 mas Pastinha é o maior
-canarinho da Alemanha
-quem matou meu curió?
+
 o segredo da lua
 quem sabe é o clarão do sol
-canarinho da Alemanha
-quem matou meu curió?
+
 eu jogo capoeira
 na Bahia e em Maceió
 
@@ -62,17 +60,13 @@ na Bahia e em Maceió
 valha-me Deus, senhor São Bento
 vou cantar meu barravento
 valha-me Deus, senhor São Bento
-buraco velho tem cobra dentro
-valha-me Deus, senhor São Bento
-com uma, duas ou tres lá dentro
-valha-me Deus, senhor São Bento
-capoeira só angola
-valha-me Deus, senhor São Bento
-essa é minha opiniao
-valha-me Deus, senhor São Bento
-eu tanto jogo para cima
-valha-me Deus, senhor São Bento
-quanto jogo para o chão
+
+- buraco velho tem cobra dentro
+- com uma, duas ou tres lá dentro
+- capoeira só angola
+- essa é minha opiniao
+- eu tanto jogo para cima
+- quanto jogo para o chão
 
 # eu já vivo enjoado
 
@@ -105,31 +99,34 @@ veja bem o meu cantar
 quem é dono não ciúma
 quem não é quer ciumar?
 
-iê Galo Cantou
-iê Cocorocou
-iê Minino É Bom Camará...
+iê galo cantou
+iê cocorocou
+iê menino é bom
+iê sabe jogar
+iê capoeiragem
 
 # quebra jereba
 
 quebra jereba
 quebra tudo hoje
+amanhã que me quebra
 amanhã nada quebra
 
-# Dona Maria que vende aí?
+# dona Maria que vende aí?
 
-Dona Maria que vende aí?
+dona Maria que vende aí?
 Coco e pipoca que é do Brasil
 
 # Lapinha
 
-Quando eu morrer
-Me enterrem na Lapinha
+quando eu morrer
+me enterrem na Lapinha
 calça, culote e paletó almofadinha
-Adeus Bahia, zum zum zum cordão de ouro
-Eu vou partir porque mataram meu Besouro
+adeus Bahia, zum zum zum cordão de ouro
+eu vou partir porque mataram meu Besouro
 
-Ê zum zum zum zum !
-Ê Besouro !
+ê zum zum zum zum !
+ê Besouro !
 
 # ~eu vou ler o B-A-Bá
 
