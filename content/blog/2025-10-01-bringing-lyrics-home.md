@@ -44,7 +44,7 @@ você chegou feito um silêncio
 
 With just this one semantic unit to divide the information, each song can get it's own page automatically. But I can still easily move things around if I change my mind. This fulfills my principle of "presenting things consistently regardless of how I organize the files".
 
-Adding a *topic* to collections lets me combine collections from a certain context (such as [my Brazilian popular music](https://rosano.ca/lyrics/topic/brazil/)). As it shows recent items first, I have a list roughly in order of discovery without any 'blog post' system.
+Adding a *topic* to collections lets me combine collections from a certain context (such as [my Brazilian popular music](https://rosano.ca/lyrics/topic/brazil/)). As it shows recent items first, I have a list roughly in order of discovery without any 'blog post' system; time is somewhat relevant but it doesn't need to be super precise.
 
 <roco-divider></roco-divider>
 
