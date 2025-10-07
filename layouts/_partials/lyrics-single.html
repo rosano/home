@@ -58,7 +58,7 @@
 				(dict
 					"title" "Translate via DeepL"
 					"prefix" "https://www.deepl.com/en/translator#en/en-us/"
-					"data" (replaceRE `\<\/?.+\>` "" .Content)
+					"data" (.RawContent | transform.Plainify)
 				) }}
 				<a href="{{ index . "prefix" }}{{ index . "data" }}">{{ index . "title" }}</a>{{ if not $i }}, {{ end }}
 			{{ end }}
