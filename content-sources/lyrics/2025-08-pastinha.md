@@ -6,7 +6,9 @@ topic:
 ---
 # Bahia nossa Bahia
 
-iê, maior é Deus, pequeno sou eu
+iê! maior é Deus, pequeno sou eu
+iê! maior é Deus, pequeno sou eu
+o que eu tenho, foi Deus que me deu
 o que eu tenho, foi Deus que me deu
 na roda da capoeira
 grande e pequeno sou eu
@@ -70,7 +72,7 @@ valha-me Deus, senhor São Bento
 
 # eu já vivo enjoado
 
-iê, cidade de Assunção
+iê! cidade de Assunção
 capital de Itamaraty
 somos todos das nações
 dessa cultura do Brasil
@@ -100,16 +102,20 @@ quem é dono não ciúma
 quem não é quer ciumar?
 
 iê galo cantou
-iê cocorocou
+iê cocoroco
 iê menino é bom
 iê sabe jogar
 iê capoeiragem
 
 # quebra jereba
 
+quebra
 quebra jereba
+quebra
 quebra tudo hoje
+quebra
 amanhã que me quebra
+quebra
 amanhã nada quebra
 
 # dona Maria que vende aí?
@@ -133,7 +139,7 @@ eu vou partir porque mataram meu Besouro
 menino preste atenção no que eu vou dizer
 o que eu faço brincando você não faz nem zangado
 não seja vaidoso nem despeitado
-na roda de capoeira, Pastinha já está classificado
+na roda da capoeira, Pastinha já está classificado
 
 eu vou ler o B-A-Bá
 B-A-Bá do berimbau
@@ -141,15 +147,22 @@ a cabaça e o caxixi
 com dois pedaços de pau
 a moeda e o arame
 aí está o berimbau
+
 berimbau é um instrumento
 que toca numa corda só
 vai tocar São Bento Grande
 toca Angola em tom maior
 agora acabei de crer
-o berimbau é o maior
+o berimbau é o maior (camaradinho)
 
-camaradinho
-iê Viva meu Deus
+iê viva meu Deus
+iê viva meu mestre
+iê quem me ensinou
+iê a capoeira
+iê ele e mandingeiro
+iê ele e cabeçeiro
+iê sabe jogar
+iê a capoeira
 
 # ai ai Aidê
 
@@ -202,6 +215,7 @@ quem quiser saber meu nome
 quem quiser saber quem sou
 sou discípulo de Pastinha
 menino de Salvador
+
 delegado me intimou
 dentro da secretaria
 para prestar depoimento
@@ -209,8 +223,8 @@ daquilo que eu nao sabia
 
 iê salve a Bahia
 iê salve o Brasil
-e vamonos embora
-pelo mundo afora
+iê vamonos embora
+iê pelo mundo afora
 
 # a manteiga derramou
 
