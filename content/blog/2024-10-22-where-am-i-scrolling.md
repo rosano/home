@@ -18,7 +18,7 @@ It can also happen while walking down a street full of commercial things designe
 
 It doesn't even have to be about shops: I notice my attention on pigeons gathering, car drivers getting into arguments, judgements about people's clothing…
 
-I say I'm 'scrolling' when I don't realize my attention is bouncing between these things, when the channel changes are the main event
+I say I'm 'scrolling' when I don't realize my attention is bouncing between these things, when the channel changes are the main event.
 
 There's nothing wrong with having attention on any of those things, but I'm noticing a similarity between how I scroll online and how I jump between things in the real world.
 
