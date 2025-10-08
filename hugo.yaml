@@ -12,6 +12,8 @@ markup:
       hardWraps: true
     parser:
       autoHeadingIDType: github-ascii
+    extensions:
+      typographer: false
 disableKinds:
 - taxonomy
 
