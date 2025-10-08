@@ -1,4 +1,7 @@
 ---
+nostr_id: note1evw6pmayrt8vyyzcjlqspaqwm33c4m0k2q274k8xxvlahk0avs9qw7gh67
+bluesky_id: 3m2oehy4pft2o
+mastodon_id: "115337920668622066"
 slug: work-then-dont
 title: work, then don't
 summary: No computing after lunch. Shower thoughts for the whole afternoon and evening.
