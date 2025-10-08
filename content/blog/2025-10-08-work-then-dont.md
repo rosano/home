@@ -1,16 +1,18 @@
 ---
-nostr_id: note1evw6pmayrt8vyyzcjlqspaqwm33c4m0k2q274k8xxvlahk0avs9qw7gh67
-bluesky_id: 3m2oehy4pft2o
-mastodon_id: "115337920668622066"
-slug: work-then-dont
 title: work, then don't
+slug: work-then-dont
+date: 2025-10-08T09:46:20.200Z
 summary: No computing after lunch. Shower thoughts for the whole afternoon and evening.
-tags:
-  - ""
 related: Speaking of work, if you know me please add me on
   [LinkedIn](https://www.linkedin.com/in/rcreativ/) as I'd like to see if it
   makes sense for me to be there.
-date: 2025-10-08T09:46:20.200Z
+nostr_id: note1evw6pmayrt8vyyzcjlqspaqwm33c4m0k2q274k8xxvlahk0avs9qw7gh67
+bluesky_id: 3m2oehy4pft2o
+mastodon_id: "115337920668622066"
+twitter_id: 1975861313344795058
+instagram_id: DPi0IaECImY
+threads_id: DPi0LE8DRWK
+facebook_id: 10235438260211249
 ---
 Since 2020 I've developed a frequent day routine of 'work' followed by 'non-work', which looks like this:
 
