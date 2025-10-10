@@ -34,7 +34,7 @@ It's also a riff on my [productivity trinity](https://rosano.hmm.garden/01ett0ax
 
 My morning mind is sacred to me as it hasn't yet been bombarded by external distractions, so I often use it to make progress on important things and try to keep the world at bay until *I'm* ready; I usually feel at my highest capacity, very focused, and productive. I give my first self to whatever I feel called to do.
 
-During the 'digress' part, I read, do nothing, take walks, listen to music or podcasts, call friends, focus on body things, hang out, run errands, correspond, cook, touch plants, etc… Ideas, improvements, and iterations come quite naturally because I'm not occupied with 'work'; it's like [shower thoughts](https://en.wiktionary.org/wiki/shower_thought), but for the whole afternoon and evening.
+During the 'digress' part, I read, do nothing, take walks, listen to music or podcasts, call friends, focus on body things, hang out, run errands, correspond, cook, touch plants, etc… Ideas, improvements, and iterations come quite naturally because I'm not occupied with 'work'; it's like [shower thoughts](https://en.wiktionary.org/wiki/shower_thought), but for the whole afternoon and evening. The goal is to ensure there's a process or modality happening different to "sitting and doing stuff on my screen".
 
 I just note down whatever occurs to me, things like "fix typo", "contact them", "wash dishes", "lookup word", "clean shoes", "buy vegetables", "share cat video"; it's all captured quickly and without polish, just enough that my future self will understand. Then I get back to my digressions.
 
