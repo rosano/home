@@ -159,8 +159,8 @@ iê viva meu Deus
 iê viva meu mestre
 iê quem me ensinou
 iê a capoeira
-iê ele e mandingeiro
-iê ele e cabeçeiro
+iê ele é mandingeiro
+iê ele é cabeçeiro
 iê sabe jogar
 iê a capoeira
 
