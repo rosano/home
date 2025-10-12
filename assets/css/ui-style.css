@@ -224,13 +224,13 @@ hr {
 	gallery {
 		max-width: 100%;
 		
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		justify-content: center;
+		display: grid;
+		grid-template-columns: 33% 33% 33%;
+		grid-template-rows: auto;
 
 		img {
-			max-width: 32% !important;
+			max-width: inherit;
+			border: var(--border);
 		}
 	}
 
