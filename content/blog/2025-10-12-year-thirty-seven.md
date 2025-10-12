@@ -4,7 +4,7 @@ title: year thirty-seven
 summary: Focus, reps, optimistic vortex, strong signal, ripple effects.
 tags:
   - birthday
-date: 2025-10-12T09:05:18.006Z
+date: 2025-10-12T09:14:50.688Z
 ---
 For my thirty-seventh year, I wanted to write a shorter annual reflection, so here are some important layers since last year, followed by something I'm currently sitting with that feels profound to me.
 
@@ -42,13 +42,13 @@ For my thirty-seventh year, I wanted to write a shorter annual reflection, so he
 
 I'm immensely grateful to have found a sense of place again with my projects. My [questions from last year](https://rosano.ca/blog/year-thirty-six/#more-questions-than-answers) have answers, and something is emerging, not sure what.
 
+<roco-divider></roco-divider>
+
 I find myself deeply in the zone.
 
 Most days, all I want to do is get back to it.
 
 It's immensely satisfying even if I'm the only person I know that might consider it relevant.
-
-<roco-divider></roco-divider>
 
 Focus, reps, optimistic vortex, strong signal, ripple effects.
 
