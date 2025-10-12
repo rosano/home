@@ -5,6 +5,13 @@ summary: Focus, reps, optimistic vortex, strong signal, ripple effects.
 tags:
   - birthday
 date: 2025-10-12T09:05:18.006Z
+twitter_id: 1977322131076837516
+mastodon_id: 115360748439494590
+bluesky_id: 3m2yiv7q2g22n
+nostr_id: note1jp9j2kver9lhej3m86kjq938ypwwm708r0xaktag24h8f9fg4t8sd2xu5l
+instagram_id: DPtMC4rCAvj
+facebook_id: 10235487501682255
+threads_id: DPtMEVLDVXO
 ---
 For my thirty-seventh year, I wanted to write a shorter annual reflection, so here are some important layers since last year, followed by something I'm currently sitting with that feels profound to me.
 
