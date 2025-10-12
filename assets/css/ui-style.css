@@ -5,6 +5,7 @@
 	--spacing: 8px;
 	--corner: 3px;
 	--link-color: #237fa1;
+	--border: 2px solid #e6e6e6;
 }
 
 body {
@@ -103,12 +104,8 @@ hr {
 		max-width: 90%;
 	}
 
-	:not(.feature-image) img {
-		border: 2px solid #e6e6e6;
-	}
-
-	a img {
-		border: 0 !important;
+	p > img {
+		border: var(--border);
 	}
 
 	.feature-image img {
