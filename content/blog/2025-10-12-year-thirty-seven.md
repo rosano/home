@@ -68,3 +68,10 @@ Looking ahead, I just want to put my head down and make progress. Let's see next
 
 All yearly reflections: [33](https://rosano.ca/blog/thirty-three/), [34](https://rosano.ca/blog/thirty-four/), [35](https://rosano.ca/blog/year-thirty-five), [36](https://rosano.ca/blog/year-thirty-six/), [37](https://rosano.ca/blog/year-thirty-seven/).
 
+<style>
+figure:first-of-type {
+  display: flex;
+  margin: 0;
+  width: unset;
+}
+</style>
