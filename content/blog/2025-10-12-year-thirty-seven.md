@@ -1,5 +1,5 @@
 ---
-slug: year-thirtyseven
+slug: year-thirty-seven
 title: year thirty-seven
 summary: Focus, reps, optimistic vortex, strong signal, ripple effects.
 tags:
