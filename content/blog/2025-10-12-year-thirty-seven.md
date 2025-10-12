@@ -17,7 +17,7 @@ For my thirty-seventh year, I wanted to write a shorter annual reflection, so he
 
 ---
 
-*1. affirming experiences, celebrating myself, [from scrolling to strolling](https://rosano.ca/blog/where-am-i-scrolling).*
+*1. [affirming experiences](https://strolling.rosano.ca/0210/), celebrating myself, [from scrolling to strolling](https://rosano.ca/blog/where-am-i-scrolling).*
 
 <gallery>![](1/darin.gif) ![](1/IMG_5291.jpg) ![](1/capoeira.gif)</gallery>
 
