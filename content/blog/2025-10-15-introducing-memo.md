@@ -1,4 +1,13 @@
 ---
+instagram_id: DP1Cr8DiOz1
+facebook_id: "10235527001189718"
+threads_id: DP1CtJNjbTo
+twitter_id: "1978425037158858772"
+mastodon_id: "115377987689303280"
+bluesky_id: 3m3a5vsi6n22b
+nostr_id: note1cyjk0f6y2ffs4l68z3a095mcfracn53r23zhtkfxw4sgxw3ppkqqkdalyk
+submittedAt: 2025-10-15T11:50:29.385Z
+formMode: test
 slug: introducing-memo
 title: introducing memo
 summary: a notepad you can't edit
