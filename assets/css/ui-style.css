@@ -289,6 +289,10 @@ hr {
 		--link-color: #ece246;
 
 		border-bottom: unset;
+
+		&:hover {
+			color: #ff963a;
+		}
 	}
 
 }
