@@ -28,7 +28,7 @@
 {{ end }}
 
 {{- $options := (dict "outputStyle" "compressed" "enableSourceMap" true) -}}
-{{- $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/OLSKDecor/ui-style.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options -}}
+{{- $style := slice (resources.Get "css/normalize.css/normalize.css") (resources.Get "css/ui-style.css") (resources.Get "css/style.css") | resources.Concat "css/bundle.css" | css.Sass $options -}}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
 {{ $js := slice (resources.Get "js/OLSKEmbed/main.js") (resources.Get "js/OLSKDOM/main.js") (resources.Get "js/embed.js") | resources.Concat "js/bundle.js" -}}
