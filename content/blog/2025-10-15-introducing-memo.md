@@ -60,19 +60,4 @@ I think it would be nice if this was normal with apps and technology. The web is
 
 Having different tools to deal with the same data is useful as an 'app user', but I love it as an 'app developer' because interop simplifies my life: I don't need to build *all* the features in my app — other apps can fill the gap, and together, we share one growing base of people who mix them in their workflows.
 
-Try it out below and let me know what comes to mind.
-
-<style>
-iframe {
-	display: block;
-  width: 900px !important;
-  height: 500px;
-  
-  position: absolute;
-  margin: 100px;
-  margin-left: -250px;
-}
-</style>
-
-<iframe src="https://todos-interop.0data.app" frameborder="0"></frame>
-
+Try [memo](https://memo.rosano.ca) or the [interop demo](https://todos-interop.0data.app) and let me know what comes to mind.
