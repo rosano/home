@@ -3,9 +3,7 @@ title: work, then don't
 slug: work-then-dont
 date: 2025-10-08T09:46:20.200Z
 summary: No computing after lunch. Shower thoughts for the whole afternoon and evening.
-related: Speaking of work, if you know me please add me on
-  [LinkedIn](https://www.linkedin.com/in/rcreativ/) as I'd like to see if it
-  makes sense for me to be there.
+related: My new [memo](https://memo.rosano.ca) app is a "notepad you can't edit" specifically built for this work/digress cycle.
 nostr_id: note1evw6pmayrt8vyyzcjlqspaqwm33c4m0k2q274k8xxvlahk0avs9qw7gh67
 bluesky_id: 3m2oehy4pft2o
 mastodon_id: "115337920668622066"
