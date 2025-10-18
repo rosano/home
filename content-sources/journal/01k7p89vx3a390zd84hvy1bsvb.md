@@ -2,6 +2,7 @@
 date: 2025-10-16T10:15:59.139Z
 categories: ["book"]
 series: "Steve Nison: Japanese Candlestick Charting"
+tags: ["trading"]
 ---
 > [The Japanese may often speak vaguely because of historical norms where people were beheaded when not replying as expected.]
 

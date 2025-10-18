@@ -2,6 +2,7 @@
 date: 2025-05-01T21:33:35.322Z
 categories: ["book"]
 series: "Gary Stevenson: The Trading Game"
+tags: ["trading"]
 ---
 > For the interview with Goldman I turned up in my hoodie and trainers and I told them that I definitely didn't want the job. They put me through to the second round after that.
 

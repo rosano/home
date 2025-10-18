@@ -1,7 +1,9 @@
 ---
 date: 2025-10-13T16:25:13.876Z
+categories: ["book"]
+series: "Brent Donnelly: 50 Trades in 50 Weeks"
+tags: ["trading"]
 link: https://50in50.substack.com/p/trade4
-categories: ["article"]
 ---
 [Week 4: A respite from winter](https://50in50.substack.com/p/trade4)
 

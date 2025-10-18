@@ -1,7 +1,9 @@
 ---
 date: 2025-10-07T16:36:05.063Z
+categories: ["book"]
+series: "Brent Donnelly: 50 Trades in 50 Weeks"
+tags: ["trading"]
 link: https://50in50.substack.com/p/shortdocs
-categories: ["article"]
 ---
 [Trade 3: Short DOCS](https://50in50.substack.com/p/shortdocs)
 
