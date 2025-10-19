@@ -53,7 +53,7 @@ I find myself deeply in the zone.
 
 Most days, all I want to do is get back to it.
 
-It's immensely satisfying even if I'm the only person I know that might consider it relevant.
+It's abundantly satisfying even if I'm the only person I know that might consider it relevant.
 
 <roco-divider></roco-divider>
 
