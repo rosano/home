@@ -33,6 +33,8 @@ iê Rio de Janeiro
 iê Morro de São Paulo
 iê Farol da Bahia
 
+https://capoeiraosorno.blogspot.com/2011/04/letras-mestre-pastinha-eternamente.html?m=1
+
 # dona Alice não me pegue não
 
 dona Alice não me pegue não
@@ -292,13 +294,15 @@ Salomão mandou chamar
 para ajudar a vencer
 a batalha liderar
 eu que nunca viajei
-nem pretendo viajar
+não pretendo viajar
+
 entre Campos e Campinas
 Pernambuco e Ceará
 era eu era meu mano
 era meu mano era eu
 nos pegamos uma luta
 nem ele venceu nem eu
+
 eu não sei se Deus consente
 numa cova dois defuntos
 na Bahia eu nasci
@@ -306,8 +310,10 @@ Salvador eu me criei
 
 iê galo cantou
 iê cocoroco
-vamonos embora
-ele é mandingueiro
+iê vamonos embora
+iê pela barra fora
+iê ele é mandingueiro
+iê ele é cabeçeiro
 
 # Tabaréu que vem do sertão
 
