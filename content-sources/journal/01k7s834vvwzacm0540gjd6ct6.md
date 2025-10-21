@@ -2,7 +2,7 @@
 date: 2025-10-17T14:10:02.235Z
 categories: ["thought"]
 ---
-Choosing to 'skip over parts' *is* reading because reflects a choice about is being processed.
+Choosing to 'skip over parts' *is* reading because reflects a choice about what's being processed.
 
 If I've absorbed a point through my own lived experience or heard of it in another context, I'm still "reading" the idea as I recognize it well enough to skip over.
 
