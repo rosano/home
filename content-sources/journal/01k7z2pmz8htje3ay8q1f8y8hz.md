@@ -1,7 +1,7 @@
 ---
 date: 2025-10-19T20:31:16.455Z
 series: "Gerard Taylor: Capoeira Conditioning"
-categories: ["thought"]
+categories: ["book"]
 ---
 > a football player who trains with weights and sprints is "conditioning" his body for playing football.
 
