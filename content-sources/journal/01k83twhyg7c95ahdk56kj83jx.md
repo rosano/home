@@ -1,6 +1,8 @@
 ---
 date: 2025-10-21T15:43:53.219Z
-categories: ["thought"]
+categories: ["book"]
+series: "Mark Douglas: Trading in the Zone"
+tags: ["trading"]
 ---
 > 1. [Identify edges objectively.]
 > 2. [Calculate risk for every trade.]
