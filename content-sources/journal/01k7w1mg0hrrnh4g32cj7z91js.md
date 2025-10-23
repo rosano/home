@@ -8,7 +8,7 @@ tags: ["trading"]
 
 > We can "know" exactly what an edge looks, sounds, or feels like, and we can "know" exactly how much we need to risk to find out if that edge is going to work. We can "know" that we have a specific plan as to how we are going to take profits if a trade works. *But that's it!* If what we think we know starts expanding to what the market is going to do, we're in trouble.
 
-> [The objective is not making money, but consistency. The skills involve having an objective state of mind that less easily blinded by pain-avoidance mechanisms; to let things unfold and be capable to take advantage when there's an opportunity.]
+> [The objective is not making money, but consistency. The skills involve having an objective state of mind less easily blinded by pain-avoidance mechanisms; to let things unfold and be capable to take advantage when there's an opportunity.]
 
 > [Market info is only threatening if you expect it to do something for you; otherwise, you have no reason to fear being wrong.]
 
