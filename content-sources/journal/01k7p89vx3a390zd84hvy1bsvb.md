@@ -16,8 +16,8 @@ tags: ["trading"]
 
 > A trend reversal signal implies that the prior trend is likely to change, but not necessarily reversing. [A car's brake lights indicate an incoming slow or stop, but not whether it will continue or reverse afterwards.]
 
-> ['hammer' in Japanese is *takuri*, which mesns "gauging water's depth by feeling for the bottom"]
+> ['hammer' in Japanese is *takuri*, which means "gauging water's depth by feeling for the bottom"]
 
-> [*harami* is an old Japanese word for pregnant that they use to indicate a market 'losing breath'.]
+> [*harami* is an old Japanese word for pregnant and used to indicate a market 'losing breath'.]
 
 > ['Belt-hold' comes from sumo wrestlings *yorikiri*, meaning 'to push the opponent out of the ring while holding onto their belt.']
