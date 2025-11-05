@@ -1,8 +1,8 @@
 ---
 date: 2025-11-03T09:31:21.811Z
 via: https://svelte.dev/blog/whats-new-in-svelte-november-2025
+categories: ["project"]
 link: https://nokiafied.pages.dev
-categories: ["article"]
 ---
 [Nokiafied](https://nokiafied.pages.dev)
 
