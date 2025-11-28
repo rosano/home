@@ -1,6 +1,7 @@
 ---
 date: 2025-11-23T20:44:58.292Z
-categories: ["thought"]
+categories: ["book"]
+series: "Christopher Alexander: A city is not a tree"
 ---
 > This effect makes the newsrack and the traffic light interactive; the newsrack, the newspapers on it, the money going from people's pockets to the dime slot, the people who stop at the light and read papers, the traffic light, the electric impulses which make the lights change, and the sidewalk which the people stand on form a system - they all work together.
 
