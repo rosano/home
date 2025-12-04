@@ -321,3 +321,6 @@ time,place,country,timezone
 2025-08-15T11:00:00.000Z,Brighton,England,Europe/London
 2025-08-18T18:00:00.000Z,Paris,France,Europe/Paris
 2025-08-19T14:00:00.000Z,Porto,Portugal,Europe/Lisbon
+2025-11-26T11:00:00.000Z,Lisbon,Portugal,Europe/Lisbon
+2025-11-28T10:00:00.000Z,Aljezur,Portugal,Europe/Lisbon
+2025-12-01T11:00:00.000Z,Portimão,Portugal,Europe/Lisbon
