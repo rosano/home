@@ -5,4 +5,4 @@ categories: ["talk"]
 ---
 [How the dark wizards of marketing conjured Black Friday](https://www.youtube.com/watch?v=Ie4-XLMMLNs)
 
-> [AMEX provides marketing templates to promote contactless payments, which results in organizations like Transport for London and others with similar language saying "Contactless is here"]
+> [AMEX provides marketing templates to promote contactless payments, which results in organizations like Transport for London and others advertising with similar language saying "Contactless is here".]
