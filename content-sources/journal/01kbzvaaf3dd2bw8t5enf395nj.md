@@ -7,7 +7,7 @@ series: "Kathy Sierra: Badass — Making Users Awesome"
 
 > [Most focus on product quality before quality of user results.]
 
-> [Businesses claim "world-class service" for their customers, but their customers are likely more interested in being a "world-class customer"]
+> [Businesses claim "world-class service" for their customers, but their customers are likely more interested in being a "world-class customer".]
 
 > [Make a better master rather than a better tool.]
 
