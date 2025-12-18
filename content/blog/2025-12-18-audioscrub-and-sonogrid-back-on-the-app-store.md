@@ -1,4 +1,14 @@
 ---
+instagram_id: DSZ0DxBiEwT
+tiktok_id: "7585159637591231760"
+facebook_id: "10236339061210711"
+threads_id: DSZ0K-OjZXV
+twitter_id: "2001614398146945156"
+mastodon_id: "115740325516497634"
+bluesky_id: 3mab33gpwac2p
+nostr_id: note148lr8m2cf5zgmzzt4y6qckw0klugj33rmjey7jy0y0wlup890l6qwh7e0a
+submittedAt: 2025-12-18T11:38:03.119Z
+formMode: test
 slug: audioscrub-and-sonogrid-back-on-the-app-store
 title: AudioScrub and sonogrid back on the App Store
 summary: Everything still works great and I've never stopped using them.
