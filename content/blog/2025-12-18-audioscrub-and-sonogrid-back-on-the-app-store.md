@@ -7,8 +7,6 @@ twitter_id: "2001614398146945156"
 mastodon_id: "115740325516497634"
 bluesky_id: 3mab33gpwac2p
 nostr_id: note148lr8m2cf5zgmzzt4y6qckw0klugj33rmjey7jy0y0wlup890l6qwh7e0a
-submittedAt: 2025-12-18T11:38:03.119Z
-formMode: test
 slug: audioscrub-and-sonogrid-back-on-the-app-store
 title: AudioScrub and sonogrid back on the App Store
 summary: Everything still works great and I've never stopped using them.
@@ -18,6 +16,10 @@ tags:
 date: 2025-12-18T10:00:24.002Z
 ---
 My iOS apps are [on the App Store](https://apps.apple.com/developer/rcreativ/id356609408) again; if you ever wanted to have sonogrid or the others, now might be a good time to get a copy.
+
+<figure>
+  <video autoplay muted><source src="https://static.rosano.ca/home/blog/2025-12-18-audioscrub-and-sonogrid-back-on-the-app-store/main-iphone.m4v" type="video/mp4"></video>
+</figure>
 
 ## [AudioScrub](https://apps.apple.com/app/audioscrub-remix-edition/id903693369)
 

@@ -248,7 +248,7 @@ hr {
 			border-bottom: none;
 		}
 
-		img {
+		img, video {
 			max-width: 100%;
 		}
 
