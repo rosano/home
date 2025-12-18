@@ -228,9 +228,17 @@ hr {
 		grid-template-columns: 33% 33% 33%;
 		grid-template-rows: auto;
 
-		img {
+		img, iframe {
 			max-width: inherit;
 			border: var(--border);
+		}
+
+		iframe {
+			width: unset;
+			height: calc(100% - 2px * 2);
+			padding: 0;
+			border: var(--border);
+			border-radius: unset;
 		}
 	}
 
