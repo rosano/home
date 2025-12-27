@@ -85,4 +85,3 @@ Here's what motivated me:
 3. It's been quite a puzzle to create income from pure web apps with my ideal structure of [no personal data stored or collected](https://0data.app), [no login or signup to start](https://rosano.ca/blog/going-doorless/), ideally [open-source](https://github.com/rosano/rosano/blob/master/README.md). While I figure out how to make that sustainable, it's helpful to have some other income streams.
 
 No plans to update these for the moment, but I think it's a good step to keep it available.
-
