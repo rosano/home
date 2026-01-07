@@ -11,6 +11,7 @@ twitter_id: 1975861313344795058
 instagram_id: DPi0IaECImY
 threads_id: DPi0LE8DRWK
 facebook_id: 10235438260211249
+linkedin_id: "ugcPost:7381627952725184512"
 ---
 Since 2020 I've developed a frequent day routine of 'work' followed by 'non-work', which looks like this:
 

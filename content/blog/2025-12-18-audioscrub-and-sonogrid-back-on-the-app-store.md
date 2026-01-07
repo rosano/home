@@ -6,6 +6,7 @@ threads_id: DSZ0K-OjZXV
 twitter_id: "2001614398146945156"
 mastodon_id: "115740325516497634"
 bluesky_id: 3mab33gpwac2p
+linkedin_id: "ugcPost:7407384697665847296"
 nostr_id: note148lr8m2cf5zgmzzt4y6qckw0klugj33rmjey7jy0y0wlup890l6qwh7e0a
 slug: audioscrub-and-sonogrid-back-on-the-app-store
 title: AudioScrub and sonogrid back on the App Store
