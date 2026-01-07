@@ -31,6 +31,10 @@ a {
 
 }
 
+.RCGazette a {
+	text-decoration: unset;
+}
+
 header {
 
 	img {
