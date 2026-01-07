@@ -1,13 +1,15 @@
 {{ define "main" }}
 
-<div>
-
-<ul>
-{{ range .Sections }}
-	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ if .Sections }}
+	<h3 class="sticky">Sections</h3>
+	<ul>
+	{{ range .Sections }}
+		<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+	</ul>
 {{ end }}
-</ul>
 
+<div>
 {{ range .RegularPagesRecursive.ByDate.Reverse.GroupByDate "2006" "desc" }}
 	<h3 class="sticky">{{ .Key }}</h3>
 
