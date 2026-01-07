@@ -14,7 +14,9 @@
 {{ site.Store.Set "kDepartures" $departures }}
 
 {{ range $dir := (default slice site.Params.timelineSources) }}
-  {{ range readDir (path.Join (default "" site.Params._contentAdapterPrefix) $dir) }}
+  {{ $all := readDir (path.Join (default "" site.Params._contentAdapterPrefix) $dir) }}
+  {{ $subset := cond (eq hugo.Environment "production") $all ($all | last 10) }}
+  {{ range $subset }}
     {{ if in (slice "." "_") (substr .Name 0 1) }}
       {{ continue }}
     {{ end }}
