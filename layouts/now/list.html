@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+{{ range first 1 .Pages }}
+	<div class="post">
+
+	{{ .Content }}
+
+	<hr>
+
+	<small><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "January 2006" -}}</time></small>
+
+	<p><small><a href="https://nownownow.com/about">What is a "now" page?</a></small></p>
+
+	</div>
+{{ end }}
+
+<hr>
+
+<h3>Archive</h3>
+
+<div class="blog-list">
+	<ul>
+	{{ range .Pages }}
+		{{- $departure := partial "func/departures-closest" .Date }}
+		{{- $t := .Date | time.In $departure.timezone -}}
+
+		<li>
+			<a href="{{ .RelPermalink }}">
+				<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "January 2006" -}}</time>
+			</a>
+
+			<!-- PLACE -->
+			{{ range site.Taxonomies.place -}}
+				{{- if eq .Page.LinkTitle $departure.place -}}
+					<span>{{ .Page.LinkTitle }}, </span>
+				{{- end -}}
+			{{- end}}
+
+			<!-- COUNTRY -->
+			{{- range site.Taxonomies.country -}}
+				{{- if eq .Page.LinkTitle $departure.country -}}
+					<span>{{ .Page.LinkTitle }}</span>
+				{{- end -}}
+			{{- end -}}
+		</li>
+	{{ end }}
+	</ul>
+</div>
+
+{{ end }}
