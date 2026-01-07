@@ -145,7 +145,7 @@ hr {
 		padding-left: calc(var(--spacing) / 2);
 		border-left: 2px solid #ddd;
 
-		&:first-child p:first-child {
+		&:first-child :first-child {
 			margin-top: 0;
 			padding-top: 0;
 		}
