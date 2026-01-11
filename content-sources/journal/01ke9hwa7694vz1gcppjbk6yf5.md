@@ -9,4 +9,4 @@ categories: ["thought"]
 ---
 projects solve the creator's need.
 
-products are the intersection of the creator's capacity to build a solution, solving other people's needs, and their means to compensate you for it. no intersection, no product.
+products are the intersection of the creator's capacity to build a solution, solving other people's needs, and their means to compensate the work. no intersection, no product.

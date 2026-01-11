@@ -7,8 +7,7 @@ series: "Seth Godin: This Is Marketing"
 
 > [Consider what the person you're serving measures with respect to their status before they make decisions.]
 
-> "Who eats first" and "who sits closest to the emperor" are questions that persist to this day. Both are status questions.
-One involves dominion; the other involves affiliation.
+> "Who eats first" and "who sits closest to the emperor" are questions that persist to this day. Both are status questions. One involves dominion; the other involves affiliation.
 
 > [Amateurs create what they like, whereas professionals create what other people will like.]
 

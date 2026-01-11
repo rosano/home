@@ -5,7 +5,7 @@ categories: ["talk"]
 ---
 [Joshua Maponga: How to Decolonize Africa’s Systems](https://www.youtube.com/watch?v=iy0erq8CdSc)
 
-> [Before school, identify problems in your community. Study them in school and find solutions. Develop a proposal and business plan. After graduating, return to your community and solve the problem.]
+> [Before school, identify problems in your community. Study them in school and find solutions. Develop a proposal and business plan. After graduating, return to your community and solve those problems.]
 
 > [We plant coffee, which we can't eat, then export it to earn money that we can use to buy food, rather than simply planting food we can eat.]
 

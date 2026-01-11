@@ -5,4 +5,4 @@ link: https://www.greggsegal.com/P-Projects/Daily-Bread/2/thumbs
 ---
 [Daily Bread](https://www.greggsegal.com/P-Projects/Daily-Bread/2/thumbs)
 
-Visual diary of what kids in different parts of the world eat.
+Visual diary of what kids eat in different parts of the world.

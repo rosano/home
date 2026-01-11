@@ -15,7 +15,7 @@ series: "Seth Godin: This Is Marketing"
 
 > [A supermarket might expect the lifetime value of their regulars to be thousands of dollars, so they would do well to 1. sponsor events for new residents in the area and 2. do right when a local complains about the fruit not being ripe.]
 
-> [People won' tell their friends because you wanted or asked. You need to make your offer worth sharing.]
+> [People won't tell their friends because you wanted or asked. You need to make your offer worth sharing.]
 
 > [Facebook during their initial growth was well-positioned as a status signal for insecure and high-status students who craved to move up in some invisible hierarchy.]
 

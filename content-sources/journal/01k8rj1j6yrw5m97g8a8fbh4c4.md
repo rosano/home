@@ -15,4 +15,4 @@ series: "Seth Godin: This Is Marketing"
 
 > ["For those who want A and believe B, choosing C is perfect." Based on who they are and what they want and know, everyone is always right.]
 
-> [Launching an extreme (fastest, cheapest, . most convenient) means breaking the former extreme's status.]
+> [Launching an extreme (fastest, cheapest, most convenient) means breaking the former extreme's status.]

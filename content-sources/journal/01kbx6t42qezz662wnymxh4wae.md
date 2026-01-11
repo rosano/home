@@ -7,7 +7,7 @@ series: "Neil Davidson: Don’t Just Roll the Dice"
 
 > [Sage accounting software sucks, but you buy *reliability* in knowing it will update for new tax laws, your bookkeeper's likely *familiarity* with the product, and the *support* of staff who respond to forty thousand callers a day.]
 
-> [Black and Decker introduced their DeWALT drill seris by giving away pulled pork sandwiches and holding drill-off competitions at construction sites, and being present at rodeos and NASCAR races where their end users hang out.]
+> [Black and Decker introduced their DeWALT drill series by giving away pulled pork sandwiches and holding drill-off competitions at construction sites, and being present at rodeos and NASCAR races where their end users hang out.]
 
 > [The goal of having multiple versions at different prices is to be capable of selling to customers with different maximum thresholds. Versions could be created based on features, earlier access, economic  demographics (students, hobbyists, professionals), geography, customer industries, platform (Apple users may pay more).]
 

@@ -14,6 +14,6 @@ categories: ["article"]
 
 > The Tax Reform Act of 1976 provided for loss of tax benefits if owners demolished buildings. This led to an increase in arson attacks in the 1970s as a way of clearing land without financial penalties. The law was later altered to remove this aspect.
 
-> [Vitaly Borker found that online complaints for DecorMyEyes (his site for selling eyeglasses) put the site at the top of Google searches. He then responded to bad reviews with insults, threats, and other harassment to continue ranking high.]
+> [The owner of eyeglass e-commerce store DecorMyEyes found that online complaints put his site at the top of Google searches. He then responded to bad reviews with insults, threats, and other harassment to continue ranking high.]
 
 > Funding fire departments by the number of fire calls that are made is intended to reward fire departments that do the most work. However, it may discourage them from fire-prevention activities, leading to an increase in actual fires.
