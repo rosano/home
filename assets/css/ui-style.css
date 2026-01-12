@@ -5,7 +5,8 @@
 	--spacing: 8px;
 	--corner: 3px;
 	--link-color: #237fa1;
-	--border: 2px solid #e6e6e6;
+	--border-size: 2px;
+	--border: var(--border-size) solid #e6e6e6;
 }
 
 body {
@@ -147,7 +148,7 @@ hr {
 		opacity: 0.7;
 		margin: 0;
 		padding-left: calc(var(--spacing) / 2);
-		border-left: 2px solid #ddd;
+		border-left: var(--border-size) solid #ddd;
 
 		&:first-child :first-child {
 			margin-top: 0;
@@ -239,7 +240,7 @@ hr {
 
 		iframe {
 			width: unset;
-			height: calc(100% - 2px * 2);
+			height: calc(100% - var(--border-size) * 2);
 			padding: 0;
 			border: var(--border);
 			border-radius: unset;
