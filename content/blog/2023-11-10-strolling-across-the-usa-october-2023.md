@@ -28,7 +28,7 @@ Then I headed south. I've had some anxiety about getting grilled at borders if I
 
 [Reef](https://www.reefloretto.com) and I shared deep thoughts, Hamburger Helper, and lots of music.
 
-<gallery>![](IMG_3572.gif) ![](IMG_3577.jpg) ![](IMG_3619.jpg) ![](IMG_3610.jpg) ![](IMG_3640.gif)</gallery>
+<gallery>![](IMG_3572.gif) ![](IMG_3577.jpg) ![](IMG_3619.jpg)</gallery><gallery class="duets">![](IMG_3610.jpg) ![](IMG_3640.gif)</gallery>
 
 ## 2023.10.07 Chicago
 
@@ -40,7 +40,7 @@ I was hosted by a friendly stranger and made my signature oatmeal dish, called "
 
 Not sure how else I would have ended up visiting a place like this without knowing [Omar](https://omarshehata.me), one of several friends I've made from [Interintellect](https://interintellect.com/). Also not sure how to describe the range of our many, many conversations; he's what I call a 'generator', with much to say about many things.
 
-<gallery>![](IMG_3802.jpg) ![](IMG_3866.jpg) ![](IMG_3826.jpg) ![](IMG_3792.jpg) ![](IMG_3856.gif)</gallery>
+<gallery>![](IMG_3802.jpg) ![](IMG_3866.jpg) ![](IMG_3826.jpg)</gallery><gallery class="duets">![](IMG_3792.jpg) ![](IMG_3856.gif)</gallery>
 
 ## 2023.10.12 NYC
 
@@ -56,13 +56,13 @@ For some reason, I met all of these people for the first time in Berlin last yea
 
 A small town where homes have front yards larger than public parks from most cities. I got to stand inside [Jess](https://jessmart.in)' legendary office.
 
-<gallery>![](IMG_3987.jpg) ![](IMG_3995.jpg) ![](IMG_4011.jpg) ![](IMG_3971.jpg) ![](IMG_4023.jpg)</gallery>
+<gallery>![](IMG_3987.jpg) ![](IMG_3995.jpg) ![](IMG_4011.jpg)</gallery><gallery class="duets">![](IMG_3971.jpg) ![](IMG_4023.jpg)</gallery>
 
 ## 2023.10.17 Burlington
 
 Life in [April](https://linktr.ee/april%5Ffisher)'s co-op housing network, with many friends, groups, and projects passing through.
 
-<gallery>![](IMG_4056-1.jpg) ![](IMG_4059.jpg) ![](IMG_4072.jpg) ![](IMG_4091.jpg) ![](IMG_4093.jpg) ![](IMG_4129.jpg) ![](IMG_4134.jpg)</gallery>
+<gallery>![](IMG_4056-1.jpg) ![](IMG_4072.jpg) ![](IMG_4134.jpg)</gallery><gallery class="duets">![](IMG_4059.jpg) ![](IMG_4091.jpg) ![](IMG_4093.jpg) ![](IMG_4129.jpg)</gallery>
 
 ## 2023.10.20 Denver
 
@@ -76,13 +76,13 @@ I reconnected with [Ted](https://thetre.es) after many years, and stayed at [Hea
 
 What a dreamy place! I've never seen so many beautiful plants and home gardens in one neighborhood. [Benji](https://strolling.rosano.ca/tag/benji-lee-martin/)'s father in Sausalito showed me the amazing "It's-It" ice cream sandwich. Zach, who I met at [Proyecto Lingüístico](https://plqe.org) in Guatemala, let me play his mother's Steinway piano for 7 minutes. My childhood friend Andrew and his wife invited me for a wonderful hang and where we were all treated to an excellent Punjabi dinner from his mother-in-law. Lots of chats with [Jessica](https://twitter.com/jessicamalonso) and [Tristan](https://twitter.com/trstn%5Fca) about human development, technology, and life; we made homemade [Migas](https://en.wikipedia.org/wiki/Migas).
 
-<gallery>![](IMG_4327-1.jpg) ![](IMG_4390-1.jpg) ![](IMG_4424.gif) ![](IMG_4502.jpg) ![](IMG_4537.jpg) ![](IMG_4708.jpg) ![](IMG_4543.jpg) ![](IMG_4680.jpg)</gallery>
+<gallery>![](IMG_4327-1.jpg) ![](IMG_4390-1.jpg) ![](IMG_4424.gif) ![](IMG_4502.jpg) ![](IMG_4537.jpg) ![](IMG_4708.jpg)</gallery><gallery class="duets">![](IMG_4543.jpg) ![](IMG_4680.jpg)</gallery>
 
 ## 2023.10.28 Los Angeles
 
 First-hand experience of the sprawling car city of angels with [Vivek](https://twitter.com/vivekt17), training capoeira [with a local Mojuba chapter](https://www.instagram.com/reel/Cy%5F0bV5yQIJ/), Gujarati thali buffet, many jams and musical moments, a taste of Baileys and Coke (forgot it was supposed to be Dr. Pepper).
 
-<gallery>![](IMG_4763.jpg) ![](IMG_4773.jpg) ![](IMG_3038.gif) ![](IMG_4811-1.gif) ![](IMG_4862.jpg) ![](IMG_4913.jpg) ![](IMG_4937.jpg) ![](IMG_4938.jpg)</gallery>
+<gallery>![](IMG_4763.jpg) ![](IMG_4773.jpg) ![](IMG_3038.gif) ![](IMG_4811-1.gif) ![](IMG_4862.jpg) ![](IMG_4913.jpg)</gallery><gallery class="duets">![](IMG_4937.jpg) ![](IMG_4938.jpg)</gallery>
 
 <video controls src="https://static.rosano.ca/home/blog/2023-11-10-strolling-across-the-usa-october-2023/ORAEE5969.mp4" width="100%" height="200"></video>
 

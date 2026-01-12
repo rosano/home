@@ -20,7 +20,7 @@ This sort of 'complain-y' post fleshes out my [encryption thread](https://mastod
 
 In the end of 2023 I experienced the co-incidental deprecation of multiple messaging apps simultaneously. [WhatsApp](https://whatsapp.com), [Signal](https://signal.org), and [Beeper](https://www.beeper.com) either suddenly stopped working or warned about 'going away soon'.
 
-<gallery>![](2023.11.07-16.56.23.jpg) ![](2024.01.26-at-07.19.54.jpg) ![](Screen-Shot-2024-02-17-at-10.06.50.jpg) ![](2023.11.07-18.21.46.jpg) ![](Screen-Shot-2024-02-17-at-16.34.05.png)</gallery>
+<gallery class="duets">![](2023.11.07-16.56.23.jpg) ![](2024.01.26-at-07.19.54.jpg) ![](Screen-Shot-2024-02-17-at-10.06.50.jpg) ![](2023.11.07-18.21.46.jpg) ![](Screen-Shot-2024-02-17-at-16.34.05.png)</gallery>
 <figure><figcaption>removing native support for older systems</figcaption></figure>
 
 As a technologist, I can vaguely guess it's tied to something like 'availability of better encryption primitives or standards on newer versions of the operating system', but to a non-tech person it might be strange how WhatsApp says "you can use their web version instead, without upgrading your computer, but the native version that was working yesterday 'needs to' stop working today because of 'security'".
@@ -64,10 +64,10 @@ If you can't afford larger storage capacity, you might find yourself managing sp
 
 Is the solution is an open standard like [Matrix](https://matrix.org)? It's not so easy. Their ["join" explainer](https://joinmatrix.org) is not as intuitive as other decentralized projects like [Mastodon](https://joinmastodon.org), [PeerTube](https://joinpeertube.org), or [Lemmy](https://join-lemmy.org). I don't believe a non-programmer would be able to do this without help, but assuming they sort through and understand the options of picking both a server and client, they will get stuck on errors like "Unable to decrypt message", "Verification failed", and the scary thought of losing messages if you log out.
 
-<gallery>![](2023.11.23-at-14.31.33-1.jpg) ![](2024-02-14-at-12-12-14-1.jpg) ![](2024-02-14-at-12-12-48-1.jpg) ![](IMG_E7520-1.JPG)</gallery>
+<gallery class="duets">![](2023.11.23-at-14.31.33-1.jpg) ![](2024-02-14-at-12-12-14-1.jpg) ![](2024-02-14-at-12-12-48-1.jpg) ![](IMG_E7520-1.JPG)</gallery>
 <figure><figcaption>scary messages</figcaption></figure>
 
-<gallery>![](2024.01.03-at-10-20-25.jpg) ![](2024.01.03-at-10-20-37.jpg)</gallery>
+<gallery class="duets">![](2024.01.03-at-10-20-25.jpg) ![](2024.01.03-at-10-20-37.jpg)</gallery>
 <figure><figcaption>do these match?</figcaption></figure>
 
 Well, it was tricky to figure out how to trigger the Matrix verification process, but I managed to revive access to my Beeper messages with [FluffyChat](https://fluffychat.im) (which really might be "The cutest messenger in the Matrix network"), and it's nice to have access to my data in a variety of web apps that will probably remain backwards compatible forever. Still, "I managed to get it working" is a hard sell for normal people.

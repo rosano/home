@@ -44,7 +44,7 @@ Once that's done:
 3. once you the new widget appears, tap `Select Script`, change 'When Interacting' from `Open App` to `Run Script`, and change 'Script' from `Choose` to your the one you created earlier,
 4. finally, tap the close button on all the boxes (probably about 2–3 of them), then tap `Done` to save everything.
 
-<gallery>![](IMG_7165.jpeg) ![](IMG_7166.jpeg)</gallery>
+<gallery class="duets">![](IMG_7165.jpeg) ![](IMG_7166.jpeg)</gallery>
 
 There are quite a few other possibilities in all that but this will be enough to open stuff from the lock screen without having to look at anything in your phone. Unfortunately not yet possible with web apps added to the home screen (see [Link Capturing](https://firt.dev/notes/pwa-ios/)).
 

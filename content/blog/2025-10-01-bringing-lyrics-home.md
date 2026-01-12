@@ -71,7 +71,7 @@ The page for any song has links to [search the title via YouTube](https://rosano
 
 There are bidirectional links between [lyric](https://rosano.ca/lyrics/london-2024/lapinha) and [Vibrations](https://rosano.ca/vibrations/m3imvrwq) pages, connecting published songs from my personal history to the lyrics.
 
-<gallery>![](bidirectional-1.jpg) ![](bidirectional-2.jpg)</gallery>
+<gallery class="duets">![](bidirectional-1.jpg) ![](bidirectional-2.jpg)</gallery>
 
 <roco-divider></roco-divider>
 

@@ -59,7 +59,7 @@ Everyone told me they had read my text on [making apps free](https://utopia.rosa
 
 Spending four months travelling around Southeast Asia with [Heddi](https://heddiried.com) was wild. We both especially loved our countless food adventures in Chiang Mai and even tried [learning some Thai](https://utopia.rosano.ca/teaching-myself-thai-with-kommit/). I was super inspired by how she improvises nourishing and creative food, quickly makes a home for herself in new places, and gets done her client work, all _while travelling_, something I've never felt able to accomplish but working towards now while 'strolling across America'.
 
-<gallery>![](IMG_7974-2.JPG) ![](IMG_6905-6.JPG)</gallery>
+<gallery class="duets">![](IMG_7974-2.JPG) ![](IMG_6905-6.JPG)</gallery>
 
 I learned that I can sleep a night comfortably on a carpeted floor, and even on a yoga mat, which significantly expands the 'surface area' of places I can visit.
 

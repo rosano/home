@@ -42,7 +42,7 @@ After importing my earlier photo composition into Instagram, I was able to put s
 
 It took a bit of fiddling and re-writing to find nice wording (`~30 minutes`) even though I already drafted possibilities in my initial brain dump, then I finally posted it to Stories on different platforms (`~5 minutes`). I also made another version for public social media (`~10 minutes`).
 
-<gallery>![](XUFI6602-export.gif) ![](IMG_E8140-export.jpg)</gallery>
+<gallery class="duets">![](XUFI6602-export.gif) ![](IMG_E8140-export.jpg)</gallery>
 <figure><figcaption>versions for Instagram Stories and public social media</figcaption></figure>
 
 The important part here is to set and communicate a small, achievable goal ("5 people") so that it doesn't take much to accomplish something meaningful.
@@ -61,7 +61,7 @@ When someone completed the steps, I told them how many other people had done the
 
 I tracked progress in a spreadsheet and at the bottom of the guide itself.
 
-<gallery>![](p-export-1.jpg) ![](Screen-Shot-2024-03-13-at-12.28.12-export.jpg) ![](IMG_E8137-export-1.jpg)</gallery>
+<gallery class="duets">![](p-export-1.jpg) ![](Screen-Shot-2024-03-13-at-12.28.12-export.jpg) ![](IMG_E8137-export-1.jpg)</gallery>
 <figure><figcaption>spreadsheet to web page to screenshot</figcaption></figure>
 
 Everyone who did this felt happy and excited at the end, so I encouraged them to share that they did this in their own story: this enabled more people to get exposed to the idea and feel comfortable, potentially starting a recursive process and channeling that energy into future progress.
