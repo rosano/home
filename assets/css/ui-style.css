@@ -7,6 +7,7 @@
 	--link-color: #237fa1;
 	--border-size: 2px;
 	--border: var(--border-size) solid #e6e6e6;
+	font-size: 12pt;
 }
 
 body {
