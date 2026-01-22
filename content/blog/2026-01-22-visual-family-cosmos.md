@@ -12,6 +12,11 @@ mastodon_id: "115939078602108094"
 bluesky_id: 3mczdkcd5v22c
 nostr_id: note1cze70envy4aqqsrguqznqlcaddhz8j23neesuxz9d0xg24j30g5qwtemvl
 linkedin_id: ugcPost:7420103740201889792
+images:
+  - https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/cycle.gif
+  - https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/cosmos-3.jpg
+videos:
+  - https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/zoom.mp4
 ---
 <figure>
 

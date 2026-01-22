@@ -38,6 +38,8 @@
 	<script src="{{ site.Params._bannerScriptURL }}"></script>
 {{ end }}
 
+{{ partial "opengraph.html" . }}
+
 {{ if eq .Section "occasion" }}
 	<base target="_parent">
 {{ end }}
