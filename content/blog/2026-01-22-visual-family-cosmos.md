@@ -1,4 +1,15 @@
 ---
+instagram_id: DT0MSd2iF4T
+tiktok_id: "7598184630583414023"
+facebook_id: pfbid0HrG76Bp49Ts6A8BgZnMRGns7ToXoa2Wyj21YDQzCZZAnF4hEfA593jTWVQAkRrMTl
+threads_id: DT0MmQ2DcMS
+twitter_id: "2014334890301386960"
+mastodon_id: "115939078602108094"
+bluesky_id: 3mczdkcd5v22c
+nostr_id: note1cze70envy4aqqsrguqznqlcaddhz8j23neesuxz9d0xg24j30g5qwtemvl
+linkedin_id: ugcPost:7420103740201889792
+submittedAt: 2026-01-22T14:03:26.482Z
+formMode: test
 slug: visual-family-cosmos
 title: visual family cosmos
 summary: One surname is not "where you're from".
