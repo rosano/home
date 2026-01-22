@@ -131,15 +131,15 @@ There's more I'd like to do with this, but for now I'm happy just to have my own
 
 For anyone who's curious, here are some full-size PDFs where you can see details:
 
-- [mine](https://static.rosano.ca/home/blog/draft/showcase/mine.pdf)
-- [the royal family](https://static.rosano.ca/home/blog/draft/showcase/royal.pdf)
-- presidents [washington](https://static.rosano.ca/home/blog/draft/showcase/washington.pdf), [lincoln](https://static.rosano.ca/home/blog/draft/showcase/lincoln.pdf), [kennedy](https://static.rosano.ca/home/blog/draft/showcase/kennedy.pdf)
-- [amelia earhart](https://static.rosano.ca/home/blog/draft/showcase/earhart.pdf)
-- [thomas edison](https://static.rosano.ca/home/blog/draft/showcase/edison.pdf)
-- [alexander graham bell](https://static.rosano.ca/home/blog/draft/showcase/bell.pdf)
-- [albert einstein](https://static.rosano.ca/home/blog/draft/showcase/einstein.pdf)
+- [mine](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/mine.pdf)
+- [the royal family](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/royal.pdf)
+- presidents [washington](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/washington.pdf), [lincoln](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/lincoln.pdf), [kennedy](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/kennedy.pdf)
+- [amelia earhart](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/earhart.pdf)
+- [thomas edison](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/edison.pdf)
+- [alexander graham bell](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/bell.pdf)
+- [albert einstein](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/einstein.pdf)
 
-<gallery class="duets">[![mine](showcase/mine.jpg)](https://static.rosano.ca/home/blog/draft/showcase/mine.pdf) [![the royal family](showcase/royal.jpg)](https://static.rosano.ca/home/blog/draft/showcase/royal.pdf) [![washington](showcase/washington.jpg)](https://static.rosano.ca/home/blog/draft/showcase/washington.pdf)  [![lincoln](showcase/lincoln.jpg)](https://static.rosano.ca/home/blog/draft/showcase/lincoln.pdf)  [![kennedy](showcase/kennedy.jpg)](https://static.rosano.ca/home/blog/draft/showcase/kennedy.pdf) [![amelia earhart](showcase/earhart.jpg)](https://static.rosano.ca/home/blog/draft/showcase/earhart.pdf) [![thomas edison](showcase/edison.jpg)](https://static.rosano.ca/home/blog/draft/showcase/edison.pdf) [![albert einstein](showcase/einstein.jpg)](https://static.rosano.ca/home/blog/draft/showcase/einstein.pdf)</gallery>
+<gallery class="duets">[![mine](showcase/mine.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/mine.pdf) [![the royal family](showcase/royal.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/royal.pdf) [![washington](showcase/washington.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/washington.pdf)  [![lincoln](showcase/lincoln.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/lincoln.pdf)  [![kennedy](showcase/kennedy.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/kennedy.pdf) [![amelia earhart](showcase/earhart.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/earhart.pdf) [![thomas edison](showcase/edison.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/edison.pdf) [![albert einstein](showcase/einstein.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/einstein.pdf)</gallery>
 
 ---
 
@@ -207,7 +207,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 <figure>
 
-[![](inspiriation/obama.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/obama.jpg)
+[![](inspiriation/obama.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/obama.jpg)
 
 <figcaption>
 
@@ -227,7 +227,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 ---
 
-[![](inspiriation/tree-of-life.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/tree-of-life.jpg)
+[![](inspiriation/tree-of-life.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/tree-of-life.jpg)
 
 <figcaption>
 
@@ -237,7 +237,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 ---
 
-[![](inspiriation/relatedness-coefficient.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/relatedness-coefficient.jpg)
+[![](inspiriation/relatedness-coefficient.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/relatedness-coefficient.jpg)
 
 <figcaption>
 
@@ -267,7 +267,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 ---
 
-[![](inspiriation/genogram-symbols.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/genogram-symbols.jpg)
+[![](inspiriation/genogram-symbols.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/genogram-symbols.jpg)
 
 <figcaption>
 
@@ -277,7 +277,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 ---
 
-[![](inspiriation/calvin.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/calvin.jpg)
+[![](inspiriation/calvin.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/calvin.jpg)
 
 <figcaption>
 
@@ -287,7 +287,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 ---
 
-[![](inspiriation/languages.jpg)](https://static.rosano.ca/home/blog/draft/inspiriation/original/languages.jpg)
+[![](inspiriation/languages.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/inspiriation/original/languages.jpg)
 
 <figcaption>
 
