@@ -46,7 +46,7 @@ audio recorder with iCloud sync that can start on launch; select audio quality, 
 
 <gallery>![organize on all devices via iCloud](qrec/0x0ss-export.webp) ![simple swift tagging](qrec/0x0ss-1-export.webp) ![choose your workflow](qrec/0x0ss-2-export.webp)</gallery><gallery class="duets">![powerful actions with a swipe](qrec/0x0ss-3-export.webp) <iframe title="Quick Record video preview" src="https://player.vimeo.com/video/122381063" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe></gallery>
 
-## [Ticker Metronome](https://apps.apple.com/app/ticker-metronome/id966541004)
+## [Ticker](https://apps.apple.com/app/ticker-metronome/id966541004)
 
 fun scrolly metronome that shows classical music markings.
 

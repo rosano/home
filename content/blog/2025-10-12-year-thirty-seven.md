@@ -61,7 +61,7 @@ Focus, reps, optimistic vortex, strong signal, ripple effects.
 
 Just keep going, keep building.
 
-I understand my technology toolset at a level higher than I've never known; I [no longer fear the docs](https://rosano.ca/blog/dont-fear-the-docs/), and it gives me greater control over my materials.
+I understand my technology toolset at a level higher than I've ever known; I [no longer fear the docs](https://rosano.ca/blog/dont-fear-the-docs/), and it gives me greater control over my materials.
 
 Looking ahead, I just want to put my head down and make progress. Let's see next year where it takes us.
 
