@@ -237,6 +237,10 @@ hr {
 
 		* {
 			max-width: 32%;
+
+			& > * {
+				max-width: 100% !important;
+			}
 		}
 
 		&.duets {
