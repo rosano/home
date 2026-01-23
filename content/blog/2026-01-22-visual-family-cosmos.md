@@ -286,7 +286,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 
 <figcaption>
 
-[Professional Genealogy Charts & Family Trees](https://www.melickprofessionalgenealogists.com/professional-genealogy-charts)
+[genealogy pedigree chart](https://www.melickprofessionalgenealogists.com/professional-genealogy-charts)
 
 </figcaption>
 
