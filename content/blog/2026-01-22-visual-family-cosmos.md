@@ -156,6 +156,7 @@ If you're interested to explore deeper, I've compiled links from my research to 
 - [Genea](https://www.genea.app) ([open-source](https://github.com/genea-app/genea-app), privacy-oriented)
 - [Family Chart](https://donatso.github.io/family-chart-doc/) ([open-source](https://github.com/donatso/family-chart), privacy-oriented)
 - [Visual Family Tree](https://jisco.me/visual-family-tree/): Windows, macOS, Linux ([open-source](https://github.com/Jisco/VisualFamilyTree), privacy-oriented)
+- [obsidian-charted-roots](https://github.com/banisterious/obsidian-charted-roots): organize your tree inside Obsidian
 
 ### visualize family trees
 - [Topola Genealogy Viewer](https://pewu.github.io/topola-viewer/) ([open-source](https://github.com/PeWu/topola-viewer), privacy-oriented)
