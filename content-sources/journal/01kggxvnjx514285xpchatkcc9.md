@@ -1,5 +1,5 @@
 ---
-date: 2026-02-03T04:58:32.413Z
+date: 2026-02-02T21:02:10.589Z
 link: https://youtu.be/xH9ZKsTY73Y
 categories: ["talk"]
 ---
