@@ -5,4 +5,4 @@ categories: ["talk"]
 ---
 [Who profits from a world without cash?](https://youtu.be/VNZpfhvfJ3s)
 
-> [Transitioning to a cashless society implies moving away from state-issued money towards 'tokens' issued by private corporation. We currently trust their casino chips because it can be redeemed for fiat currency, but this is no longer possible when there is no cash.]
+> [Transitioning to a cashless society implies moving away from state-issued money towards 'tokens' issued by private corporations. We currently trust their casino chips because they can be redeemed for fiat currency, but without cash this is no longer possible.]
