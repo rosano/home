@@ -28,7 +28,7 @@ I assumed that because I had no idea where to start, and because documentation i
 
 But I've learned from spending time with the excellent, readable, up-to-date, and maintained documentation for [Hugo](https://gohugo.io) that I can just open a bunch of tabs with potentially relevant sections, skim or read deeply as necessary, and I will often find my answer.
 
-Might not be so easy with projects where the information landscape is more chaotic or cryptic; command-line "man" pages, for example, were maybe good for the era they came from, but still a challenge for me as my expectations are from the current century. But now that my capacity has increased, I might still try anyway.
+Might not be so easy with projects where the information landscape is more chaotic or cryptic; command-line "man" pages, for example, were maybe good in their era, but still a challenge for me as my expectations are from the current century. But now that my capacity has increased, I might still try anyway.
 
 This seems time-consuming initially, but sifting through those pages frequently is now actually the point for me; that's the skill/rep/practice. It's quite functional to let the docs wash over you multiple times while approaching them with different questions, intentions, or reading speeds:
 

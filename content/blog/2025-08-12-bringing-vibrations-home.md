@@ -20,7 +20,7 @@ You can see what it's like at [rosano.ca/vibrations](https://rosano.ca/vibration
 
 # Vibrations
 
-It's hard to have an overview on YouTube as they only show things in upload order, and also separate some videos into 'Shorts'.
+It's hard to have an overview on YouTube as they only order things by date upload, and also separate some videos into 'Shorts'.
 
 By contrast:
 1. I now have everything on one page,

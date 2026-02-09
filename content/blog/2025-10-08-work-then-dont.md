@@ -23,7 +23,7 @@ Since 2020 I've developed a frequent day routine of 'work' followed by 'non-work
 
 Of course, many days can't be shaped like this, but I enjoy when it's possible and often really look forward to this kind of plan. I could do it every day, and somehow the repetition doesn't get boring; life also conveniently interrupts with variation.
 
-I think it came about because until 2019 I was regularly spending unlimited hours in a day coding apps on iOS or the web, and, naturally, it started to cost my mind and body. So I started to seek ways to limit my computer time.
+I think it came about because until 2019 I was regularly spending unlimited hours a day coding apps on iOS or the web, and, naturally, it started to cost my mind and body. So I started to seek ways to limit my computer time.
 
 <roco-divider></roco-divider>
 
