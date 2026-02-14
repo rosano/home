@@ -6,6 +6,7 @@ exploring how my [cheap ULID](https://rosano.ca/log/01htmzbbzaz44w89zj6vzaetkn/)
 
 ```javascript
 const date36 = e => new Date(e).valueOf().toString(36);
+
 // year
 [
 	date36('2026-01-01'), // mjuohs00
