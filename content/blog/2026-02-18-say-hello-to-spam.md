@@ -8,6 +8,9 @@ slug: say-hello-to-spam
 title: say hello to spam
 summary: friendly email addresses for bots
 date: 2026-02-18T05:44:01.943Z
+images:
+  - https://static.rosano.ca/home/blog/2026-02-18-say-hello-to-spam/eatme.gif
+  - https://static.rosano.ca/home/blog/2026-02-18-say-hello-to-spam/eatme-static.jpg
 ---
 I thought it would be fun to share a special public email address to feed hungry bots:
 
