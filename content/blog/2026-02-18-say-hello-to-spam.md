@@ -1,4 +1,11 @@
 ---
+instagram_id: DU41TXzCNHy
+facebook_id: pfbid02B5ZCiduxX7rBsemBi513Qsv6MiUYEUZVzEWiwmpkF6Xaa9b2TB1Z6QSTFnMK3Wwvl
+threads_id: DU41YA-DJub
+twitter_id: "2023998163338575997"
+linkedin_id: activity:7429763584622030848
+submittedAt: 2026-02-18T05:49:11.517Z
+formMode: test
 slug: say-hello-to-spam
 title: say hello to spam
 summary: friendly email addresses for bots
