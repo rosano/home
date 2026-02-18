@@ -4,6 +4,9 @@ facebook_id: pfbid02B5ZCiduxX7rBsemBi513Qsv6MiUYEUZVzEWiwmpkF6Xaa9b2TB1Z6QSTFnMK
 threads_id: DU41YA-DJub
 twitter_id: "2023998163338575997"
 linkedin_id: activity:7429763584622030848
+nostr_id: note18w4jh8gvwucxtwrf23kpldqs0406h4j05fy8aayyd9c2h2d04m4s50ayft
+bluesky_id: 3mf4fiobjrs2h
+mastodon_id: "116090093515013474"
 slug: say-hello-to-spam
 title: say hello to spam
 summary: friendly email addresses for bots
