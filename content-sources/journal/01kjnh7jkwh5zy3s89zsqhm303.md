@@ -6,9 +6,7 @@ categories: ["talk"]
 ---
 [Beyond Horseless Carriages: Building Communities for the Decentralized Era](https://www.youtube.com/watch?v=OZN8y8kVFFI)
 
-> [Fediverse: communities of 50–100 people, "a slightly bigger group chat".
-> Bluesky: planet-scale network.
-> What could go in between? Blacksky is 'Reddit-sized' or like a large forum at around 100-200k people.]
+> [Fediverse: communities of 50–100 people, "a slightly bigger group chat". Bluesky: planet-scale network. What could go in between? Blacksky is 'Reddit-sized' or like a large forum at around 100–200k people.]
 
 > [Moderation can also be a form of "community care" that people actually enjoy and appreciate, rather than just a task to be done.]
 
