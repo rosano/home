@@ -58,6 +58,9 @@ mediaTypes:
   application/rss:
     suffix: ""
     delimiter: ""
+  application/rss+xml:
+    suffix: ""
+    delimiter: ""
 outputFormats:
   rss:
     mediatype: "application/rss"
@@ -65,7 +68,7 @@ outputFormats:
   json:
     baseName: "data"
   podcast:
-    mediatype: "application/rss"
+    mediatype: "application/rss+xml"
     baseName: "podcast"
 
 outputs:
