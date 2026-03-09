@@ -82,6 +82,11 @@ params:
   author: Rosano
   podcast:
     imageURL: https://static.rosano.ca/strolling/podcast.jpg
+    enclosure:
+      prefix: https://f005.backblazeb2.com/file/rosano/public/sorted/
+      audio:
+        file: audio.mp3
+        type: audio/mpeg
     categories:
       - Society &amp; Culture
       - Arts

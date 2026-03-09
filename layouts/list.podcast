@@ -19,7 +19,8 @@
   <itunes:summary>{{ $summary }}</itunes:summary>
   <itunes:subtitle>{{ $summary }}</itunes:subtitle>
 
-  <itunes:duration>{{ .Params.duration }}</itunes:duration>
+  <itunes:duration>{{ .Params.seconds }}</itunes:duration>
+  <enclosure url="{{ site.Params.podcast.enclosure.prefix }}{{ .Params.id }}/{{ site.Params.podcast.enclosure.audio.file }}" length="{{ .Params.bytes }}" type="{{ site.Params.podcast.enclosure.audio.type }}"/>
   
   <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
     
