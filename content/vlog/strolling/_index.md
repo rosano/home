@@ -5,4 +5,9 @@ aliases:
   - podcast
 url: /strolling
 slug: strolling
+outputs:
+- html
+- json
+- rss
+- podcast
 ---

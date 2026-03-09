@@ -76,7 +76,6 @@ outputs:
   - html
   - rss
   - json
-  - podcast
 
 params:
   author: Rosano
