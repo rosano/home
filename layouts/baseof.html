@@ -81,7 +81,7 @@
 	</h2>
 </header>
 
-{{- block "main" . }}{{- end }}
+{{ block "main" . }}{{ end }}
 
 <footer>
 {{- if or (eq $section "timeline") (and .IsPage .Date) -}}
