@@ -64,14 +64,25 @@ outputFormats:
     baseName: "feed"
   json:
     baseName: "data"
+  podcast:
+    mediatype: "application/rss"
+    baseName: "podcast"
 
 outputs:
   section:
   - html
   - rss
   - json
+  - podcast
 
 params:
+  author: Rosano
+  podcast:
+    imageURL: https://static.rosano.ca/strolling/podcast.jpg
+    categories:
+      - Society &amp; Culture
+      - Arts
+    "itunes:explicit": false
   sourcePrefix: https://github.com/rosano/home/edit/master
   mediaPrefix: https://static.rosano.ca/home
   _showGazette: true

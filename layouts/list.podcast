@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{- $pages := .Scratch.Get "podcast-pages" }}
+
+{{- range $pages }}
+{{- .Scratch.Set "kScopeRSS" "true" -}}
+
+<item>
+  <title>{{ .Title }}</title>
+  <itunes:title>{{ .Title }}</itunes:title>
+  
+  <guid>{{ .Permalink }}</guid>
+  <link>{{ .Permalink }}</link>
+  
+  <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+  
+  {{ $summary := .Summary | transform.Plainify | transform.XMLEscape | safeHTML }}
+  <description>{{ $summary }}</description>
+  <itunes:summary>{{ $summary }}</itunes:summary>
+  <itunes:subtitle>{{ $summary }}</itunes:subtitle>
+
+  <itunes:duration>{{ .Params.duration }}</itunes:duration>
+  
+  <content:encoded>{{ printf "<![CDATA[" | safeHTML }}
+    
+  {{ .Scratch.Set "kScopeList" "true" }}
+  {{ partial "shared-single.html" . }}
+  {{ .Scratch.Delete "kScopeList" }}
+
+  {{- printf "]]>" | safeHTML }}</content:encoded>
+
+  <itunes:episodeType>{{ default "full" (index .Params.podcast "itunes:episodeType") }}</itunes:episodeType>
+
+  {{- $explicit := index .Params.podcast "itunes:explicit" -}}
+  {{ if (and (ne $explicit "") (ne $explicit nil)) -}}
+  <itunes:explicit>{{ cond (eq $explicit true) "yes" (cond (eq $explicit false) "no" $explicit) }}</itunes:explicit>
+  {{- end }}
+</item>
+
+{{- .Scratch.Delete "kScopeRSS" -}}
+{{- end }}
+
+{{ end }}
