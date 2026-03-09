@@ -7,6 +7,10 @@
 <title>{{ if not .IsHome }}{{ site.Title }} / {{ end }}{{ partial "page-title.html" . }}</title>
 {{- .Scratch.Delete "kIsHeadTitle" }}
 
+{{ with .Params.description -}}
+<description>{{ . }}</description>
+{{- end }}
+
 <link>{{ .Permalink }}</link>
 
 <generator>Hugo</generator>
