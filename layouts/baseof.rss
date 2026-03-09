@@ -13,6 +13,10 @@
 
 <language>{{ site.Language.LanguageCode }}</language>
 
+{{ with .Site.Copyright -}}
+<copyright>{{ . }}</copyright>
+{{- end }}
+
 {{ if not .Date.IsZero -}}
 <lastBuildDate>{{ time.Now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
 {{- end }}
