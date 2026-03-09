@@ -9,7 +9,7 @@
 
 <link>{{ .Permalink }}</link>
 
-<generator>Hugo -- gohugo.io</generator>
+<generator>Hugo</generator>
 
 <language>{{ site.Language.LanguageCode }}</language>
 
