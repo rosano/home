@@ -68,9 +68,12 @@
 {{- end }}
 
 {{- $pages := (cond .IsHome site.RegularPages .RegularPagesRecursive).ByDate.Reverse -}}
+
 {{- .Scratch.Set "podcast-pages" $pages -}}
+{{- .Scratch.Set "podcast-author" $authorName -}}
 {{ block "main" . }}{{ end }}
 {{- .Scratch.Delete "podcast-pages" }}
+{{- .Scratch.Delete "podcast-author" }}
 
 </channel>
 

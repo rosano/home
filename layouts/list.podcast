@@ -1,13 +1,20 @@
 {{ define "main" }}
 
 {{- $pages := .Scratch.Get "podcast-pages" }}
+{{- $podcastAuthor := .Scratch.Get "podcast-author" }}
 
 {{- range $pages }}
 {{- .Scratch.Set "kScopeRSS" "true" -}}
 
 <item>
-  <title>{{ .Title }}</title>
-  <itunes:title>{{ .Title }}</itunes:title>
+  {{ $title := .Title }}
+  {{- with .Params.with -}}
+    {{- if ne . $podcastAuthor -}}
+      {{- $title = printf `%s (with %s)` $title . -}}
+    {{- end }}
+  {{- end -}}
+  <title>{{ $title }}</title>
+  <itunes:title>{{ $title }}</itunes:title>
   
   <guid>{{ .Permalink }}</guid>
   <link>{{ .Permalink }}</link>
