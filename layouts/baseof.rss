@@ -35,8 +35,8 @@
 {{- end -}}
 
 {{- .Scratch.Set "rss-pages" $pages -}}
-
 {{ block "main" . }}{{ end }}
+{{- .Scratch.Delete "rss-pages" }}
 
 </channel>
 
