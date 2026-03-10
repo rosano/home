@@ -44,6 +44,10 @@
 </image>
 {{- end }}
 
+{{ with (index site.Params.podcast "podcast:funding") -}}
+<podcast:funding url="{{ . }}">Support this podcast</podcast:funding>
+{{- end }}
+
 {{ range site.Params.podcast.categories -}}
 <itunes:category text="{{ . }}"/>
 {{- end }}
