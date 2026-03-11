@@ -88,6 +88,8 @@ time,place,country,timezone
 2018-06-14T16:00:00Z,Monza,Italy,Europe/Rome
 2018-06-19T18:00:00Z,Berlin,Germany,Europe/Berlin
 2018-06-22T08:00:00Z,Amsterdam,Netherlands,Europe/Amsterdam
+2018-06-22T16:00:00Z,Rotterdam,Netherlands,Europe/Amsterdam
+2018-06-25T16:00:00Z,Amsterdam,Netherlands,Europe/Amsterdam
 2018-06-26T07:00:00Z,London,England,Europe/London
 2018-06-26T16:00:00Z,Reykjavík,Iceland,Atlantic/Reykjavik
 2018-06-30T17:00:00Z,Montreal,Canada,America/Toronto
