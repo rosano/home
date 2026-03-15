@@ -1,5 +1,6 @@
 ---
 date: 2026-03-05T16:50:58.597Z
+via: https://twitter.com/anjali_shriva/status/1989183498113126490
 link: https://jmduke.com/posts/post/spoonbill/
 categories: ["article"]
 ---
