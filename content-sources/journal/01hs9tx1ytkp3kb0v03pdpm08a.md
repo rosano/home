@@ -34,14 +34,14 @@ Replace the [simple tutorial app](https://git.cloudron.io/cloudron/tutorial-node
 ```bash
 git clone https://git.cloudron.io/cloudron/tutorial-nodejs-app
 cd tutorial-nodejs-app
-cloudron build --set-build-service https://charlie.delta --set-repository alfa.bravo/echo/foxtrot --tag golf
+cloudron build --build-service-url https://charlie.delta --repository alfa.bravo/echo/foxtrot --tag golf
 cloudron install --image alfa.bravo/echo/foxtrot:golf
 ```
 
 If you want to update, run `cloudron build` again, then call `cloudron update` like so:
 
 ```bash
-cloudron build --set-build-service https://charlie.delta --set-repository alfa.bravo/echo/foxtrot --tag golf
+cloudron build --build-service-url https://charlie.delta --repository alfa.bravo/echo/foxtrot --tag golf
 cloudron update --image alfa.bravo/echo/foxtrot:golf
 ```
 
