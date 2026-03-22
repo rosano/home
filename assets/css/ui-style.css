@@ -417,6 +417,7 @@ footer {
 	  & > * {
 	  	@media (min-width: 450px) {
 	  	  flex-basis: 49%;
+	  	  max-width: 50%;
 	  	}
 	  }
 
@@ -451,7 +452,7 @@ footer {
 	    }
 
 	    blockquote {
-	      font-size: 95%;
+	      font-size: 90%;
 	      margin: var(--spacing) 0;
 	      padding-left: var(--spacing);
 	      border-left: var(--border-size) solid var(--alt-border);
@@ -473,7 +474,7 @@ footer {
 		padding: var(--spacing);
 		border-radius: 25px;
 		
-		margin: 100px auto;
+		margin: 50px auto;
 
 		text-align: center;
 		text-decoration: none;

@@ -23,7 +23,6 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 />}}
 
 </card-list>
-
 <card-list>
 
 {{< card
@@ -61,6 +60,10 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 > My projects won't save a life or end that bad problem over there, but without hesitation I know my actions to be completely holistic.
 
 {{< /card >}}
+
+</card-list>
+
+<card-list>
 
 <iframe class="strolling-tube" src="https://rosano.ca/tube"></iframe>
 
@@ -301,6 +304,9 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< /card >}}
 
+</card-list>
+<card-list>
+<video autoplay muted loop><source src="https://static.rosano.ca/home/blog/2025-12-18-audioscrub-and-sonogrid-back-on-the-app-store/main-iphone.m4v" type="video/mp4"></video>
 </card-list>
 
 # Sounds
