@@ -387,6 +387,8 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineContact.svg) Contact](https://rosano.ca/#)
 
+[![](https://static.rosano.ca/_shared/_OLSKSharedApropos.svg) Info](/about)
+
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineWiki.svg) Wiki ](https://rosano.hmm.garden)
 
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineFeed.svg) Feed ](https://rosano.ca/en/feed)
