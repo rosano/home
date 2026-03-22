@@ -19,9 +19,31 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://static.rosano.ca/strolling/identity.svg
 	title="Strolling"
-	blurb="conversations with people I meet along the way"
+	body="conversations with people I meet along the way"
 	link=https://strolling.rosano.ca
+/>}}
+
+</card-list>
+
+<card-list>
+
+{{< card
+	title="Secular churches for continuity"
+	link=https://utopia.rosano.ca/secular-churches-for-continuity/
 >}}
+
+> If modern life is 'fragmented', what would it look like to have a 'canonical place' to create continuity from shared experiences?
+
+{{< /card >}}
+
+{{< card
+	title="when bad things happen in the world"
+	link=https://utopia.rosano.ca/when-bad-things-happen-in-the-world/
+>}}
+
+> My projects won't save a life or end that bad problem over there, but without hesitation I know my actions to be completely holistic.
+
+{{< /card >}}
 
 </card-list>
 
@@ -36,37 +58,37 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://static.rosano.ca/joybox/identity.svg
 	title="Joybox"
-	blurb="audiovisual bookmarking"
+	body="audiovisual bookmarking"
 	link=https://joybox.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://static.rosano.ca/emojilog/identity.svg
 	title="Emoji Log"
-	blurb="personal tracker"
+	body="personal tracker"
 	link=https://emojilog.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/project-kommit.svg
 	title="Kommit"
-	blurb="flashcards with spaced-repetition"
+	body="flashcards with spaced-repetition"
 	link=https://kommit.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/project-hyperdraft.svg
 	title="Hyperdraft"
-	blurb="turn your text notes into a website"
+	body="turn your text notes into a website"
 	link=https://hyperdraft.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/project-launchlet.svg
 	title="Launchlet"
-	blurb="customize websites with JavaScript or CSS"
+	body="customize websites with JavaScript or CSS"
 	link=https://launchlet.dev
->}}
+/>}}
 
 </card-list>
 
@@ -77,23 +99,23 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://static.rosano.ca/memo/identity.svg
 	title="memo"
-	blurb="interoperable brain dumping pad"
+	body="interoperable brain dumping pad"
 	link=https://memo.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://static.rosano.ca/sharesnip/identity.svg
 	title="Sharesnip"
-	blurb="QR code generator and scanner"
+	body="QR code generator and scanner"
 	link=https://sharesnip.rosano.ca
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/rCSIdiomatic.svg
 	title="Idiomatic"
-	blurb="convert text between Markdown, HTML, and Rich Text"
+	body="convert text between Markdown, HTML, and Rich Text"
 	link=https://idiomatic.rosano.ca
->}}
+/>}}
 
 </card-list>
 
@@ -104,16 +126,43 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://static.rosano.ca/easyindieapp/identity.svg
 	title="Easy Indie App"
-	blurb="run your own X in a few clicks"
+	body="run your own X in a few clicks"
 	link=https://easyindie.app
->}}
+/>}}
 
 {{< card
 	image=https://static.rosano.ca/0data/identity.svg
 	title="Zero Data App"
-	blurb="own your data, all of it"
+	body="own your data, all of it"
 	link=https://0data.app
+/>}}
+
+{{< card
+	title="pointing at the wrong thing"
+	link=https://utopia.rosano.ca/pointing-at-the-wrong-thing/
 >}}
+
+> Would it make sense to point Google Docs at your Twitter likes? Or Google Maps at your contact list? Or a flashcards app at your music collection?
+
+{{< /card >}}
+
+{{< card
+	title="encryption rant"
+	link=https://utopia.rosano.ca/encryption-rant/
+>}}
+
+> Robustly-secured data that can surprisingly vanish at a moments notice.
+
+{{< /card >}}
+
+{{< card
+	title="Levels of agency"
+	link=https://utopia.rosano.ca/levels-of-agency/
+>}}
+
+> Me, you, and us in software.
+
+{{< /card >}}
 
 </card-list>
 
@@ -124,36 +173,36 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/app-icon-learn-that-song-remix-edition.png
 	title="AudioScrub"
-	blurb="slow down music, change keys, loop"
+	body="slow down music, change keys, loop"
 	link=https://rosano.ca/audioscrub
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/app-icon-sonogrid.png
 	title="sonogrid"
-	blurb="musical toy for serious play"
+	body="musical toy for serious play"
 	link=https://rosano.ca/sonogrid
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/app-icon-quick-record.png
 	title="Quick Record"
-	blurb="voice memos audio recorder with iCloud sync"
+	body="voice memos audio recorder with iCloud sync"
 	link=https://rosano.ca/quick-record
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/app-icon-ticker.png
 	title="Ticker"
-	blurb="precise, audible metronome with beatmatch and tone generator"
+	body="precise, audible metronome with beatmatch and tone generator"
 	link=https://rosano.ca/ticker
->}}
+/>}}
 
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/app-icon-carrot-price.png
 	title="Carrot Price"
-	blurb="unit cost calculator with my beatboxing sounds"
+	body="unit cost calculator with my beatboxing sounds"
 	link=https://rosano.ca/carrot-price
->}}
+/>}}
 
 </card-list>

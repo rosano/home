@@ -5,7 +5,11 @@
 {{ end }}
 <article>
 	<heading><a href="{{ .Params.link }}">{{ .Params.title }}</a></heading>
-	<p>{{ .Params.blurb }}</p>
+	{{ if .Inner }}
+		{{- .Inner | markdownify | safeHTML -}}
+	{{ else }}
+		<p>{{ .Params.body }}</p>
+	{{ end }}
 </article>
 
 </card>
