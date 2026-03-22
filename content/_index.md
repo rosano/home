@@ -352,6 +352,15 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< /card >}}
 
 {{< card
+	title="note-taking reflexes with making music"
+	link=https://rosano.ca/blog/applying-note-taking-reflexes-to-making-music/
+>}}
+
+> capturing musical ideas and actually doing something with it after
+
+{{< /card >}}
+
+{{< card
 	title="training versus time"
 	link=https://rosano.ca/blog/training-versus-time/
 >}}
