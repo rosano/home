@@ -63,9 +63,11 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< /card >}}
 
-</card-list>
-
 <iframe class="strolling-tube" src="https://rosano.ca/tube"></iframe>
+
+{{< rc-youtube 1NtRak8SQw8 >}}
+
+</card-list>
 
 # open-source
 
@@ -113,7 +115,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 <card-list>
 
 {{< card
-	title="Going free"
+	title="going free"
 	link=https://rosano.ca/blog/going-free/
 >}}
 
@@ -122,7 +124,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< /card >}}
 
 {{< card
-	title="Going doorless"
+	title="going doorless"
 	link=https://rosano.ca/blog/going-doorless/
 >}}
 
@@ -166,7 +168,16 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 	link=https://rosano.ca/blog/work-then-dont/
 >}}
 
-> no computing after lunch. Shower thoughts for the whole afternoon and evening. 
+> no computing after lunch. Shower thoughts for the whole afternoon and evening.
+
+{{< /card >}}
+
+{{< card
+	title="don't fear the docs"
+	link=https://rosano.ca/blog/dont-fear-the-docs/
+>}}
+
+> I feel powerful, as if I can tackle anything. I can get answers by simply reading. I can just look at the code.
 
 {{< /card >}}
 
@@ -283,7 +294,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< /card >}}
 
 {{< card
-	title="Going fully web"
+	title="going fully web"
 	link=https://rosano.ca/blog/going-fully-web/
 >}}
 
@@ -292,3 +303,66 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< /card >}}
 
 </card-list>
+
+# Sounds
+
+<card-list>
+
+{{< card
+	image=https://static.rosano.ca/vibrations/identity.png
+	title="Vibrations"
+	body="Music by a recovering music student"
+	link=https://rosano.ca/vibrations
+/>}}
+
+{{< card
+	image=https://static.rosano.ca/seeds/identity.jpg
+	title="seeds"
+	body="A collection of songs I love to sing"
+	link=https://rosano.ca/seeds
+/>}}
+
+{{< card
+	image=https://static.rosano.ca/rcreativ/open-aural/identity.jpg
+	title="Aural"
+	body="Short ambient audio from personal travels."
+	link=https://rosano.ca/aural
+/>}}
+
+</card-list>
+
+<card-list>
+
+{{< card
+	title="Teddy Bear"
+	link=https://rosano.ca/blog/teddy-bear/
+>}}
+
+> Even on an overnight flight, I was too excited to sleep observing this song unfold.
+
+{{< /card >}}
+
+{{< card
+	title="bringing Vibrations home"
+	link=https://rosano.ca/blog/bringing-vibrations-home/
+>}}
+
+> What's the psychological impact of no platform, no ads, and no random obfuscation of my work?
+
+{{< /card >}}
+
+{{< card
+	title="training versus time"
+	link=https://rosano.ca/blog/training-versus-time/
+>}}
+
+> What's the difference between years passed and time trained?
+
+{{< /card >}}
+
+</card-list>
+
+<a class="archive" href="https://archive.rosano.ca">
+	<img src="https://rosano.ca/open-vitrine/ui-assets/rCSVitrineArchive.svg" aria-hidden="true" />
+	Find more projects in the archive.
+</a>
