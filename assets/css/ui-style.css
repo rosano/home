@@ -427,6 +427,11 @@ footer {
 	      flex-grow: 1;
 	    }
 
+	    & > a:first-child {
+
+	    	border: none;
+	    }
+
 	    img {
 	      --size: 48px;
 	      max-width: var(--size);
@@ -491,6 +496,48 @@ footer {
 		100% { background-position: 100% 0%; }
 	}
 
+	etcetera {
+		display: flex;
+		gap: var(--spacing);
+
+		
+		a {
+			--size: 24px;
+			
+			border: none;
+
+			opacity: 0.5;
+			color: var(--body-color);
+			
+			display: flex;
+			align-items: center;
+
+			img {
+				width: var(--size);
+				height: var(--size);
+				margin-right: var(--spacing);
+			}
+		}
+
+		& > :last-child {
+			img {
+				margin: 0;
+			}
+
+			&:hover img {
+				animation: RCSVitrineWebringSpin 0.35s infinite linear;
+			}
+
+			@keyframes RCSVitrineWebringSpin {
+				0% {
+					transform: rotate(0deg);
+				}
+				100% {
+					transform: rotate(360deg);
+				}
+			}
+		}
+	}
 }
 
 /* gazette */

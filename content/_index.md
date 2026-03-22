@@ -155,7 +155,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/rCSIdiomatic.svg
 	title="Idiomatic"
-	body="convert text between Markdown, HTML, and Rich Text"
+	body="switch between Markdown, HTML, and Rich Text"
 	link=https://idiomatic.rosano.ca
 />}}
 
@@ -375,3 +375,64 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 	<img src="https://rosano.ca/open-vitrine/ui-assets/rCSVitrineArchive.svg" aria-hidden="true" />
 	Find more projects in the archive.
 </a>
+
+# Etcetera
+
+<etcetera>
+
+[![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineContact.svg) Contact](https://rosano.ca/#)
+
+[![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineWiki.svg) Wiki ](https://rosano.hmm.garden)
+
+[![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineFeed.svg) Feed ](https://rosano.ca/en/feed)
+
+[![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineWebring.svg) Webring](https://webring.xxiivv.com/#random)
+
+</etcetera>
+
+<script>
+function contact (data = '') {
+	const encoded = 'bWFpbHRvOnJvc2Fub0BwaGlsZXBsYW5ldC5jb20=';
+	window.location.href = `${ window.atob(encoded) }${ data }`;
+};
+document.querySelector('etcetera > :first-child a').onclick = event => {
+	event.preventDefault();
+	contact();
+};
+
+window.LCHPageRecipes = [{
+	LCHRecipeName: 'Send a message',
+	LCHRecipeCallback () {
+		contact(`?subject=${ encodeURIComponent('Hello from Launchlet') }`);
+	},
+}];
+
+(function() {
+	const proxyObjects = window.LCHPageRecipes.map(function (e) {
+		return {
+			LCHRecipeProxyName: e.LCHRecipeName,
+			LCHRecipeProxySignature: e.LCHRecipeName,
+		};
+	});
+
+	const signaturesMap = window.LCHPageRecipes.reduce(function (coll, item) {
+		coll[item.LCHRecipeName] = item;
+
+		return coll;
+	}, {});
+
+	window.addEventListener('message', function (event) {
+	  if (event.source !== window) {
+	  	return;
+	  }
+
+	  if (event.data === 'LCHPageRecipes') {
+	  	return event.source.postMessage(proxyObjects, event.origin);
+	  }
+
+	  if (signaturesMap[event.data]) {
+	  	return signaturesMap[event.data].LCHRecipeCallback();
+	  }
+	}, false);
+})();
+</script>
