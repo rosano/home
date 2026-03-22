@@ -386,7 +386,7 @@ footer {
 }
 
 .home {
-	--body-cap: 600px;
+	--body-cap: 700px;
 
 	.intro a {
 		color: var(--body-color);
@@ -398,10 +398,21 @@ footer {
 		-webkit-text-fill-color: transparent;
 	}
 
+	h1 {
+		margin-top: calc(var(--spacing) * 4);
+		margin-bottom: var(--spacing);
+	}
+
+	p {
+		margin: var(--spacing) 0;
+	}
+
 	card-list {
 	  display: flex;
 	  flex-wrap: wrap;
 	  gap: var(--spacing);
+
+	  margin-bottom: var(--spacing);
 
 	  card {
 	    display: flex;
