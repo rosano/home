@@ -1,0 +1,11 @@
+<card>
+
+{{ if .Params.image }}
+<a href="{{ .Params.link }}" aria-hidden="true"><img src="{{ .Params.image }}" /></a>
+{{ end }}
+<article>
+	<heading><a href="{{ .Params.link }}">{{ .Params.title }}</a></heading>
+	<p>{{ .Params.blurb }}</p>
+</article>
+
+</card>
