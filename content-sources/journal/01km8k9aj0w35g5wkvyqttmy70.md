@@ -18,4 +18,4 @@ categories: ["article"]
 
 ---
 
-"Purpose not being defined gets captured by well-resourced actors" reminds me of Kyla Scan's ["friction doesn't get removed, just shifted"](https://rosano.ca/log/01jtxg9aj1e288s9z1ywfvjjx5) and Rudy Fraser's ["you can't design decentralized software without thinking about moderation"](https://rosano.ca/log/01kjnh7jkwh5zy3s89zsqhm303/). Purpose and consideration of the dynamics created by interfaces and systems should perhaps be part of the design process.
+"Purpose not being defined gets captured by well-resourced actors" reminds me of Kyla Scan's ["friction doesn't get removed, just shifted"](https://rosano.ca/log/01jtxg9aj1e288s9z1ywfvjjx5) and Rudy Fraser's ["you can't design decentralized software without thinking about moderation"](https://rosano.ca/log/01kjnh7jkwh5zy3s89zsqhm303/). Purpose and consideration of the dynamics created by interfaces and systems perhaps should be part of the design process.
