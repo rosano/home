@@ -500,6 +500,12 @@ footer {
 		display: flex;
 		gap: var(--spacing);
 
+		@media (max-width: 450px) {
+	  	flex-wrap: wrap;
+		  & > * {
+		  	flex-basis: 40%;
+		  }
+		}
 		
 		a {
 			--size: 24px;

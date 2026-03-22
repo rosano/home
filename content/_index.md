@@ -7,7 +7,6 @@ title: Rosano
 
 I'm a technologist, writer, and musician, producing personal projects full-time.  
 
-
 This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [vlog](https://rosano.ca/vlog), and [log](https://rosano.ca/log).
 
 </div>
@@ -286,7 +285,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="back on the App Store"
-	link=https://rosano.ca/blog/going-fully-web/
+	link=https://rosano.ca/blog/audioscrub-and-sonogrid-back-on-the-app-store/
 >}}
 
 > starting after stopping
