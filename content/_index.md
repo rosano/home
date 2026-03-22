@@ -27,7 +27,9 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 <iframe class="strolling-tube" src="https://rosano.ca/tube"></iframe>
 
-# open-source apps
+# open-source
+
+## apps
 
 <card-list>
 
@@ -68,7 +70,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 </card-list>
 
-# smaller tools
+### smaller tools
 
 <card-list>
 
@@ -95,7 +97,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 </card-list>
 
-# data agency
+## data agency
 
 <card-list>
 
@@ -115,7 +117,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 </card-list>
 
-# iOS Apps
+# iOS apps
 
 <card-list>
 
