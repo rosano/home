@@ -19,7 +19,7 @@ date: 2025-12-18T10:00:24.002Z
 My iOS apps are [on the App Store](https://apps.apple.com/developer/rcreativ/id356609408) again; if you ever wanted to have sonogrid or the others, now might be a good time to get a copy.
 
 <figure>
-  <video autoplay muted><source src="https://static.rosano.ca/home/blog/2025-12-18-audioscrub-and-sonogrid-back-on-the-app-store/main-iphone.m4v" type="video/mp4"></video>
+  <video autoplay muted loop><source src="https://static.rosano.ca/home/blog/2025-12-18-audioscrub-and-sonogrid-back-on-the-app-store/main-iphone.m4v" type="video/mp4"></video>
 </figure>
 
 ## [AudioScrub](https://apps.apple.com/app/audioscrub-remix-edition/id903693369)

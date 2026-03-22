@@ -8,6 +8,12 @@
 	--border-size: 2px;
 	--border: var(--border-size) solid #e6e6e6;
 	font-size: 12pt;
+
+	/* gradient https://welearncode.com/rainbow-text/ */
+	--rainbow-gradient: linear-gradient(to right, #f48fb1, #ef5350, #7e57c2, #2196f3, #26c6da, #43a047, #f9a825, #ff5722, #eeff41);
+
+	--alt-font: 'Helvetica Neue', 'Helvetica';
+	--alt-border: #ddd;
 }
 
 body {
@@ -377,6 +383,168 @@ footer {
 		flex-grow: 1;
 	}
 
+}
+
+.home {
+	--body-cap: 700px;
+
+	.intro a {
+		color: var(--body-color);
+		text-decoration: underline;
+		border-bottom: none;
+		font-weight: bold;
+		background: var(--rainbow-gradient);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+
+	h1 {
+		margin-top: calc(var(--spacing) * 4);
+		margin-bottom: var(--spacing);
+	}
+
+	p {
+		margin: var(--spacing) 0;
+	}
+
+	card-list {
+	  display: flex;
+	  flex-wrap: wrap;
+	  gap: var(--spacing);
+
+	  margin-bottom: var(--spacing);
+
+	  & > * {
+	  	@media (min-width: 450px) {
+	  	  flex-basis: 49%;
+	  	  max-width: 50%;
+	  	}
+	  }
+
+	  card {
+	    display: flex;
+
+	    @media (max-width: 450px) {
+	      flex-grow: 1;
+	    }
+
+	    & > a:first-child {
+
+	    	border: none;
+	    }
+
+	    img {
+	      --size: 48px;
+	      max-width: var(--size);
+	      max-height: var(--size);
+	      margin-right: var(--spacing);
+	      border-radius: var(--corner);
+	    }
+
+	    article {
+	    	align-content: center;
+	    }
+
+	    p {
+	    	margin: 0;
+	      font-size: 90%;
+	      opacity: 0.7;
+	    }
+
+	    blockquote {
+	      font-size: 90%;
+	      margin: var(--spacing) 0;
+	      padding-left: var(--spacing);
+	      border-left: var(--border-size) solid var(--alt-border);
+	    }
+	  }
+	}
+
+	iframe {
+		border: none;
+		border-radius: var(--corner);
+		position: relative;
+		max-width: 100%;
+		min-height: 250px;
+	}
+
+	.archive {
+		display: flex;
+		max-width: 270px;
+		padding: var(--spacing);
+		border-radius: 25px;
+		
+		margin: 50px auto;
+
+		text-align: center;
+		text-decoration: none;
+	  color: white;
+		background-image: var(--rainbow-gradient);
+		background-size: 1100% 100%;
+
+		align-items: center;
+		justify-content: center;
+
+		animation: archiveAnimation 30s ease-in-out infinite alternate;
+
+		img {
+			margin-right: var(--spacing);
+		}
+	}
+
+	@keyframes archiveAnimation {
+		0% { background-position: 0% 0%; }
+		100% { background-position: 100% 0%; }
+	}
+
+	etcetera {
+		display: flex;
+		gap: var(--spacing);
+
+		@media (max-width: 450px) {
+	  	flex-wrap: wrap;
+		  & > * {
+		  	flex-basis: 40%;
+		  }
+		}
+		
+		a {
+			--size: 24px;
+			
+			border: none;
+
+			opacity: 0.5;
+			color: var(--body-color);
+			
+			display: flex;
+			align-items: center;
+
+			img {
+				width: var(--size);
+				height: var(--size);
+				margin-right: var(--spacing);
+			}
+		}
+
+		& > :last-child {
+			img {
+				margin: 0;
+			}
+
+			&:hover img {
+				animation: RCSVitrineWebringSpin 0.35s infinite linear;
+			}
+
+			@keyframes RCSVitrineWebringSpin {
+				0% {
+					transform: rotate(0deg);
+				}
+				100% {
+					transform: rotate(360deg);
+				}
+			}
+		}
+	}
 }
 
 /* gazette */

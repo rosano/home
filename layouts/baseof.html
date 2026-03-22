@@ -46,7 +46,7 @@
 
 </head>
 
-<body class="{{ $section }}{{ cond (eq .Kind "page") " single" "" }}{{ with .Section }} {{ . }}{{ end }}">
+<body class="{{ cond .IsHome "home" $section }}{{ cond (eq .Kind "page") " single" "" }}{{ with .Section }} {{ . }}{{ end }}">
 
 <header>
 	<h2>
