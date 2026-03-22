@@ -458,14 +458,14 @@ footer {
 	      border-left: var(--border-size) solid var(--alt-border);
 	    }
 	  }
-	}
 
-	iframe {
-		border: none;
-		border-radius: var(--corner);
-		position: relative;
-		max-width: 100%;
-		min-height: 250px;
+	  iframe {
+	  	border: none;
+	  	border-radius: var(--corner);
+	  	position: relative;
+	  	max-width: 100%;
+	  	min-height: 250px;
+	  }
 	}
 
 	.archive {
