@@ -415,8 +415,12 @@ footer {
 	  margin-bottom: var(--spacing);
 
 	  & > * {
+	  	max-height: 250px;
+
 	  	@media (min-width: 450px) {
-	  	  flex-basis: 49%;
+	  	  &:not(video) {
+	  	  	flex-basis: 49%;
+	  	  }
 	  	  max-width: 50%;
 	  	}
 	  }
@@ -429,7 +433,6 @@ footer {
 	    }
 
 	    & > a:first-child {
-
 	    	border: none;
 	    }
 
@@ -464,7 +467,6 @@ footer {
 	  	border-radius: var(--corner);
 	  	position: relative;
 	  	max-width: 100%;
-	  	min-height: 250px;
 	  }
 	}
 
