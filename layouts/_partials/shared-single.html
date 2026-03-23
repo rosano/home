@@ -15,7 +15,7 @@
 
 <!-- FEATURE IMAGE -->
 {{- if .Params.feature_image -}}
-	<div class="feature-image">{{ print "![](" .Params.feature_image ")" | markdownify | safeHTML }}</div>
+	<p class="feature-image">{{ print "![](" .Params.feature_image ")" | markdownify | safeHTML }}</p>
 {{- end -}}
 
 <!-- TITLE -->
@@ -25,7 +25,7 @@
 
 <!-- NUGGET -->
 {{- if .Params.Summary -}}
-	<div class="nugget">{{ .Summary | markdownify | safeHTML }}</div>
+	<nugget>{{ .Summary | markdownify | safeHTML }}</nugget>
 	{{- if $isRSS -}}<hr>{{- end }}
 {{- end -}}
 

@@ -8,7 +8,7 @@
 	{{- end -}}
 {{- end -}}
 
-<small>
+<p><small>
 	{{- $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" -}}
 
 	{{- if not $hideTime }}
@@ -18,9 +18,7 @@
 	{{ with site.GetPage .Params.originalSection -}}
 		<a href="{{ .RelPermalink }}">{{ .Name }}</a>
 	{{- end }}
-</small>
-
-<br>
+</small></p>
 
 <p><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></p>
 

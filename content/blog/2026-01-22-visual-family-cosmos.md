@@ -30,7 +30,7 @@ I've been interested to understand my family history for some years now. I alrea
 
 There are many platforms or apps that can visually represent your tree. Using my family as an example (with anonymized names), below are some visualizations in the form of:
 
-<!-- <gallery class="duets">![](fan.jpg) ![](sun.jpg) ![](topola.jpg) ![](bloodlines.jpg)</gallery> -->
+<!-- <gallery>![](fan.jpg) ![](sun.jpg) ![](topola.jpg) ![](bloodlines.jpg)</gallery> -->
 
 1. an ancestor 'fan chart', starting with the subject and going back, omitting siblings
 
@@ -144,7 +144,7 @@ For anyone who's curious, here are some full-size PDFs where you can see details
 - [alexander graham bell](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/bell.pdf)
 - [albert einstein](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/einstein.pdf)
 
-<gallery class="duets">[![mine](showcase/mine.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/mine.pdf) [![the royal family](showcase/royal.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/royal.pdf) [![washington](showcase/washington.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/washington.pdf)  [![lincoln](showcase/lincoln.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/lincoln.pdf)  [![kennedy](showcase/kennedy.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/kennedy.pdf) [![amelia earhart](showcase/earhart.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/earhart.pdf) [![thomas edison](showcase/edison.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/edison.pdf) [![albert einstein](showcase/einstein.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/einstein.pdf)</gallery>
+<gallery>[![mine](showcase/mine.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/mine.pdf) [![the royal family](showcase/royal.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/royal.pdf)</gallery><gallery>[![washington](showcase/washington.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/washington.pdf)  [![lincoln](showcase/lincoln.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/lincoln.pdf)</gallery><gallery>[![kennedy](showcase/kennedy.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/kennedy.pdf) [![amelia earhart](showcase/earhart.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/earhart.pdf)</gallery><gallery>[![thomas edison](showcase/edison.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/edison.pdf) [![albert einstein](showcase/einstein.jpg)](https://static.rosano.ca/home/blog/2026-01-22-visual-family-cosmos/showcase/einstein.pdf)</gallery>
 
 ---
 
