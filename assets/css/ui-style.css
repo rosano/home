@@ -3,12 +3,16 @@
 	--rh-c-text-1: #333;
 	--rh-c-brand-1: #237fa1;
 	--rh-c-brand-hover-1: #c00;
+
 	--rh-body-cap: 430px;
 	--rh-pad: 8px;
 	--rh-corner: 3px;
+
 	--rh-border-size: 2px;
 	--rh-border: var(--rh-border-size) solid #e6e6e6;
-	font-size: 12pt;
+
+	--rh-font-family-base: Garamond, "Times New Roman", Times, serif;
+	--rh-font-size: 12pt;
 
 	/* gradient https://welearncode.com/rainbow-text/ */
 	--rainbow-gradient: linear-gradient(to right, #f48fb1, #ef5350, #7e57c2, #2196f3, #26c6da, #43a047, #f9a825, #ff5722, #eeff41);
@@ -16,7 +20,6 @@
 	--alt-font: 'Helvetica Neue', 'Helvetica';
 	--alt-border: #ddd;
 
-	--rh-font-family-base: Garamond, Georgia, "Times New Roman", Times, serif;
 }
 
 body {
@@ -27,7 +30,8 @@ body {
 
 	background: var(--rh-c-bg);
 	color: var(--rh-c-text-1);
-	font: var(--rh-font-family-base);
+	font-family: var(--rh-font-family-base);
+	font-size: var(--rh-font-size);
 }
 
 a {
