@@ -14,6 +14,8 @@
 
 	--alt-font: 'Helvetica Neue', 'Helvetica';
 	--alt-border: #ddd;
+
+	--rh-font-family-base: Garamond, Georgia, "Times New Roman", Times, serif;
 }
 
 body {
@@ -22,9 +24,9 @@ body {
 
 	margin: auto;
 
-	font: Garamond, Georgia, "Times New Roman", Times, serif;
 	background: var(--rh-c-bg);
 	color: var(--rh-c-text-1);
+	font: var(--rh-font-family-base);
 }
 
 a {
