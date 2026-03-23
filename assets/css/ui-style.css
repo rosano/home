@@ -41,6 +41,12 @@ a {
 	}
 }
 
+hr {
+	height: 0;
+	border: 0.5px solid var(--rh-c-text-1);
+	opacity: 0.3;
+}
+
 header {
 
 	img {
@@ -65,38 +71,15 @@ header {
 
 }
 
-hr {
-	height: 0px;
-	border: 0.5px solid var(--rh-c-text-1);
-	opacity: 0.3;
-}
-
-.sticky, .occasion h2, .occasion .post h3 {
-	padding: var(--rh-pad) 0;
-	
-	position: sticky;
-	top: 0;
-
-	background: var(--rh-c-bg);
-	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--rh-c-bg) 10%);
-	
-	white-space: nowrap;
-	text-overflow: ellipsis;
-	overflow: auto;
-
-	a {
-		border-bottom: unset;
-
-		opacity: 0.7;
-	}
-
-}
-
 .post {
 	--rh-c-bg: #f9f9f9;
 
 	padding: calc(var(--rh-pad) * 1.5);
 	border-radius: var(--rh-corner);
+
+	&.large {
+		padding-top: 0;
+	}
 	
 	margin: calc(var(--rh-pad) * 2) 0;
 	
@@ -146,6 +129,10 @@ hr {
 		margin: 14px 0;
 		background: #eee;
 		border-left: 8px solid #777;
+
+		p {
+			margin: 0;
+		}
 	}
 
 	blockquote {
@@ -307,6 +294,27 @@ hr {
 
 }
 
+.sticky, .occasion h2, .occasion .post h3 {
+	padding: var(--rh-pad) 0;
+	
+	position: sticky;
+	top: 0;
+
+	background: var(--rh-c-bg);
+	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--rh-c-bg) 10%);
+	
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: auto;
+
+	a {
+		border-bottom: unset;
+
+		opacity: 0.7;
+	}
+
+}
+
 .notification {
 	background: #555;
 	color: white;
@@ -326,14 +334,6 @@ hr {
 		}
 	}
 
-}
-
-.post.large {
-	padding-top: 0;
-}
-
-.nugget p {
-	margin: 0;
 }
 
 footer {
@@ -551,8 +551,6 @@ footer {
 	}
 }
 
-/* gazette */
-
 .RCGazette a {
 	text-decoration: underline;
 }
@@ -648,7 +646,6 @@ footer {
 }
 
 footer {
-
 	.video-list {
 		justify-content: space-between;
 	}
@@ -657,7 +654,6 @@ footer {
 		--video-width: var(--video-width-condensed);
 		--video-height: var(--video-height-condensed);
 	}
-
 }
 
 /* vlog */
