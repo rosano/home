@@ -7,7 +7,7 @@ title: Rosano
 
 I'm a technologist, writer, and musician, producing personal projects full-time.  
 
-This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [vlog](https://rosano.ca/vlog), and [log](https://rosano.ca/log).
+This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 
 </section>
 
@@ -27,7 +27,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="introducing Occasion"
-	link=https://rosano.ca/blog/introducing-occasion/
+	link=/blog/introducing-occasion/
 >}}
 
 > Shifting from "I should take less space" to "I'd like to connect regularly with people who want more". 
@@ -36,7 +36,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="Strolling across the USA"
-	link=https://rosano.ca/blog/strolling-across-the-usa-october-2023/
+	link=/blog/strolling-across-the-usa-october-2023/
 >}}
 
 > Going only where I felt called, connected, or welcome filled my experience with a sense of purpose, often in completely unexpected ways.
@@ -118,7 +118,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="going free"
-	link=https://rosano.ca/blog/going-free/
+	link=/blog/going-free/
 >}}
 
 > transitioning to free and open access. 
@@ -127,7 +127,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="going doorless"
-	link=https://rosano.ca/blog/going-doorless/
+	link=/blog/going-doorless/
 >}}
 
 > apps as non-exclusionary public spaces.
@@ -167,7 +167,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="work, then don't"
-	link=https://rosano.ca/blog/work-then-dont/
+	link=/blog/work-then-dont/
 >}}
 
 > no computing after lunch. Shower thoughts for the whole afternoon and evening.
@@ -176,7 +176,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="don't fear the docs"
-	link=https://rosano.ca/blog/dont-fear-the-docs/
+	link=/blog/dont-fear-the-docs/
 >}}
 
 > I feel powerful, as if I can tackle anything. I can get answers by simply reading. I can just look at the code.
@@ -208,7 +208,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="GitHub as storage"
-	link=https://rosano.ca/blog/github-as-storage/
+	link=/blog/github-as-storage/
 >}}
 
 > Could it be one of the most interoperable formats out there?
@@ -288,7 +288,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="back on the App Store"
-	link=https://rosano.ca/blog/audioscrub-and-sonogrid-back-on-the-app-store/
+	link=/blog/audioscrub-and-sonogrid-back-on-the-app-store/
 >}}
 
 > starting after stopping
@@ -297,7 +297,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="going fully web"
-	link=https://rosano.ca/blog/going-fully-web/
+	link=/blog/going-fully-web/
 >}}
 
 > Why I stopped making iOS apps after twelve years.
@@ -317,7 +317,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 	image=https://static.rosano.ca/vibrations/identity.png
 	title="Vibrations"
 	body="Music by a recovering music student"
-	link=https://rosano.ca/vibrations
+	link=/vibrations
 />}}
 
 {{< card
@@ -340,7 +340,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="Teddy Bear"
-	link=https://rosano.ca/blog/teddy-bear/
+	link=/blog/teddy-bear/
 >}}
 
 > Even on an overnight flight, I was too excited to sleep observing this song unfold.
@@ -349,7 +349,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="bringing Vibrations home"
-	link=https://rosano.ca/blog/bringing-vibrations-home/
+	link=/blog/bringing-vibrations-home/
 >}}
 
 > What's the psychological impact of no platform, no ads, and no random obfuscation of my work?
@@ -358,7 +358,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="note-taking reflexes with making music"
-	link=https://rosano.ca/blog/applying-note-taking-reflexes-to-making-music/
+	link=/blog/applying-note-taking-reflexes-to-making-music/
 >}}
 
 > capturing musical ideas and actually doing something with it after
@@ -367,7 +367,7 @@ This is my home on the web. Find more in my [blog](https://utopia.rosano.ca), [v
 
 {{< card
 	title="training versus time"
-	link=https://rosano.ca/blog/training-versus-time/
+	link=/blog/training-versus-time/
 >}}
 
 > What's the difference between years passed and time trained?
