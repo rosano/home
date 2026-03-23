@@ -9,34 +9,22 @@
 	</ul>
 {{ end }}
 
-<table>
+<blog-list>
 {{ range .Pages.ByDate.Reverse.GroupByDate "2006" "desc" }}
-	<tr>
-		<th class="sticky" colspan="2">{{ .Key }}</th>
-	</tr>
+	<h3 class="sticky">{{ .Key }}</h3>
 
 	{{ range .Pages }}
-	<tr>
-		<td>
-			<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "Jan 02" -}}</time>
-		</td>
-		<td>
+	<card>
+		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{- .Date.Format "Jan 02" -}}</time>
+		<article>
 			<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 			{{ if .Params.Summary }}
-				<br>
-				<span>{{ .Summary }}</span>
+				<p>{{ .Summary }}</p>
 			{{ end }}
-		</td>
-	</tr>
+		</article>
+	</card>
 	{{ end }}
-{{ end }}	
-</table>
-
-<style>
-td:first-child {
-	white-space: nowrap;
-	vertical-align: text-top;
-}
-</style>
+{{ end }}
+</blog-list>
 
 {{ end }}

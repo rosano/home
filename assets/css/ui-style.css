@@ -383,89 +383,91 @@ footer {
 
 }
 
+card-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--rh-pad);
+
+  margin-bottom: var(--rh-pad);
+
+  & > * {
+  	max-height: 250px;
+
+  	@media (min-width: 450px) {
+  	  &:not(video) {
+  	  	flex-basis: 49%;
+  	  }
+  	  max-width: 50%;
+  	}
+  }
+
+  iframe {
+  	border: none;
+  	border-radius: var(--rh-corner);
+  	position: relative;
+  	max-width: 100%;
+  }
+}
+
+card {
+  display: flex;
+
+  @media (max-width: 450px) {
+    flex-grow: 1;
+  }
+
+  & > a:first-child {
+  	border: none;
+  }
+
+  img {
+    --size: 48px;
+    max-width: var(--size);
+    max-height: var(--size);
+    margin-right: var(--rh-pad);
+    border-radius: var(--rh-corner);
+  }
+
+  article {
+  	align-content: center;
+
+  	p {
+  		margin: 0;
+  	  font-size: 90%;
+  	  opacity: 0.7;
+  	}
+
+  	blockquote {
+  	  font-size: 90%;
+  	  margin: var(--rh-pad) 0;
+  	  padding-left: var(--rh-pad);
+  	  border-left: var(--rh-border-size) solid var(--alt-border);
+  	}
+  }
+}
+
 .home {
 	--rh-body-cap: 700px;
 
-	.intro a {
-		color: var(--rh-c-text-1);
-		text-decoration: underline;
-		border-bottom: none;
-		font-weight: bold;
-		background: var(--rainbow-gradient);
-		-webkit-background-clip: text;
-		-webkit-text-fill-color: transparent;
+	.intro {
+		p {
+			margin: var(--rh-pad) 0;
+		}
+
+		a {
+			color: var(--rh-c-text-1);
+			text-decoration: underline;
+			border-bottom: none;
+			font-weight: bold;
+			background: var(--rainbow-gradient);
+			-webkit-background-clip: text;
+			-webkit-text-fill-color: transparent;
+		}
 	}
 
 	h1 {
 		margin-top: calc(var(--rh-pad) * 4);
 		margin-bottom: var(--rh-pad);
-	}
-
-	content p {
-		margin: var(--rh-pad) 0;
-	}
-
-	card-list {
-	  display: flex;
-	  flex-wrap: wrap;
-	  gap: var(--rh-pad);
-
-	  margin-bottom: var(--rh-pad);
-
-	  & > * {
-	  	max-height: 250px;
-
-	  	@media (min-width: 450px) {
-	  	  &:not(video) {
-	  	  	flex-basis: 49%;
-	  	  }
-	  	  max-width: 50%;
-	  	}
-	  }
-
-	  card {
-	    display: flex;
-
-	    @media (max-width: 450px) {
-	      flex-grow: 1;
-	    }
-
-	    & > a:first-child {
-	    	border: none;
-	    }
-
-	    img {
-	      --size: 48px;
-	      max-width: var(--size);
-	      max-height: var(--size);
-	      margin-right: var(--rh-pad);
-	      border-radius: var(--rh-corner);
-	    }
-
-	    article {
-	    	align-content: center;
-	    }
-
-	    p {
-	    	margin: 0;
-	      font-size: 90%;
-	      opacity: 0.7;
-	    }
-
-	    blockquote {
-	      font-size: 90%;
-	      margin: var(--rh-pad) 0;
-	      padding-left: var(--rh-pad);
-	      border-left: var(--rh-border-size) solid var(--alt-border);
-	    }
-	  }
-
-	  iframe {
-	  	border: none;
-	  	border-radius: var(--rh-corner);
-	  	position: relative;
-	  	max-width: 100%;
-	  }
 	}
 
 	.archive {
@@ -678,23 +680,22 @@ footer {
 
 /* blog */
 
-.blog-list {
-
-	ul {
-		padding-left: 0;
-		list-style: none;
+blog-list {
+	h3 {
+		text-align: center;
 	}
 
-	li {
-		display: flex;
-		gap: var(--rh-pad);
-
-		time {
-			flex-shrink: 0;
-			min-width: 50px;
-		}
+	time {
+		text-align: right;
+		margin-right: var(--rh-pad);
 	}
 
+	card {
+		margin: var(--rh-pad) 0;
+
+		display: grid;
+		grid-template-columns: 55px 1fr;
+	}
 }
 
 /* lyrics */
