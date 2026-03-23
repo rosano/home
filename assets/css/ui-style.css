@@ -1,6 +1,7 @@
 :root {
 	--rh-c-bg: #eee;
 	--rh-c-bg-alt: #e9e9e9;
+	--rh-c-bg-shadow: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--rh-c-bg) 10%);
 	--rh-c-text-1: #333;
 	--rh-c-brand-1: #237fa1;
 	--rh-c-brand-hover-1: #c00;
@@ -290,9 +291,9 @@ header {
 	}
 }
 
-.sticky, .occasion h2 {
+.sticky, .occasion h2, .home h1 {
 	background: var(--rh-c-bg);
-	background: linear-gradient(0deg, rgba(255,255,255,0) 0%, var(--rh-c-bg) 10%);
+	background: var(--rh-c-bg-shadow);
 }
 
 footer {
@@ -427,6 +428,11 @@ card {
 	h1 {
 		margin-top: calc(var(--rh-pad) * 4);
 		margin-bottom: var(--rh-pad);
+		position: sticky;
+		top: 0;
+		background: var(--rh-c-bg);
+		border-bottom: 2px solid var(--rh-c-bg);
+		box-shadow: 0px 0px 4px var(--rh-c-bg);
 	}
 
 	.archive {
@@ -686,7 +692,7 @@ blog-list {
 	z-index: 1;
 }
 
-.sticky, .occasion h2 {
+.sticky, .occasion h2, .home h1 {
 	z-index: 2;
 }
 
