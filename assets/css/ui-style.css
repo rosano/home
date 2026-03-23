@@ -41,10 +41,6 @@ a {
 	}
 }
 
-.RCGazette a {
-	text-decoration: unset;
-}
-
 header {
 
 	img {
@@ -405,7 +401,7 @@ footer {
 		margin-bottom: var(--rh-pad);
 	}
 
-	p {
+	content p {
 		margin: var(--rh-pad) 0;
 	}
 
@@ -557,8 +553,8 @@ footer {
 
 /* gazette */
 
-.ROCOGazette {
-	font-size: 90%;
+.RCGazette a {
+	text-decoration: underline;
 }
 
 /* video */

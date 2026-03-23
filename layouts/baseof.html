@@ -81,7 +81,9 @@
 	</h2>
 </header>
 
+<content>
 {{ block "main" . }}{{ end }}
+</content>
 
 <footer>
 {{- if or (eq $section "timeline") (and .IsPage .Date) -}}
@@ -91,8 +93,8 @@
 {{- .Render "footer" -}}
 </footer>
 
-{{ if and (eq hugo.Environment "production") site.Params._showGazette (ne $section "occasion") -}}
 	<script src="https://pkg.rosano.ca/gazette/master/main.js" data-gazette></script>
+{{ if and (eq hugo.Environment "production") site.Params._showGazette (ne $section "occasion") -}}
 {{- end -}}
 
 {{- .Scratch.Delete "kSemanticSection" -}}
