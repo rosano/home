@@ -391,14 +391,16 @@ card-list {
   margin-bottom: var(--rh-pad);
 
   & > * {
-  	max-height: 250px;
-
   	@media (min-width: 450px) {
   	  &:not(video) {
   	  	flex-basis: 49%;
   	  }
   	  max-width: 50%;
   	}
+  }
+
+  iframe, video {
+  	height: 250px;
   }
 
   iframe {
