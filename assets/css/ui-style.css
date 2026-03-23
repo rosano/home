@@ -2,6 +2,7 @@
 	--rh-c-bg: #eee;
 	--rh-c-text-1: #333;
 	--rh-c-brand-1: #237fa1;
+	--rh-c-brand-hover-1: #c00;
 	--rh-body-cap: 430px;
 	--rh-pad: 8px;
 	--rh-corner: 3px;
@@ -31,14 +32,13 @@ body {
 
 a {
 	border-bottom: 1px color-mix(in srgb, var(--rh-c-brand-1), transparent 80%) dotted;
-
-	color: var(--rh-c-brand-1);
 	text-decoration: none;
 
-	&:hover {
-		color: #c00;
-	}
+	color: var(--rh-c-brand-1);
 
+	&:hover {
+		color: var(--rh-c-brand-hover-1);
+	}
 }
 
 .RCGazette a {
