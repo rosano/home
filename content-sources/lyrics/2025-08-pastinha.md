@@ -281,7 +281,8 @@ esse nego é maluco, esse nego é o cão
 
 # iê eu tava em casa
 
-iê
+iê!
+
 eu nasci para a capoeira
 a capoeira homem me fez
 só deixarei a capoeira
