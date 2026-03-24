@@ -3,7 +3,7 @@ date: 2026-03-24T15:04:02.129Z
 link: https://viniciuslisboafrederico.substack.com/p/the-repricing-of-the-digital-gulf
 categories: ["article"]
 ---
-[> Global Drafts](https://viniciuslisboafrederico.substack.com/p/the-repricing-of-the-digital-gulf)
+[The Repricing of the Digital Gulf](https://viniciuslisboafrederico.substack.com/p/the-repricing-of-the-digital-gulf)
 
 > Microsoft’s refusal to issue a standard outage report for the Gulf availability zones is consistent with DoD Impact Level 5 and 6 protocols. Under these classifications, disclosing operational status during a kinetic event is considered a breach of national security, as it provides the adversary with vital BDA (Battle Damage Assessment) data.
 
