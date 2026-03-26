@@ -19,7 +19,7 @@ I've reorganized [my homepage](https://rosano.ca) a bit.
 
 <figure>
 
-![scrolling preview of the previous and current layouts](https://static.rosano.ca/home/blog/difference.gif)
+![scrolling preview of the previous and current layouts](difference.gif)
 
 </figure>
 
