@@ -136,7 +136,7 @@ header {
 		padding-left: var(--rh-pad);
 		border-left: var(--rh-stroke-size) solid var(--rh-stroke-color-alt-2);
 
-		margin-left: 0;
+		margin: 0;
 
 		font-size: 90%;
 		opacity: 0.7;
@@ -274,7 +274,7 @@ header {
 	}
 }
 
-.sticky, .occasion h2, .occasion .post h3 {
+.sticky, .occasion content > h2, .occasion .post h3 {
 	padding: var(--rh-pad) 0;
 	
 	position: sticky;
@@ -291,9 +291,8 @@ header {
 	}
 }
 
-.sticky, .occasion h2, .home h1 {
+.sticky, .home h1, .occasion content > h2 {
 	background: var(--rh-c-bg);
-	background: var(--rh-c-bg-shadow);
 }
 
 footer {
@@ -677,6 +676,7 @@ blog-list {
 
 	.OLSKFollow {
 	  text-align: center;
+	  background: unset;
 	}
 }
 
@@ -692,7 +692,7 @@ blog-list {
 	z-index: 1;
 }
 
-.sticky, .occasion h2, .home h1 {
+.sticky, .home h1, .occasion h2 {
 	z-index: 2;
 }
 
