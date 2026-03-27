@@ -102,6 +102,7 @@ params:
   lowerLyricTitles: true
   timelineSources:
     - content-sources/journal
+    - content-sources/journal/_archive
     - content/vlog/vibrations
     - content/vlog/strolling
     - content/blog
