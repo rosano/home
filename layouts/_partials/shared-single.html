@@ -1,7 +1,7 @@
-<div class="post">
-
 {{- $isRSS := .Scratch.Get "kScopeRSS" -}}
 {{- $isList := .Scratch.Get "kScopeList" -}}
+
+<div class="post"{{ if (not $isList) }} data-pagefind-body{{ end }}>
 
 {{- $dataLink := "" -}}
 {{- if .Params.link }}{{ $dataLink = .Params.link }}{{ end -}}
@@ -20,7 +20,7 @@
 
 <!-- TITLE -->
 {{- if and (not $isRSS) .Title (ne .Layout "single") -}}
-	<h3 class="title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+	<h3 class="title"><a href="{{ .RelPermalink }}" data-pagefind-meta="title">{{ .Title }}</a></h3>
 {{- end -}}
 
 <!-- NUGGET -->
