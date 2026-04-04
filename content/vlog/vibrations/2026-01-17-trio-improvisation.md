@@ -13,4 +13,5 @@ slug: mkhtqytq
 summary: with Jack Rusher (guitar) and Andrey (bass)
 youtube_id: KvWziVTq5Co
 facebook_id: "856030800666248"
+duration: 2:47
 ---
