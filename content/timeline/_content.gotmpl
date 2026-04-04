@@ -93,7 +93,7 @@
         "kind" "page"
         "slug" $basename
         "path" (print $basename $v.Unix)
-        "build" (dict "list" "local")
+        "build" (dict "list" "local" "render" (cond (strings.Contains $dir "content/") "link" "always"))
       ) }}
     {{ end }}
   {{ end }}
