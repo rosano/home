@@ -102,7 +102,7 @@ params:
   lowerLyricTitles: true
   timelineSources:
     - content-sources/journal
-    - content-sources/journal/_archive
+    - content-sources/journal/_archive/2022–2024
     - content/vlog/vibrations
     - content/vlog/strolling
     - content/blog
