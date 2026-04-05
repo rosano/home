@@ -4,7 +4,7 @@ tags: ["contribute"]
 categories: ["article"]
 link: https://www.instagram.com/p/Cd5n0guu8cI/
 ---
-[Callings & Roles for Collective Liberation | Slow Factory 🌍](https://www.instagram.com/p/Cd5n0guu8cI/)
+[Callings & Roles for Collective Liberation](https://www.instagram.com/p/Cd5n0guu8cI/)
 
 > Abolitionist, favors the end of forced labor and carceral punishment
 >
