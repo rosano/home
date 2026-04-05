@@ -82,7 +82,7 @@
         ) }}
       {{ else }}
         {{ $params = merge $params (dict
-          "originalBasename" $basename
+          "originalPath" (delimit (slice $dir $basename) "/")
         ) }}
       {{ end }}
 

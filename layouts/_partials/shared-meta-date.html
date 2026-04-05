@@ -94,7 +94,7 @@
 <small class="external">
 	{{ if site.Params.sourcePrefix -}}
 		<span>
-			<a href="{{ site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print "/content-sources/journal/" .Page.Params.originalBasename ".md") }}">Source</a>
+			<a href="{{ site.Params.sourcePrefix }}{{ replace (print "/content/" .Page.File.Path) "/content/timeline/_content.gotmpl" (print "/" .Page.Params.originalPath ".md") }}">Source</a>
 		</span>
 	{{- end }}
 	{{- $syndications := slice
