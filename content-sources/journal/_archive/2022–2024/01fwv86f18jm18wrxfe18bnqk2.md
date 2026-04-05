@@ -1,7 +1,7 @@
 ---
 date: 2022-02-26T14:50:44.648Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [To become so centered that anyone coming to you with an opinion simply forgets. You can kill Jesus or Buddha but not push them.]
 

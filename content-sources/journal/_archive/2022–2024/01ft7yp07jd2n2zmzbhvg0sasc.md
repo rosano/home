@@ -1,7 +1,7 @@
 ---
 date: 2022-01-25T06:27:30.161Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [Perfection without future evolution is dead.]
 

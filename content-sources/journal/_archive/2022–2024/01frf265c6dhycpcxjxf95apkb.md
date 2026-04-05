@@ -1,7 +1,7 @@
 ---
 date: 2022-01-03T04:12:02.822Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [The root is never above ground: attacking the visible is like fighting shadows.]
 

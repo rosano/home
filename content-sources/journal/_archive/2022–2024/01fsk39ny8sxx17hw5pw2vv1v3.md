@@ -1,7 +1,7 @@
 ---
 date: 2022-01-17T04:04:06.215Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [Bliss is just a word: you can desire it but not know what it is. Only one who has tasted it can give it to you, and without doing anything: from their presence alone the unknown flows toward you.]
 

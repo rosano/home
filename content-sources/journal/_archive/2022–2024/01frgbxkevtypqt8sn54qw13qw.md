@@ -1,7 +1,7 @@
 ---
 date: 2022-01-03T16:21:22.523Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [The sense organs are windows, not projectors.]
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-01-12T04:26:23.987Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [If someone says 'there is no time to rest because it compromises a goal', tantra says running and being in a hurry causes one to miss.]
 

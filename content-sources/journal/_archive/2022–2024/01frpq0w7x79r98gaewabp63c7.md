@@ -1,7 +1,7 @@
 ---
 date: 2022-01-06T03:30:50.748Z
 categories: ["book"]
-series: "Tantra: The Supreme Understanding"
+series: "Osho: Tantra — The Supreme Understanding"
 ---
 > [Do whatever you like, but take each action with full awareness.]
 
