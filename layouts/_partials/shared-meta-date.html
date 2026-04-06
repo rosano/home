@@ -35,7 +35,9 @@
 		<!-- VIA -->
 		{{- with .Param "via" -}}
 		<span>, via: 
-			{{ if strings.Contains . "http" -}}
+			{{ if strings.Contains . "](" -}}
+				{{ . | markdownify | safeHTML }}
+			{{- else if strings.Contains . "http" -}}
 				<a href="{{ . }}">{{ replace (urls.Parse .).Hostname "www." "" }}</a>
 			{{- else -}}
 				{{- . -}}
