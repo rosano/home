@@ -1,5 +1,5 @@
 <!-- RECORDED -->
-{{- if .Params.recorded -}}<p><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
+{{- if .Params.recorded -}}<p data-pagefind-ignore><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
 
 <!-- SERIES -->
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small>{{- end -}}
