@@ -1,0 +1,11 @@
+---
+date: 2021-12-14T16:55:08.000Z
+categories:
+  - sound
+link: https://www.youtube.com/watch?v=fAxHlLK3Oyk
+---
+[Alvin Lucier: I Am Sitting In A Room (1981)](https://www.youtube.com/watch?v=fAxHlLK3Oyk)
+
+Speaking seamlessly morphs into ‘room’, sounding ethereal like a vortex has opened, alive and shimmering. Simple production technique on a simple text to create something profound. It takes a magician to create something out of nothing, or maybe just perception… We can always listen more.
+
+> I am sitting in a room different from the one you are in now. I am recording the sound of my speaking voice, and I am going to play it back into the room again and again, until the resonant frequencies of the room reinforce themselves, so that any semblance of my speech, with perhaps the exception of rhythm, is destroyed. What you will hear, then, are the natural resonant frequencies of the room, articulated by speech. I regard this activity not so much as a demonstration of a physical fact, but more as a way to smooth out any irregularities my speech might have.
