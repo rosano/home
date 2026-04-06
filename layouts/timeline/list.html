@@ -1,22 +1,5 @@
 {{ define "main" }}
 
-<script src="/pagefind/pagefind-ui.js"></script>
-<div id="search" class="post"></div>
-<style>
-#search .pagefind-ui__result-thumb {
-	display: none;
-}
-</style>
-<script>
-window.addEventListener('DOMContentLoaded', event => new PagefindUI({
-	element: '#search',
-	showSubResults: true,
-	sort: {
-		date: 'desc',
-	},
-}));
-</script>
-
 {{- partial "shared-list" . -}}
 
 {{ end }}
