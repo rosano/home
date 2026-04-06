@@ -309,7 +309,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 <video autoplay muted loop><source src="https://static.rosano.ca/home/blog/2025-12-18-audioscrub-and-sonogrid-back-on-the-app-store/main-iphone.m4v" type="video/mp4"></video>
 </card-list>
 
-# Sounds
+# sounds
 
 <card-list>
 
@@ -381,7 +381,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 	Find more projects in the archive.
 </a>
 
-# Etcetera
+# etcetera
 
 <etcetera>
 

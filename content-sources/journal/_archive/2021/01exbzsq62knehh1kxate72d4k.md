@@ -3,6 +3,7 @@ date: 2021-01-31T10:28:45.378Z
 via: https://twitter.com/absurdistwords/status/1106565727115460608
 categories: ["thought"]
 ---
+> [
 > 1. The white public's indifference to the well-being of people of colour ensures that any response to racist violence is minimized.
 > 2. The media's white-centric perspective on domestic and foreign events and vilification of people of colour reinforces the first layer.
 > 3. The trolls flip back and forth between jokes and seriousness, which provides plausible deniability.
@@ -15,3 +16,4 @@ categories: ["thought"]
 > 10. Organized white nationalists use 8 to speak loudly and recruit disaffected youth to the cause.
 > 11. Lone wolves feed on information from other layers, ready to enact ideological violence, but remain unconnected to anyone and are disavowed by others.
 > 12. Decentralized troll farms artificially inflate the support of certain ideologies and undermine truth.
+> ]

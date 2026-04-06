@@ -7,6 +7,6 @@ categories: ["talk"]
 
 > [Identifier trois mots qui décrivent la personne que tu veux être et régler une alarme trois fois par jour pour te rappeller que tu es cette personne.]
 
-> [Quelles sont les compétences que tu manques pour réussir dans tom business?]
+> [Quelles sont les compétences que tu manques pour réussir dans ton business?]
 
 > [Comment est-ce que je peux ajouter plus de valeur?]
