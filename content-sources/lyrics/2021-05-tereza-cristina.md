@@ -29,10 +29,9 @@ E o novo dia chegou
 E eu vim me buscar
 Quem sabe em você
 
-## Sources
-- audio https://www.youtube.com/watch?v=5w4f0LWo-7g
-- Chords https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
-- Chords https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
+audio: https://www.youtube.com/watch?v=5w4f0LWo-7g
+Chords: https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
+Chords: https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
 
 # Meu Mundo É Hoje
 
@@ -82,8 +81,7 @@ Nada mais vai no caixão
 
 (Refrão)
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/meu-mundo-hoje/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/meu-mundo-hoje/
 
 # Para Um Amor No Recife
 
@@ -110,9 +108,8 @@ Que voltarei depressa tão logo a noite acabe
  A7                D#m7(b5)    G#7        C#m7
 Tão logo este tempo passe  para beijar você
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/para-um-amor-no-recife/
-- audio https://youtu.be/PClFteQLPxI
+chords: https://www.cifraclub.com.br/paulinho-da-viola/para-um-amor-no-recife/
+audio: https://youtu.be/PClFteQLPxI
 
 # Onde a Dor Não Tem Razão
 
@@ -148,9 +145,8 @@ Quando consegue do peito tirar um espinho
 
 Já não pode morrer
 
-## Sources
-- video https://www.youtube.com/watch?v=ZQNIa6VhHoY
-- chords https://www.cifraclub.com.br/paulinho-da-viola/onde-dor-nao-tem-razao/
+video: https://www.youtube.com/watch?v=ZQNIa6VhHoY
+chords: https://www.cifraclub.com.br/paulinho-da-viola/onde-dor-nao-tem-razao/
 
 # Quando Bate Uma Saudade
 
@@ -189,8 +185,7 @@ Ele trata com ternura o sofrimento
            D                A7
 E afasta a solidão   ( Mas vem... )
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/quando-bate-uma-saudade/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/quando-bate-uma-saudade/
 
 # Coração Leviano
 
@@ -234,8 +229,7 @@ De um coração leviano
     Db7    F#m7 B7     E
 Que nunca será de ninguém
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-leviano/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/coracao-leviano/
 
 # No Pagode do Vavá
 
@@ -282,8 +276,7 @@ e ficou maluco de tanta alegria (domingo)
 
 Refrão
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/no-pagode-do-vava/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/no-pagode-do-vava/
 
 # Moema Morenou
 
@@ -350,8 +343,7 @@ O Sol da Bahia te queimou
             D7       G
 Teu corpo morena morenou
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/moema-morenou/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/moema-morenou/
 
 # Coração Vulgar
 
@@ -420,8 +412,7 @@ E uma ilusão deve morrer
 
 Am7(9)
 
-## Sources
-- chords https://www.cifraclub.com.br/paulinho-da-viola/coracao-vulgar/
+chords: https://www.cifraclub.com.br/paulinho-da-viola/coracao-vulgar/
 
 # Coisas Banais
 
@@ -476,9 +467,8 @@ Nem se prende a coisas banais
  G
 Repare bem
 
-## Sources
-- audio https://www.youtube.com/watch?v=xCP3T9i7Kb0&list=PLTaRWr5sdDvlH94QabxSqKTnelrwTzXms&index=14
-- Chords https://www.cifraclub.com.br/tereza-cristina/coisas-banais/
+audio: https://www.youtube.com/watch?v=xCP3T9i7Kb0&list=PLTaRWr5sdDvlH94QabxSqKTnelrwTzXms&index=14
+Chords: https://www.cifraclub.com.br/tereza-cristina/coisas-banais/
 
 # Depois de Tanto Amor
 
@@ -523,8 +513,7 @@ Até quando por direito
 Este amor chegar
 
 
-## Sources
-- lyrics https://www.letras.mus.br/paulinho-da-viola/278698/
+lyrics: https://www.letras.mus.br/paulinho-da-viola/278698/
 
 # Pecado Capital
 

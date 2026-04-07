@@ -112,9 +112,7 @@ Eu voltei lá no passado
 Me lembrei de Camafeu
 Da barraca do mercado
  
-
-## Sources
-- lyrics https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%2010
+lyrics: https://abadadc.org/paginas/musicas/abada_Lobisomem.htm#cd%20lobisomem%20-%2010
 
 # No Balanço do Mar (Esquilo)
  

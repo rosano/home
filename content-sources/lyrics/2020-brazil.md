@@ -22,9 +22,8 @@ mas eu quero que seja
 nossos sonhos de amor, nosso gesto de amor
 que me balança e me desperta, sempre mais
 
-## Sources
-- [Audio](https://www.youtube.com/watch?v=OfIM0uBIPpg)
-- [Lyrics](https://www.cifraclub.com.br/art-popular/quando-voce-me-beija/)
+Audio: https://www.youtube.com/watch?v=OfIM0uBIPpg
+Lyrics: https://www.cifraclub.com.br/art-popular/quando-voce-me-beija/
 
 # Paulinho da Viola: Timoneiro
 
@@ -65,9 +64,8 @@ Vivo num redemoinho Deus bem sabe o que ele faz
 
 A onda que me carrega ela mesma  quem me traz
 
-## Sources
-- video https://www.youtube.com/watch?v=7DXfO39necU
-- chords https://www.cifraclub.com.br/paulinho-da-viola/timoneiro/
+video: https://www.youtube.com/watch?v=7DXfO39necU
+chords: https://www.cifraclub.com.br/paulinho-da-viola/timoneiro/
 
 # Chico Buarque: Eu Não Quero Saber
 
@@ -84,8 +82,7 @@ Hoje passas por aqui a procura de carinho
 É favor não fazer paradeiro 
 Siga teu caminho eu não estou mais sozinho 
 
-## Sources
-- lyrics https://www.kboing.com.br/samba-de-fatocristina-buarque/eu-nao-quero-saber/
+lyrics: https://www.kboing.com.br/samba-de-fatocristina-buarque/eu-nao-quero-saber/
 
 # Teresa Cristina: Cantar
 
@@ -130,6 +127,5 @@ Vou jogando a minha vida pra você
     B7            E7            A
 Por isso, fecho os olhos pra não ver
 
-## Sources
-- chords https://www.cifraclub.com.br/teresa-cristina-grupo-semente/cantar/
-- audio https://youtu.be/BTkgR3joi8w
+chords: https://www.cifraclub.com.br/teresa-cristina-grupo-semente/cantar/
+audio: https://youtu.be/BTkgR3joi8w
