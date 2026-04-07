@@ -6,6 +6,7 @@ summary: Feels good to improve so much without a big 'redesign'.
 tags:
   - process
   - changelog
+series: Digital homestead
 twitter_id: 2035687214470840666
 mastodon_id: 116272710121240748
 bluesky_id: 3mhnimuq26c2n
