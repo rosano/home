@@ -1,4 +1,11 @@
 ---
+twitter_id: "2041527367374389263"
+mastodon_id: "116363954366605994"
+bluesky_id: 3mivzckz6j22s
+nostr_id: note10quutlt2x0l688zvzuy8ghz68445v7xdszs7dms6dfa3qf56mf9sj4dg8d
+linkedin_id: ugcPost:7447293556593152002
+submittedAt: 2026-04-07T14:46:07.612Z
+formMode: test
 slug: bringing-music-recommendations-home
 title: bringing music recommendations home
 summary: less on social media, more in places I control
