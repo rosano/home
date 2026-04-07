@@ -11,8 +11,6 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 
 </section>
 
-{{< search >}}
-
 # connection
 
 <card-list>
