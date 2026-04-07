@@ -454,7 +454,7 @@ Iúna é uma ave espiritual
 Seu canto é a chave desse ritual
 
 
-## English
+**english**
 
 Iúna is wood, a piece of wood
 wood for berimbau
@@ -586,7 +586,7 @@ Que esse jogo me seduz
 Vem também, camaradinho
 Vem cantar o que eu compus
 
-## English
+**english**
 
 comrade, come play Angola
 comrade, in the big 'terreiro'
