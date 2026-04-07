@@ -1,6 +1,6 @@
 ---
 date: 2021-11-20T22:56:39.000Z
-via: "[Debora Ipekel](https://worldwidefm.net/episode/debora-ipekel-2))"
+via: "[Debora Ipekel](https://worldwidefm.net/episode/debora-ipekel-2)"
 categories:
   - sound
 link: https://www.youtube.com/watch?v=fBc1Al4w64I

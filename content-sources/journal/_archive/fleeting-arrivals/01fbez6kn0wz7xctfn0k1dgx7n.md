@@ -6,7 +6,7 @@ link: https://www.youtube.com/watch?v=g4I4X8r4RX4
 ---
 [Joyce Moreno: Hard Bossa (1999)](https://www.youtube.com/watch?v=g4I4X8r4RX4)
 
-I try to avoid saying here whether I think something is ‘good’ as it’s not a useful comment, but I can’t help stating that [_Hard Bossa_ (1999)](https://www.youtube.com/watch?v=g4I4X8r4RX4) by Joyce Moreno (featured in #005) is **excellent**. I was fooled by ‘the b word’, thinking that it would be easy-going music made by Brazilians catering to an international audience, and I was very wrong: traditional elements are unapologetically slathered throughout.
+I try to avoid saying here whether I think something is ‘good’ as it’s not a useful comment, but I can’t help stating that [_Hard Bossa_ (1999)](https://www.youtube.com/watch?v=g4I4X8r4RX4) by Joyce Moreno (featured in [#005](https://cafe.rosano.ca/t/topic/87)) is **excellent**. I was fooled by ‘the b word’, thinking that it would be easy-going music made by Brazilians catering to an international audience, and I was very wrong: traditional elements are unapologetically slathered throughout.
 
 I’ll share my impressions of some songs, but the whole album is worth a listen:
 
