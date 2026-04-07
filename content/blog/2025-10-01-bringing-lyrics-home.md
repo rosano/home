@@ -2,6 +2,8 @@
 slug: bringing-lyrics-home
 title: bringing lyrics home
 summary: From 'trapped in my notes' to 'public data' that anyone can use.
+tags: changelog
+series: Digital homestead
 date: 2025-10-01T08:22:02.109Z
 twitter_id: 1973314769957560762
 mastodon_id: 115298132436446030

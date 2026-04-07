@@ -3,7 +3,9 @@ title: tidying my homepage
 slug: tidying-my-homepage
 date: 2026-03-22T11:50:00Z
 summary: Feels good to improve so much without a big 'redesign'.
-tags: process
+tags:
+  - process
+  - changelog
 twitter_id: 2035687214470840666
 mastodon_id: 116272710121240748
 bluesky_id: 3mhnimuq26c2n
