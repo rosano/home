@@ -3,7 +3,7 @@ date: 2026-04-06T10:04:10.727Z
 link: https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/
 categories: ["article"]
 ---
-[The case against conversational interfaces The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
+[The case against conversational interfaces](https://julian.digital/2025/03/27/the-case-against-conversational-interfaces/)
 
 > We are significantly faster at receiving data (reading, listening) than sending it (writing, speaking). This is why we can listen to podcasts at 2x speed, but not record them at 2x speed.
 
