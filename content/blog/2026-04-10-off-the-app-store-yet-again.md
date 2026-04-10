@@ -4,9 +4,9 @@ title: off the App Store yet again
 summary: stay updated, scale big, or you'll get taken out.
 date: 2026-04-10T09:10:14.126Z
 twitter_id: "2041527367374389263"
-mastodon_id: "116363954366605994"
-bluesky_id: "3mivzckz6j22s"
-nostr_id: "note10quutlt2x0l688zvzuy8ghz68445v7xdszs7dms6dfa3qf56mf9sj4dg8d"
+mastodon_id: "116379685796902742"
+bluesky_id: "3mj56xoaw322a"
+nostr_id: "note1ku38p2mdp3j83r6vexhypn8c3hjty56ksx94we8xuxuvwu4hxknsu9yhr7"
 linkedin_id: "ugcPost:7447293556593152002"
 ---
 I wrote this in January but waited to see if I'd resolve it somehow. Since it looks like I'll miss the deadline, better to share it and move on.
