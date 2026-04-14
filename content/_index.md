@@ -287,6 +287,15 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 <card-list>
 
 {{< card
+	title="off the App Store yet again"
+	link=/blog/off-the-app-store-yet-again/
+>}}
+
+> stay updated, scale big, or you'll get taken out.
+
+{{< /card >}}
+
+{{< card
 	title="back on the App Store"
 	link=/blog/audioscrub-and-sonogrid-back-on-the-app-store/
 >}}
@@ -301,6 +310,15 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 >}}
 
 > Why I stopped making iOS apps after twelve years.
+
+{{< /card >}}
+
+{{< card
+	title="Sixth time's a charm"
+	link=/blog/sixth-times-a-charm/
+>}}
+
+> I thought this is something only 'smart people' could do.
 
 {{< /card >}}
 

@@ -3,6 +3,8 @@ slug: off-the-app-store-yet-again
 title: off the App Store yet again
 summary: stay updated, scale big, or you'll get taken out.
 date: 2026-04-10T09:10:14.126Z
+tags:
+  - apps
 twitter_id: "2041527367374389263"
 mastodon_id: "116379685796902742"
 bluesky_id: "3mj56xoaw322a"

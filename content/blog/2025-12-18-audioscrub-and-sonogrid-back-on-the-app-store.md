@@ -13,7 +13,6 @@ title: AudioScrub and sonogrid back on the App Store
 summary: Everything still works great and I've never stopped using them.
 tags:
   - apps
-  - iOS
 date: 2025-12-18T10:00:24.002Z
 ---
 My iOS apps are [on the App Store](https://apps.apple.com/developer/rcreativ/id356609408) again; if you ever wanted to have sonogrid or the others, now might be a good time to get a copy.
