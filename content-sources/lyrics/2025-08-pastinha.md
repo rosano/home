@@ -204,8 +204,10 @@ o le le
 
 eu vou ler o meu abc
 porque não queria cantar
-foi no ijimpi quem me dera esse lugar
-vieram muitos mestres com pastinha jogar
+foi no gingitirra
+quem me deu esse lugar
+vieram muitos mestres
+com Pastinha jogar
 
 vou me embora para São Paulo
 vou me embora seu doutor
