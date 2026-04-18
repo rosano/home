@@ -410,6 +410,8 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineWiki.svg) Wiki ](https://rosano.hmm.garden)
 
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineFeed.svg) Feed ](https://rosano.ca/en/feed)
+[![](https://static.rosano.ca/_shared/_OLSKSharedFeatureRecord.svg) Lyrics](/lyrics)
+
 
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineWebring.svg) Webring](https://webring.xxiivv.com/#random)
 
