@@ -167,7 +167,7 @@ header {
 	}
 
 	ol, ul {
-		padding-left: calc(var(--rh-pad) * 2);
+		padding-left: calc(var(--rh-pad) * 3);
 	}
 
 	.metadata {
