@@ -1,0 +1,3 @@
+{{- range $k, $v := resources.Get "departures.csv" | transform.Unmarshal (dict "targetType" "map") | last 1 }}
+  {{- index $v "place" }}, {{ index $v "country" }} {{ partial "flag-emoji.html" (index $v "countrycode") }}
+{{ end -}}

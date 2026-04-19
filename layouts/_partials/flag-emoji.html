@@ -1,0 +1,12 @@
+{{ $flag := "" }}
+{{ range $letter := split . "" }}
+  {{ $match := "" }}
+  {{ range $index, $item := (split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "") }}
+    {{ if eq $item $letter }}
+      {{ $match = $index }}
+    {{ end }}
+  {{ end }}
+
+  {{ $flag = print $flag (printf "%c" (add 127397 65 $match)) }}
+{{ end }}
+{{ $flag }}
