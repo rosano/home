@@ -44,7 +44,6 @@ An attempt to collect my online publishing across various platforms into one 'ho
 | `logoURL` | URL | used as an image near the site title |
 | `touchURL` | URL | image for adding to home screens |
 | `RSSFeedURLs` | map[name: url] | external RSS urls |
-| `lowerLyricTitles` | boolean | show lyric titles in lowercase unless preceeded by `~` |
 | `timelineSources` | list | paths (relative to project root) to include as timeline content |
 
 - Custom CSS can be set in `css/style.css`

@@ -136,7 +136,7 @@ eu vou partir porque mataram meu Besouro
 ê zum zum zum zum !
 ê Besouro !
 
-# ~eu vou ler o B-A-Bá
+# eu vou ler o B-A-Bá
 
 menino preste atenção no que eu vou dizer
 o que eu faço brincando você não faz nem zangado

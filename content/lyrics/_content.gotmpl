@@ -20,12 +20,8 @@
     {{ end }}
     
     {{ $lines := split $content "\n" }}
-
     {{ $title := index $lines 0 }}
-    {{ if site.Params.lowerLyricTitles }}
-      {{ $title = cond (eq (substr $title 0 1) "~") (substr $title 1) (lower $title) }}
-    {{ end }}
-    
+
     {{ $slugState = merge $slugState (dict
       "slug" (delimit (complement (slice "") (split ($title | anchorize) "-")) "-")
     ) }}

@@ -99,7 +99,6 @@ params:
   _bannerScriptURL: https://olsk.rosano.ca/OLSKBanner/master/main.js
   _showTemporary: true
   _showTypes: true
-  lowerLyricTitles: true
   timelineSources:
     - content-sources/journal
     - content-sources/journal/_archive/2021

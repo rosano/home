@@ -4,7 +4,7 @@ slug: pinheiro-besouro
 topic:
   - capoeira
 ---
-# ~toque de Amazonas
+# toque de Amazonas
 
 no largo do Pelourinho
 o bem convive com o mal
@@ -62,7 +62,7 @@ Ogum, meu guia
 salve o Besouro, mangangá
 rei da Bahia
 
-# ~toque de Benguela
+# toque de Benguela
 
 Mãe-África engravidou em Angola
 Partiu de Luanda e de Benguela
@@ -145,7 +145,7 @@ Vim aqui pra jogo de dentro
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/jogo-de-dentro/#album:capoeira-de-besouro-2010
 
-# ~toque de São Bento Pequeno
+# toque de São Bento Pequeno
 
 No coração contra o veneno
 A proteção é São Bento pequeno
@@ -182,7 +182,7 @@ Com respeito a meu São Bento pequeno
 - https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-sao-bento-pequeno/
 - https://www.arteculturacapoeira.com.br/site/index.php?option=com_content&view=article&id=102:dicionario&catid=57:dicionario-da-capoeira&Itemid=85
 
-# ~toque de Cavalaria
+# toque de Cavalaria
 
 Já chegou o sargento da capitania
 Vamos tocar cavalaria
@@ -310,7 +310,7 @@ Pelo Toque de Santa Maria
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/1943216/#album:capoeira-de-besouro-2010
 
-# ~toque de São Bento Grande de Angola
+# toque de São Bento Grande de Angola
 
 Nesse mundo camará
 Mas não há mas não há
@@ -358,7 +358,7 @@ So se for são bento grande
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/1943215/#album:capoeira-de-besouro-2010
 
-# ~toque de Barravento
+# toque de Barravento
 
 Ê, iê, iê, iê, iê
 Barravento chegou
@@ -408,7 +408,7 @@ Iaô dança
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-barravento/#album:capoeira-de-besouro-2010
 
-# ~toque de Iúna
+# toque de Iúna
 
 Iúna é madeira é pedaço de pau
 Graúna, aroeira, beri-berimbau
@@ -501,7 +501,7 @@ their song is the key to this ritual
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-iuna/#album:capoeira-de-besouro-2010
 
-# ~toque de Angola Dobrada
+# toque de Angola Dobrada
 
 Iê iê iê iê iê
 Arrebentaram a corrente, quebraram a argola
@@ -552,7 +552,7 @@ Tem Besouro de frente no jogo de Angola
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-angola-dobrada/#album:capoeira-de-besouro-2010
 
-# ~toque de Angola
+# toque de Angola
 
 Camará, vem jogar de Angola
 Camará, no terreiro grande
