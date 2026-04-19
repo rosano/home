@@ -100,7 +100,7 @@ Se instigar vai provar o veneno dela
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
 
-# Jogo de Dentro
+# jogo de dentro
 
 Se você, camará, entrar eu entro
 Vim aqui pra jogar jogo de dentro
@@ -267,7 +267,7 @@ Vamos tocar cavalaria
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-cavalaria/#album:capoeira-de-besouro-2010
 
-# Toque de Santa Maria
+# toque de Santa Maria
 
 No terreiro da lua (Santa Maria)
 Não tem mais quebranto (Santa Maria)
@@ -285,8 +285,8 @@ Sob a lança do santo vigia
 A rainha chamou o soldado
 Pelo chefe da cavalaria
 Santo Jorge foi condecorado
-Cavaleiro de santa Maria (Cavaleira de santa Maria)
-Cavaleiro de santa Maria
+Cavaleiro de Santa Maria (Cavaleira de Santa Maria)
+Cavaleiro de Santa Maria
 
 Quando a lua alumia o terreiro
 O major desce da montaria
@@ -295,7 +295,7 @@ Tem seu quadro cada academia
 É que pra se acabar cativeiro
 Nos terreiros do chão da Bahia
 Santo Jorge é que foi o primeiro
-Capoeira de Santa Maria (capoeira de santa Maria)
+Capoeira de Santa Maria (capoeira de Santa Maria)
 Capoeira de Santa Maria
 
 Essa historia nasceu com Besouro
@@ -705,7 +705,7 @@ Veio no toque de Idalina
 
 https://www.musixmatch.com/pt/letras/Paulo-Cesar-Pinheiro-3/Toque-de-Idalina
 
-# Jogo de Fora
+# jogo de fora
 
 Eu quero ver quem fica
 Eu quero ver quem sai
@@ -774,17 +774,17 @@ Tu me procure que eu tô lá
 
 https://www.musixmatch.com/lyrics/Paulo-Cesar-Pinheiro-3/Jogo-de-Fora
 
-# Toque de Tico-Tico
+# toque de Tico-Tico
 
 Eu em chão de senzala não fico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 É no pé, é na asa, é no bico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Pau que dá em Francisco, dá em Chico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 Quando o galo cantar eu me pico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Camará, ninguém dá tombo
 Num guerreiro de Guiné
@@ -792,14 +792,14 @@ Vamo embora pro quilombo
 Lá de Ilha de Maré
 
 Não nasci pra capacho de rico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 Não sou besta de carga ou jerico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Capoeira escondido eu pratico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 Pra lutar com feitor e milico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Todo mundo é rei sem trono
 Não se vive na corrente
@@ -807,14 +807,14 @@ Passarinho não tem dono
 Nem gente é dono de gente
 
 É com quem tem poder que eu implico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 Com pancada eu não me modifico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Pra parar de bater não suplico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 Vou morrer mas não peço penico
-Me tira daqui, tico-tico
+Me tira daqui, Tico-Tico
 
 Sou guerreiro de Aruanda
 Beira-mar é que me guia
@@ -843,7 +843,7 @@ Lá de Ilha de Maré
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-tico-tico/#album:capoeira-de-besouro-2010
 
-# Samba de Roda
+# samba de roda
 
 Quando eu morrer me enterre na lapinha
 Calça culote, palitó, almofadinha
