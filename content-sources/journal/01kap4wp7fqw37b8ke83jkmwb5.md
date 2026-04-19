@@ -54,12 +54,12 @@ series: "Elinor Ostrom: Governing the Commons"
 
 > [In a setting where external government has little effect on internal choices, the likelihood of appropriators adopting rule changes positively relates to whether:]
 > 
-> 1 Most appropriators share a common judgment that they will be harmed if they do not adopt an alternative rule.
-> 2 Most appropriators will be affected in similar ways by the proposed rule changes.
-> 3 Most appropriators highly value the continuation activities from this
+> 1. Most appropriators share a common judgment that they will be harmed if they do not adopt an alternative rule.
+> 2. Most appropriators will be affected in similar ways by the proposed rule changes.
+> 3. Most appropriators highly value the continuation activities from this
 > CPR; in other words, they have low discount rates.
-> 4 Appropriators face relatively low information, transformation, and enforcement costs.
-> 5 Most appropriators share generalized norms of reciprocity and trust that can be used as initial social capital.
-> 6 The group appropriating from the CPR is relatively small and stable.
+> 4. Appropriators face relatively low information, transformation, and enforcement costs.
+> 5. Most appropriators share generalized norms of reciprocity and trust that can be used as initial social capital.
+> 6. The group appropriating from the CPR is relatively small and stable.
 
 > The typical assumptions of complete information, independent action, perfect symmetry of interests, no human error, no norms of reciprocity, zero monitoring and enforcement costs, and no capacity to transform the situation itself will lead to highly particularized models, not universal theories.
