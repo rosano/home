@@ -2,11 +2,11 @@
 
 <!-- TITLE -->
 {{- if .Title -}}
-	<h3 class="title sticky"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+	<h3 class="title sticky"><a href="{{ .RelPermalink }}" {{ if not (.Scratch.Get "kScopeList") }}data-pagefind-meta="title"{{ end }}>{{ .Title }}</a></h3>
 {{- end -}}
 
 <!-- CONTENT -->
-<blockquote class="lyrics">
+<blockquote class="lyrics" {{ if not (.Scratch.Get "kScopeList") }}data-pagefind-body{{ end }}>
 {{- .Content -}}
 </blockquote>
 
