@@ -1,331 +1,331 @@
-time,place,country,timezone,countrycode
-2000-01-01T05:00:00Z,Toronto,Canada,America/Toronto,CA
-2009-07-13T22:00:00Z,Venice,Italy,Europe/Rome,IT
-2009-07-17T07:00:00Z,Rome,Italy,Europe/Rome,IT
-2009-08-01T14:00:00Z,Milan,Italy,Europe/Rome,IT
-2009-08-01T19:00:00Z,Frankfurt,Germany,Europe/Berlin,DE
-2009-08-02T12:00:00Z,Toronto,Canada,America/Toronto,CA
-2012-03-27T14:00:00Z,NYC,United States,America/New_York,US
-2012-03-31T17:00:00Z,Toronto,Canada,America/Toronto,CA
-2012-06-05T01:00:00Z,NYC,United States,America/New_York,US
-2012-06-10T02:00:00Z,Toronto,Canada,America/Toronto,CA
-2012-07-14T16:00:00Z,NYC,United States,America/New_York,US
-2012-07-28T15:00:00Z,Toronto,Canada,America/Toronto,CA
-2012-08-08T01:00:00Z,NYC,United States,America/New_York,US
-2012-08-10T16:00:00Z,Toronto,Canada,America/Toronto,CA
-2013-11-17T23:00:00Z,Goa,India,Asia/Kolkata,IN
-2013-12-04T06:30:00Z,Delhi,India,Asia/Kolkata,IN
-2013-12-07T04:30:00Z,Agra,India,Asia/Kolkata,IN
-2013-12-07T13:30:00Z,Delhi,India,Asia/Kolkata,IN
-2013-12-08T06:30:00Z,Lucknow,India,Asia/Kolkata,IN
-2013-12-11T06:30:00Z,Jaipur,India,Asia/Kolkata,IN
-2013-12-14T06:30:00Z,Ahmedabad,India,Asia/Kolkata,IN
-2013-12-17T06:30:00Z,Mumbai,India,Asia/Kolkata,IN
-2013-12-26T20:30:00Z,Toronto,Canada,America/Toronto,CA
-2014-04-29T20:00:00Z,Montreal,Canada,America/Toronto,CA
-2014-05-03T19:00:00Z,Toronto,Canada,America/Toronto,CA
-2014-08-23T17:00:00Z,Montreal,Canada,America/Toronto,CA
-2014-08-31T15:00:00Z,Toronto,Canada,America/Toronto,CA
-2014-09-26T14:00:00Z,Montreal,Canada,America/Toronto,CA
-2017-08-27T12:00:00Z,Toronto,Canada,America/Toronto,CA
-2017-08-29T05:00:00Z,Guatemala City,Guatemala,America/Guatemala,GT
-2017-08-30T14:00:00Z,Quetzaltenango,Guatemala,America/Guatemala,GT
-2017-09-24T16:00:00Z,Guatemala City,Guatemala,America/Guatemala,GT
-2017-09-25T20:00:00Z,Mexico City,Mexico,America/Mexico_City,MX
-2017-10-05T15:00:00Z,Oaxaca,Mexico,America/Mexico_City,MX
-2017-10-16T14:00:00Z,Mexico City,Mexico,America/Mexico_City,MX
-2017-10-17T22:00:00Z,Fort Lauderdale,United States,America/New_York,US
-2017-10-18T16:00:00Z,Santo Domingo,Dominican Republic,America/Santo_Domingo,DO
-2017-10-22T14:00:00Z,Port-au-Prince,Haiti,America/Port-au-Prince,HT
-2017-10-23T14:00:00Z,Cap-Haitien,Haiti,America/Port-au-Prince,HT
-2017-11-05T14:00:00Z,Port-au-Prince,Haiti,America/Port-au-Prince,HT
-2017-11-08T20:00:00Z,Montreal,Canada,America/Toronto,CA
-2017-11-09T22:00:00Z,Toronto,Canada,America/Toronto,CA
-2017-11-10T18:00:00Z,Tokyo,Japan,Asia/Tokyo,JP
-2017-11-17T13:00:00Z,Kyoto,Japan,Asia/Tokyo,JP
-2017-11-22T04:00:00Z,Osaka,Japan,Asia/Tokyo,JP
-2017-11-25T04:00:00Z,Manila,Philippines,Asia/Manila,PH
-2017-11-27T13:00:00Z,Baguio,Philippines,Asia/Manila,PH
-2017-11-28T22:00:00Z,Sagada,Philippines,Asia/Manila,PH
-2017-12-01T22:00:00Z,Bontoc,Philippines,Asia/Manila,PH
-2017-12-02T01:00:00Z,Banaue,Philippines,Asia/Manila,PH
-2017-12-03T10:00:00Z,Manila,Philippines,Asia/Manila,PH
-2017-12-05T12:00:00Z,Jakarta,Indonesia,Asia/Jakarta,"ID"
-2017-12-06T11:00:00Z,Bandung,Indonesia,Asia/Jakarta,"ID"
-2017-12-08T07:00:00Z,Jakarta,Indonesia,Asia/Jakarta,"ID"
-2017-12-13T09:00:00Z,Bangkok,Thailand,Asia/Bangkok,TH
-2017-12-16T04:00:00Z,Ayutthaya,Thailand,Asia/Bangkok,TH
-2017-12-18T06:00:00Z,Khorat,Thailand,Asia/Bangkok,TH
-2017-12-20T03:00:00Z,Bangkok,Thailand,Asia/Bangkok,TH
-2017-12-22T06:00:00Z,Singapore,Singapore,Asia/Singapore,SG
-2017-12-28T01:00:00Z,London,England,Europe/London,GB
-2018-01-01T11:00:00Z,Barcelona,Spain,Europe/Madrid,ES
-2018-01-06T05:00:00Z,Paris,France,Europe/Paris,FR
-2018-01-10T13:00:00Z,Bergamo,Italy,Europe/Rome,IT
-2018-01-10T21:00:00Z,Milan,Italy,Europe/Rome,IT
-2018-01-11T01:00:00Z,Florence,Italy,Europe/Rome,IT
-2018-01-13T13:00:00Z,Milan,Italy,Europe/Rome,IT
-2018-01-15T11:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2018-01-17T23:00:00Z,São Paulo,Brazil,America/Sao_Paulo,BR
-2018-01-23T20:00:00Z,Rio de Janeiro,Brazil,America/Sao_Paulo,BR
-2018-02-01T15:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2018-02-04T12:00:00Z,Salvador,Brazil,America/Bahia,BR
-2018-02-06T16:00:00Z,Recife,Brazil,America/Recife,BR
-2018-02-10T09:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2018-02-11T20:00:00Z,Manaus,Brazil,America/Manaus,BR
-2018-02-13T13:00:00Z,Barcelona,Venezuela,America/Caracas,VE
-2018-02-13T20:00:00Z,Miami,United States,America/New_York,US
-2018-02-14T02:00:00Z,Toronto,Canada,America/Toronto,CA
-2018-02-15T05:00:00Z,Montreal,Canada,America/Toronto,CA
-2018-05-31T03:00:00Z,Toronto,Canada,America/Toronto,CA
-2018-06-04T03:00:00Z,NYC,United States,America/New_York,US
-2018-06-05T04:00:00Z,Paris,France,Europe/Paris,FR
-2018-06-05T14:00:00Z,Lille,France,Europe/Paris,FR
-2018-06-07T10:00:00Z,Paris,France,Europe/Paris,FR
-2018-06-10T10:00:00Z,Catania,Italy,Europe/Rome,IT
-2018-06-12T13:00:00Z,Palermo,Italy,Europe/Rome,IT
-2018-06-14T13:00:00Z,Milan,Italy,Europe/Rome,IT
-2018-06-14T16:00:00Z,Monza,Italy,Europe/Rome,IT
-2018-06-19T18:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2018-06-22T08:00:00Z,Amsterdam,Netherlands,Europe/Amsterdam,NL
-2018-06-22T16:00:00Z,Rotterdam,Netherlands,Europe/Amsterdam,NL
-2018-06-25T16:00:00Z,Amsterdam,Netherlands,Europe/Amsterdam,NL
-2018-06-26T07:00:00Z,London,England,Europe/London,GB
-2018-06-26T16:00:00Z,Reykjavík,Iceland,Atlantic/Reykjavik,IS
-2018-06-30T17:00:00Z,Montreal,Canada,America/Toronto,CA
-2018-09-02T04:00:00Z,Toronto,Canada,America/Toronto,CA
-2018-09-05T20:00:00Z,Bogotá,Colombia,America/Bogota,CO
-2018-09-10T15:00:00Z,Tunja,Colombia,America/Bogota,CO
-2018-09-13T18:00:00Z,Bucaramanga,Colombia,America/Bogota,CO
-2018-09-16T19:00:00Z,Aguachica,Colombia,America/Bogota,CO
-2018-09-17T15:00:00Z,Santa Marta,Colombia,America/Bogota,CO
-2018-09-19T14:00:00Z,Valledupar,Colombia,America/Bogota,CO
-2018-09-22T20:00:00Z,Barranquilla,Colombia,America/Bogota,CO
-2018-09-24T19:00:00Z,Cartagena,Colombia,America/Bogota,CO
-2018-09-26T14:00:00Z,Palenque,Colombia,America/Bogota,CO
-2018-09-27T17:00:00Z,María La Baja,Colombia,America/Bogota,CO
-2018-09-28T17:00:00Z,San Jacinto,Colombia,America/Bogota,CO
-2018-09-29T17:00:00Z,Mompós,Colombia,America/Bogota,CO
-2018-10-01T16:00:00Z,El Banco,Colombia,America/Bogota,CO
-2018-10-02T17:00:00Z,San Martin De Loba,Colombia,America/Bogota,CO
-2018-10-03T17:00:00Z,Magangué,Colombia,America/Bogota,CO
-2018-10-04T18:00:00Z,Ovejas,Colombia,America/Bogota,CO
-2018-10-05T17:00:00Z,María La Baja,Colombia,America/Bogota,CO
-2018-10-06T17:00:00Z,Sincelejo,Colombia,America/Bogota,CO
-2018-10-07T17:00:00Z,Caucasia,Colombia,America/Bogota,CO
-2018-10-08T15:00:00Z,Medellín,Colombia,America/Bogota,CO
-2018-10-13T19:00:00Z,Guatapé,Colombia,America/Bogota,CO
-2018-10-15T13:00:00Z,Medellín,Colombia,America/Bogota,CO
-2018-10-15T17:00:00Z,Pereira,Colombia,America/Bogota,CO
-2018-10-17T14:00:00Z,Cali,Colombia,America/Bogota,CO
-2018-10-24T18:00:00Z,Manizales,Colombia,America/Bogota,CO
-2018-10-27T15:00:00Z,Bogotá,Colombia,America/Bogota,CO
-2018-10-30T18:00:00Z,NYC,United States,America/New_York,US
-2018-11-03T20:00:00Z,Toronto,Canada,America/Toronto,CA
-2018-11-05T17:00:00Z,Mississauga,Canada,America/Toronto,CA
-2018-11-09T21:00:00Z,Montreal,Canada,America/Toronto,CA
-2019-02-10T12:00:00Z,Toronto,Canada,America/Toronto,CA
-2019-02-12T00:00:00Z,Paris,France,Europe/Paris,FR
-2019-02-14T07:00:00Z,Chambéry,France,Europe/Paris,FR
-2019-02-17T13:00:00Z,Lyon,France,Europe/Paris,FR
-2019-02-22T09:00:00Z,Montpellier,France,Europe/Paris,FR
-2019-02-25T11:00:00Z,Nîmes,France,Europe/Paris,FR
-2019-02-27T14:00:00Z,Aix-en-Provence,France,Europe/Paris,FR
-2019-02-28T11:00:00Z,Marseille,France,Europe/Paris,FR
-2019-03-02T09:00:00Z,Cairo,Egypt,Africa/Cairo,EG
-2019-03-14T11:00:00Z,Gamasa,Egypt,Africa/Cairo,EG
-2019-03-16T10:00:00Z,Cairo,Egypt,Africa/Cairo,EG
-2019-04-05T10:00:00Z,Suez,Egypt,Africa/Cairo,EG
-2019-04-06T10:00:00Z,Port Said,Egypt,Africa/Cairo,EG
-2019-04-06T10:00:00Z,Ismailia,Egypt,Africa/Cairo,EG
-2019-04-08T10:00:00Z,Alexandria,Egypt,Africa/Cairo,EG
-2019-04-10T10:00:00Z,Fayoum,Egypt,Africa/Cairo,EG
-2019-04-11T10:00:00Z,Assiut,Egypt,Africa/Cairo,EG
-2019-04-14T10:00:00Z,Qena,Egypt,Africa/Cairo,EG
-2019-04-15T10:00:00Z,Luxor,Egypt,Africa/Cairo,EG
-2019-04-17T10:00:00Z,Aswan,Egypt,Africa/Cairo,EG
-2019-04-20T22:00:00Z,Cairo,Egypt,Africa/Cairo,EG
-2019-04-22T01:00:00Z,Capri,Italy,Europe/Rome,IT
-2019-04-26T16:00:00Z,Turin,Italy,Europe/Rome,IT
-2019-04-27T07:00:00Z,Chambéry,France,Europe/Paris,FR
-2019-05-01T08:00:00Z,Lyon,France,Europe/Paris,FR
-2019-05-02T08:00:00Z,Paris,France,Europe/Paris,FR
-2019-05-03T12:00:00Z,Reykjavík,Iceland,Atlantic/Reykjavik,IS
-2019-05-05T17:00:00Z,Toronto,Canada,America/Toronto,CA
-2019-05-08T14:00:00Z,Montreal,Canada,America/Toronto,CA
-2019-12-28T11:00:00Z,NYC,United States,America/New_York,US
-2019-12-31T20:00:00Z,Recife,Brazil,America/Recife,BR
-2020-01-10T15:00:00Z,Pipa,Brazil,America/Recife,BR
-2020-01-13T15:00:00Z,Recife,Brazil,America/Recife,BR
-2020-01-23T05:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2020-02-06T19:00:00Z,Campinas,Brazil,America/Sao_Paulo,BR
-2020-02-13T18:00:00Z,São Paulo,Brazil,America/Sao_Paulo,BR
-2020-02-13T23:00:00Z,Lima,Peru,America/Lima,PE
-2020-02-14T21:00:00Z,Mexico City,Mexico,America/Mexico_City,MX
-2020-02-24T20:00:00Z,Toronto,Canada,America/Toronto,CA
-2020-03-02T22:00:00Z,São Paulo,Brazil,America/Sao_Paulo,BR
-2020-03-04T14:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2020-05-19T08:00:00Z,Campinas,Brazil,America/Sao_Paulo,BR
-2020-09-25T11:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2020-10-09T15:00:00Z,Chapada,Brazil,America/Sao_Paulo,BR
-2020-10-13T15:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2021-01-09T15:00:00Z,Goiás,Brazil,America/Sao_Paulo,BR
-2021-01-10T15:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2021-04-04T15:00:00Z,Alto Paraíso,Brazil,America/Sao_Paulo,BR
-2021-04-06T15:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2021-08-18T14:00:00Z,São Paulo,Brazil,America/Sao_Paulo,BR
-2021-08-23T02:00:00Z,Mexico City,Mexico,America/Mexico_City,MX
-2021-08-25T15:00:00Z,Cancun,Mexico,America/Cancun,MX
-2021-08-27T17:00:00Z,Toronto,Canada,America/Toronto,CA
-2021-10-18T14:00:00Z,Montreal,Canada,America/Toronto,CA
-2021-10-24T14:00:00Z,Toronto,Canada,America/Toronto,CA
-2021-11-01T22:00:00Z,Vancouver,Canada,America/Vancouver,CA
-2021-11-07T21:00:00Z,Toronto,Canada,America/Toronto,CA
-2022-03-05T22:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2022-03-06T12:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-04-06T11:00:00Z,Leipzig,Germany,Europe/Berlin,DE
-2022-04-07T10:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-04-17T13:00:00Z,Wiesenburg (Mark),Germany,Europe/Berlin,DE
-2022-04-18T16:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-04-19T05:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2022-04-21T14:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-04-23T04:00:00Z,Amsterdam,Netherlands,Europe/Amsterdam,NL
-2022-04-24T19:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-05-01T14:00:00Z,Biesenthal,Germany,Europe/Berlin,DE
-2022-05-01T19:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-05-09T18:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2022-05-13T08:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-06-13T12:00:00Z,Glückstadt,Germany,Europe/Berlin,DE
-2022-06-15T13:00:00Z,Hamburg,Germany,Europe/Berlin,DE
-2022-06-16T12:00:00Z,Hanover,Germany,Europe/Berlin,DE
-2022-06-17T16:00:00Z,Hildesheim,Germany,Europe/Berlin,DE
-2022-06-19T12:00:00Z,Witzenhausen,Germany,Europe/Berlin,DE
-2022-06-20T13:00:00Z,Kassel,Germany,Europe/Berlin,DE
-2022-06-20T20:00:00Z,Witzenhausen,Germany,Europe/Berlin,DE
-2022-06-21T14:00:00Z,Göttingen,Germany,Europe/Berlin,DE
-2022-06-24T11:00:00Z,Erfurt,Germany,Europe/Berlin,DE
-2022-06-25T13:00:00Z,Weimar,Germany,Europe/Berlin,DE
-2022-06-25T19:00:00Z,Erfurt,Germany,Europe/Berlin,DE
-2022-06-26T14:00:00Z,Kassel,Germany,Europe/Berlin,DE
-2022-06-28T11:00:00Z,Gießen,Germany,Europe/Berlin,DE
-2022-06-28T15:00:00Z,Ockstadt,Germany,Europe/Berlin,DE
-2022-06-30T08:00:00Z,Lohr,Germany,Europe/Berlin,DE
-2022-06-30T12:00:00Z,Mannheim,Germany,Europe/Berlin,DE
-2022-07-01T17:00:00Z,Landau,Germany,Europe/Berlin,DE
-2022-07-03T11:00:00Z,Stuttgart,Germany,Europe/Berlin,DE
-2022-07-05T08:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2022-07-09T08:00:00Z,Munich,Germany,Europe/Berlin,DE
-2022-07-11T09:00:00Z,Nürnberg,Germany,Europe/Berlin,DE
-2022-07-12T09:00:00Z,Wurzen,Germany,Europe/Berlin,DE
-2022-07-15T09:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-08-15T15:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2022-08-18T16:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2022-11-19T12:00:00Z,Göttingen,Germany,Europe/Berlin,DE
-2022-11-21T09:00:00Z,Frankfurt,Germany,Europe/Berlin,DE
-2022-11-22T10:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2022-11-25T17:00:00Z,Stuttgart,Germany,Europe/Berlin,DE
-2022-11-26T17:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2023-01-14T21:00:00Z,Dubai,United Arab Emirates,Asia/Dubai,AE
-2023-01-16T14:00:00Z,Kuwait City,Kuwait,Asia/Kuwait,KW
-2023-01-17T06:00:00Z,Kuala Lumpur,Malaysia,Asia/Kuala_Lumpur,MY
-2023-01-18T05:00:00Z,Langkawi,Malaysia,Asia/Kuala_Lumpur,MY
-2023-01-30T11:00:00Z,Singapore,Singapore,Asia/Singapore,SG
-2023-02-03T06:00:00Z,Hanoi,Vietnam,Asia/Bangkok,VN
-2023-02-18T08:00:00Z,Da Nang,Vietnam,Asia/Ho_Chi_Minh,VN
-2023-02-22T09:00:00Z,Ho Chi Minh,Vietnam,Asia/Ho_Chi_Minh,VN
-2023-02-28T04:00:00Z,Chiang Mai,Thailand,Asia/Bangkok,TH
-2023-05-10T09:00:00Z,Bangkok,Thailand,Asia/Bangkok,TH
-2023-05-12T12:00:00Z,Siem Reap,Cambodia,Asia/Phnom_Penh,KH
-2023-05-16T08:00:00Z,Battambang,Cambodia,Asia/Phnom_Penh,KH
-2023-05-24T04:00:00Z,Siem Reap,Cambodia,Asia/Phnom_Penh,KH
-2023-05-24T14:00:00Z,Bangkok,Thailand,Asia/Bangkok,TH
-2023-05-25T05:00:00Z,Frankfurt,Germany,Europe/Berlin,DE
-2023-05-26T09:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2023-06-02T07:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2023-06-05T14:00:00Z,Évry-Courcouronnes,France,Europe/Paris,FR
-2023-06-08T13:00:00Z,Rome,Italy,Europe/Rome,IT
-2023-06-12T10:00:00Z,Montreal,Canada,America/Toronto,CA
-2023-06-12T21:00:00Z,Toronto,Canada,America/Toronto,CA
-2023-08-22T01:00:00Z,Montreal,Canada,America/Toronto,CA
-2023-08-28T17:00:00Z,Toronto,Canada,America/Toronto,CA
-2023-09-30T21:00:00Z,Winnipeg,Canada,America/Winnipeg,CA
-2023-10-02T17:00:00Z,Minneapolis,United States,America/Chicago,US
-2023-10-07T16:00:00Z,Chicago,United States,America/Chicago,US
-2023-10-09T13:00:00Z,Ithaca,United States,America/New_York,US
-2023-10-12T14:00:00Z,NYC,United States,America/New_York,US
-2023-10-15T05:00:00Z,Fuquay-Varina,United States,America/New_York,US
-2023-10-17T14:00:00Z,Burlington,United States,America/New_York,US
-2023-10-20T18:00:00Z,Denver,United States,America/Denver,US
-2023-10-23T12:00:00Z,Oakland,United States,America/Los_Angeles,US
-2023-10-28T18:00:00Z,Los Angeles,United States,America/Los_Angeles,US
-2023-11-01T08:00:00Z,Belo Horizonte,Brazil,America/Sao_Paulo,BR
-2023-11-18T02:00:00Z,Recife,Brazil,America/Recife,BR
-2023-12-07T14:00:00Z,Brasilia,Brazil,America/Sao_Paulo,BR
-2023-12-29T13:00:00Z,Guarulhos,Brazil,America/Sao_Paulo,BR
-2023-12-31T00:00:00Z,Toronto,Canada,America/Toronto,CA
-2024-04-19T12:00:00Z,Kingston,Canada,America/Toronto,CA
-2024-04-19T20:00:00Z,Montreal,Canada,America/Toronto,CA
-2024-04-22T02:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2024-04-25T10:00:00Z,Porto,Portugal,Europe/Lisbon,PT
-2024-04-28T05:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2024-05-05T10:00:00Z,Wurzen,Germany,Europe/Berlin,DE
-2024-05-05T10:00:00Z,Wurzen,Germany,Europe/Berlin,DE
-2024-05-11T12:00:00Z,Kassel,Germany,Europe/Berlin,DE
-2024-05-13T08:00:00Z,Ockstadt,Germany,Europe/Berlin,DE
-2024-05-17T08:00:00Z,Jena,Germany,Europe/Berlin,DE
-2024-05-18T13:00:00Z,Wiesenburg (Mark),Germany,Europe/Berlin,DE
-2024-05-23T16:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2024-06-11T08:00:00Z,Dublin,Ireland,Europe/Dublin,IE
-2024-06-12T10:00:00Z,Toronto,Canada,America/Toronto,CA
-2024-07-30T00:00:00Z,London,England,Europe/London,GB
-2024-08-15T11:00:00Z,Brighton,England,Europe/London,GB
-2024-08-16T13:00:00Z,London,England,Europe/London,GB
-2024-08-19T11:00:00Z,Strasbourg,France,Europe/Paris,FR
-2024-08-20T07:00:00Z,Mannheim,Germany,Europe/Berlin,DE
-2024-08-20T12:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2024-10-27T17:00:00Z,Leipzig,Germany,Europe/Berlin,DE
-2024-10-29T09:00:00Z,Frankfurt,Germany,Europe/Berlin,DE
-2024-10-30T11:00:00Z,Strasbourg,France,Europe/Paris,FR
-2024-10-31T09:00:00Z,London,England,Europe/London,GB
-2024-11-23T16:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2024-11-27T05:00:00Z,Dubai,United Arab Emirates,Asia/Dubai,AE
-2024-12-13T12:00:00Z,Mumbai,India,Asia/Kolkata,IN
-2024-12-31T14:30:00Z,Calangute,India,Asia/Kolkata,IN
-2025-02-04T03:30:00Z,Panjim,India,Asia/Kolkata,IN
-2025-02-06T08:30:00Z,Margao,India,Asia/Kolkata,IN
-2025-02-10T02:30:00Z,Ratnagiri,India,Asia/Kolkata,IN
-2025-02-14T14:30:00Z,Pune,India,Asia/Kolkata,IN
-2025-02-18T13:30:00Z,Vadodara,India,Asia/Kolkata,IN
-2025-02-21T04:30:00Z,Anand,India,Asia/Kolkata,IN
-2025-02-23T11:30:00Z,Vadodara,India,Asia/Kolkata,IN
-2025-02-26T16:30:00Z,Indore,India,Asia/Kolkata,IN
-2025-03-07T15:30:00Z,Mumbai,India,Asia/Kolkata,IN
-2025-03-12T03:30:00Z,Delhi,India,Asia/Kolkata,IN
-2025-03-12T07:30:00Z,Nairobi,Kenya,Africa/Nairobi,KE
-2025-03-27T12:00:00Z,Mombasa,Kenya,Africa/Nairobi,KE
-2025-03-30T08:00:00Z,Galu Beach,Kenya,Africa/Nairobi,KE
-2025-04-07T08:00:00Z,Mombasa,Kenya,Africa/Nairobi,KE
-2025-04-09T11:00:00Z,Dubai,United Arab Emirates,Asia/Dubai,AE
-2025-04-09T19:00:00Z,Abu Dhabi,United Arab Emirates,Asia/Dubai,AE
-2025-04-11T10:00:00Z,Dubai,United Arab Emirates,Asia/Dubai,AE
-2025-04-14T21:00:00Z,London,England,Europe/London,GB
-2025-04-15T12:00:00Z,Toronto,Canada,America/Toronto,CA
-2025-05-23T17:00:00Z,Montreal,Canada,America/Toronto,CA
-2025-05-26T03:00:00Z,Évry-Courcouronnes,France,Europe/Paris,FR
-2025-06-06T10:00:00Z,Lyon,France,Europe/Paris,FR
-2025-06-09T08:00:00Z,Basel,Switzerland,Europe/Zurich,CH
-2025-06-11T07:00:00Z,Freiburg,Germany,Europe/Berlin,DE
-2025-06-11T16:00:00Z,Basel,Switzerland,Europe/Zurich,CH
-2025-06-12T07:00:00Z,Berlin,Germany,Europe/Berlin,DE
-2025-07-24T17:00:00Z,Lyon,France,Europe/Paris,FR
-2025-07-26T12:00:00Z,London,England,Europe/London,GB
-2025-07-26T14:00:00Z,Oxford,England,Europe/London,GB
-2025-08-15T11:00:00Z,Brighton,England,Europe/London,GB
-2025-08-18T18:00:00Z,Paris,France,Europe/Paris,FR
-2025-08-19T14:00:00Z,Porto,Portugal,Europe/Lisbon,PT
-2025-11-26T11:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2025-11-28T10:00:00Z,Aljezur,Portugal,Europe/Lisbon,PT
-2025-12-01T11:00:00Z,Portimão,Portugal,Europe/Lisbon,PT
-2025-12-18T15:00:00Z,Lisbon,Portugal,Europe/Lisbon,PT
-2025-12-22T13:00:00Z,Portimão,Portugal,Europe/Lisbon,PT
-2025-12-31T14:00:00Z,Berlin,Germany,Europe/Berlin,DE
+time,place,country,countrycode,timezone
+2000-01-01T05:00:00Z,Toronto,Canada,CA,America/Toronto
+2009-07-13T22:00:00Z,Venice,Italy,IT,Europe/Rome
+2009-07-17T07:00:00Z,Rome,Italy,IT,Europe/Rome
+2009-08-01T14:00:00Z,Milan,Italy,IT,Europe/Rome
+2009-08-01T19:00:00Z,Frankfurt,Germany,DE,Europe/Berlin
+2009-08-02T12:00:00Z,Toronto,Canada,CA,America/Toronto
+2012-03-27T14:00:00Z,NYC,United States,US,America/New_York
+2012-03-31T17:00:00Z,Toronto,Canada,CA,America/Toronto
+2012-06-05T01:00:00Z,NYC,United States,US,America/New_York
+2012-06-10T02:00:00Z,Toronto,Canada,CA,America/Toronto
+2012-07-14T16:00:00Z,NYC,United States,US,America/New_York
+2012-07-28T15:00:00Z,Toronto,Canada,CA,America/Toronto
+2012-08-08T01:00:00Z,NYC,United States,US,America/New_York
+2012-08-10T16:00:00Z,Toronto,Canada,CA,America/Toronto
+2013-11-17T23:00:00Z,Goa,India,IN,Asia/Kolkata
+2013-12-04T06:30:00Z,Delhi,India,IN,Asia/Kolkata
+2013-12-07T04:30:00Z,Agra,India,IN,Asia/Kolkata
+2013-12-07T13:30:00Z,Delhi,India,IN,Asia/Kolkata
+2013-12-08T06:30:00Z,Lucknow,India,IN,Asia/Kolkata
+2013-12-11T06:30:00Z,Jaipur,India,IN,Asia/Kolkata
+2013-12-14T06:30:00Z,Ahmedabad,India,IN,Asia/Kolkata
+2013-12-17T06:30:00Z,Mumbai,India,IN,Asia/Kolkata
+2013-12-26T20:30:00Z,Toronto,Canada,CA,America/Toronto
+2014-04-29T20:00:00Z,Montreal,Canada,CA,America/Toronto
+2014-05-03T19:00:00Z,Toronto,Canada,CA,America/Toronto
+2014-08-23T17:00:00Z,Montreal,Canada,CA,America/Toronto
+2014-08-31T15:00:00Z,Toronto,Canada,CA,America/Toronto
+2014-09-26T14:00:00Z,Montreal,Canada,CA,America/Toronto
+2017-08-27T12:00:00Z,Toronto,Canada,CA,America/Toronto
+2017-08-29T05:00:00Z,Guatemala City,Guatemala,GT,America/Guatemala
+2017-08-30T14:00:00Z,Quetzaltenango,Guatemala,GT,America/Guatemala
+2017-09-24T16:00:00Z,Guatemala City,Guatemala,GT,America/Guatemala
+2017-09-25T20:00:00Z,Mexico City,Mexico,MX,America/Mexico_City
+2017-10-05T15:00:00Z,Oaxaca,Mexico,MX,America/Mexico_City
+2017-10-16T14:00:00Z,Mexico City,Mexico,MX,America/Mexico_City
+2017-10-17T22:00:00Z,Fort Lauderdale,United States,US,America/New_York
+2017-10-18T16:00:00Z,Santo Domingo,Dominican Republic,DO,America/Santo_Domingo
+2017-10-22T14:00:00Z,Port-au-Prince,Haiti,HT,America/Port-au-Prince
+2017-10-23T14:00:00Z,Cap-Haitien,Haiti,HT,America/Port-au-Prince
+2017-11-05T14:00:00Z,Port-au-Prince,Haiti,HT,America/Port-au-Prince
+2017-11-08T20:00:00Z,Montreal,Canada,CA,America/Toronto
+2017-11-09T22:00:00Z,Toronto,Canada,CA,America/Toronto
+2017-11-10T18:00:00Z,Tokyo,Japan,JP,Asia/Tokyo
+2017-11-17T13:00:00Z,Kyoto,Japan,JP,Asia/Tokyo
+2017-11-22T04:00:00Z,Osaka,Japan,JP,Asia/Tokyo
+2017-11-25T04:00:00Z,Manila,Philippines,PH,Asia/Manila
+2017-11-27T13:00:00Z,Baguio,Philippines,PH,Asia/Manila
+2017-11-28T22:00:00Z,Sagada,Philippines,PH,Asia/Manila
+2017-12-01T22:00:00Z,Bontoc,Philippines,PH,Asia/Manila
+2017-12-02T01:00:00Z,Banaue,Philippines,PH,Asia/Manila
+2017-12-03T10:00:00Z,Manila,Philippines,PH,Asia/Manila
+2017-12-05T12:00:00Z,Jakarta,Indonesia,"ID",Asia/Jakarta
+2017-12-06T11:00:00Z,Bandung,Indonesia,"ID",Asia/Jakarta
+2017-12-08T07:00:00Z,Jakarta,Indonesia,"ID",Asia/Jakarta
+2017-12-13T09:00:00Z,Bangkok,Thailand,TH,Asia/Bangkok
+2017-12-16T04:00:00Z,Ayutthaya,Thailand,TH,Asia/Bangkok
+2017-12-18T06:00:00Z,Khorat,Thailand,TH,Asia/Bangkok
+2017-12-20T03:00:00Z,Bangkok,Thailand,TH,Asia/Bangkok
+2017-12-22T06:00:00Z,Singapore,Singapore,SG,Asia/Singapore
+2017-12-28T01:00:00Z,London,England,GB,Europe/London
+2018-01-01T11:00:00Z,Barcelona,Spain,ES,Europe/Madrid
+2018-01-06T05:00:00Z,Paris,France,FR,Europe/Paris
+2018-01-10T13:00:00Z,Bergamo,Italy,IT,Europe/Rome
+2018-01-10T21:00:00Z,Milan,Italy,IT,Europe/Rome
+2018-01-11T01:00:00Z,Florence,Italy,IT,Europe/Rome
+2018-01-13T13:00:00Z,Milan,Italy,IT,Europe/Rome
+2018-01-15T11:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2018-01-17T23:00:00Z,São Paulo,Brazil,BR,America/Sao_Paulo
+2018-01-23T20:00:00Z,Rio de Janeiro,Brazil,BR,America/Sao_Paulo
+2018-02-01T15:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2018-02-04T12:00:00Z,Salvador,Brazil,BR,America/Bahia
+2018-02-06T16:00:00Z,Recife,Brazil,BR,America/Recife
+2018-02-10T09:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2018-02-11T20:00:00Z,Manaus,Brazil,BR,America/Manaus
+2018-02-13T13:00:00Z,Barcelona,Venezuela,VE,America/Caracas
+2018-02-13T20:00:00Z,Miami,United States,US,America/New_York
+2018-02-14T02:00:00Z,Toronto,Canada,CA,America/Toronto
+2018-02-15T05:00:00Z,Montreal,Canada,CA,America/Toronto
+2018-05-31T03:00:00Z,Toronto,Canada,CA,America/Toronto
+2018-06-04T03:00:00Z,NYC,United States,US,America/New_York
+2018-06-05T04:00:00Z,Paris,France,FR,Europe/Paris
+2018-06-05T14:00:00Z,Lille,France,FR,Europe/Paris
+2018-06-07T10:00:00Z,Paris,France,FR,Europe/Paris
+2018-06-10T10:00:00Z,Catania,Italy,IT,Europe/Rome
+2018-06-12T13:00:00Z,Palermo,Italy,IT,Europe/Rome
+2018-06-14T13:00:00Z,Milan,Italy,IT,Europe/Rome
+2018-06-14T16:00:00Z,Monza,Italy,IT,Europe/Rome
+2018-06-19T18:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2018-06-22T08:00:00Z,Amsterdam,Netherlands,NL,Europe/Amsterdam
+2018-06-22T16:00:00Z,Rotterdam,Netherlands,NL,Europe/Amsterdam
+2018-06-25T16:00:00Z,Amsterdam,Netherlands,NL,Europe/Amsterdam
+2018-06-26T07:00:00Z,London,England,GB,Europe/London
+2018-06-26T16:00:00Z,Reykjavík,Iceland,IS,Atlantic/Reykjavik
+2018-06-30T17:00:00Z,Montreal,Canada,CA,America/Toronto
+2018-09-02T04:00:00Z,Toronto,Canada,CA,America/Toronto
+2018-09-05T20:00:00Z,Bogotá,Colombia,CO,America/Bogota
+2018-09-10T15:00:00Z,Tunja,Colombia,CO,America/Bogota
+2018-09-13T18:00:00Z,Bucaramanga,Colombia,CO,America/Bogota
+2018-09-16T19:00:00Z,Aguachica,Colombia,CO,America/Bogota
+2018-09-17T15:00:00Z,Santa Marta,Colombia,CO,America/Bogota
+2018-09-19T14:00:00Z,Valledupar,Colombia,CO,America/Bogota
+2018-09-22T20:00:00Z,Barranquilla,Colombia,CO,America/Bogota
+2018-09-24T19:00:00Z,Cartagena,Colombia,CO,America/Bogota
+2018-09-26T14:00:00Z,Palenque,Colombia,CO,America/Bogota
+2018-09-27T17:00:00Z,María La Baja,Colombia,CO,America/Bogota
+2018-09-28T17:00:00Z,San Jacinto,Colombia,CO,America/Bogota
+2018-09-29T17:00:00Z,Mompós,Colombia,CO,America/Bogota
+2018-10-01T16:00:00Z,El Banco,Colombia,CO,America/Bogota
+2018-10-02T17:00:00Z,San Martin De Loba,Colombia,CO,America/Bogota
+2018-10-03T17:00:00Z,Magangué,Colombia,CO,America/Bogota
+2018-10-04T18:00:00Z,Ovejas,Colombia,CO,America/Bogota
+2018-10-05T17:00:00Z,María La Baja,Colombia,CO,America/Bogota
+2018-10-06T17:00:00Z,Sincelejo,Colombia,CO,America/Bogota
+2018-10-07T17:00:00Z,Caucasia,Colombia,CO,America/Bogota
+2018-10-08T15:00:00Z,Medellín,Colombia,CO,America/Bogota
+2018-10-13T19:00:00Z,Guatapé,Colombia,CO,America/Bogota
+2018-10-15T13:00:00Z,Medellín,Colombia,CO,America/Bogota
+2018-10-15T17:00:00Z,Pereira,Colombia,CO,America/Bogota
+2018-10-17T14:00:00Z,Cali,Colombia,CO,America/Bogota
+2018-10-24T18:00:00Z,Manizales,Colombia,CO,America/Bogota
+2018-10-27T15:00:00Z,Bogotá,Colombia,CO,America/Bogota
+2018-10-30T18:00:00Z,NYC,United States,US,America/New_York
+2018-11-03T20:00:00Z,Toronto,Canada,CA,America/Toronto
+2018-11-05T17:00:00Z,Mississauga,Canada,CA,America/Toronto
+2018-11-09T21:00:00Z,Montreal,Canada,CA,America/Toronto
+2019-02-10T12:00:00Z,Toronto,Canada,CA,America/Toronto
+2019-02-12T00:00:00Z,Paris,France,FR,Europe/Paris
+2019-02-14T07:00:00Z,Chambéry,France,FR,Europe/Paris
+2019-02-17T13:00:00Z,Lyon,France,FR,Europe/Paris
+2019-02-22T09:00:00Z,Montpellier,France,FR,Europe/Paris
+2019-02-25T11:00:00Z,Nîmes,France,FR,Europe/Paris
+2019-02-27T14:00:00Z,Aix-en-Provence,France,FR,Europe/Paris
+2019-02-28T11:00:00Z,Marseille,France,FR,Europe/Paris
+2019-03-02T09:00:00Z,Cairo,Egypt,EG,Africa/Cairo
+2019-03-14T11:00:00Z,Gamasa,Egypt,EG,Africa/Cairo
+2019-03-16T10:00:00Z,Cairo,Egypt,EG,Africa/Cairo
+2019-04-05T10:00:00Z,Suez,Egypt,EG,Africa/Cairo
+2019-04-06T10:00:00Z,Port Said,Egypt,EG,Africa/Cairo
+2019-04-06T10:00:00Z,Ismailia,Egypt,EG,Africa/Cairo
+2019-04-08T10:00:00Z,Alexandria,Egypt,EG,Africa/Cairo
+2019-04-10T10:00:00Z,Fayoum,Egypt,EG,Africa/Cairo
+2019-04-11T10:00:00Z,Assiut,Egypt,EG,Africa/Cairo
+2019-04-14T10:00:00Z,Qena,Egypt,EG,Africa/Cairo
+2019-04-15T10:00:00Z,Luxor,Egypt,EG,Africa/Cairo
+2019-04-17T10:00:00Z,Aswan,Egypt,EG,Africa/Cairo
+2019-04-20T22:00:00Z,Cairo,Egypt,EG,Africa/Cairo
+2019-04-22T01:00:00Z,Capri,Italy,IT,Europe/Rome
+2019-04-26T16:00:00Z,Turin,Italy,IT,Europe/Rome
+2019-04-27T07:00:00Z,Chambéry,France,FR,Europe/Paris
+2019-05-01T08:00:00Z,Lyon,France,FR,Europe/Paris
+2019-05-02T08:00:00Z,Paris,France,FR,Europe/Paris
+2019-05-03T12:00:00Z,Reykjavík,Iceland,IS,Atlantic/Reykjavik
+2019-05-05T17:00:00Z,Toronto,Canada,CA,America/Toronto
+2019-05-08T14:00:00Z,Montreal,Canada,CA,America/Toronto
+2019-12-28T11:00:00Z,NYC,United States,US,America/New_York
+2019-12-31T20:00:00Z,Recife,Brazil,BR,America/Recife
+2020-01-10T15:00:00Z,Pipa,Brazil,BR,America/Recife
+2020-01-13T15:00:00Z,Recife,Brazil,BR,America/Recife
+2020-01-23T05:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2020-02-06T19:00:00Z,Campinas,Brazil,BR,America/Sao_Paulo
+2020-02-13T18:00:00Z,São Paulo,Brazil,BR,America/Sao_Paulo
+2020-02-13T23:00:00Z,Lima,Peru,PE,America/Lima
+2020-02-14T21:00:00Z,Mexico City,Mexico,MX,America/Mexico_City
+2020-02-24T20:00:00Z,Toronto,Canada,CA,America/Toronto
+2020-03-02T22:00:00Z,São Paulo,Brazil,BR,America/Sao_Paulo
+2020-03-04T14:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2020-05-19T08:00:00Z,Campinas,Brazil,BR,America/Sao_Paulo
+2020-09-25T11:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2020-10-09T15:00:00Z,Chapada,Brazil,BR,America/Sao_Paulo
+2020-10-13T15:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2021-01-09T15:00:00Z,Goiás,Brazil,BR,America/Sao_Paulo
+2021-01-10T15:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2021-04-04T15:00:00Z,Alto Paraíso,Brazil,BR,America/Sao_Paulo
+2021-04-06T15:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2021-08-18T14:00:00Z,São Paulo,Brazil,BR,America/Sao_Paulo
+2021-08-23T02:00:00Z,Mexico City,Mexico,MX,America/Mexico_City
+2021-08-25T15:00:00Z,Cancun,Mexico,MX,America/Cancun
+2021-08-27T17:00:00Z,Toronto,Canada,CA,America/Toronto
+2021-10-18T14:00:00Z,Montreal,Canada,CA,America/Toronto
+2021-10-24T14:00:00Z,Toronto,Canada,CA,America/Toronto
+2021-11-01T22:00:00Z,Vancouver,Canada,CA,America/Vancouver
+2021-11-07T21:00:00Z,Toronto,Canada,CA,America/Toronto
+2022-03-05T22:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2022-03-06T12:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-04-06T11:00:00Z,Leipzig,Germany,DE,Europe/Berlin
+2022-04-07T10:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-04-17T13:00:00Z,Wiesenburg (Mark),Germany,DE,Europe/Berlin
+2022-04-18T16:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-04-19T05:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2022-04-21T14:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-04-23T04:00:00Z,Amsterdam,Netherlands,NL,Europe/Amsterdam
+2022-04-24T19:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-05-01T14:00:00Z,Biesenthal,Germany,DE,Europe/Berlin
+2022-05-01T19:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-05-09T18:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2022-05-13T08:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-06-13T12:00:00Z,Glückstadt,Germany,DE,Europe/Berlin
+2022-06-15T13:00:00Z,Hamburg,Germany,DE,Europe/Berlin
+2022-06-16T12:00:00Z,Hanover,Germany,DE,Europe/Berlin
+2022-06-17T16:00:00Z,Hildesheim,Germany,DE,Europe/Berlin
+2022-06-19T12:00:00Z,Witzenhausen,Germany,DE,Europe/Berlin
+2022-06-20T13:00:00Z,Kassel,Germany,DE,Europe/Berlin
+2022-06-20T20:00:00Z,Witzenhausen,Germany,DE,Europe/Berlin
+2022-06-21T14:00:00Z,Göttingen,Germany,DE,Europe/Berlin
+2022-06-24T11:00:00Z,Erfurt,Germany,DE,Europe/Berlin
+2022-06-25T13:00:00Z,Weimar,Germany,DE,Europe/Berlin
+2022-06-25T19:00:00Z,Erfurt,Germany,DE,Europe/Berlin
+2022-06-26T14:00:00Z,Kassel,Germany,DE,Europe/Berlin
+2022-06-28T11:00:00Z,Gießen,Germany,DE,Europe/Berlin
+2022-06-28T15:00:00Z,Ockstadt,Germany,DE,Europe/Berlin
+2022-06-30T08:00:00Z,Lohr,Germany,DE,Europe/Berlin
+2022-06-30T12:00:00Z,Mannheim,Germany,DE,Europe/Berlin
+2022-07-01T17:00:00Z,Landau,Germany,DE,Europe/Berlin
+2022-07-03T11:00:00Z,Stuttgart,Germany,DE,Europe/Berlin
+2022-07-05T08:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2022-07-09T08:00:00Z,Munich,Germany,DE,Europe/Berlin
+2022-07-11T09:00:00Z,Nürnberg,Germany,DE,Europe/Berlin
+2022-07-12T09:00:00Z,Wurzen,Germany,DE,Europe/Berlin
+2022-07-15T09:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-08-15T15:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2022-08-18T16:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2022-11-19T12:00:00Z,Göttingen,Germany,DE,Europe/Berlin
+2022-11-21T09:00:00Z,Frankfurt,Germany,DE,Europe/Berlin
+2022-11-22T10:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2022-11-25T17:00:00Z,Stuttgart,Germany,DE,Europe/Berlin
+2022-11-26T17:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2023-01-14T21:00:00Z,Dubai,United Arab Emirates,AE,Asia/Dubai
+2023-01-16T14:00:00Z,Kuwait City,Kuwait,KW,Asia/Kuwait
+2023-01-17T06:00:00Z,Kuala Lumpur,Malaysia,MY,Asia/Kuala_Lumpur
+2023-01-18T05:00:00Z,Langkawi,Malaysia,MY,Asia/Kuala_Lumpur
+2023-01-30T11:00:00Z,Singapore,Singapore,SG,Asia/Singapore
+2023-02-03T06:00:00Z,Hanoi,Vietnam,VN,Asia/Bangkok
+2023-02-18T08:00:00Z,Da Nang,Vietnam,VN,Asia/Ho_Chi_Minh
+2023-02-22T09:00:00Z,Ho Chi Minh,Vietnam,VN,Asia/Ho_Chi_Minh
+2023-02-28T04:00:00Z,Chiang Mai,Thailand,TH,Asia/Bangkok
+2023-05-10T09:00:00Z,Bangkok,Thailand,TH,Asia/Bangkok
+2023-05-12T12:00:00Z,Siem Reap,Cambodia,KH,Asia/Phnom_Penh
+2023-05-16T08:00:00Z,Battambang,Cambodia,KH,Asia/Phnom_Penh
+2023-05-24T04:00:00Z,Siem Reap,Cambodia,KH,Asia/Phnom_Penh
+2023-05-24T14:00:00Z,Bangkok,Thailand,TH,Asia/Bangkok
+2023-05-25T05:00:00Z,Frankfurt,Germany,DE,Europe/Berlin
+2023-05-26T09:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2023-06-02T07:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2023-06-05T14:00:00Z,Évry-Courcouronnes,France,FR,Europe/Paris
+2023-06-08T13:00:00Z,Rome,Italy,IT,Europe/Rome
+2023-06-12T10:00:00Z,Montreal,Canada,CA,America/Toronto
+2023-06-12T21:00:00Z,Toronto,Canada,CA,America/Toronto
+2023-08-22T01:00:00Z,Montreal,Canada,CA,America/Toronto
+2023-08-28T17:00:00Z,Toronto,Canada,CA,America/Toronto
+2023-09-30T21:00:00Z,Winnipeg,Canada,CA,America/Winnipeg
+2023-10-02T17:00:00Z,Minneapolis,United States,US,America/Chicago
+2023-10-07T16:00:00Z,Chicago,United States,US,America/Chicago
+2023-10-09T13:00:00Z,Ithaca,United States,US,America/New_York
+2023-10-12T14:00:00Z,NYC,United States,US,America/New_York
+2023-10-15T05:00:00Z,Fuquay-Varina,United States,US,America/New_York
+2023-10-17T14:00:00Z,Burlington,United States,US,America/New_York
+2023-10-20T18:00:00Z,Denver,United States,US,America/Denver
+2023-10-23T12:00:00Z,Oakland,United States,US,America/Los_Angeles
+2023-10-28T18:00:00Z,Los Angeles,United States,US,America/Los_Angeles
+2023-11-01T08:00:00Z,Belo Horizonte,Brazil,BR,America/Sao_Paulo
+2023-11-18T02:00:00Z,Recife,Brazil,BR,America/Recife
+2023-12-07T14:00:00Z,Brasilia,Brazil,BR,America/Sao_Paulo
+2023-12-29T13:00:00Z,Guarulhos,Brazil,BR,America/Sao_Paulo
+2023-12-31T00:00:00Z,Toronto,Canada,CA,America/Toronto
+2024-04-19T12:00:00Z,Kingston,Canada,CA,America/Toronto
+2024-04-19T20:00:00Z,Montreal,Canada,CA,America/Toronto
+2024-04-22T02:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2024-04-25T10:00:00Z,Porto,Portugal,PT,Europe/Lisbon
+2024-04-28T05:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2024-05-05T10:00:00Z,Wurzen,Germany,DE,Europe/Berlin
+2024-05-05T10:00:00Z,Wurzen,Germany,DE,Europe/Berlin
+2024-05-11T12:00:00Z,Kassel,Germany,DE,Europe/Berlin
+2024-05-13T08:00:00Z,Ockstadt,Germany,DE,Europe/Berlin
+2024-05-17T08:00:00Z,Jena,Germany,DE,Europe/Berlin
+2024-05-18T13:00:00Z,Wiesenburg (Mark),Germany,DE,Europe/Berlin
+2024-05-23T16:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2024-06-11T08:00:00Z,Dublin,Ireland,IE,Europe/Dublin
+2024-06-12T10:00:00Z,Toronto,Canada,CA,America/Toronto
+2024-07-30T00:00:00Z,London,England,GB,Europe/London
+2024-08-15T11:00:00Z,Brighton,England,GB,Europe/London
+2024-08-16T13:00:00Z,London,England,GB,Europe/London
+2024-08-19T11:00:00Z,Strasbourg,France,FR,Europe/Paris
+2024-08-20T07:00:00Z,Mannheim,Germany,DE,Europe/Berlin
+2024-08-20T12:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2024-10-27T17:00:00Z,Leipzig,Germany,DE,Europe/Berlin
+2024-10-29T09:00:00Z,Frankfurt,Germany,DE,Europe/Berlin
+2024-10-30T11:00:00Z,Strasbourg,France,FR,Europe/Paris
+2024-10-31T09:00:00Z,London,England,GB,Europe/London
+2024-11-23T16:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2024-11-27T05:00:00Z,Dubai,United Arab Emirates,AE,Asia/Dubai
+2024-12-13T12:00:00Z,Mumbai,India,IN,Asia/Kolkata
+2024-12-31T14:30:00Z,Calangute,India,IN,Asia/Kolkata
+2025-02-04T03:30:00Z,Panjim,India,IN,Asia/Kolkata
+2025-02-06T08:30:00Z,Margao,India,IN,Asia/Kolkata
+2025-02-10T02:30:00Z,Ratnagiri,India,IN,Asia/Kolkata
+2025-02-14T14:30:00Z,Pune,India,IN,Asia/Kolkata
+2025-02-18T13:30:00Z,Vadodara,India,IN,Asia/Kolkata
+2025-02-21T04:30:00Z,Anand,India,IN,Asia/Kolkata
+2025-02-23T11:30:00Z,Vadodara,India,IN,Asia/Kolkata
+2025-02-26T16:30:00Z,Indore,India,IN,Asia/Kolkata
+2025-03-07T15:30:00Z,Mumbai,India,IN,Asia/Kolkata
+2025-03-12T03:30:00Z,Delhi,India,IN,Asia/Kolkata
+2025-03-12T07:30:00Z,Nairobi,Kenya,KE,Africa/Nairobi
+2025-03-27T12:00:00Z,Mombasa,Kenya,KE,Africa/Nairobi
+2025-03-30T08:00:00Z,Galu Beach,Kenya,KE,Africa/Nairobi
+2025-04-07T08:00:00Z,Mombasa,Kenya,KE,Africa/Nairobi
+2025-04-09T11:00:00Z,Dubai,United Arab Emirates,AE,Asia/Dubai
+2025-04-09T19:00:00Z,Abu Dhabi,United Arab Emirates,AE,Asia/Dubai
+2025-04-11T10:00:00Z,Dubai,United Arab Emirates,AE,Asia/Dubai
+2025-04-14T21:00:00Z,London,England,GB,Europe/London
+2025-04-15T12:00:00Z,Toronto,Canada,CA,America/Toronto
+2025-05-23T17:00:00Z,Montreal,Canada,CA,America/Toronto
+2025-05-26T03:00:00Z,Évry-Courcouronnes,France,FR,Europe/Paris
+2025-06-06T10:00:00Z,Lyon,France,FR,Europe/Paris
+2025-06-09T08:00:00Z,Basel,Switzerland,CH,Europe/Zurich
+2025-06-11T07:00:00Z,Freiburg,Germany,DE,Europe/Berlin
+2025-06-11T16:00:00Z,Basel,Switzerland,CH,Europe/Zurich
+2025-06-12T07:00:00Z,Berlin,Germany,DE,Europe/Berlin
+2025-07-24T17:00:00Z,Lyon,France,FR,Europe/Paris
+2025-07-26T12:00:00Z,London,England,GB,Europe/London
+2025-07-26T14:00:00Z,Oxford,England,GB,Europe/London
+2025-08-15T11:00:00Z,Brighton,England,GB,Europe/London
+2025-08-18T18:00:00Z,Paris,France,FR,Europe/Paris
+2025-08-19T14:00:00Z,Porto,Portugal,PT,Europe/Lisbon
+2025-11-26T11:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2025-11-28T10:00:00Z,Aljezur,Portugal,PT,Europe/Lisbon
+2025-12-01T11:00:00Z,Portimão,Portugal,PT,Europe/Lisbon
+2025-12-18T15:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
+2025-12-22T13:00:00Z,Portimão,Portugal,PT,Europe/Lisbon
+2025-12-31T14:00:00Z,Berlin,Germany,DE,Europe/Berlin
