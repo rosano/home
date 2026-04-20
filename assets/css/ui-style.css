@@ -723,7 +723,7 @@ blog-list {
 		margin: var(--rh-pad) 0;
 
 		display: grid;
-		grid-template-columns: 55px 1fr;
+		grid-template-columns: 0.2fr 1fr;
 	}
 }
 

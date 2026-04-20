@@ -2,7 +2,7 @@
 date: 2025-09-14T10:39:28.833Z
 slug: introducing-occasion
 title: introducing Occasion
-summary: I've shifted from "I should take less space" to "I'd like to connect regularly with people who want more".
+summary: Shifting from "I should take less space" to "I'd like to connect regularly with people who want more".
 twitter_id: 1967179143986249750
 mastodon_id: 115202262813543583
 bluesky_id: 3lys4nqsews2s

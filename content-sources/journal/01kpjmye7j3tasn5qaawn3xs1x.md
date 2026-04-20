@@ -1,6 +1,6 @@
 ---
 date: 2026-04-19T10:35:25.810Z
-via: Barbells https://newsletter.squishy.computer/p/barbells
+via: https://newsletter.squishy.computer/p/barbells
 link: https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/
 categories: ["article"]
 ---
