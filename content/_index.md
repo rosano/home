@@ -394,6 +394,24 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 
 {{< /card >}}
 
+{{< card
+	title="Tiny concert for a friend"
+	link=/blog/tiny-concert-for-a-friend/
+>}}
+
+> Putting my soul back together after it broke into a thousand pieces.
+
+{{< /card >}}
+
+{{< card
+	title="coming to the guitar later in life"
+	link=/blog/coming-to-the-guitar-later-in-life/
+>}}
+
+> After fifteen years, I wonder whether I should have started with a different instrument.
+
+{{< /card >}}
+
 </card-list>
 
 <a class="archive" href="https://archive.rosano.ca">
