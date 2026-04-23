@@ -13,5 +13,6 @@ Also on:
 - [Twitter](https://rosano.ca/twitter)
 - [Bluesky](https://rosano.ca/bluesky)
 - [Mastodon](https://rosano.ca/mastodon)
+- [Nostr](https://rosano.ca/nostr)
 - [Facebook](https://rosano/facebook)
 - [GitHub](https://github.com/rosano)
