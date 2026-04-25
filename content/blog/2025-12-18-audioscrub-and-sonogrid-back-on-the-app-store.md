@@ -15,6 +15,10 @@ tags:
   - apps
 date: 2025-12-18T10:00:24.002Z
 ---
+<small>👋 Heads up: they're [off the App Store yet again](https://rosano.ca/blog/off-the-app-store-yet-again/) as of April 2026.</small>
+
+* * *
+
 My iOS apps are [on the App Store](https://apps.apple.com/developer/rcreativ/id356609408) again; if you ever wanted to have sonogrid or the others, now might be a good time to get a copy.
 
 <figure>
