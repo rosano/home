@@ -192,17 +192,17 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 <card-list>
 
 {{< card
-	image=https://static.rosano.ca/easyindieapp/identity.svg
-	title="Easy Indie App"
-	body="run your own X in a few clicks"
-	link=https://easyindie.app
-/>}}
-
-{{< card
 	image=https://static.rosano.ca/0data/identity.svg
 	title="Zero Data App"
 	body="own your data, all of it"
 	link=https://0data.app
+/>}}
+
+{{< card
+	image=https://static.rosano.ca/easyindieapp/identity.svg
+	title="Easy Indie App"
+	body="run your own X in a few clicks"
+	link=https://easyindie.app
 />}}
 
 </card-list>
