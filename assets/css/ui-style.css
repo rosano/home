@@ -445,6 +445,12 @@ card {
 		box-shadow: 0px 0px 4px var(--rh-c-bg);
 	}
 
+	#smaller-tools + card-list card {
+		img {
+			--size: 24px;
+		}
+	}
+
 	.archive {
 		display: flex;
 		max-width: 270px;

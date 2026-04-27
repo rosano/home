@@ -159,7 +159,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 {{< card
 	image=https://rosano.ca/open-vitrine/ui-assets/rCSIdiomatic.svg
 	title="Idiomatic"
-	body="switch between Markdown, HTML, and Rich Text"
+	body="switch between Markdown, HTML, Rich Text"
 	link=https://idiomatic.rosano.ca
 />}}
 
