@@ -82,7 +82,7 @@ params:
   podcast:
     imageURL: https://static.rosano.ca/strolling/podcast.jpg
     enclosure:
-      prefix: https://f005.backblazeb2.com/file/rosano/public/sorted/
+      prefix: https://f005.backblazeb2.com/file/rosano/public/strolling/
       audio:
         file: audio.mp3
         type: audio/mpeg
