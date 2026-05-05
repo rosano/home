@@ -9,4 +9,4 @@ link: https://www.youtube.com/watch?v=g8LVOr8XC5g
 
 ---
 
-Music training really trains you to break things down into managable parts. A great teacher exposes the atomic elements of a practice so that you can find the right entry point for your level of skill or experience.
+Music training really trains you to break things down into manageable parts. Teaching well exposes the atomic elements of a practice so that you can find the right entry point for your level of skill or experience.
