@@ -8,6 +8,7 @@ youtube_id: pbbuAFjxKCU
 bluesky_id: 3lxkeaefdmc2h
 twitter_id: 1961448382108446880
 mastodon_id: 115112551595023025
+facebook_id: 2182289802291908
 title: piano improvisation
 slug: mewm2a6n
 summary: enjoying simple percussive piano textures
