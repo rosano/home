@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
 	Array.from(document.querySelectorAll('.post .embed')).forEach(async function (e) {
 		const link = e.getAttribute('data-link');
-		const endpoint = OLSKEmbed.OLSKEmbedEndpointURL(link);
+		const endpoint = OLSKEmbed.OLSKEmbedDirect(link) || OLSKEmbed.OLSKEmbedEndpointURL(link);
 
 		const cancel = () => e.remove();
 

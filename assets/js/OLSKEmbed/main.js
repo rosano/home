@@ -10,6 +10,24 @@
 			return 'https://youtube.com/watch?v=oUFJJNQGwhk';
 		},
 
+		OLSKEmbedDirect (inputData) {
+			if (typeof inputData !== 'string') {
+				throw new Error('OLSKErrorInputNotValid');
+			}
+
+			return Object.entries({
+				'https://www.instagram.com/reel/(.*)/': id => `https://www.instagram.com/reel/${ id }/embed/captioned/`,
+				'https://www.facebook.com/reel/(.*)/': id => `https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F${ id }%2F&show_text=false&width=267&t=0`,
+			}).map(function ([pattern, callback]) {
+				const match = inputData.match(pattern);
+
+				if (!match)
+					return null;
+
+				return callback(match.pop());
+			}).filter(e => !!e).shift();
+		},
+
 		_OLSKEmbedPatterns () {
 			// https://github.com/oscarotero/Embed/blob/master/src/resources/oembed.php
 			return {
@@ -181,8 +199,8 @@
 					'https?://fav\\.me/.*',
 					'https?://sta\\.sh/.*',
 					'https?://(.*\\.)?deviantart\\.com/.*/art/.*',
-					'https?://sta\\.sh/.*",',
-					'https?://(.*\\.)?deviantart\\.com/.*\\#/d.*"',
+					'https?://sta\\.sh/.*',
+					'https?://(.*\\.)?deviantart\\.com/.*\\#/d.*',
 				],
 				'https://*.didacte.com/cards/oembed\'': [
 					'https?://(.*\\.)?didacte\\.com/a/course/.*',
@@ -378,9 +396,10 @@
 				'http://api.inphood.com/oembed': [
 					'https?://(.*\\.)?inphood\\.com/.*',
 				],
-				'https://api.instagram.com/oembed': [
-					'https?://instagram\\.com/.*/p/.*,',
-					'https?://(www\\.)?instagram\\.com/.*/p/.*,',
+				'https://graph.facebook.com/v16.0/instagram_oembed': [
+					'https?://instagram\\.com/.*/p/.*',
+					'https?://(www\\.)?instagram\\.com/.*/p/.*',
+					'https?://(www\\.)?instagram\\.com/reel/.*',
 					'https?://instagram\\.com/p/.*',
 					'https?://instagr\\.am/p/.*',
 					'https?://(www\\.)?instagram\\.com/p/.*',
@@ -661,7 +680,7 @@
 					'https?://rumble\\.com/.*',
 				],
 				'https://embed.runkit.com/oembed': [
-					'https?://embed\\.runkit\\.com/.*,',
+					'https?://embed\\.runkit\\.com/.*',
 				],
 				'http://videos.sapo.pt/oembed': [
 					'https?://videos\\.sapo\\.pt/.*',
@@ -942,7 +961,7 @@
 				],
 				'https://www.youtube.com/oembed': [
 					'https?://(.*\\.)?youtube\\.com/watch.*',
-					'https?://(.*\\.)?youtube\\.com/v/.*',
+					'https?://(.*\\.)?youtube\\.com/shorts/.*',
 					'https?://youtu\\.be/.*',
 					'https?://(.*\\.)?youtube\\.com/playlist\\?.*',
 				],
@@ -1017,7 +1036,7 @@
 
 			if (inputData.provider_name === 'YouTube') {
 				inputData.OLSKEmbedFrameURL = inputData.OLSKEmbedFrameURL.replace('youtube.com', 'youtube-nocookie.com');
-				inputData.OLSKEmbedHeight = 360;
+				inputData.OLSKEmbedHeight = 200;
 			}
 
 			return inputData;
