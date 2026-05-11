@@ -13,16 +13,14 @@ blurb: "During my personal travels between 2018 to 2020, I recorded one minute
 
   \r
 
-  Full collection at https://rosano.ca/aural\r
-
-  \r
-
-  #aural #travel"
+  Full collection at https://rosano.ca/aural"
 mastodon_id: "116554854581448568"
 title: printing press, Mexico City
 date: 2026-05-11T08:04:59.346Z
-slug: printing-press-mexico-city
+slug: mp0vhkrw
 summary: the mechanics of augmenting human thought
 youtube_id: lwHN3iHHBhY
 facebook_id: "917087181375351"
+twitter_id": "2053745812883030421"
+linkedid_id": "ugcPost:7459513550303182848"
 ---
