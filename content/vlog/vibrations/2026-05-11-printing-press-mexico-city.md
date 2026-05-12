@@ -23,4 +23,5 @@ youtube_id: lwHN3iHHBhY
 facebook_id: "917087181375351"
 twitter_id": "2053745812883030421"
 linkedid_id": "ugcPost:7459513550303182848"
+duration: 0:29
 ---
