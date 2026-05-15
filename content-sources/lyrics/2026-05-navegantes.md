@@ -54,7 +54,7 @@ eu vou ver os angoleiros vadiar*
 3. era eu e era mainha
   só pra ver os angoleiros vadiar
 
-# toda vez que eu dou um passo
+# sou filho da cobra verde
 
 iê!
 
