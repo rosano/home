@@ -40,7 +40,6 @@ camará
 7. quero ver cê mandingando
   no alto da sereia
 
-
 # eu vou ver, eu vou pra la
 
 *eu vou ver, eu vou pra la
@@ -54,3 +53,17 @@ eu vou ver os angoleiros vadiar*
 
 3. era eu e era mainha
   só pra ver os angoleiros vadiar
+
+# toda vez que eu dou um passo
+
+iê!
+
+sou filho da cobra verde
+neto da cobra coral
+quem quiser saber meu nome
+meu veneno é de matar
+valha-me Deus Nossa Senhora
+mãe de Deus o Criador
+nossa Senhora me ajude
+nosso Senhor me ajudou
+camará
