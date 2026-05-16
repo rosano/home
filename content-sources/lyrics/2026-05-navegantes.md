@@ -62,7 +62,7 @@ sou filho da cobra verde
 neto da cobra coral
 quem quiser saber meu nome
 meu veneno é de matar
-valha-me Deus Nossa Senhora
+valha-me Nossa Senhora
 mãe de Deus o Criador
 nossa Senhora me ajude
 nosso Senhor me ajudou
