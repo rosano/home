@@ -1,9 +1,9 @@
 ---
 date: 2025-04-16T20:59:56.329Z
-link: https://www.youtube.com/watch?v=FsztuzyXdhY
+link: https://youtu.be/FsztuzyXdhY
 categories: ["talk"]
 ---
-[Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](https://www.youtube.com/watch?v=FsztuzyXdhY)
+[Trevor Noah: My Depression Was Linked To ADHD! Why I Left The Daily Show!](https://youtu.be/FsztuzyXdhY)
 
 > [Growing up in abusive households make you sensitive to your environment to the point where I knew by the sound of his footsteps whether or not my stepfather was coming home drunk.]
 

@@ -1,10 +1,10 @@
 ---
 date: 2026-03-01T20:25:26.908Z
 via: https://bsky.app/profile/christian.bsky.social/post/3mf3btrmpf22i
-link: https://www.youtube.com/watch?v=OZN8y8kVFFI
+link: https://youtu.be/OZN8y8kVFFI
 categories: ["talk"]
 ---
-[Beyond Horseless Carriages: Building Communities for the Decentralized Era](https://www.youtube.com/watch?v=OZN8y8kVFFI)
+[Beyond Horseless Carriages: Building Communities for the Decentralized Era](https://youtu.be/OZN8y8kVFFI)
 
 > [Fediverse: communities of 50–100 people, "a slightly bigger group chat". Bluesky: planet-scale network. What could go in between? Blacksky is 'Reddit-sized' or like a large forum at around 100–200k people.]
 

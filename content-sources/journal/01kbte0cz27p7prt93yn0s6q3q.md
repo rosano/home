@@ -1,9 +1,9 @@
 ---
 date: 2025-12-06T18:15:25.410Z
-link: https://www.youtube.com/watch?v=iy0erq8CdSc
+link: https://youtu.be/iy0erq8CdSc
 categories: ["talk"]
 ---
-[Joshua Maponga: How to Decolonize Africa’s Systems](https://www.youtube.com/watch?v=iy0erq8CdSc)
+[Joshua Maponga: How to Decolonize Africa’s Systems](https://youtu.be/iy0erq8CdSc)
 
 > [Before school, identify problems in your community. Study them in school and find solutions. Develop a proposal and business plan. After graduating, return to your community and solve those problems.]
 

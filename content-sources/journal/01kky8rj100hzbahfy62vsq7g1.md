@@ -1,9 +1,9 @@
 ---
 date: 2026-03-17T16:06:17.888Z
-link: https://www.youtube.com/watch?v=s1O7bPqHy2E
+link: https://youtu.be/s1O7bPqHy2E
 categories: ["talk"]
 ---
-[Vandana Shiva | On Cultivating Fearlessness](https://www.youtube.com/watch?v=s1O7bPqHy2E)
+[Vandana Shiva | On Cultivating Fearlessness](https://youtu.be/s1O7bPqHy2E)
 
 > [Just as yield doesn't measure agricultural productivity, mechanistic thinking is a poor fit for the living world.]
 

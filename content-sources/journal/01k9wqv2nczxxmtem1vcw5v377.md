@@ -1,9 +1,9 @@
 ---
 date: 2025-11-12T19:14:21.996Z
-link: https://www.youtube.com/watch?v=UAT-eOzeY4M
+link: https://youtu.be/UAT-eOzeY4M
 categories: ["talk"]
 ---
-[The genius logic of the NATO phonetic alphabet](https://www.youtube.com/watch?v=UAT-eOzeY4M)
+[The genius logic of the NATO phonetic alphabet](https://youtu.be/UAT-eOzeY4M)
 
 > [Although commonly known as the 'NATO phonetic alphabet' and for 'military use', it's really a 'spelling alphabet' invented by the ICAO for flight communications and with pronunciation improvements formalized by NATO.]
 

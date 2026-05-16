@@ -1,9 +1,9 @@
 ---
 date: 2026-05-03T20:07:34.364Z
 categories: ["sound","talk"]
-link: https://www.youtube.com/watch?v=KP5kZreliBI
+link: https://youtu.be/KP5kZreliBI
 ---
-[Harry Mack: How To Get Better At Freestyle Rapping - Setup, Punchline](https://www.youtube.com/watch?v=KP5kZreliBI)
+[Harry Mack: How To Get Better At Freestyle Rapping - Setup, Punchline](https://youtu.be/KP5kZreliBI)
 
 > [Practice is strategically targetting your weaknesses to help them improve over time.]
 

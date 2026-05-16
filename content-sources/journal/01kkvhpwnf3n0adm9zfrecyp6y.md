@@ -1,8 +1,8 @@
 ---
 date: 2026-03-16T14:44:57.135Z
 via: https://damus.io/nevent1qqsp7tc0dr7lh4jnzydx736fswmzng8rpa9sx2dcay9d8j2h2utwlpqq7yz2y
+categories: ["article","project"]
 link: https://agelesslinux.org
-categories: ["article"]
 ---
 [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org)
 

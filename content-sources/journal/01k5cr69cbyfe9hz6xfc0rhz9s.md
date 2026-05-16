@@ -1,10 +1,10 @@
 ---
 date: 2025-09-17T21:09:51.114Z
 via: https://bsky.app/profile/tokono.ma/post/3lys6tvmlbk2e
-link: https://m.youtube.com/watch?v=plleJ0Zv0Ww
+link: https://youtu.be/plleJ0Zv0Ww
 categories: ["talk"]
 ---
-[It's Not Just You: Music Streaming Is Broken Now](https://m.youtube.com/watch?v=plleJ0Zv0Ww)
+[It's Not Just You: Music Streaming Is Broken Now](https://youtu.be/plleJ0Zv0Ww)
 
 > [Artists on Spotify are paid from a common fund divided in proportion to their number of streams in each payment period. Audiobooks are also sharing from the same pool. Scammers can flood the platform with fake plays that reduces the payout from all the others.]
 

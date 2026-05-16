@@ -1,9 +1,9 @@
 ---
 date: 2025-04-11T10:57:41.655Z
-link: https://www.youtube.com/watch?v=teqkK0RLNkI
+link: https://youtu.be/teqkK0RLNkI
 categories: ["talk"]
 ---
-[CONSPIRACY](https://www.youtube.com/watch?v=teqkK0RLNkI)
+[CONSPIRACY](https://youtu.be/teqkK0RLNkI)
 
 > [Nudging people towards your conclusion while making them think they arrived there themselves will keep them resistant to questioning their basis for belief.]
 
