@@ -12,59 +12,7 @@ blurb: "sharing this homework assignment not so much for the content, but the
   \r
 
   artwork by https://www.instagram.com/colorsofwork/ used with permission"
-lyrics: "doutora Vandana Shiva\r
-
-  doutora Vandana Shiva\r
-
-  defensora do mundo vivo\r
-
-  o capital só destruindo\r
-
-  mas ela luta resistindo\r
-
-  era menina cuidando a mata\r
-
-  raiz na força feminina\r
-
-  \r
-
-  viu um movimento de mulheres\r
-
-  viu um movimento de mulheres\r
-
-  sabiam nem ler, nem escrever\r
-
-  mas abraçando árvores, salvou\r
-
-  a vida da floresta\r
-
-  esse povo sem escola\r
-
-  sabe a língua da natureza\r
-
-  \r
-
-  protegendo o nosso mundo\r
-
-  Vandana Shiva está presente\r
-
-  pelo futuro alimentar, protege\r
-
-  todas as semente camará!\r
-
-  \r
-
-  iê viva Vandana\r
-
-  iê mãe natureza\r
-
-  iê todas as mulheres\r
-
-  iê força feminina\r
-
-  iê força da vida\r
-
-  é pra defender"
+lyrics: berlin-2026/doutora-vandana-shiva
 instagram_id: DYZFwWii__V
 tiktok_id: "7640396325250501909"
 threads_id: DYZF3HYj4Jm
@@ -77,8 +25,8 @@ twitter_id: "2055558350163546389"
 linkedin_id: ugcPost:7461325148827324417
 title: doutora Vandana Shiva
 date: 2026-05-16T08:08:06.277Z
-slug: doutora-vandana-shiva
+slug: mp81970e
 summary: '"people without school who know the language of nature"'
-youtube_id: mK5ukeAO-co
+youtube_id: EUCvM1N5gjU
 facebook_id: "957043270506630"
 ---
