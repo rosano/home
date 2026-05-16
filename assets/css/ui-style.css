@@ -240,6 +240,7 @@ header {
 
 		img, video {
 			max-width: 100%;
+			border: var(--rh-stroke);
 		}
 
 		figcaption {
@@ -679,6 +680,23 @@ card {
 			color: white;
 			text-shadow: 1px 1px 0 black;
 		}
+	}
+}
+
+card .video-preview {
+	flex-shrink: 0;
+
+	margin-bottom: var(--pad);
+	margin-right: var(--pad);
+
+	a {
+		--size: calc(var(--video-width-condensed) * 1.3);
+		--video-width: var(--size);
+		--video-height: var(--size);
+	}
+
+	.date-strip {
+		display: none;
 	}
 }
 
