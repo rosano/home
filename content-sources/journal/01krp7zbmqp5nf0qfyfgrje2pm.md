@@ -5,7 +5,7 @@ categories: ["talk"]
 ---
 [Travel for people who love you is the only ethical way to travel at all.](https://www.tiktok.com/@watchfulcoyote/video/7639463346697260301)
 
-> [Travel only where you've been invited by people who love you.]
+> [Go only where you've been invited by people who love you.]
 
 > [There is nothing to do in cities. The best part is leaving.]
 
