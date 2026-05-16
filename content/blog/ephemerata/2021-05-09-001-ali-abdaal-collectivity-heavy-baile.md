@@ -60,7 +60,7 @@ Alex Danco makes an interesting distinction between [purchases for convenience v
 
 I’m still reading Get Together by Bailey Richardson. The last few chapters had some tips about the messaging used in communities:
 
-> \[Tell an origin story that describes your personal journey (self), the collective journey (us), and what people can do to get involved (now) plus ‘why now?’.\]
+> \[Tell an origin story that describes your personal journey (self), the collective journey (us), what people can do to get involved (now), plus ‘why now?’.\]
 
 > \[Nudge members into inviting others by communicating how their involvement is important to the community’s success. Make it easy for them by giving them the shareable assets. How can we make it easier for them to do it on their own terms?\]
 

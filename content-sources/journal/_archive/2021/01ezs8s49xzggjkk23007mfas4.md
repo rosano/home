@@ -5,7 +5,7 @@ series: "Bonnie A. Nardi: A Small Matter of Programming"
 ---
 > [End-user programming languages are more motivating to learn when they are task-oriented: instead of making available only smaller primitives, provide higher-level abstractions that actually do the complete job.]
 
-> [Spreadsheet arithmetic is approachable not because most people know how to add and subtract, but because that's what accountants and business people *do*]
+> [Spreadsheet arithmetic is approachable not because most people know how to add and subtract, but because that's what accountants and business people *do*.]
 
 > [Go beyond 'easy to use' and prioritize early success within a few hours of use to increase motivation.]
 

@@ -7,7 +7,7 @@ series: "Jenny Odell: How to Do Nothing"
 
 > [Expansions of attention are hard to reverse: when something goes from idea to reality, perception cannot easily be forced back into a smaller container.]
 
-> ['Be yourself' in language of advertising and marketing means 'be more of the consistent and recognizable habits and drives that are easy to target and appropriate']
+> ['Be yourself' in language of advertising and marketing means 'be more of the consistent and recognizable habits and drives that are easy to target and appropriate'.]
 
 > [If you were reading a book where the pages progressively became more and more similar until you were reading the same page repeatedly, you would probably put the book down.]
 

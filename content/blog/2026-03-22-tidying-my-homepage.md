@@ -2,7 +2,7 @@
 title: tidying my homepage
 slug: tidying-my-homepage
 date: 2026-03-22T11:50:00Z
-summary: Feels good to improve so much without a big 'redesign'.
+summary: feels good to improve so much without a big 'redesign'.
 tags:
   - process
   - changelog

@@ -2,7 +2,7 @@
 title: visual family cosmos
 slug: visual-family-cosmos
 date: 2026-01-22T13:46:52.740Z
-summary: One surname is not "where you're from".
+summary: one surname is not "where you're from".
 instagram_id: DT0MSd2iF4T
 tiktok_id: "7598184630583414023"
 facebook_id: pfbid0HrG76Bp49Ts6A8BgZnMRGns7ToXoa2Wyj21YDQzCZZAnF4hEfA593jTWVQAkRrMTl

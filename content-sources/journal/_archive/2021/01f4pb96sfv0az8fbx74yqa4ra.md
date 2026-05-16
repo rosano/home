@@ -5,7 +5,7 @@ series: "Bailey Richardson: Get Together"
 ---
 > [Instead of pushing out, pull in: work with your members to collectively send an authentic signal about what your community is about.]
 
-> [Tell an origin story that describes your personal journey (self), the collective journey (us), and what people can do to get involved (now) plus 'why now?'.]
+> [Tell an origin story that describes your personal journey (self), the collective journey (us), what people can do to get involved (now), plus 'why now?'.]
 
 > [Communicate your origin story wherever possible, online and offline, to inspire people to action.]
 
