@@ -5,4 +5,4 @@ link: https://youtu.be/Tu8FA2OArbw
 ---
 [ኃይለየሱስ ፈይሳ [Haileyesus Feyssa]: ፍቅር ተወደደ [Fikir Tewedede]](https://youtu.be/Tu8FA2OArbw)
 
-nice surprise change in timefeel in the beginning; multiple beats/rhythms simultaneously
+cool surprise change in timefeel in the beginning; multiple beats/rhythms simultaneously

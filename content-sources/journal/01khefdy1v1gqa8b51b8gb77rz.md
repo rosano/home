@@ -8,4 +8,4 @@ categories: ["talk"]
 
 > [Indian students come to Germany sold on a vision of prosperity by expensive private university marketing, then find themselves unable to leave and forced into delivery work.]
 
-> [Delivery companies like Uber Eats and Wolt rely on 3rd party agencies to recruit and hire drivers as 4th party contractors. These agencies interact anonymously through WhatsApp numbers, make arrangements to pay in cash at sketchy locations (often less than anticipates), and regularly declare bankruptcy before starting the scheme again avoid paying taxes and social security.]
+> [Delivery companies like Uber Eats and Wolt rely on 3rd party agencies to recruit and hire drivers as 4th party contractors. These agencies interact anonymously through WhatsApp numbers, make arrangements to pay in cash at sketchy locations (often less than anticipated), then regularly declare bankruptcy before starting the scheme again to avoid paying taxes or social security.]

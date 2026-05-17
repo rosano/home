@@ -5,4 +5,4 @@ categories: ["talk"]
 ---
 [Let's talk about Trump, 200 billion dollars, and a promise....](https://youtu.be/vsD0aRkvqm4)
 
-> [Running countries like a business means the shareholders (financial donors) are best served when the company (government) extracts as much as possible from consumers (you) while giving them little in return.]
+> [Running countries like a business means the shareholders (financial donors) are best served when the company (government) extracts as much as possible from consumers (you) while providing little in return.]

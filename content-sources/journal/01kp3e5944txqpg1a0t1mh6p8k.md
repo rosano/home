@@ -5,4 +5,4 @@ link: https://youtu.be/Kd3Gsfu-W_A
 ---
 [Filó Machado, Gennoshin: Dinorah Dinorah](https://youtu.be/Kd3Gsfu-W_A)
 
-such a simple short rhythmic refrain yet satisfying to repeat a million times in the same song
+such a simple short rhythmic refrain, yet satisfying to repeat a hundred times in the same song

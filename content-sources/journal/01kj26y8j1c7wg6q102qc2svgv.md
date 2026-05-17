@@ -1,7 +1,7 @@
 ---
 date: 2026-02-18T09:23:05.360Z
+categories: ["sound"]
 link: https://youtu.be/qmWihvE4xPU
-categories: ["talk"]
 ---
 [clown core: Diarrhea Inferno Welfare Burrito](https://youtu.be/qmWihvE4xPU)
 

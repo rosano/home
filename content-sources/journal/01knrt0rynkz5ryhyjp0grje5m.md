@@ -5,4 +5,4 @@ link: https://youtu.be/7kgYHP5fVns&t=1497s
 ---
 [Filó Machado, Djavan: Origens](https://youtu.be/7kgYHP5fVns&t=1497s)
 
-Sounds like Stevie Wonder singing in Brazilian Portuguese.
+Sounds like Stevie Wonder singing Brazilian Portuguese.

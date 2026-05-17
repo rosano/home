@@ -4,6 +4,6 @@ via: https://fr.linkedin.com/posts/myriadeweb_open-source-alternatives-to-propri
 categories: ["project"]
 link: https://opensourcealternative.to
 ---
-[Open Source Alternatives To Proprietary Software](https://opensourcealternative.to)
+[OpenSourceAlternative.to](https://opensourcealternative.to)
 
 > Replace proprietary software products with open source alternatives.

@@ -5,4 +5,4 @@ link: https://youtu.be/u7wS6L6v7Ls
 ---
 [Stacy Kidd: Let Love Enter](https://youtu.be/u7wS6L6v7Ls)
 
-nice groove, not used to hearing jazz solos in house tracks
+groovy; not used to hearing jazz solos in house tracks
