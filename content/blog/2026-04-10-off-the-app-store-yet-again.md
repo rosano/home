@@ -28,7 +28,7 @@ This is what Apple's kiss of death looks like:
 
 Swift, bureaucratic, saying nothing.
 
-According to their policies, it's been over three years since the last time I updated my apps, and there aren't "enough" downloads for them to keep it on the store, so Apple will remove *all of them* unless I update within ninety days.
+According to their policies, it's been over three years since I last updated my apps, and there aren't "enough" downloads for them to keep it on the store, so Apple will remove *all of them* unless I update within ninety days.
 
 <roco-divider></roco-divider>
 
