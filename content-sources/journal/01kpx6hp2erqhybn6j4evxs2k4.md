@@ -1,6 +1,6 @@
 ---
 date: 2026-04-23T12:55:26.541Z
-via: '[Gustavo](http://comova.me)'
+via: Gustavo
 categories: ["sound"]
 link: https://youtu.be/Az7ke9mu4Fg
 ---

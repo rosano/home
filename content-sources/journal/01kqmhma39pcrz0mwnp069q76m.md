@@ -1,6 +1,6 @@
 ---
 date: 2026-05-02T14:31:38.857Z
-via: '[Kamai](https://linktr.ee/kamaifreire)'
+via: Kamai
 categories: ["sound"]
 link: https://www.youtube.com/playlist?list=OLAK5uy_kFqbtYW8aLjLzUU2LjztbpgHwpbnQNxGw
 ---
