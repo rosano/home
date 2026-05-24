@@ -59,6 +59,7 @@ eu vou ver os angoleiros vadiar*
 iê!
 
 sou filho da cobra verde
+sou filho da cobra verde
 neto da cobra coral
 quem quiser saber meu nome
 meu veneno é de matar
@@ -66,4 +67,24 @@ valha-me Nossa Senhora
 mãe de Deus o Criador
 nossa Senhora me ajude
 nosso Senhor me ajudou
+camará
+
+# todo mundo quer ser bom
+
+iê!
+
+todo mundo quer ser bom
+todo mundo quer ser bom
+mas ruim ninguém quer ser
+quer aprender mas não sabe o que é sofrer
+
+capoeira tem riqueza
+mas não é pra se vender
+quem vender a capoeira
+com Zumbi vai se entender
+
+capoeira vem da África
+pra nós dar libertação
+quem vender a capoeira
+vai voltar pá escravidão
 camará
