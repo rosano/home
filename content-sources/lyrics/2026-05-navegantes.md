@@ -4,6 +4,28 @@ slug: navegantes
 topic:
   - capoeira
 ---
+# Marielle
+
+iê!
+
+foi no Rio de Janeiro
+foi no Rio de Janeiro
+num dia de quarta-feira
+mataram mais uma preta
+mataram mais uma preta
+mataram uma companheira
+
+sua vida, minha colega
+sempre foi de muito risco
+pra quem luta todo dia
+contra o machismo e o racismo
+
+mas é na luta que aprendemos
+vai a flor, fica a semente
+enquanto estivermos juntas
+Marielle está presente
+camará
+
 # toda vez que eu dou um passo
 
 iê!
@@ -87,4 +109,28 @@ capoeira vem da África
 pra nós dar libertação
 quem vender a capoeira
 vai voltar pá escravidão
+camará
+
+# conselho de mãe
+
+iê!
+
+minha mãe me disse filho
+tome tento com as pessoas
+desconfie de elogio
+que surge de "forma dor"
+
+tome cuidado com aquele
+que "a inveja seme"
+lembre coração dos outros
+"terra que ninguém passeu"
+
+seja humilde "passou bem / por souber"
+sem esperar gratidão
+e sem olhar "aquele"
+
+mesmo estando sozinho
+seu astral mantenha almo
+é melhor andar sozinho
+do que mal accompanhar
 camará
