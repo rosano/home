@@ -118,19 +118,19 @@ iê!
 minha mãe me disse filho
 tome tento com as pessoas
 desconfie de elogio
-que surge de "forma dor"
+que surge de forma à toa
 
 tome cuidado com aquele
-que "a inveja seme"
+que a inveja semea
 lembre coração dos outros
-"terra que ninguém passeu"
+terra que ninguém passeia
 
-seja humilde "passou bem / por souber"
+seja humilde, faça o bem
 sem esperar gratidão
-e sem olhar "aquele"
+e sem olhar a quem
 
 mesmo estando sozinho
-seu astral mantenha almo
+seu astral mentenha alto
 é melhor andar sozinho
-do que mal accompanhar
+do que mal acompanhado
 camará
