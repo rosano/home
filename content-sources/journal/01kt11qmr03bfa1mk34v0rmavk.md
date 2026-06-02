@@ -1,8 +1,8 @@
 ---
 date: 2026-06-01T07:35:22.112Z
 via: https://buttondown.com/chadkoh/archive/what-comes-around-and-what-we-wish-wouldnt/
+categories: ["project"]
 link: https://delphi.tools
-categories: ["article"]
 ---
 [delphitools](https://delphi.tools)
 

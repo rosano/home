@@ -5,6 +5,10 @@ time,place,country,countrycode,timezone
 2009-08-01T14:00:00Z,Milan,Italy,IT,Europe/Rome
 2009-08-01T19:00:00Z,Frankfurt,Germany,DE,Europe/Berlin
 2009-08-02T12:00:00Z,Toronto,Canada,CA,America/Toronto
+2009-09-04T11:00:00Z,Windsor,Canada,CA,America/Toronto
+2009-09-05T13:00:00Z,Detroit,United States,US,America/Detroit
+2009-09-06T01:00:00Z,Windsor,Canada,CA,America/Toronto
+2009-09-06T09:00:00Z,Toronto,Canada,CA,America/Toronto
 2012-03-27T14:00:00Z,NYC,United States,US,America/New_York
 2012-03-31T17:00:00Z,Toronto,Canada,CA,America/Toronto
 2012-06-05T01:00:00Z,NYC,United States,US,America/New_York
