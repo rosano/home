@@ -11,7 +11,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 
 </section>
 
-[Now](/now) in {{< current-location >}}.
+<!-- [Now](/now) in {{< current-location >}}. -->
 
 # connection
 
