@@ -1,4 +1,9 @@
 ---
+instagram_id: DZMdKzNCACF
+facebook_id: pfbid028jsJFCq48x7iSmLiDtoUFH86pBbeQS8wGN5HymWwBtm1pRVEDoKiWKKmSEbmoR1hl
+threads_id: DZMdL2dgLhb
+twitter_id: "2062787650616959116"
+linkedin_id: ugcPost:7468553615805235200
 slug: thick-skin-open-heart
 title: thick skin, open heart
 summary: If it was guaranteed to feel good, I wouldn't be open to whatever happens.
