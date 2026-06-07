@@ -1,5 +1,6 @@
 ---
 date: 2026-06-04T07:51:28.177Z
+via: https://github.com/zakirullin/files.md
 link: https://www.joanwestenberg.com/i-deleted-my-second-brain-692aa40d59d5f06dd5131e43/
 categories: ["article"]
 ---
