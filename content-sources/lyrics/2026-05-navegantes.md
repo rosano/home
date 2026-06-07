@@ -134,3 +134,26 @@ seu astral mentenha alto
 é melhor andar sozinho
 do que mal acompanhado
 camará
+
+# o meu Senhor que é dono da rua
+
+*o meu Senhor que é dono da lua
+protege as crianças que moram na rua*
+
+1. o meu Senhor que é dono da terra
+    protege esse povo que ja tá em guerra
+
+2. o meu Senhor que é dono da lua
+    protege as crianças que moram na rua
+
+3. governador tem a sua consciencia
+    protege as crianca contra violença
+
+4. "que bebem ?" na rua, "tentei um conduto"
+    dormindo de baixo de qualquer viaduto
+
+5. "que bebem ?" na rua, "tentei um conduto"
+    dormindo de baixo de qualquer viaduto
+
+6. que dormem na rua, "tentei o que comer"
+    "pa apanhando lixo pa sobreviver"

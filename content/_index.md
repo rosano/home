@@ -5,7 +5,7 @@ title: Rosano
 
 # hello
 
-I'm a technologist, writer, and musician, producing personal projects full-time.  
+I'm a technologist, writer, and musician, mostly producing personal projects.
 
 This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 
