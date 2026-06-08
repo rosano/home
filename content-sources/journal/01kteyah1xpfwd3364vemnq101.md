@@ -1,7 +1,7 @@
 ---
 date: 2026-06-06T17:05:08.667Z
+categories: ["project"]
 link: https://welovedogs.cc
-categories: ["article"]
 ---
 [The $8 Website Blueprint](https://welovedogs.cc)
 
