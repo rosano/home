@@ -7,12 +7,14 @@
   {{ end }}
 
   {{ $doc := partial "func/lyrics-doc" (readFile (path.Join $dir $filename)) }}
-  {{ $params := index $doc "params" }}
+  {{ $_params := index $doc "params" }}
 
-  {{ $collectionSlug := default (path.BaseName $filename) (index $params "slug") }}
+  {{ $collectionSlug := default (path.BaseName $filename) (index $_params "slug") }}
   {{ $slugState := dict "used" slice }}
 
   {{ range $i, $v := split (index $doc "body") "\n# " }}
+    {{ $params := merge $_params (dict) }}
+
     {{ $content := strings.TrimSpace $v }}
 
     {{ if eq $content "" }}
@@ -28,7 +30,15 @@
     {{ $slugState = partial "func/slug-unique" $slugState }}
 
     {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
+    {{ $lines = split $content "\n" }}
 
+    {{ if (strings.Contains (index $lines 0) "theme:") }}
+      {{ $params = merge $params (dict
+        "lyrics_theme" (split (strings.TrimSpace (replace (index $lines 0) "theme:" "")) ",")
+      ) }}
+      {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
+    {{ end }}
+    
     {{ $params = merge $params (dict
       "filename" $filename
       "extra" ""

@@ -24,23 +24,36 @@
 	</div>
 {{ end }}
 
-{{ if not (.Scratch.Get "kScopeList")  }}
+{{ if not (.Scratch.Get "kScopeList") }}
+	<p><small>Part of 
+	<!-- TOPIC -->
+	{{- with .GetTerms "lyrics_topic" -}}
+	{{ range $index, $element := . -}}
+		{{- if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+	{{- end -}}
+	{{- end }}
+
+	in
 
 	<!-- COLLECTION -->
 	{{- range (.GetTerms "lyrics_collection") -}}
-		<p><small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small></p>
+		<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 	{{- end -}}
+	.</small></p>
+{{ end }}
 
-	<!-- TOPIC -->
-	{{- with .GetTerms "lyrics_topic" -}}
-	<small>Topics: {{ range $index, $element := . -}}
+<p>
+<!-- THEME -->
+{{- with .GetTerms "lyrics_theme" -}}
+	<small>themes: {{ range $index, $element := . -}}
 		{{- if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>
 	{{- end -}}.
 	</small>
-	{{ end }}
+{{ end }}
+</p>
 
+{{ if not (.Scratch.Get "kScopeList") }}
 	<hr>
-
 	<small class="metadata">
 		{{ if site.Params.sourcePrefix }}
 			<span>
