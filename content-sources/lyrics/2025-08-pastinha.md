@@ -5,6 +5,7 @@ topic:
   - capoeira
 ---
 # Bahia nossa Bahia
+theme: ladainha
 
 iê! maior é Deus, pequeno sou eu
 iê! maior é Deus, pequeno sou eu
@@ -36,6 +37,7 @@ iê Farol da Bahia
 https://capoeiraosorno.blogspot.com/2011/04/letras-mestre-pastinha-eternamente.html?m=1
 
 # dona Alice não me pegue não
+theme: mulher
 
 dona Alice não me pegue não
 não me pegue
@@ -43,6 +45,7 @@ não me agarre
 não me pegue não
 
 # canarinho da Alemanha
+theme: animal
 
 canarinho da Alemanha
 quem matou meu curió?
@@ -60,6 +63,7 @@ eu jogo capoeira
 na Bahia e em Maceió
 
 # valha-me Deus, senhor São Bento
+theme: animal
 
 valha-me Deus, senhor São Bento
 vou cantar meu barravento
@@ -73,6 +77,7 @@ valha-me Deus, senhor São Bento
 - quanto jogo para o chão
 
 # eu já vivo enjoado
+theme: ladainha
 
 iê! cidade de Assunção
 capital de Itamaraty
@@ -121,6 +126,7 @@ quebra
 amanhã nada quebra
 
 # dona Maria que vende aí?
+theme: mulher
 
 dona Maria que vende aí?
 Coco e pipoca que é do Brasil
@@ -137,6 +143,7 @@ eu vou partir porque mataram meu Besouro
 ê Besouro !
 
 # eu vou ler o B-A-Bá
+theme: ladainha
 
 menino preste atenção no que eu vou dizer
 o que eu faço brincando você não faz nem zangado
@@ -167,6 +174,7 @@ iê sabe jogar
 iê a capoeira
 
 # ai ai Aidê
+theme: mulher
 
 ai ai Aidê
 dona Maria como vai vosmecê
@@ -177,6 +185,7 @@ eu não sei se Deus consente
 numa cova dois defuntos
 
 # xô xô meu canário
+theme: animal
 
 xô xô meu canário
 meu canário é cantador
@@ -201,6 +210,7 @@ o la e la e la
 o le le
 
 # vou me embora para São Paulo
+theme: ladainha
 
 eu vou ler o meu abc
 porque não queria cantar
@@ -282,6 +292,7 @@ pega esse nego, derruba no chão
 esse nego é maluco, esse nego é o cão
 
 # iê eu tava em casa
+theme: ladainha
 
 iê!
 
@@ -319,11 +330,13 @@ iê ele é mandingueiro
 iê ele é cabeçeiro
 
 # Tabaréu que vem do sertão
+theme: fruit
 
 Tabaréu que vem do sertão
 que vende maxixe, quiabo e limão
 
 # esse gunga é meu, esse gunga é meu
+theme: instrument
 
 esse gunga é meu, esse gunga é meu
 gunga é meu, eu não posso vender

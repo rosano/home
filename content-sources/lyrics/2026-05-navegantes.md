@@ -5,6 +5,7 @@ topic:
   - capoeira
 ---
 # Marielle
+theme: ladainha
 
 iê!
 
@@ -27,6 +28,7 @@ Marielle está presente
 camará
 
 # toda vez que eu dou um passo
+theme: ladainha
 
 iê!
 
@@ -77,6 +79,7 @@ eu vou ver os angoleiros vadiar*
   só pra ver os angoleiros vadiar
 
 # sou filho da cobra verde
+theme: ladainha
 
 iê!
 
@@ -92,6 +95,7 @@ nosso Senhor me ajudou
 camará
 
 # todo mundo quer ser bom
+theme: ladainha
 
 iê!
 
@@ -112,6 +116,7 @@ vai voltar pá escravidão
 camará
 
 # conselho de mãe
+theme: ladainha
 
 iê!
 
