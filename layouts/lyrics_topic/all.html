@@ -2,6 +2,13 @@
 
 <h1>{{- partial "page-title" . -}}</h1>
 
+{{ $index := 0 }}
+
+<p>themes: {{ range site.Taxonomies.lyrics_theme }}
+	{{- if $index }}, {{ end }}<a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+	{{- $index = add $index 1}}
+{{- end}}</p>
+
 {{ partial "lyrics-grouped" . }}
 
 {{ end }}
