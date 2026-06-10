@@ -152,25 +152,27 @@ madeira de Jacarandá*
 beriba é pau, é madeira
 *biriba é pra tocar*
 
-# o meu Senhor que é dono da rua
+# o meu Senhor que é dono da lua
 
 *o meu Senhor que é dono da lua
 protege as crianças que moram na rua*
 
 1. o meu Senhor que é dono da terra
-    protege esse povo que ja tá em guerra
+protege esse povo que ja está em guerra
 
 2. o meu Senhor que é dono da lua
-    protege as crianças que moram na rua
+protege as crianças que moram na rua
 
 3. governador tem a sua consciencia
-    protege as crianca contra violença
+protege as crianças contra violença
 
-4. "que bebem ?" na rua, "tentei um conduto"
-    dormindo de baixo de qualquer viaduto
+4. que moram na rua, tem que ter o que comer
+apanhando lixo para sobreviver
 
-5. "que bebem ?" na rua, "tentei um conduto"
-    dormindo de baixo de qualquer viaduto
+5. que moram na rua, tem que ter um conduto
+dormindo de baixo de qualquer viaduto
 
-6. que dormem na rua, "tentei o que comer"
-    "pa apanhando lixo pa sobreviver"
+6. que dormem na rua, tem que ter "lodo"
+apanhando parcelão para seu cobertor
+
+source: https://dokumen.pub/capoeira-and-candomble-conformity-and-resistance-through-afro-brazilian-experience-9783964565358.html
