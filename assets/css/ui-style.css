@@ -768,12 +768,12 @@ blog-list {
 	background: inherit;
 }
 
-.lyrics_topic .post .sticky, .occasion .post h3 {
+.lyrics_topic .post .sticky, .lyrics_theme .post .sticky, .occasion .post h3 {
 	padding: calc(var(--rh-pad) * 1.5) 0;
 	top: 43px;
 }
 
-.lyrics_topic .post .sticky {
+.lyrics_topic .post .sticky, .lyrics_theme .post .sticky {
 	top: 30px;
 }
 
@@ -807,7 +807,7 @@ blog-list {
 
 /* z-index */
 
-.lyrics_topic .post .sticky, .occasion .post h3 {
+.lyrics_topic .post .sticky, .lyrics_theme .post .sticky, .occasion .post h3 {
 	z-index: 1;
 }
 
