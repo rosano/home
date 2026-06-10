@@ -140,6 +140,18 @@ seu astral mentenha alto
 do que mal acompanhado
 camará
 
+# madeira de Massaranduba
+theme: instrument
+
+madeira de Massaranduba
+madeira de Jacarandá
+
+*madeira de Massaranduba
+madeira de Jacarandá*
+
+beriba é pau, é madeira
+*biriba é pra tocar*
+
 # o meu Senhor que é dono da rua
 
 *o meu Senhor que é dono da lua
