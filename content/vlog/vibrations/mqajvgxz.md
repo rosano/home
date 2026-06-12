@@ -24,7 +24,7 @@ seconds: 202
 mastodon_id: "116735790452755086"
 title: bach prelude & fugue no. 2 in c minor
 date: 2026-06-12T06:55:17.786Z
-slug: bach-prelude-fugue-no-2-in-c-minor
+slug: mqajvgxz
 summary: Prelude as engine, fugue as debate.
 youtube_id: xlSlK1dk-aA
 facebook_id: "1693856668205728"
