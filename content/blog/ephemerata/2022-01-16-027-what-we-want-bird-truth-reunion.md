@@ -57,7 +57,7 @@ Almost finished editing the first episode. I’m usually excited when releasing 
 
 ---
 
-I had a day of bingeing funny videos last week and went through some of [Chris Fleming](https://twitter.com/ChrisFluming)’s little skits. Had some good laughs with [uncle or famous?](https://twitter.com/chrisfluming/status/1480950747940331525), [Halloween Candy Countdown](https://www.youtube.com/watch?v=-In-JeLuguI), and [Teens Who Drink Coffee](https://www.youtube.com/watch?v=RRiRrpd%5FVDQ).
+I had a day of bingeing funny videos last week and went through some of [Chris Fleming](https://twitter.com/ChrisFluming)’s little skits. Had some good laughs with [uncle or famous?](https://twitter.com/chrisfluming/status/1480950747940331525), [Halloween Candy Countdown](https://youtu.be/-In-JeLuguI), and [Teens Who Drink Coffee](https://youtu.be/RRiRrpd%5FVDQ).
 
 ---
 
@@ -79,11 +79,11 @@ Notes from a mystic:
 
 ## Short
 
-[Bobbie Gentry: _Reunion_](https://www.youtube.com/watch?v=xBl4YQMoBKk) from _The Delta Sweete_ (1968). Complex interleaving of multiple parts with folksy Southern USA accents. Listen to the percussive clapping, bass drum, and guitar on the left channel, with voice and trumpets in the right channel. Reminds me of Moondog. (via [Debora Ipekel](https://worldwidefm.net/episode/debora-ipekel-with-poly-ritmo-28-03-19-2))
+[Bobbie Gentry: _Reunion_](https://youtu.be/xBl4YQMoBKk) from _The Delta Sweete_ (1968). Complex interleaving of multiple parts with folksy Southern USA accents. Listen to the percussive clapping, bass drum, and guitar on the left channel, with voice and trumpets in the right channel. Reminds me of Moondog. (via [Debora Ipekel](https://worldwidefm.net/episode/debora-ipekel-with-poly-ritmo-28-03-19-2))
 
 ---
 
-[Israel Fernández: _Fiesta (Bulería)_](https://www.youtube.com/watch?v=4l4fAqc7u-Y) at COLORSxSTUDIOS (2021). The simplicity of a powerful voice accompanied by delicate clapping and feet hitting the floor, heard in stereo. Even without understanding the lyrics, one can appreciate how the fierce singing cuts through your prefrontal lobe. An example of making music with the body and whatever’s around (the desk might have been my primary instrument for years). As an aside: there’s too much good music on this show, and I would appreciate recommendations. (via [Brian Ginsburg](https://brianginsburg.com))
+[Israel Fernández: _Fiesta (Bulería)_](https://youtu.be/4l4fAqc7u-Y) at COLORSxSTUDIOS (2021). The simplicity of a powerful voice accompanied by delicate clapping and feet hitting the floor, heard in stereo. Even without understanding the lyrics, one can appreciate how the fierce singing cuts through your prefrontal lobe. An example of making music with the body and whatever’s around (the desk might have been my primary instrument for years). As an aside: there’s too much good music on this show, and I would appreciate recommendations. (via [Brian Ginsburg](https://brianginsburg.com))
 
 ---
 
@@ -93,9 +93,9 @@ Notes from a mystic:
 
 ## Two oldies gems (via [Pat Power](https://twitter.com/patpowerpck))
 
-[The Dixie Cups: _Chapel of Love_](https://www.youtube.com/watch?v=GgwJYXBsc7g) from _Chapel of Love_ (1964). Super soulful vibe created from vocals, bass, horns, glockenspiel, drums, and clapping—fewer ingredients than ice cream.
+[The Dixie Cups: _Chapel of Love_](https://youtu.be/GgwJYXBsc7g) from _Chapel of Love_ (1964). Super soulful vibe created from vocals, bass, horns, glockenspiel, drums, and clapping—fewer ingredients than ice cream.
 
-[The Everly Brothers: _All I Have to Do Is Dream_ (1958 single)](https://www.youtube.com/watch?v=tbU3zdAgiX8). One of the first things I played in public on the piano when growing up; the harmony fits perfectly in one hand and can be pretty satisfying to repeat for hours—great way to learn about thirds and sixths.
+[The Everly Brothers: _All I Have to Do Is Dream_ (1958 single)](https://youtu.be/tbU3zdAgiX8). One of the first things I played in public on the piano when growing up; the harmony fits perfectly in one hand and can be pretty satisfying to repeat for hours—great way to learn about thirds and sixths.
 
 ---
 

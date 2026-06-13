@@ -62,7 +62,7 @@ Help me continue creating projects that are public, accessible for free, and ope
 
 # ASIDES
 
-[Let's talk about society, laws, and two phrases....](https://www.youtube.com/watch?v=v4a9QAN-kTE). Frames pathways for change in a way that feels approachable: we can start where we are. Interesting to consider representatives without their own voice as mere channels for their constituents. If you want to change society, change the way people think; law is a lagging indicator of what people want.
+[Let's talk about society, laws, and two phrases....](https://youtu.be/v4a9QAN-kTE). Frames pathways for change in a way that feels approachable: we can start where we are. Interesting to consider representatives without their own voice as mere channels for their constituents. If you want to change society, change the way people think; law is a lagging indicator of what people want.
 
 > \[Political representatives shouldn't make any decisions, but rather simply vote the way a majority of their constituents want.\]
 
@@ -96,11 +96,11 @@ lectronice made a [cardboard computer](https://merveilles.town/@ice/107320247860
 
 ## Short
 
-[Frédéric Chopin: _Ballade No. 1 in G minor, Op. 23_ (1835)](https://www.youtube.com/watch?v=eRviRiVsMj8&t=33s). A live performance (with hands as the focal point) of a friend and pianist from Italy playing this masterpiece, followed by [an analysis](https://www.youtube.com/watch?v=eRviRiVsMj8&t=646s) explaining what makes certain parts of this piece stand out from other repertoire. I enjoy this fluidity of being able to talk about music that one performs, to help other people hear what's going on and find their way in.
+[Frédéric Chopin: _Ballade No. 1 in G minor, Op. 23_ (1835)](https://youtu.be/eRviRiVsMj8?t=33s). A live performance (with hands as the focal point) of a friend and pianist from Italy playing this masterpiece, followed by [an analysis](https://youtu.be/eRviRiVsMj8?t=646s) explaining what makes certain parts of this piece stand out from other repertoire. I enjoy this fluidity of being able to talk about music that one performs, to help other people hear what's going on and find their way in.
 
 ---
 
-[Caetano Veloso: _O Leãozinho_](https://www.youtube.com/watch?v=jS5XJNo5CX8) from _Caetano Veloso_ (1986). I'm overwhelmed by the simplicity of this little tune: just voice and simple guitar patterns can vividly paint an entire scene, with this bright, lilting mood. The singing and accompaniment are rhythmically fused in a way that makes it natural to embody. It was written for Caetano's sister Maria Bethânia, whose hair may resemble a lion's mane. The percussive clicking might be unique to this version of the song. See the [lyrics](https://lyricstranslate.com/en/o-le%C3%A3ozinho-little-lion.html-2#songtranslation) for a translation. (via Dani)
+[Caetano Veloso: _O Leãozinho_](https://youtu.be/jS5XJNo5CX8) from _Caetano Veloso_ (1986). I'm overwhelmed by the simplicity of this little tune: just voice and simple guitar patterns can vividly paint an entire scene, with this bright, lilting mood. The singing and accompaniment are rhythmically fused in a way that makes it natural to embody. It was written for Caetano's sister Maria Bethânia, whose hair may resemble a lion's mane. The percussive clicking might be unique to this version of the song. See the [lyrics](https://lyricstranslate.com/en/o-le%C3%A3ozinho-little-lion.html-2#songtranslation) for a translation. (via Dani)
 
 ---
 

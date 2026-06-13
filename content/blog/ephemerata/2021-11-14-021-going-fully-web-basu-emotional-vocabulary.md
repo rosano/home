@@ -93,7 +93,7 @@ Help me continue creating projects that are public, accessible for free, and ope
 * November 14: Attending [A Field Guide to Internet Emotion > 3.0 Atomize, or Bit-Sized Emotions](https://interintellect.com/salon/a-field-guide-to-internet-emotion-3-0-atomize-or-bit-sized-emotions)
 * November 14: Attending [Friendships, Scenes, and Growth](https://interintellect.com/salon/friendships-scenes-and-growth)
 * November 24: Co-hosting [Zero Data Swap #4: Hello World](https://chat.0data.app/t/51) with [Noel De Martin](https://noeldemartin.com)
-* November 28: Co-hosting [Improvisation, Spontaneity, and Oneness](https://interintellect.com/salon/improvisation-spontaneity-and-oneness) with [Vivek](https://www.youtube.com/watch?v=-a--B8UlkBQ&t=31s)
+* November 28: Co-hosting [Improvisation, Spontaneity, and Oneness](https://interintellect.com/salon/improvisation-spontaneity-and-oneness) with [Vivek](https://youtu.be/-a--B8UlkBQ?t=31s)
 * November 30: Hosting [remoteStorage monthly hangout](https://community.remotestorage.io/t/737)
 
 ---
@@ -142,7 +142,7 @@ Help me continue creating projects that are public, accessible for free, and ope
 
 ## Long
 
-[Jacob Collier, Mathis Picard: Improvised Piano Duet At The Blue Note (2017)](https://www.youtube.com/watch?v=Qgtoib4q0k0&t=659s). So much beauty in people making music socially, just having fun, enjoying the experience together. Re-assuring to see professionals accepting rough edges, not having [professionalism as the primary objective](https://rosano.hmm.garden/01ev1pxthspxdq5e5k5m54e1sg); less thinky, more youthful and playful. [10:59](https://www.youtube.com/watch?v=Qgtoib4q0k0&t=659s) has notes of Brad Mehldau, Keith Jarrett, stride pianists, so many textures and styles referenced. [57:16](https://www.youtube.com/watch?v=Qgtoib4q0k0&t=3436s) has a surprise vocal duet of _My Romance_ a cappella with Bobby McFerrin style accompaniment. Music is a language.
+[Jacob Collier, Mathis Picard: Improvised Piano Duet At The Blue Note (2017)](https://youtu.be/Qgtoib4q0k0?t=659s). So much beauty in people making music socially, just having fun, enjoying the experience together. Re-assuring to see professionals accepting rough edges, not having [professionalism as the primary objective](https://rosano.hmm.garden/01ev1pxthspxdq5e5k5m54e1sg); less thinky, more youthful and playful. [10:59](https://youtu.be/Qgtoib4q0k0?t=659s) has notes of Brad Mehldau, Keith Jarrett, stride pianists, so many textures and styles referenced. [57:16](https://youtu.be/Qgtoib4q0k0?t=3436s) has a surprise vocal duet of _My Romance_ a cappella with Bobby McFerrin style accompaniment. Music is a language.
 
 ---
 
@@ -150,13 +150,13 @@ Help me continue creating projects that are public, accessible for free, and ope
 
 ---
 
-[Tom Misch: Tiny Desk Concert (2018)](https://www.youtube.com/watch?v=IUMTaAQ43lY). Uses simple, common musical forms and devices, but with tasteful harmonic surprises. Everything is rhythmic, including the singing. Body-shaking, head-banging grooves, makes you go ‘ooooh yea’. (via [Shawn](https://twitter.com/Sh%5FMcK))
+[Tom Misch: Tiny Desk Concert (2018)](https://youtu.be/IUMTaAQ43lY). Uses simple, common musical forms and devices, but with tasteful harmonic surprises. Everything is rhythmic, including the singing. Body-shaking, head-banging grooves, makes you go ‘ooooh yea’. (via [Shawn](https://twitter.com/Sh%5FMcK))
 
 ---
 
 ## Short
 
-[Yaeji: _Raingurl_](https://www.youtube.com/watch?v=%5F3T8KznhThQ) from _EP2_ (2017). Manages to use repetitive elements with cliché chord progressions without sounding tired or stale. Infectious chorus makes body move. Slight bongo/hand drums keeps it from having a ‘pure electronic’ sound. (via [Eva B](https://boutiqueevab.com))
+[Yaeji: _Raingurl_](https://youtu.be/%5F3T8KznhThQ) from _EP2_ (2017). Manages to use repetitive elements with cliché chord progressions without sounding tired or stale. Infectious chorus makes body move. Slight bongo/hand drums keeps it from having a ‘pure electronic’ sound. (via [Eva B](https://boutiqueevab.com))
 
 ---
 

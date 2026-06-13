@@ -58,13 +58,13 @@ If you’re enjoying this, consider [contributing to my Open Collective](https:/
 
 # THE PURPOSE OF FRIENDSHIP
 
-The School of Life produced a video [framing friendship according to four different purposes](https://www.youtube.com/watch?v=aGedUxTAfBk): networking, reassurance, fun, and thinking. I find it useful as a way to notice when relationships don’t enrich us or fit into these purposes, to prompt finding more clarity about the connection. (via [Vidhika](https://interintellect.com/salon/i-get-by-with-a-little-help-from-my-friends))
+The School of Life produced a video [framing friendship according to four different purposes](https://youtu.be/aGedUxTAfBk): networking, reassurance, fun, and thinking. I find it useful as a way to notice when relationships don’t enrich us or fit into these purposes, to prompt finding more clarity about the connection. (via [Vidhika](https://interintellect.com/salon/i-get-by-with-a-little-help-from-my-friends))
 
 ---
 
 # ‘BOY’ IS TROUBLE
 
-Beau of the Fifth column talks about [why the seemingly innocuous word ‘boy’ is avoided in the southern United States](https://www.youtube.com/watch?v=NmReupLUvDE), and posts a breathtaking followup for someone asking [advice on how to handle it](https://www.youtube.com/watch?v=Apn6wXIO--4).
+Beau of the Fifth column talks about [why the seemingly innocuous word ‘boy’ is avoided in the southern United States](https://youtu.be/NmReupLUvDE), and posts a breathtaking followup for someone asking [advice on how to handle it](https://youtu.be/Apn6wXIO--4).
 
 ---
 
@@ -92,11 +92,11 @@ Sam Gendel’s [_When I Am Laid In Earf_](https://samgendel.bandcamp.com/track/w
 
 ---
 
-Nate Wood’s [_It’s Enough_ (2021 single)](https://www.youtube.com/watch?v=InOoRRXS9ps) from the _fOUR_ project is one person playing drums, bass, and synth in 5 meter, while singing, plus “recorded live in 1 pass with no overdubs, click track or pre-recorded backing tracks”. What else??
+Nate Wood’s [_It’s Enough_ (2021 single)](https://youtu.be/InOoRRXS9ps) from the _fOUR_ project is one person playing drums, bass, and synth in 5 meter, while singing, plus “recorded live in 1 pass with no overdubs, click track or pre-recorded backing tracks”. What else??
 
 ---
 
-Maede Shafiie leads this group of [five Iranian women playing tombak](https://www.youtube.com/watch?v=cDoA5PUoR3w) with hypnotic hand coordination.
+Maede Shafiie leads this group of [five Iranian women playing tombak](https://youtu.be/cDoA5PUoR3w) with hypnotic hand coordination.
 
 ---
 

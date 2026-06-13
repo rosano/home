@@ -98,7 +98,7 @@ Kat Vellos' [Alternatives to "How are you?"](https://weshouldgettogether.com/blo
 
 ---
 
-Jacob Collier shares an anecdote about [making a song for each of the multiplication tables when he was younger](https://www.youtube.com/watch?v=vwqd8OXADJQ&t=381). No further comment.
+Jacob Collier shares an anecdote about [making a song for each of the multiplication tables when he was younger](https://youtu.be/vwqd8OXADJQ?t=381). No further comment.
 
 ---
 

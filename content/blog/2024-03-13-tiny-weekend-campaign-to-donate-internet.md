@@ -91,4 +91,4 @@ If anyone else wants to donate or sponsor please reach out and I'll happily help
 
 # go deeper
 
-I can't take much credit for many ideas here, as this was a chance to put into practice what I learned from [The roads to funding your community network projects....](https://www.youtube.com/watch?v=Gw0gt6Ao%5Fyk) and the [Get Together](https://gettogether.world) book and podcast; I'd recommend those for anyone interested in this sort of thing.
+I can't take much credit for many ideas here, as this was a chance to put into practice what I learned from [The roads to funding your community network projects....](https://youtu.be/Gw0gt6Ao%5Fyk) and the [Get Together](https://gettogether.world) book and podcast; I'd recommend those for anyone interested in this sort of thing.

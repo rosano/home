@@ -70,7 +70,7 @@ I stumbled upon this [Discord Language Learning Servers Masterlist](https://www.
 
 # HUMANITY
 
-Precious Plastic features [@mandukumckay](https://twitter.com/mandukumckay)’s [gorgeous weaved baskets and fences made from recycled plastic](https://www.youtube.com/watch?v=MyrtXY6LYdU&t=1271s). It strikes me how unwasteful this is. Why don’t so-called ‘developed’ countries do this?
+Precious Plastic features [@mandukumckay](https://twitter.com/mandukumckay)’s [gorgeous weaved baskets and fences made from recycled plastic](https://youtu.be/MyrtXY6LYdU?t=1271s). It strikes me how unwasteful this is. Why don’t so-called ‘developed’ countries do this?
 
 ---
 
@@ -92,9 +92,9 @@ In Brazilian, I would say I’m completely ‘apaxionado’ for her music. So ha
 
 [_Diários de Vento_ (diaries of wind)](https://joanaqueiroz.bandcamp.com/album/dia-rios-de-vento) (2016) seamlessly integrates nature and song and humanity: it’s the sound of someone enjoying instrument timbres and ambience. Around clarinet melodies there’s a duet with a fly, a child warbling their tongue, clanging pots and pans, squeaking of a rocking chair, lots of tasty sounds. Ai qué delicia!
 
-[Performance sonora](https://www.youtube.com/watch?v=BkK%5FqAglmV0) is a live improvised “sound performance” from 2021\. There’s something pure and unfiltered about a human being making music with an acoustic instrument while walking through nature. Accompanying is the sound of birds, dogs, air, footsteps, singing, a self-playing accordion, a fireplace, frogs…
+[Performance sonora](https://youtu.be/BkK%5FqAglmV0) is a live improvised “sound performance” from 2021\. There’s something pure and unfiltered about a human being making music with an acoustic instrument while walking through nature. Accompanying is the sound of birds, dogs, air, footsteps, singing, a self-playing accordion, a fireplace, frogs…
 
-[Memórias](https://www.youtube.com/watch?v=bcPrSsjpEBQ) is a live performance from 2019 where she builds sound structures with loop pedals and various clarinets, accompanied at times by graceful dancing. Sublime colouring in the photography and clothing.
+[Memórias](https://youtu.be/bcPrSsjpEBQ) is a live performance from 2019 where she builds sound structures with loop pedals and various clarinets, accompanied at times by graceful dancing. Sublime colouring in the photography and clothing.
 
 I would recommend listening to any of these with your eyes closed or open.
 
@@ -106,21 +106,21 @@ Ron Everett’s [_Glitter of the City_](https://jazzmanholygrailseries.bandcamp.
 
 ---
 
-Don Cherry’s group play’s [_Lito_](https://www.youtube.com/watch?v=Sc3ftNBIU2M) by Carlos Ward on _Live At The Bracknell Jazz Festival_ (1986). Featuring flinging tongues, African grooves, and drummer Ed Blackwell. (via [@cicredopoco@mastodon.social](https://mastodon.social/@cicredopoco/106421104362487120))
+Don Cherry’s group play’s [_Lito_](https://youtu.be/Sc3ftNBIU2M) by Carlos Ward on _Live At The Bracknell Jazz Festival_ (1986). Featuring flinging tongues, African grooves, and drummer Ed Blackwell. (via [@cicredopoco@mastodon.social](https://mastodon.social/@cicredopoco/106421104362487120))
 
 ---
 
 ## Short
 
-Amy Winehouse’s [_Cupid_](https://www.youtube.com/watch?v=pe1ge2xCl9U) from _The Ska EP_ (2008) might be the song that gets me into ska—I would describe it as ‘uplifting’. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/856636840328298508))
+Amy Winehouse’s [_Cupid_](https://youtu.be/pe1ge2xCl9U) from _The Ska EP_ (2008) might be the song that gets me into ska—I would describe it as ‘uplifting’. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/856636840328298508))
 
 ---
 
-Lil Nas X’s single [_MONTERO (Call Me By Your Name)_](https://www.youtube.com/watch?v=6swmTBVI83k) (2021) it outside my milieu, genre-wise, but it’s a bodyshaker that deserves to be blasted on good speakers. The artist explores their sexuality with visual metaphors and vibrant colours. (via [Marcos](https://www.instagram.com/marcos.roehe))
+Lil Nas X’s single [_MONTERO (Call Me By Your Name)_](https://youtu.be/6swmTBVI83k) (2021) it outside my milieu, genre-wise, but it’s a bodyshaker that deserves to be blasted on good speakers. The artist explores their sexuality with visual metaphors and vibrant colours. (via [Marcos](https://www.instagram.com/marcos.roehe))
 
 ---
 
-Dopplebanger’s [_Pussylicker_](https://www.youtube.com/watch?v=d2WOYB1i1WM) mashes up three different songs with electronic grooves and well-placed cowbell. (via [@grey@merveilles.town](https://merveilles.town/@grey/106229194321992245))
+Dopplebanger’s [_Pussylicker_](https://youtu.be/d2WOYB1i1WM) mashes up three different songs with electronic grooves and well-placed cowbell. (via [@grey@merveilles.town](https://merveilles.town/@grey/106229194321992245))
 
 ---
 

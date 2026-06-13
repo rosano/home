@@ -95,7 +95,7 @@ Love in [English versus Persian](https://twitter.com/PersianPoetics/status/14047
 
 # LAUGH
 
-Been getting into Ze Frank’s inimitable videos again and found his [Guide To Candy Trading after Halloween](https://www.youtube.com/watch?v=xLNplefdGKo). His series on obscure biological creatures (such as [killer surfing snails](https://www.youtube.com/watch?v=XVWQCd5j%5Fec)) can be fun in moderation.
+Been getting into Ze Frank’s inimitable videos again and found his [Guide To Candy Trading after Halloween](https://youtu.be/xLNplefdGKo). His series on obscure biological creatures (such as [killer surfing snails](https://youtu.be/XVWQCd5j%5Fec)) can be fun in moderation.
 
 ---
 
@@ -113,19 +113,19 @@ Muchos Plus’ [_Nassau’s Discos_](https://kalitarecords.bandcamp.com/album/na
 
 ---
 
-Thumpasaurus’ [_I’m Pissed_](https://www.youtube.com/watch?v=T6dmMUR9TVI) from _I’m Pissed_ (2021) is a dramatic rock dance production, complete with timestamps for each section (of a four-minute video), and a… [sort of website](https://www.impissed.net).
+Thumpasaurus’ [_I’m Pissed_](https://youtu.be/T6dmMUR9TVI) from _I’m Pissed_ (2021) is a dramatic rock dance production, complete with timestamps for each section (of a four-minute video), and a… [sort of website](https://www.impissed.net).
 
 ---
 
-[_Exuma, The Obeah Man_](https://www.youtube.com/watch?v=CJKPucU4Y%5Fc&t=248s) from _Exuma, The Obeah Man_ (1970) wild stompin’ folk groove with whistles, frogs, yelping. (via @flying\_fisher)
+[_Exuma, The Obeah Man_](https://youtu.be/CJKPucU4Y%5Fc?t=248s) from _Exuma, The Obeah Man_ (1970) wild stompin’ folk groove with whistles, frogs, yelping. (via @flying\_fisher)
 
 ---
 
-fran’s [_coração tambor_](https://www.youtube.com/watch?v=xrxg46dezJ8&t=104s) from _raiz_ (2020) documents the artist’s search for his ancestry in Angola, featuring some indigenous music and percussion. (via Sushma)
+fran’s [_coração tambor_](https://youtu.be/xrxg46dezJ8?t=104s) from _raiz_ (2020) documents the artist’s search for his ancestry in Angola, featuring some indigenous music and percussion. (via Sushma)
 
 ---
 
-Gospel vibes from Wilson Pickett’s [_Steal Away_](https://www.youtube.com/watch?v=wGh%5FD9Pzc0k) from _Right On_ (1970) makes you snap your fingers, with both hands, on two and four. (via [@cicredopoco@mastodon.social](https://mastodon.social/@cicredopoco/106421087772539932))
+Gospel vibes from Wilson Pickett’s [_Steal Away_](https://youtu.be/wGh%5FD9Pzc0k) from _Right On_ (1970) makes you snap your fingers, with both hands, on two and four. (via [@cicredopoco@mastodon.social](https://mastodon.social/@cicredopoco/106421087772539932))
 
 ---
 

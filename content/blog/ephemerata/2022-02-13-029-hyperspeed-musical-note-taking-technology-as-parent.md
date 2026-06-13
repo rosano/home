@@ -53,11 +53,11 @@ During our conversation in [Strolling 0002](https://strolling.rosano.ca/0002), m
 
 ---
 
-[Have You Ever Had A Dream](https://www.youtube.com/watch?v=O6bxGb0VrYY). Charles Cornell created complex jazz piano arrangements for a whole compilation of various memes with people speaking—this one is my favourite. If i listen to the original audio, I can’t help but hear this music…
+[Have You Ever Had A Dream](https://youtu.be/O6bxGb0VrYY). Charles Cornell created complex jazz piano arrangements for a whole compilation of various memes with people speaking—this one is my favourite. If i listen to the original audio, I can’t help but hear this music…
 
 ---
 
-[The roads to funding your community network projects…](https://www.youtube.com/watch?v=Gw0gt6Ao%5Fyk). I spent a whole day pondering my motivations after watching this because of my immense respect for this person, and although my ultimate conclusion was to maintain my approach, I think there’s a wealth of great information here for anyone who wants to ‘make a difference’ in their local community. Although the ‘goal-oriented’ approach probably makes sense in various contexts, I think it’s in conflict with the ‘risk-taking’ that’s involved in entrepreneurship or artistic endeavours. Nice to see these kinds of projects knocking it out of the park though.
+[The roads to funding your community network projects…](https://youtu.be/Gw0gt6Ao%5Fyk). I spent a whole day pondering my motivations after watching this because of my immense respect for this person, and although my ultimate conclusion was to maintain my approach, I think there’s a wealth of great information here for anyone who wants to ‘make a difference’ in their local community. Although the ‘goal-oriented’ approach probably makes sense in various contexts, I think it’s in conflict with the ‘risk-taking’ that’s involved in entrepreneurship or artistic endeavours. Nice to see these kinds of projects knocking it out of the park though.
 
 > \[Make goals that are quantifiable, and achievable: big enough to matter and small enough to win. You want to overshoot your goal every single time. Set it up so that you win every single time.\]  
 >  

@@ -16,7 +16,7 @@ Special thanks to [Brian](https://brianginsburg.com) and [Elisa](https://linktr.
 
 This musician and producer from Egypt has a vibe that I would describe as ‘badass mofo’. His music touches various genres including disco, trance, hip-hop, while referencing elements of traditional Arab music.
 
-In a [feature video by El Fasla](https://www.youtube.com/watch?v=2QoXc9s2yQ4) he describes growing up in a rural area where there were no instruments and figuring out how to make sound out of anything, like blades of grass. Some choice quotes from the clip:
+In a [feature video by El Fasla](https://youtu.be/2QoXc9s2yQ4) he describes growing up in a rural area where there were no instruments and figuring out how to make sound out of anything, like blades of grass. Some choice quotes from the clip:
 
 > I play at weddings and no one leaves until I unplug the cable.
 
@@ -34,7 +34,7 @@ A popular browser extension maker documents [various proposals to sell user data
 
 ---
 
-I learned that _Music for Robots_ from [last week](https://cafe.rosano.ca/t/87) was designed for and performed on [actual robots](https://www.youtube.com/watch?v=VkUq4sO4LQM). For anyone curious there are [more explanations](https://www.youtube.com/watch?v=7MluikyEQF4) and [a paper on robotic drumming](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/comparison-of-solenoid-based-strategies-for-robotic-drumming.pdf?c=icmc;idno=bbp2372.2007.188;format=pdf). (via [@nonmateria@merveilles.town](https://merveilles.town/@nonmateria/106368709814911390))
+I learned that _Music for Robots_ from [last week](https://cafe.rosano.ca/t/87) was designed for and performed on [actual robots](https://youtu.be/VkUq4sO4LQM). For anyone curious there are [more explanations](https://youtu.be/7MluikyEQF4) and [a paper on robotic drumming](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/comparison-of-solenoid-based-strategies-for-robotic-drumming.pdf?c=icmc;idno=bbp2372.2007.188;format=pdf). (via [@nonmateria@merveilles.town](https://merveilles.town/@nonmateria/106368709814911390))
 
 ---
 
@@ -48,7 +48,7 @@ If you’re enjoying this, consider [contributing to my Open Collective](https:/
 
 # LANGUAGE
 
-Brian Wiles is an actor from New York City who speaks excellent Egyptian Arabic and made videos [explaining American culture to the Arab world](https://www.youtube.com/watch?v=Kf5E0nHAjRY) and [comparing Arabic with Mandarin](https://www.youtube.com/watch?v=qoKcNqy1lG0).
+Brian Wiles is an actor from New York City who speaks excellent Egyptian Arabic and made videos [explaining American culture to the Arab world](https://youtu.be/Kf5E0nHAjRY) and [comparing Arabic with Mandarin](https://youtu.be/qoKcNqy1lG0).
 
 ---
 
@@ -88,13 +88,13 @@ A thread of [Sir Patrick Stewart as vacuum cleaners](https://twitter.com/Pandamo
 
 Three tracks by Abo Sahar (أبو سهر):
 
-* [_Trobby Asly_](https://www.youtube.com/watch?v=mIxotba-5d8) from _2020_ (2020) featuring so-called ‘trobby music’, not sure if this is a reference to trap music, but it’s gritty, noisy, hypnotic—may give you stank face.
-* [_Mizmar Abosahar_](https://www.youtube.com/watch?v=wD3qOdp%5FG5Q&list=OLAK5uy%5FnOa4Jr%5Fqh1-LcYA06-L6GEAamVk3qOMTU) with the piercing ornamented tones of a traditional music instrument that appears in some Greek music (similar to a duduk), although I think it’s synthesized here.
-* [_Moulid Kholkhal (مولد خلخال)_](https://www.youtube.com/watch?v=3atD%5F5FqZig&list=OLAK5uy%5FmtpBAGAuEOgeCiuPE9iktwklS42-cm8Mg) with Arabic microtonal melodies, electronic effects, [shaabi](https://en.wikipedia.org/wiki/Shaabi) rhythms.
+* [_Trobby Asly_](https://youtu.be/mIxotba-5d8) from _2020_ (2020) featuring so-called ‘trobby music’, not sure if this is a reference to trap music, but it’s gritty, noisy, hypnotic—may give you stank face.
+* [_Mizmar Abosahar_](https://www.youtube.com/watch?list=OLAK5uy%5FnOa4Jr%5Fqh1-LcYA06-L6GEAamVk3qOMTU&v=wD3qOdp%5FG5Q) with the piercing ornamented tones of a traditional music instrument that appears in some Greek music (similar to a duduk), although I think it’s synthesized here.
+* [_Moulid Kholkhal (مولد خلخال)_](https://www.youtube.com/watch?list=OLAK5uy%5FmtpBAGAuEOgeCiuPE9iktwklS42-cm8Mg&v=3atD%5F5FqZig) with Arabic microtonal melodies, electronic effects, [shaabi](https://en.wikipedia.org/wiki/Shaabi) rhythms.
 
 ---
 
-Ana Vidović plays an [hour-long concert of classical guitar](https://www.youtube.com/watch?v=e26zZ83Oh6Y&t=185s) with works by Bach, Brouwer, Scarlatti, Albeniz.
+Ana Vidović plays an [hour-long concert of classical guitar](https://youtu.be/e26zZ83Oh6Y?t=185s) with works by Bach, Brouwer, Scarlatti, Albeniz.
 
 ---
 
@@ -102,11 +102,11 @@ meu amigo tigre’s [_treta_](https://youtu.be/YYhcpZ8xMMU) (2020) is self-descr
 
 ---
 
-Jacob Collier delves into music nerdery, showing how it’s possible to [harmonize any note with every chord](https://www.youtube.com/watch?v=ItVo8XN1wXI&t=52s) or [how a diminished chord lets you modulate to anywhere](https://www.youtube.com/watch?v=NpXXwCQEFTc&t=47s).
+Jacob Collier delves into music nerdery, showing how it’s possible to [harmonize any note with every chord](https://youtu.be/ItVo8XN1wXI?t=52s) or [how a diminished chord lets you modulate to anywhere](https://youtu.be/NpXXwCQEFTc?t=47s).
 
 ---
 
-Tolgahan Çoğulu [modified a classical guitar to play microtones](https://www.youtube.com/watch?v=iRsSjh5TTqI&t=150s) and demonstrates with an excerpt of a Turkish melody.
+Tolgahan Çoğulu [modified a classical guitar to play microtones](https://youtu.be/iRsSjh5TTqI?t=150s) and demonstrates with an excerpt of a Turkish melody.
 
 ---
 

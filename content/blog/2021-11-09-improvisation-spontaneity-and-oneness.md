@@ -22,7 +22,7 @@ Let’s talk about improvisation in comedy and music, and how to encourage more 
 * [Speaking of Music interview with Keith Jarrett](https://archive.org/details/SOM%5F1986%5F01%5F23)
 * [Brian Katz: Juggling Musically](https://vimeo.com/26833161)
 * [Casey Sokol: Musical Improvisation](https://vimeo.com/24354364)
-* [Harry Mack: Improvised freestyle for a man’s late fiancé](https://www.youtube.com/watch?v=VBBMfHGMs7I&t=1098s)
+* [Harry Mack: Improvised freestyle for a man’s late fiancé](https://youtu.be/VBBMfHGMs7I?t=1098s)
 * [Venkatesh Rao’s summary of the book Impro by Keith Johnstone](https://www.ribbonfarm.com/2010/01/23/impro-by-keith-johnstone/)
 * [T.M. Krishna on spontaneity in Carnatic music and how creativity must surprise us](https://youtu.be/MT1iu4JCBRk?t=208)
 

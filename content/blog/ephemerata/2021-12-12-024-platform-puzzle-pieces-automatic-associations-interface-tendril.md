@@ -91,7 +91,7 @@ Notes from a mystic:
 
 ---
 
-[The roads to understanding misinformation…](https://www.youtube.com/watch?v=ICpy7urM6Lo). Tons of tips on how to recognize signs of misinformation, but more about understanding sources than shaming people. Heightens your attention to certain ways of communicating without too much explanation. I thought I had a good grasp of this kind of thing but learned lots here. Maybe worth sharing this even with people who have experience?
+[The roads to understanding misinformation…](https://youtu.be/ICpy7urM6Lo). Tons of tips on how to recognize signs of misinformation, but more about understanding sources than shaming people. Heightens your attention to certain ways of communicating without too much explanation. I thought I had a good grasp of this kind of thing but learned lots here. Maybe worth sharing this even with people who have experience?
 
 > \[If a headline provokes an emotional reaction, be on guard: it should pique your curiosity more than convince you to form an opinion—inform over inflame.\]
 
@@ -134,13 +134,13 @@ Advice on hosting a group discussion:
 
 ---
 
-[Tkay Maidza: _24k_](https://www.youtube.com/watch?v=vuK5UUokdFs) from _Last Year Was Weird, Vol. 2_ (2020). Velvet smooth electronic dance grove, lyrics and breathing slotted into the beat perfectly. Nothing to do here except ride along. (via [April](https://twitter.com/flying%5Ffisher/status/1466116139092783108))
+[Tkay Maidza: _24k_](https://youtu.be/vuK5UUokdFs) from _Last Year Was Weird, Vol. 2_ (2020). Velvet smooth electronic dance grove, lyrics and breathing slotted into the beat perfectly. Nothing to do here except ride along. (via [April](https://twitter.com/flying%5Ffisher/status/1466116139092783108))
 
 ---
 
 ## Bites
 
-[Fareed Ayaz, Abu Muhammad Qawwal, Party Ghar ki Mehfil: _Chaap Tilak Sab Chheeni_ (2014)](https://www.youtube.com/watch?v=wuxSFZV51W8&t=782s). Great example of music as communal experience: the lead singers invite people in the ‘audience’ (using words, or music and movement itself) to participate—at times it feels like a salon discussion even though it’s mostly musical throughout. I’m not familiar with this style of music, but it’s wonderful to observe singing with devotion intense ornamentation. Fun to see others enjoying music not just in the mind but with hands and much of the upper body. I linked to a part that skips the introduction with many individuals in the room ‘taking the spotlight’ to sing, which is beautiful to watch (start from the beginning if you want to check that out). As asides: 1) bonus points that this occurred in Montreal; and 2) refreshing and nostalgic to hear this pre-pandemic performance with people coughing loudly without masks or stigma. (via [Pedro Silva](https://discord.com/channels/771204239015936031/771207592013594624/918196805223710822))
+[Fareed Ayaz, Abu Muhammad Qawwal, Party Ghar ki Mehfil: _Chaap Tilak Sab Chheeni_ (2014)](https://youtu.be/wuxSFZV51W8?t=782s). Great example of music as communal experience: the lead singers invite people in the ‘audience’ (using words, or music and movement itself) to participate—at times it feels like a salon discussion even though it’s mostly musical throughout. I’m not familiar with this style of music, but it’s wonderful to observe singing with devotion intense ornamentation. Fun to see others enjoying music not just in the mind but with hands and much of the upper body. I linked to a part that skips the introduction with many individuals in the room ‘taking the spotlight’ to sing, which is beautiful to watch (start from the beginning if you want to check that out). As asides: 1) bonus points that this occurred in Montreal; and 2) refreshing and nostalgic to hear this pre-pandemic performance with people coughing loudly without masks or stigma. (via [Pedro Silva](https://discord.com/channels/771204239015936031/771207592013594624/918196805223710822))
 
 ---
 

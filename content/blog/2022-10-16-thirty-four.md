@@ -18,7 +18,7 @@ In contrast to my usual octopus approach of having many simultaneous projects, I
 
 I might say I've struggled with romance for most of my life as I tend to live outside most of the societal norms that would help me meet and sustain deeper relationships with people. So what a pleasure it is to now feel deeply connected, loved, appreciated, seen, understood by someone who is also a creative peer bursting with ideas for fun, business, and life. I never thought it could be so effortless to spend time together with a person who often has a very different approach to things than I do. It's a bit new and slightly intimidating for me to imagine, but I'm looking forward to seeing how this evolves.
 
-This birthday was 'celebrated' with a [concert of music about Capoeira](https://youtu.be/8ow-i6RYq2M) from [one of my favourite albums ever](https://www.youtube.com/watch?v=mlfCeNgzT4Q&list=OLAK5uy%5FlblYFZNe9bvRUXYLYNlhL4t3BHkLqKVOs). Might also be a nice yearly tradition and a reminder to myself that organizing events is a joy and in my blood. Hope you enjoy the music.
+This birthday was 'celebrated' with a [concert of music about Capoeira](https://youtu.be/8ow-i6RYq2M) from [one of my favourite albums ever](https://www.youtube.com/watch?list=OLAK5uy%5FlblYFZNe9bvRUXYLYNlhL4t3BHkLqKVOs&v=mlfCeNgzT4Q&). Might also be a nice yearly tradition and a reminder to myself that organizing events is a joy and in my blood. Hope you enjoy the music.
 
 {{< rc-youtube 8ow-i6RYq2M >}}
 

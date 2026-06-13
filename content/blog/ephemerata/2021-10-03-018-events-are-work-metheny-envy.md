@@ -30,7 +30,7 @@ P.S. Mad respect to @boris for trying to do this kind of thing _weekly_ with [Fi
 
 # A DAY OF ENVY
 
-I spent most of my free time yesterday watching [ContraPoints’ two-hour oeuvre on envy](https://www.youtube.com/watch?v=aPhrTOg1RUk). This would have been plenty of food for thought for one day, but it was actually preparation for [Maybe Gray](https://twitter.com/maybegray)’s [Envy and Evil salon](https://interintellect.com/salon/envy-and-evil). Here are some of my favourite ideas:
+I spent most of my free time yesterday watching [ContraPoints’ two-hour oeuvre on envy](https://youtu.be/aPhrTOg1RUk). This would have been plenty of food for thought for one day, but it was actually preparation for [Maybe Gray](https://twitter.com/maybegray)’s [Envy and Evil salon](https://interintellect.com/salon/envy-and-evil). Here are some of my favourite ideas:
 
 > \[Humans often transform envy into contempt, making it seem flattering or socially acceptable.\]
 
@@ -64,7 +64,7 @@ This fun little utility finds the shortest paths between any two articles, for e
 
 ## Metheny, Music Master
 
-It was comforting and enlightening to hear this interview between [Pat Metheny and Rick Beato](https://www.youtube.com/watch?v=QEgalcH%5F-b4), discussing the career and discography of one of the world’s greatest jazz guitarists, with frequent plunges into music theory concepts demonstrated live. I was surprised to find out that he used to take ten pages of notes after every concert.
+It was comforting and enlightening to hear this interview between [Pat Metheny and Rick Beato](https://youtu.be/QEgalcH%5F-b4), discussing the career and discography of one of the world’s greatest jazz guitarists, with frequent plunges into music theory concepts demonstrated live. I was surprised to find out that he used to take ten pages of notes after every concert.
 
 > \[You can go to college for four years to study harmony, or rhythm, but not melody.\]
 

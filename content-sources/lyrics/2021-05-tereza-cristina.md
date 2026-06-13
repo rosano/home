@@ -29,7 +29,7 @@ E o novo dia chegou
 E eu vim me buscar
 Quem sabe em você
 
-audio: https://www.youtube.com/watch?v=5w4f0LWo-7g
+audio: https://youtu.be/5w4f0LWo-7g
 Chords: https://www.cifras.com.br/cifra/paulinho-da-viola/samba-do-amor
 Chords: https://www.ultimate-tabs.com/caetano-veloso/qualquer-coisa-(ver-2)-chords
 
@@ -145,7 +145,7 @@ Quando consegue do peito tirar um espinho
 
 Já não pode morrer
 
-video: https://www.youtube.com/watch?v=ZQNIa6VhHoY
+video: https://youtu.be/ZQNIa6VhHoY
 chords: https://www.cifraclub.com.br/paulinho-da-viola/onde-dor-nao-tem-razao/
 
 # Quando Bate Uma Saudade

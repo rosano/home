@@ -76,11 +76,11 @@ I changed the podcast format to publish shorter bits and more spontaneously, as 
 
 ## Short
 
-[Jacob Collier: _Don’t Stop 'Til You Get Enough_](https://www.youtube.com/watch?v=KC3GrzoQG9U) (2018 single). Overlays himself with a grand piano that can loop, re-creating the vibe of Michael Jackson’s original using purely acoustic sound. Wild funky solo and lush harmonies as always. During the [halfway point](https://www.youtube.com/watch?v=KC3GrzoQG9U&t=147s) he goes into a time signature that I can’t figure out; anyone know? (via Ahsen)
+[Jacob Collier: _Don’t Stop 'Til You Get Enough_](https://youtu.be/KC3GrzoQG9U) (2018 single). Overlays himself with a grand piano that can loop, re-creating the vibe of Michael Jackson’s original using purely acoustic sound. Wild funky solo and lush harmonies as always. During the [halfway point](https://youtu.be/KC3GrzoQG9U?t=147s) he goes into a time signature that I can’t figure out; anyone know? (via Ahsen)
 
 ---
 
-[Michel Camilo, Anthony Jackson, Horacio (El Negro) Hernandez: _Calle 54_](https://www.youtube.com/watch?v=SU-sjnoC0uw&t=238s) (2000). An excerpt from the documentary about Latin jazz featuring some ways of playing the piano I haven’t seen before. The beginning more resembles something you might hear elsewhere, but I’m starting at the [mid-section](https://www.youtube.com/watch?v=SU-sjnoC0uw&t=238s) which has some very intense improvising with Latin rhythms. Impossible to sit still as they have too much fun creating this from nothing. (via [Lars](https://www.larsschmidt.org))
+[Michel Camilo, Anthony Jackson, Horacio (El Negro) Hernandez: _Calle 54_](https://youtu.be/SU-sjnoC0uw?t=238s) (2000). An excerpt from the documentary about Latin jazz featuring some ways of playing the piano I haven’t seen before. The beginning more resembles something you might hear elsewhere, but I’m starting at the [mid-section](https://youtu.be/SU-sjnoC0uw?t=238s) which has some very intense improvising with Latin rhythms. Impossible to sit still as they have too much fun creating this from nothing. (via [Lars](https://www.larsschmidt.org))
 
 ---
 

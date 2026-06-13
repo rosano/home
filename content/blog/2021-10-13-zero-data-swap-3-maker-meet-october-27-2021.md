@@ -46,7 +46,7 @@ Running collaborative tools on low-power devices, indestructible distributed 4ch
 
 ## mix: [ssb-crut](https://gitlab.com/ahau/lib/ssb-crut)
 
-[Pre-recorded presentation](https://www.youtube.com/watch?v=URIUbupxxU4).
+[Pre-recorded presentation](https://youtu.be/URIUbupxxU4).
 
 ## juha
 
@@ -138,7 +138,7 @@ UI works with both keyboard and mouse
 > _14:28_ rosano says: dj alex  
 > _14:31_ cblgh says: 💿😎  
 > _14:31_ cblgh says: <https://github.com/mixmix/ssb-crut-demo>  
-> _14:31_ cblgh says: if anyone wants to rewatch it it's here: <https://www.youtube.com/watch?v=URIUbupxxU4>  
+> _14:31_ cblgh says: if anyone wants to rewatch it it's here: <https://youtu.be/URIUbupxxU4>  
 > _14:31_ cblgh says: \['hoody', 'juha', 'mauve', 'fellow jitsi', 'cinn', 'mix', 'rosano', 'cblgh', 'gwil', 'geoffrey', 'interfect', 'nanomonkey', 'cryptix'\]  
 > _14:35_ hoody says: getting super flaky net here at y homeboys house  
 > _14:35_ hoody says: heading back to home and trying again  

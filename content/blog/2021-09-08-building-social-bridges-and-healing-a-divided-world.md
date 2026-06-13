@@ -126,7 +126,7 @@ Below are some of my notes. I've written this quickly out of excitement to share
 # Resources
 
 * Sara Silverman [crowdfunding medical bills](https://mashable.com/article/sarah-silverman-troll) for someone who was rude to her. (via Haider)
-* C. Thi Nguyen [differentiates between filter bubbles and echo chambers](https://www.youtube.com/watch?v=1LpbGW3qLVg) and talks about [breaking people out of cults and conspiracy theories](https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult). (via Jessica)
+* C. Thi Nguyen [differentiates between filter bubbles and echo chambers](https://youtu.be/1LpbGW3qLVg) and talks about [breaking people out of cults and conspiracy theories](https://aeon.co/essays/why-its-as-hard-to-escape-an-echo-chamber-as-it-is-to-flee-a-cult). (via Jessica)
 * Tim Urban's series [A Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html) is a deep dive into how society has become so polarized. (via Omar)
 * Beau of the Fifth Column [avoiding sensationalism](https://youtube.com/watch?v=dUEQveTKH90) through soft language. (via Rosano)
 * Buster Benson wrote a book on [productive disagreement](https://twitter.com/rosano/status/1435612357183553536). (via Rosano)

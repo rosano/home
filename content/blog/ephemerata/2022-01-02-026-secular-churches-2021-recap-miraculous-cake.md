@@ -77,7 +77,7 @@ I became a member of [Resonate](https://resonate.is) and it only took me a minut
 
 ---
 
-[Jazz Pianist Reacts to SKATE by Anderson .Paak and Bruno Mars](https://www.youtube.com/watch?v=Tqc8Dnxavt4). I was once fascinated by the feeling of being moved nearly to tears by a series of chords, yet not able to explain what that means to people without lots of experience making music… Charles Cornell gets at some of this, albeit still talking to musicians, but with more heart-warming enthusiasm than I might display publicly (for something that can seem so technical): it’s clear that he has a strong personal and emotional connection to what he’s hearing, and that this is enriched by a deeper understanding of the materials. As he mentions, there are different ways to interpret musical harmony, but this might be a good way to get a glimpse at how music nerds (like me) hear songs. You might also learn a thing or two about theory, and share his excitement at how this song brings complex techniques into mainstream music. (via [April](https://twitter.com/flying%5Ffisher))
+[Jazz Pianist Reacts to SKATE by Anderson .Paak and Bruno Mars](https://youtu.be/Tqc8Dnxavt4). I was once fascinated by the feeling of being moved nearly to tears by a series of chords, yet not able to explain what that means to people without lots of experience making music… Charles Cornell gets at some of this, albeit still talking to musicians, but with more heart-warming enthusiasm than I might display publicly (for something that can seem so technical): it’s clear that he has a strong personal and emotional connection to what he’s hearing, and that this is enriched by a deeper understanding of the materials. As he mentions, there are different ways to interpret musical harmony, but this might be a good way to get a glimpse at how music nerds (like me) hear songs. You might also learn a thing or two about theory, and share his excitement at how this song brings complex techniques into mainstream music. (via [April](https://twitter.com/flying%5Ffisher))
 
 ---
 
@@ -95,10 +95,10 @@ This week, I’m going to share music from my yearly recap: the five most listen
 
 [![Playlist via Joybox](https://static.rosano.ca/joybox/_JBXPlaylistButton.svg)](https://go.rosano.ca/2021-music)
 
-* [Paulo César Pinheiro: _Capoeira de Besouro_ (2010)](https://www.youtube.com/watch?v=fra75KTApwc)
-* [João Donato: _Quem É Quem_ (1973)](https://www.youtube.com/watch?v=oJDHqpPveG4)
-* [Cristina Buarque e Samba de Fato: _O Samba Informal de Mauro Duarte - Volume 1_ (2008)](https://www.youtube.com/watch?v=g1dZfOKNSW0)
-* [Joyce: _Revendo Amigos_ (1994)](https://www.youtube.com/watch?v=bZkP1dHm1A0) (featured in [#005](https://cafe.rosano.ca/t/005-delta-chat-follower-counts-joyce-moreno/87#albums-8))
+* [Paulo César Pinheiro: _Capoeira de Besouro_ (2010)](https://youtu.be/fra75KTApwc)
+* [João Donato: _Quem É Quem_ (1973)](https://youtu.be/oJDHqpPveG4)
+* [Cristina Buarque e Samba de Fato: _O Samba Informal de Mauro Duarte - Volume 1_ (2008)](https://youtu.be/g1dZfOKNSW0)
+* [Joyce: _Revendo Amigos_ (1994)](https://youtu.be/bZkP1dHm1A0) (featured in [#005](https://cafe.rosano.ca/t/005-delta-chat-follower-counts-joyce-moreno/87#albums-8))
 * [Pedro Martins: _VOX_ (2019)](https://www.youtube.com/playlist?list=OLAK5uy%5Flpt29ba45Pl0QqxcoOSTkShpFjLaQsxZE) (featured in [#001](https://cafe.rosano.ca/t/001-ali-abdaal-collectivity-heavy-baile/64#music-5))
 
 ---

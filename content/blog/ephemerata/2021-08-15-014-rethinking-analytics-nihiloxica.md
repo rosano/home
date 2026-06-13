@@ -72,7 +72,7 @@ Going through a reflective moment in the last few weeks, I found myself listenin
 
 ---
 
-Astral Flowers’ [_Força da Cura_](https://www.youtube.com/watch?v=bvjuaMTTizc) from _New Paradigm_ (2018) is a salutation to healing forces, introduced by the sound of breath, life, and spirit. (via Ronald)
+Astral Flowers’ [_Força da Cura_](https://youtu.be/bvjuaMTTizc) from _New Paradigm_ (2018) is a salutation to healing forces, introduced by the sound of breath, life, and spirit. (via Ronald)
 
 ---
 

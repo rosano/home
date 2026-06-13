@@ -12,15 +12,15 @@ I’m doing this to stimulate discussion around what I find interesting and also
 
 # FIXING FASHION
 
-The Precious Plastic team has started [another recycling revolution](https://www.youtube.com/watch?v=buWRaffBdNM), this time to reduce clothing waste. The call to action in their launch video is to wear repaired cloths and help turning patches and repairs into a statement—proud to be DIY.
+The Precious Plastic team has started [another recycling revolution](https://youtu.be/buWRaffBdNM), this time to reduce clothing waste. The call to action in their launch video is to wear repaired cloths and help turning patches and repairs into a statement—proud to be DIY.
 
-They have started a series of well-produced videos showing how to avoid unnecessarily purchasing new clothes. In 15 minutes they cover [removing stains with natural ingredients, sorting clothes properly, creating your own detergent, washing, drying, and storage](https://www.youtube.com/watch?v=kWFuBTWjg4w).
+They have started a series of well-produced videos showing how to avoid unnecessarily purchasing new clothes. In 15 minutes they cover [removing stains with natural ingredients, sorting clothes properly, creating your own detergent, washing, drying, and storage](https://youtu.be/kWFuBTWjg4w).
 
-I find the idea of [upgrading your old clothes](https://www.youtube.com/watch?v=IO9VlYliXcU) most compelling: make them smaller or larger; re-make new clothes by combining old ones; recolouring using natural ingredients (like avocado and cabbage); and decorating adding interesting patterns, pockets, buckles.
+I find the idea of [upgrading your old clothes](https://youtu.be/IO9VlYliXcU) most compelling: make them smaller or larger; re-make new clothes by combining old ones; recolouring using natural ingredients (like avocado and cabbage); and decorating adding interesting patterns, pockets, buckles.
 
-For those more comfortable with needles or Singers, there is a video on [how to fix common problems yourself with a machine or by hand](https://www.youtube.com/watch?v=TnxGHRlevlQ).
+For those more comfortable with needles or Singers, there is a video on [how to fix common problems yourself with a machine or by hand](https://youtu.be/TnxGHRlevlQ).
 
-Also, (a quick detour back to their original Precious Plastic project), they use their globally popular open-source machines to make [flowerpots, mountain climbing clip, a lamp shade, a hand blade for surfing from disposable masks](https://www.youtube.com/watch?v=Y5pkleCwb%5FY)!. They claim that 30 billion masks are thrown away per month, each containing similar materials to plastic bottles that take 500 years to degrade.
+Also, (a quick detour back to their original Precious Plastic project), they use their globally popular open-source machines to make [flowerpots, mountain climbing clip, a lamp shade, a hand blade for surfing from disposable masks](https://youtu.be/Y5pkleCwb%5FY)!. They claim that 30 billion masks are thrown away per month, each containing similar materials to plastic bottles that take 500 years to degrade.
 
 ---
 
@@ -28,7 +28,7 @@ Also, (a quick detour back to their original Precious Plastic project), they use
 
 _For nerds of business, tech, data visualization, and map-making._
 
-This [dense presentation explaining the creation and use of visual maps to surface adoption strategies](https://www.youtube.com/watch?v=ek0aWj%5FrWYs&t=183s) features lots of information and graphics to outline a framework for future planning.
+This [dense presentation explaining the creation and use of visual maps to surface adoption strategies](https://youtu.be/ek0aWj%5FrWYs?t=183s) features lots of information and graphics to outline a framework for future planning.
 
 It’s a multi-layered cake that you likely don’t want to eat in one sitting. If you survive the barrage and would like to learn more, Simon Wardley has written [nineteen chapters on Medium about this method](https://medium.com/wardleymaps), and a related [community for mapping](https://www.map-camp.com) offers workshops to learn collectively.
 
@@ -50,7 +50,7 @@ Therapy contemplation of the week:
 
 ---
 
-An isolated community in Kenya with no fiat money created their own [system of trading that doesn’t rely on cash](https://www.youtube.com/watch?v=ojFPrVvpraU). This video documents the creation of their secondary currency, the institutional resistance, and some principles of how to make it work.
+An isolated community in Kenya with no fiat money created their own [system of trading that doesn’t rely on cash](https://youtu.be/ojFPrVvpraU). This video documents the creation of their secondary currency, the institutional resistance, and some principles of how to make it work.
 
 > \[Allowing popular retailers to become banks creates a profit motive for debt, which reduces trading because people are not able to pay expensive loans. Introducing a secondary currency enables people to trade which deteriorates debt as a profit strategy.\]
 
@@ -58,7 +58,7 @@ An isolated community in Kenya with no fiat money created their own [system of t
 
 ---
 
-Beau of the Fifth Column puts his fifth-columnness to the test by [talking about a war without talking about it](https://www.youtube.com/watch?v=8eedJCa-62c). He supremely demonstrates how to approach a divisive topic without succumbing to slogans and talking points.
+Beau of the Fifth Column puts his fifth-columnness to the test by [talking about a war without talking about it](https://youtu.be/8eedJCa-62c). He supremely demonstrates how to approach a divisive topic without succumbing to slogans and talking points.
 
 > \[The truth cannot be told, it has to be realized.\]
 
@@ -100,7 +100,7 @@ I can’t wait to learn German one day so that I can understand and perhaps use 
 
 # FOOD
 
-Adam Ragusea explains [what mushrooms exactly are](https://www.youtube.com/watch?v=gkaJoIIBAVA) (they’re not plants or animals…). Feature some wild footage of something growing in a basement. (via [@kevin@merveilles.town](https://merveilles.town/@kevin/106302140756011707))
+Adam Ragusea explains [what mushrooms exactly are](https://youtu.be/gkaJoIIBAVA) (they’re not plants or animals…). Feature some wild footage of something growing in a basement. (via [@kevin@merveilles.town](https://merveilles.town/@kevin/106302140756011707))
 
 ---
 
@@ -114,11 +114,11 @@ This ‘spiky’ [avant-garde jazz from Berlin](https://punktvrtplastikintakt.ba
 
 ---
 
-This [lovely little bossa nova for kids](https://www.youtube.com/watch?v=Bn0n6sjSOFo) (apparently going viral on TikTok, which I don’t use), comes from The Backyardigans, which is [a show where every episode features a different music genre](https://en.wikipedia.org/wiki/The%5FBackyardigans)! Wish I grew up watching that… Adam Neely does a [deep dive into the music theory devices employed](https://www.youtube.com/watch?v=uVAGjfFmFkw) in the song. (via [matheus23](https://discord.com/channels/478735028319158273/791374365018947644/847462455906009088))
+This [lovely little bossa nova for kids](https://youtu.be/Bn0n6sjSOFo) (apparently going viral on TikTok, which I don’t use), comes from The Backyardigans, which is [a show where every episode features a different music genre](https://en.wikipedia.org/wiki/The%5FBackyardigans)! Wish I grew up watching that… Adam Neely does a [deep dive into the music theory devices employed](https://youtu.be/uVAGjfFmFkw) in the song. (via [matheus23](https://discord.com/channels/478735028319158273/791374365018947644/847462455906009088))
 
 ---
 
-Two things from musical master Jacob Collier, but not really about the music: 1) [dance animations created from the spinning of a vinyl disc](https://www.youtube.com/watch?v=ue6g7SPSyAM), and 2) he [spells out words by playing the piano](https://www.youtube.com/watch?v=LszYGO22azA&t=126s). The latter is something that normal humans accomplish via a lengthy editing process on the computer—he performs it live.
+Two things from musical master Jacob Collier, but not really about the music: 1) [dance animations created from the spinning of a vinyl disc](https://youtu.be/ue6g7SPSyAM), and 2) he [spells out words by playing the piano](https://youtu.be/LszYGO22azA?t=126s). The latter is something that normal humans accomplish via a lengthy editing process on the computer—he performs it live.
 
 ---
 

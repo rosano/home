@@ -52,13 +52,13 @@ This album by Kasai Allstars, with the spectacular title [_In The 7th Moon, The 
 
 ---
 
-Steve Lacy’s [_Raps_ (1977)](https://www.youtube.com/watch?v=XdThNPEAo0A) is beautiful chaos from one of the free jazz greats: plenty of clashing notes, disjunct rhythms—everything’s broken as it should be.
+Steve Lacy’s [_Raps_ (1977)](https://youtu.be/XdThNPEAo0A) is beautiful chaos from one of the free jazz greats: plenty of clashing notes, disjunct rhythms—everything’s broken as it should be.
 
 ---
 
 ## Tracks
 
-Pino Palladino and Blake Mills’ [_Chris Dave_](https://www.youtube.com/watch?v=-5Kpf8JIIDA) from _Notes With Attachments_ (2021) is grooooooovy, jazzy, funky, with intricate clicking and clacking, and water glasses played with a violin bow. (via [@dokoissho](https://merveilles.town/@dokoissho/106798277980398718))
+Pino Palladino and Blake Mills’ [_Chris Dave_](https://youtu.be/-5Kpf8JIIDA) from _Notes With Attachments_ (2021) is grooooooovy, jazzy, funky, with intricate clicking and clacking, and water glasses played with a violin bow. (via [@dokoissho](https://merveilles.town/@dokoissho/106798277980398718))
 
 ---
 

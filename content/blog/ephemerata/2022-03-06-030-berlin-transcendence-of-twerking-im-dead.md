@@ -61,31 +61,31 @@ Help me continue creating projects that are public, accessible for free, and ope
 
 ## Short
 
-[DUCKWRTH: _I’M DEAD_ from _I’M UUGLY_ (2016)](https://www.youtube.com/watch?v=vV71CEm-svU). Time feel for instant body shaking, decorated and supported with seventh chords, bass patterns that repeat with variation, and effects to create contrast between sections. Lyrics slot into the drumming like Lego. (via [Elena Stoodley](https://strolling.rosano.ca/0003))
+[DUCKWRTH: _I’M DEAD_ from _I’M UUGLY_ (2016)](https://youtu.be/vV71CEm-svU). Time feel for instant body shaking, decorated and supported with seventh chords, bass patterns that repeat with variation, and effects to create contrast between sections. Lyrics slot into the drumming like Lego. (via [Elena Stoodley](https://strolling.rosano.ca/0003))
 
 ---
 
-[Zventa Sventana: _Мужа дома нету_](https://www.youtube.com/watch?v=9tY4OK-Dg%5Fs) from _Мужа дома нету_ (2019). Combines electronic sounds with folk singing. Lots of cool percussion and odd production details throughout to keep things dynamic (several only occurring once in the whole song). Touches elements of techno music without being too formulaic, might be the combination with various vocal timbres that keeps it feeling alive. (via [Alexei](https://twitter.com/AlexeiGalux))
+[Zventa Sventana: _Мужа дома нету_](https://youtu.be/9tY4OK-Dg%5Fs) from _Мужа дома нету_ (2019). Combines electronic sounds with folk singing. Lots of cool percussion and odd production details throughout to keep things dynamic (several only occurring once in the whole song). Touches elements of techno music without being too formulaic, might be the combination with various vocal timbres that keeps it feeling alive. (via [Alexei](https://twitter.com/AlexeiGalux))
 
 ---
 
-[Hundred Waters: _Particle_](https://www.youtube.com/watch?v=PEkng2Un5n8) from _Currency_ (2017). Starts with delicate acoustic piano tones and chords. I usually find it interesting when to use blocky (predictable) patterns from techno music without the music feeling too repetitive; the constant contrast here makes it always dynamic and alive. Lots of triplets and dotted rhythms throughout, twice used in the melody to create this feeling of continuously moving, dropping (for example, [around 57s](https://www.youtube.com/watch?v=PEkng2Un5n8&t=53s)). The lyrics and melody help evoke a sense of flying, soaring, falling.
+[Hundred Waters: _Particle_](https://youtu.be/PEkng2Un5n8) from _Currency_ (2017). Starts with delicate acoustic piano tones and chords. I usually find it interesting when to use blocky (predictable) patterns from techno music without the music feeling too repetitive; the constant contrast here makes it always dynamic and alive. Lots of triplets and dotted rhythms throughout, twice used in the melody to create this feeling of continuously moving, dropping (for example, [around 57s](https://youtu.be/PEkng2Un5n8?t=53s)). The lyrics and melody help evoke a sense of flying, soaring, falling.
 
 ---
 
 ## Bites
 
-[Vulfpeck: _Back Pocket_](https://www.youtube.com/watch?v=UZPX9KQbwsg) from _Live at Madison Square Garden_ (2019). Inspiring to hear a thousand-strong audience sing a complex line in three part harmony. Lots of beatboxing, music via voice and the body. Guitar shredding partially mirrored on voice. Surprising to clarinets at the end in this context. Good vibes, happy times, saudades for live music. (via [Russel Ramos](https://twitter.com/russlramos/status/1479690602476302336))
+[Vulfpeck: _Back Pocket_](https://youtu.be/UZPX9KQbwsg) from _Live at Madison Square Garden_ (2019). Inspiring to hear a thousand-strong audience sing a complex line in three part harmony. Lots of beatboxing, music via voice and the body. Guitar shredding partially mirrored on voice. Surprising to clarinets at the end in this context. Good vibes, happy times, saudades for live music. (via [Russel Ramos](https://twitter.com/russlramos/status/1479690602476302336))
 
 ---
 
-[Pongo: _Bruxos_](https://www.youtube.com/watch?v=5duWNtire2o) at COLORSxSTUDIOS (2021). Massive sound in this body-shaker, both in the powerful voice and in the beat. The synthy flute about halfway in is a timbre I don’t hear often. (via [April](https://twitter.com/flying%5Ffisher))
+[Pongo: _Bruxos_](https://youtu.be/5duWNtire2o) at COLORSxSTUDIOS (2021). Massive sound in this body-shaker, both in the powerful voice and in the beat. The synthy flute about halfway in is a timbre I don’t hear often. (via [April](https://twitter.com/flying%5Ffisher))
 
 ---
 
 ## Nostalgia
 
-[Carpenters: _Top of the World_](https://www.youtube.com/watch?v=dTMPTC4Bo5M) from _A Song for You_ (1972). Caught me by surprise to hear this while looking for something in a local Asian supermarket—my mom used to sing it as a kind of showpiece and even recorded it once in a studio. Listening more closely, I hear for the first time that there’s electric piano everywhere, orchestral strings, and these cool IV-I cadences before the verses start.
+[Carpenters: _Top of the World_](https://youtu.be/dTMPTC4Bo5M) from _A Song for You_ (1972). Caught me by surprise to hear this while looking for something in a local Asian supermarket—my mom used to sing it as a kind of showpiece and even recorded it once in a studio. Listening more closely, I hear for the first time that there’s electric piano everywhere, orchestral strings, and these cool IV-I cadences before the verses start.
 
 ---
 

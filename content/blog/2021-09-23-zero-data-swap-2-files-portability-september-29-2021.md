@@ -129,7 +129,7 @@ The first half of the chat was lost due to a call drop. These times reflect a st
 > _17:01_ Jess says: in general  
 > _17:01_ Jess says: ( magic links, so true )  
 > _17:01_ Noel says: ( We were talking about gen Z before, I think a lot of them don't even use email, they just have social logins (like login with Facebook) )  
-> _17:01_ Doug says: This particular hardware didn't catch on, but this video shows where we'd like to be: <https://www.youtube.com/watch?v=2oLfKqpUJT4>  
+> _17:01_ Doug says: This particular hardware didn't catch on, but this video shows where we'd like to be: <https://youtu.be/2oLfKqpUJT4>  
 > _17:02_ Jess says: <http://www.aaronsw.com/weblog/squarezooko>  
 > _17:02_ cblgh says: great article on squaring zooko's triangle for a particular set of use cases  
 > <https://www.inkandswitch.com/backchannel/>  

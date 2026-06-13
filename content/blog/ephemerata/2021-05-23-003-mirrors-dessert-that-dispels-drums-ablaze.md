@@ -32,11 +32,11 @@ Trevor Noah mixes funny with serious [talking about Israel-Palestine](https://yo
 
 ---
 
-India’s Golden Temple community kitchen [has been feeding 100,000 people per day since the 1500s](https://www.youtube.com/watch?v=TT-N5wl0l-s). The video describes quantities, costs, routines, division of labour involved in preparing massive batches of rice, potatoes, lentils, bread, tea and desert. (via [@grey](https://merveilles.town/@grey/106259291819900882))
+India’s Golden Temple community kitchen [has been feeding 100,000 people per day since the 1500s](https://youtu.be/TT-N5wl0l-s). The video describes quantities, costs, routines, division of labour involved in preparing massive batches of rice, potatoes, lentils, bread, tea and desert. (via [@grey](https://merveilles.town/@grey/106259291819900882))
 
 ---
 
-Beau of the Fifth Column talks about [burning out from helping those in need](https://www.youtube.com/watch?v=-Vrk2vWeQUk).
+Beau of the Fifth Column talks about [burning out from helping those in need](https://youtu.be/-Vrk2vWeQUk).
 
 ---
 
@@ -52,7 +52,7 @@ At some Istanbul/Greek weddings, guests receive a dish known as [“f\*\*\*-off 
 
 ---
 
-Folha de S.Paulo showcases [various Portuguese accents from Brazil and beyond](https://www.youtube.com/watch?v=8uFkciZLnNU).
+Folha de S.Paulo showcases [various Portuguese accents from Brazil and beyond](https://youtu.be/8uFkciZLnNU).
 
 ---
 
@@ -64,7 +64,7 @@ In the search for the previous chart, I stumbled upon a fascinating infographic 
 
 ---
 
-An [Egyptian sign language course](https://www.youtube.com/watch?v=Tw44A1185uc&list=PLaQzmDaYayMCuW3Y0LhKnYON8u5%5FQQYsW&t=364s) given in Masri. (via [@Stoori@polyglot.city](https://polyglot.city/@Stoori/106257153443942134))
+An [Egyptian sign language course](https://www.youtube.com/watch?list=PLaQzmDaYayMCuW3Y0LhKnYON8u5%5FQQYsW&t=364s&v=Tw44A1185uc) given in Masri. (via [@Stoori@polyglot.city](https://polyglot.city/@Stoori/106257153443942134))
 
 ---
 
@@ -84,7 +84,7 @@ How people used to connect to the Internet: [using a rotary dial phone and shovi
 
 # LAUGH
 
-Comedian Drew Morgan shares his hilarious theory about [how slavery in the United States led to the southern accent](https://www.youtube.com/watch?v=LObreREaixg).
+Comedian Drew Morgan shares his hilarious theory about [how slavery in the United States led to the southern accent](https://youtu.be/LObreREaixg).
 
 ---
 
@@ -98,7 +98,7 @@ Mondo Mascots documents [prolific creativity in Japanese mascots](https://twitte
 
 [![Playlist](https://static.rosano.ca/joybox/_JBXPlaylistButton.svg)](https://go.rosano.ca/ephemerata-003-music)
 
-Tariq Harb plays [Bach’s _Toccata and Fugue in D minor, BWV 565_ on guitar](https://www.youtube.com/watch?v=6jtuTCy8RXg)—a challenge translating this piece from organ keyboard to six strings. Classical music on this instrument is one of the most sublime things.
+Tariq Harb plays [Bach’s _Toccata and Fugue in D minor, BWV 565_ on guitar](https://youtu.be/6jtuTCy8RXg)—a challenge translating this piece from organ keyboard to six strings. Classical music on this instrument is one of the most sublime things.
 
 ---
 
@@ -106,7 +106,7 @@ This [funk carioca body-shaker](https://youtube.com/watch?v=%5FP7S2lKif-A) blast
 
 ---
 
-I’ve never seen such fiery [dance choreography by someone in a wheelchair](https://www.youtube.com/watch?v=vHUJ0ZWUgfY&t=184s). (via [Romain](https://www.facebook.com/romain.morin.355/posts/10165122951090635))
+I’ve never seen such fiery [dance choreography by someone in a wheelchair](https://youtu.be/vHUJ0ZWUgfY?t=184s). (via [Romain](https://www.facebook.com/romain.morin.355/posts/10165122951090635))
 
 ---
 
@@ -118,7 +118,7 @@ If you liked the pygmy hockets from [last week](https://cafe.rosano.ca/t/002-pre
 
 ---
 
-Lovely Latin jazz with congas and cowbells from Cal Tjader’s [_Complete Concert By The Sea_](https://www.youtube.com/watch?v=VmCj2HBZA1Q).
+Lovely Latin jazz with congas and cowbells from Cal Tjader’s [_Complete Concert By The Sea_](https://youtu.be/VmCj2HBZA1Q).
 
 ---
 

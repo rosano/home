@@ -22,7 +22,7 @@ mas eu quero que seja
 nossos sonhos de amor, nosso gesto de amor
 que me balança e me desperta, sempre mais
 
-Audio: https://www.youtube.com/watch?v=OfIM0uBIPpg
+Audio: https://youtu.be/OfIM0uBIPpg
 Lyrics: https://www.cifraclub.com.br/art-popular/quando-voce-me-beija/
 
 # Paulinho da Viola: Timoneiro
@@ -64,7 +64,7 @@ Vivo num redemoinho Deus bem sabe o que ele faz
 
 A onda que me carrega ela mesma  quem me traz
 
-video: https://www.youtube.com/watch?v=7DXfO39necU
+video: https://youtu.be/7DXfO39necU
 chords: https://www.cifraclub.com.br/paulinho-da-viola/timoneiro/
 
 # Chico Buarque: Eu Não Quero Saber

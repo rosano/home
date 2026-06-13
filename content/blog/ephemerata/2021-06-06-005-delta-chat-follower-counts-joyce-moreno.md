@@ -49,7 +49,7 @@ In our conversation about how the modern world needs a secular church, Helder me
 
 ---
 
-Beau of the Fifth Column debunks [statistics about which animals are more dangerous](https://www.youtube.com/watch?v=Y-QNwHFGSn8):
+Beau of the Fifth Column debunks [statistics about which animals are more dangerous](https://youtu.be/Y-QNwHFGSn8):
 
 > \[If comparisons are made without defining the criteria, it’s probably propaganda.\]
 
@@ -123,11 +123,11 @@ Two cats and a mouse [sit around and do nothing together on this kitchen floor](
 
 ## Albums
 
-I stumbled upon Joyce Moreno’s [_Passarinho Urbano_ (1976)](https://www.youtube.com/watch?v=51x4G8IDG4w), chock-full of sambas in stereo. This led me to [_Revendo Amigos_ (1994)](https://www.youtube.com/watch?v=bZkP1dHm1A0), with the kind of jazz harmonies and wordless melodies that I enjoy.
+I stumbled upon Joyce Moreno’s [_Passarinho Urbano_ (1976)](https://youtu.be/51x4G8IDG4w), chock-full of sambas in stereo. This led me to [_Revendo Amigos_ (1994)](https://youtu.be/bZkP1dHm1A0), with the kind of jazz harmonies and wordless melodies that I enjoy.
 
 ---
 
-In Francis Bebey’s [_Akwaaba: Music For Sanza_ (1985)](https://www.youtube.com/watch?v=RDaUJ8N4Gk4), mbira and raw vocals are set to funky pentatonic bass grooves accompanied by other African percussion. You _will_ sway from side to side.
+In Francis Bebey’s [_Akwaaba: Music For Sanza_ (1985)](https://youtu.be/RDaUJ8N4Gk4), mbira and raw vocals are set to funky pentatonic bass grooves accompanied by other African percussion. You _will_ sway from side to side.
 
 ---
 
@@ -145,7 +145,7 @@ Pixel Grip’s [_ALPHAPUSSY_](https://pixelgrip.bandcamp.com/track/alphapussy-3)
 
 ---
 
-Pinduca’s [_Carimbó Do Macaco_](https://www.youtube.com/watch?v=z-KLqivQW3s) from _O Rei Do Carimbó_ (1983) is a formidable tongue-twister from a [Brazillian traditional dance form](https://en.wikipedia.org/wiki/Carimb%C3%B3). I learned that this is the same genre as _No Meio do Pitiú_ from [#002](https://cafe.rosano.ca/t/74#music-5).
+Pinduca’s [_Carimbó Do Macaco_](https://youtu.be/z-KLqivQW3s) from _O Rei Do Carimbó_ (1983) is a formidable tongue-twister from a [Brazillian traditional dance form](https://en.wikipedia.org/wiki/Carimb%C3%B3). I learned that this is the same genre as _No Meio do Pitiú_ from [#002](https://cafe.rosano.ca/t/74#music-5).
 
 ---
 

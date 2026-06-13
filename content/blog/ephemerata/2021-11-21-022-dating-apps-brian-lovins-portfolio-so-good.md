@@ -57,7 +57,7 @@ Help me continue creating projects that are public, accessible for free, and ope
 # EVENTS
 
 * November 24, 2021: Co-hosting [Zero Data Swap #4: Hello World](https://chat.0data.app/t/51) with [Noel De Martin](https://noeldemartin.com). (**Looking for a volunteer to code a small demo with remoteStorage or Fission. Let me know!**)
-* November 28, 2021: Co-hosting [Improvisation, Spontaneity, and Oneness](https://interintellect.com/salon/improvisation-spontaneity-and-oneness) with [Vivek](https://www.youtube.com/watch?v=-a--B8UlkBQ&t=31s)
+* November 28, 2021: Co-hosting [Improvisation, Spontaneity, and Oneness](https://interintellect.com/salon/improvisation-spontaneity-and-oneness) with [Vivek](https://youtu.be/-a--B8UlkBQ?t=31s)
 * November 30, 2021: Hosting [remoteStorage monthly hangout](https://community.remotestorage.io/t/737)
 
 ---
@@ -111,11 +111,11 @@ Listening to [Justin Jackson’s Indie Bites interview on Bootstrapping Transist
 
 ## Short
 
-[Little Simz feat. Obongjayar: _Point And Kill_](https://www.youtube.com/watch?v=tvY31eN3gtE&t=46s) from _Sometimes I Might Be Introvert_ (2021). Makes body move, and if your eyes are open, the visuals are sublime. Words and rhythm fit like a glove. Feeling an unapologetic artistry through fashion and music. Concludes with a sudden change to African instruments but with the same time feel. (via [Elena](https://www.facebook.com/une.individu/posts/10159366581081070))
+[Little Simz feat. Obongjayar: _Point And Kill_](https://youtu.be/tvY31eN3gtE?t=46s) from _Sometimes I Might Be Introvert_ (2021). Makes body move, and if your eyes are open, the visuals are sublime. Words and rhythm fit like a glove. Feeling an unapologetic artistry through fashion and music. Concludes with a sudden change to African instruments but with the same time feel. (via [Elena](https://www.facebook.com/une.individu/posts/10159366581081070))
 
 ---
 
-[El Masreyeen (المصريين): _Bahebek La (بحبك لا)_](https://www.youtube.com/watch?v=fBc1Al4w64I) from _بحبك لا_  
+[El Masreyeen (المصريين): _Bahebek La (بحبك لا)_](https://youtu.be/fBc1Al4w64I) from _بحبك لا_  
 (1977). The warmth in this funky disco gem from Egypt goes straight to your shoulders. A simple composition with slight contrast between sections, yet it stays interesting throughout. “I love you, no; I need you, yes.” (via [Debora Ipekel](https://worldwidefm.net/episode/debora-ipekel-2))
 
 ---

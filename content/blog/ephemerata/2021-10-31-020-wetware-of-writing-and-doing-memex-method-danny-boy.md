@@ -69,7 +69,7 @@ Cory Doctorow's [The Memex Method](https://doctorow.medium.com/the-memex-method-
 
 ---
 
-Jacob Collier [improvises versions of 'Danny Boy' on the piano](https://www.youtube.com/watch?v=EWHpdmDHrn8) to never before seen index cards with names of emotions that become increasingly complex, while transitioning as smoothly as possible between one card to the next. I felt initially that this would be kind of a gimmick, but hearing his analysis after each set gives you a sense of how intertwined his improvisational process is with compositional thinking. I appreciate his 'handedness' with tonalities, modulations between keys, decorative devices. I'm always a fan of "giving people who aren't familiar with free improvisation a way into the concept".
+Jacob Collier [improvises versions of 'Danny Boy' on the piano](https://youtu.be/EWHpdmDHrn8) to never before seen index cards with names of emotions that become increasingly complex, while transitioning as smoothly as possible between one card to the next. I felt initially that this would be kind of a gimmick, but hearing his analysis after each set gives you a sense of how intertwined his improvisational process is with compositional thinking. I appreciate his 'handedness' with tonalities, modulations between keys, decorative devices. I'm always a fan of "giving people who aren't familiar with free improvisation a way into the concept".
 
 ---
 

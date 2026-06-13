@@ -79,13 +79,13 @@ Jorge Ben’s [_Força Bruta_ (1970)](https://www.youtube.com/playlist?list=PLbR
 
 ---
 
-This [compilation of music sung by Mildred Bailey (1930s)](https://www.youtube.com/watch?v=P9mKlYNI3IY) features some lovely stride jazz piano. My first time hearing this singer. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/885666684470456370))
+This [compilation of music sung by Mildred Bailey (1930s)](https://youtu.be/P9mKlYNI3IY) features some lovely stride jazz piano. My first time hearing this singer. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/885666684470456370))
 
 ---
 
 ## Tracks
 
-Hania Rani recorded a [live set of music](https://www.youtube.com/watch?v=kFRdoYfZYUY&t=432) which makes me want to play the piano again. At various points she plays while touching the strings to create percussive sounds. The set merges electronic and acoustic, and she also sings on some tracks. It’s always special to see people pushing the boundaries of live music-making. (via [@ghostlevel@merveilles.town](https://merveilles.town/@ghostlevel/106857225144112727))
+Hania Rani recorded a [live set of music](https://youtu.be/kFRdoYfZYUY?t=432) which makes me want to play the piano again. At various points she plays while touching the strings to create percussive sounds. The set merges electronic and acoustic, and she also sings on some tracks. It’s always special to see people pushing the boundaries of live music-making. (via [@ghostlevel@merveilles.town](https://merveilles.town/@ghostlevel/106857225144112727))
 
 ---
 

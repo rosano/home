@@ -18,9 +18,9 @@ So let’s get to it!
 
 # ALI ABDAAL
 
-I’m super happy to have discovered the Youtuber Ali Abdaal. I deeply resonated with one of his videos about [putting yourself out there online](https://www.youtube.com/watch?v=vyVpRiqOvt4) in which there’s some useful advice and perspective that can dislodge common fears and hesitations.
+I’m super happy to have discovered the Youtuber Ali Abdaal. I deeply resonated with one of his videos about [putting yourself out there online](https://youtu.be/vyVpRiqOvt4) in which there’s some useful advice and perspective that can dislodge common fears and hesitations.
 
-There’s another video about [confidence](https://www.youtube.com/watch?v=I5hTDOckpnU) which changed my mind about several things:
+There’s another video about [confidence](https://youtu.be/I5hTDOckpnU) which changed my mind about several things:
 
 > \[People can’t distinguish between fake and real confidence.\]
 
@@ -88,7 +88,7 @@ The next time someone says, “I’ve got an idea for an iPhone app”, I will f
 
 # LANGUAGE
 
-A provocative idea about language learning: [learning can be conscious but acquisition can only be subconscious](https://www.youtube.com/watch?v=%5FVYfpL6lcjE).
+A provocative idea about language learning: [learning can be conscious but acquisition can only be subconscious](https://youtu.be/%5FVYfpL6lcjE).
 
 ---
 
@@ -98,7 +98,7 @@ _(All the following items can be accessed as a_ [_one-click playlist_](https://g
 
 [![Playlist](https://static.rosano.ca/joybox/_JBXPlaylistButton.svg)](https://go.rosano.ca/ephemerata-001-music)
 
-Billy Hart’s [Enchance](https://www.youtube.com/watch?v=rAciV2mMAk4), if you’re into free jazz. ([via Dan Weiss](https://twitter.com/danweissdrum/status/1386894604159668225)).
+Billy Hart’s [Enchance](https://youtu.be/rAciV2mMAk4), if you’re into free jazz. ([via Dan Weiss](https://twitter.com/danweissdrum/status/1386894604159668225)).
 
 ---
 
@@ -106,7 +106,7 @@ I’ve been getting into Pedro Martins lately. He’s actually from Brasilia. A 
 
 ---
 
-Also from Brazil: Heavy Baile, incredible funk beats (not the jazz kind but the Brazilian genre). Check out [Carne de Pescoço](https://www.youtube.com/watch?list=PLvBMzebXMjIh4oiPqFcSy6StVPTa54eRb&v=ABJM0RNTx3g) as well as this [mixtape](https://www.youtube.com/watch?v=LOx1zy63eZo) with some dope dancing in a basketball court.
+Also from Brazil: Heavy Baile, incredible funk beats (not the jazz kind but the Brazilian genre). Check out [Carne de Pescoço](https://www.youtube.com/watch?list=PLvBMzebXMjIh4oiPqFcSy6StVPTa54eRb&v=ABJM0RNTx3g) as well as this [mixtape](https://youtu.be/LOx1zy63eZo) with some dope dancing in a basketball court.
 
 ---
 

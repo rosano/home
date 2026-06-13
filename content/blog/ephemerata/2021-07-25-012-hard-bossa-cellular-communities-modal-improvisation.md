@@ -86,7 +86,7 @@ If you’re enjoying this, consider [contributing to my Open Collective](https:/
 
 ## More Moreno (via Joyce aficionado [@dokoissho](https://merveilles.town/@dokoissho/106614980441559889))
 
-I try to avoid saying here whether I think something is ‘good’ as it’s not a useful comment, but I can’t help stating that [_Hard Bossa_ (1999)](https://www.youtube.com/watch?v=g4I4X8r4RX4) by Joyce Moreno (featured in [#005](https://cafe.rosano.ca/t/005-delta-chat-follower-counts-joyce-moreno/87#albums-8)) is **excellent**. I was fooled by ‘the b word’, thinking that it would be easy-going music made by Brazilians catering to an international audience, and I was very wrong: traditional elements are unapologetically slathered throughout.
+I try to avoid saying here whether I think something is ‘good’ as it’s not a useful comment, but I can’t help stating that [_Hard Bossa_ (1999)](https://youtu.be/g4I4X8r4RX4) by Joyce Moreno (featured in [#005](https://cafe.rosano.ca/t/005-delta-chat-follower-counts-joyce-moreno/87#albums-8)) is **excellent**. I was fooled by ‘the b word’, thinking that it would be easy-going music made by Brazilians catering to an international audience, and I was very wrong: traditional elements are unapologetically slathered throughout.
 
 I’ll share my impressions of some songs, but the whole album is worth a listen:
 
@@ -104,21 +104,21 @@ I also thought it was neat that a legendary artist from the 1970s has a [Bandcam
 
 ## Albums
 
-Mákina Kandela’s [_CUMBIAKISTÁN_ (2014)](https://www.youtube.com/watch?v=JxALbfK5HMk) is sometimes cumbia digital, sometimes afrobeat, sometimes reggae/dub. They use quite a few sudden metric changes throughout the album, which I find unusual for genres that are often more ‘steady’. There is also a peculiar sensation at around forty minutes where the groove always seems slower than you expect.
+Mákina Kandela’s [_CUMBIAKISTÁN_ (2014)](https://youtu.be/JxALbfK5HMk) is sometimes cumbia digital, sometimes afrobeat, sometimes reggae/dub. They use quite a few sudden metric changes throughout the album, which I find unusual for genres that are often more ‘steady’. There is also a peculiar sensation at around forty minutes where the groove always seems slower than you expect.
 
 ---
 
-Junior Braguinha has [a set of live quintet recordings](https://www.youtube.com/channel/UCkicpW%5F4ztzxJ5lnRRXwing) that could probably go together as an album, but seems impossible to assemble together without creating a YouTube account or relying on autoplay, so here’s just two tracks: [_Goonies_](https://www.youtube.com/watch?v=P0tMd17j%5FT8) (2017) mixes a high-octane bass solo with ambient noise (emphasis on noise) from the keyboardist—reminds me of Robert Glasper’s _Black Radio_. [_Brisa_](https://www.youtube.com/watch?v=0bqnFlPIZ5o) (2018) is hard-driving and odd-metered with harmonies that shift like mechanical gears. (via Shedid)
+Junior Braguinha has [a set of live quintet recordings](https://www.youtube.com/channel/UCkicpW%5F4ztzxJ5lnRRXwing) that could probably go together as an album, but seems impossible to assemble together without creating a YouTube account or relying on autoplay, so here’s just two tracks: [_Goonies_](https://youtu.be/P0tMd17j%5FT8) (2017) mixes a high-octane bass solo with ambient noise (emphasis on noise) from the keyboardist—reminds me of Robert Glasper’s _Black Radio_. [_Brisa_](https://youtu.be/0bqnFlPIZ5o) (2018) is hard-driving and odd-metered with harmonies that shift like mechanical gears. (via Shedid)
 
 ---
 
 ## Tracks
 
-I was waiting to set aside a year of my life to listen to Jacob Collier’s _Djesse_ suite, but happened upon [_Time Alone With You_](https://www.youtube.com/watch?v=2qUCyW7ewPs), with a harmonic complexity that results from someone starting with [_Moon River_](https://cafe.rosano.ca/t/010-mastery-moon-river-josue-costa/101#moon-river-8) as their baseline. It sounds like being possessed by the opposite of the devil. I found it impossible to sit still while listening. Notice as well the fluid physicalizing of music in the video.
+I was waiting to set aside a year of my life to listen to Jacob Collier’s _Djesse_ suite, but happened upon [_Time Alone With You_](https://youtu.be/2qUCyW7ewPs), with a harmonic complexity that results from someone starting with [_Moon River_](https://cafe.rosano.ca/t/010-mastery-moon-river-josue-costa/101#moon-river-8) as their baseline. It sounds like being possessed by the opposite of the devil. I found it impossible to sit still while listening. Notice as well the fluid physicalizing of music in the video.
 
 ---
 
-Adrian Younge and Ali Shaheed Muhammad have been recording a series since 2020 called [_Jazz is Dead_](https://jazzisdead.bandcamp.com/music) with some renowned musicians. I have queued up all seven albums and am pretty sure at least one will end up here. One track called [_Distant Mode_](https://jazzisdead.bandcamp.com/track/distant-mode-feat-gary-bartz) with saxophonist Gary Bartz caught my attention for its intricate drumming punctuated with sections of hyperspace warp speed that reminds me of Flying Lotus. They also collaborated with Method Man on [_Bulletproof Love_](https://www.youtube.com/watch?v=OLPbw52g5bQ) from the LUKE CAGE soundtrack—the drum beat and rap lyrics feel like part of the same expression.
+Adrian Younge and Ali Shaheed Muhammad have been recording a series since 2020 called [_Jazz is Dead_](https://jazzisdead.bandcamp.com/music) with some renowned musicians. I have queued up all seven albums and am pretty sure at least one will end up here. One track called [_Distant Mode_](https://jazzisdead.bandcamp.com/track/distant-mode-feat-gary-bartz) with saxophonist Gary Bartz caught my attention for its intricate drumming punctuated with sections of hyperspace warp speed that reminds me of Flying Lotus. They also collaborated with Method Man on [_Bulletproof Love_](https://youtu.be/OLPbw52g5bQ) from the LUKE CAGE soundtrack—the drum beat and rap lyrics feel like part of the same expression.
 
 ---
 
@@ -128,11 +128,11 @@ I posted to my SoundCloud for the first time in a while: [a guitar improvisation
 
 ## Bites
 
-Rich Brown (bassist extraordinaire) explains [music theory of improvising on a fundamental chord progression](https://www.youtube.com/watch?v=4Z4tXvQqUVY&t=166s) and goes quickly from banal to outer space while describing both using the same framework. I have known the names of the Greek modes and their notes for a while, but only intellectually—I have hardly thought of them consciously while improvising. Here they are presented as composable parts and it seems approachable (using a ‘cheesy bossa nova’ backing track)—feels like I went from having one thing to do on each chord to 12 x 7 (= eighty-four…) possibilities.
+Rich Brown (bassist extraordinaire) explains [music theory of improvising on a fundamental chord progression](https://youtu.be/4Z4tXvQqUVY?t=166s) and goes quickly from banal to outer space while describing both using the same framework. I have known the names of the Greek modes and their notes for a while, but only intellectually—I have hardly thought of them consciously while improvising. Here they are presented as composable parts and it seems approachable (using a ‘cheesy bossa nova’ backing track)—feels like I went from having one thing to do on each chord to 12 x 7 (= eighty-four…) possibilities.
 
 ---
 
-Harry Mack [slows down his freestyle process](https://www.youtube.com/watch?v=XGfcmjZrBPE) so that us mere mortals can understand how far in advance he plans.
+Harry Mack [slows down his freestyle process](https://youtu.be/XGfcmjZrBPE) so that us mere mortals can understand how far in advance he plans.
 
 ---
 

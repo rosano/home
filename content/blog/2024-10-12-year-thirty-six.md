@@ -18,7 +18,7 @@ My [father's passing](https://strolling.rosano.ca/0168/) shuffled around many th
 
 ## movement
 
-I gave myself the gift of training capoeira [some weeks in London](https://www.instagram.com/rosano/p/C-3JkNONkeV/) with a group and master I've been following the past two years. Life-changing by my standards, but not sure how to describe it other than new sensations of what is possible and a vibe that I'll probably carry with me everywhere. Well, at the least it makes me want to [dance](https://www.youtube.com/watch?v=ckW5a_99FR0).
+I gave myself the gift of training capoeira [some weeks in London](https://www.instagram.com/rosano/p/C-3JkNONkeV/) with a group and master I've been following the past two years. Life-changing by my standards, but not sure how to describe it other than new sensations of what is possible and a vibe that I'll probably carry with me everywhere. Well, at the least it makes me want to [dance](https://youtu.be/ckW5a_99FR0).
 
 <gallery>![](IMG_1464.jpg) ![](IEBS7713-export-1.gif) ![](WZNR2057-export.gif)</gallery>
 

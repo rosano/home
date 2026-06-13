@@ -14,4 +14,4 @@ tiktok_id: 7232572257200082181
 ---
 this song is a beautiful and timeless message, reflects what i try to embody in friendship. sharing my musical take ❤️☀️✨
 
-reply to [my dad's](https://www.youtube.com/watch?v=r5mcFWGpAG0)
+reply to [my dad's](https://youtu.be/r5mcFWGpAG0)

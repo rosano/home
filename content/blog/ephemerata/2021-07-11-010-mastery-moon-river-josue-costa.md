@@ -62,7 +62,7 @@ If you’re enjoying this, consider [contributing to my Open Collective](https:/
 
 # LANGUAGE
 
-Brian Wiles (featured in [#006](https://cafe.rosano.ca/t/006-abo-sahar-lucas-the-spider-brian-wiles/91)) explains his [“walking technique”](https://www.youtube.com/watch?v=qYsHLUAlH%5F8&t=239s) to help learn languages more quickly:
+Brian Wiles (featured in [#006](https://cafe.rosano.ca/t/006-abo-sahar-lucas-the-spider-brian-wiles/91)) explains his [“walking technique”](https://youtu.be/qYsHLUAlH%5F8?t=239s) to help learn languages more quickly:
 
 > \[Walk around while hearing a podcast or any kind of listening material in the target language, and try to whisper back things you hear. You may not understand any of it initially, but over time things repeat and you can learn what they mean with something like Google Translate (which apparently has gotten better in the last few years).\]
 
@@ -99,7 +99,7 @@ Brené Brown shares her conclusion on [what ultra-compassionate people have in c
 
 # LAUGH
 
-A father [tries to follow exact instructions from his kids on how to make a peanut butter sandwich](https://www.youtube.com/watch?v=cDA3%5F5982h8&t=45s), and it’s almost impossible to make.
+A father [tries to follow exact instructions from his kids on how to make a peanut butter sandwich](https://youtu.be/cDA3%5F5982h8?t=45s), and it’s almost impossible to make.
 
 ---
 
@@ -125,13 +125,13 @@ Mr. Goxx is [a hamster trading cryptocurrency](https://www.twitch.tv/videos/1065
 
 ## Moon River
 
-Jacob Collier’s a capella [_Moon River_](https://www.youtube.com/watch?v=VPLCk-FTVvw) from 2019 is a sublime celestial splendor sung by the chorus of a thousand stars. Not sure how I missed it but I think one cannot die before hearing this. I am still working my way through his [in-depth hour-and-a-half music nerdery](https://www.youtube.com/watch?v=9d4-URyWEJQ) around the creation of this masterpiece.
+Jacob Collier’s a capella [_Moon River_](https://youtu.be/VPLCk-FTVvw) from 2019 is a sublime celestial splendor sung by the chorus of a thousand stars. Not sure how I missed it but I think one cannot die before hearing this. I am still working my way through his [in-depth hour-and-a-half music nerdery](https://youtu.be/9d4-URyWEJQ) around the creation of this masterpiece.
 
 ---
 
 ## Josué Costa
 
-Imagine walking into a park and seeing a professional Brazilian guitarist sitting alone in a gazebo practicing his own complex jazz and classical compositions, in a pandemic, in a city where people don’t normally sit alone in parks and practice guitar. Thanks to [Josué Costa](https://www.youtube.com/watch?v=PNBmcSzGqY4&t=1026s) for sharing his music (and letting me listen with social distancing).
+Imagine walking into a park and seeing a professional Brazilian guitarist sitting alone in a gazebo practicing his own complex jazz and classical compositions, in a pandemic, in a city where people don’t normally sit alone in parks and practice guitar. Thanks to [Josué Costa](https://youtu.be/PNBmcSzGqY4?t=1026s) for sharing his music (and letting me listen with social distancing).
 
 ---
 
@@ -141,21 +141,21 @@ Ilessi’s [_Dama de Espadas_ (2020)](https://www.youtube.com/playlist?list=OLAK
 
 ---
 
-Shaolin Afronauts’s [_Flight Of The Ancient_ (2011)](https://www.youtube.com/watch?v=mVphcpIoTpc) features afrojazz, wild honky saxophone solos, dorian modes, to which you can dance for 45 minutes straight.
+Shaolin Afronauts’s [_Flight Of The Ancient_ (2011)](https://youtu.be/mVphcpIoTpc) features afrojazz, wild honky saxophone solos, dorian modes, to which you can dance for 45 minutes straight.
 
 ---
 
-BaianaSystem’s [_O Futuro não Demora_ (2019)](https://www.youtube.com/watch?v=pewLsjAwzPA) features various pop/dance rhythms from Brazil.
+BaianaSystem’s [_O Futuro não Demora_ (2019)](https://youtu.be/pewLsjAwzPA) features various pop/dance rhythms from Brazil.
 
 ---
 
 ## Tracks
 
-BNegão & Os Seletores de Frequência’s [_(Funk) Até O Caroço_](https://www.youtube.com/watch?v=Zp8NCWX4yiE) from _Enxugando Gelo_ (2004) is a hip-hop and funk headbanger with a bad-ass guitar riff.
+BNegão & Os Seletores de Frequência’s [_(Funk) Até O Caroço_](https://youtu.be/Zp8NCWX4yiE) from _Enxugando Gelo_ (2004) is a hip-hop and funk headbanger with a bad-ass guitar riff.
 
 ---
 
-Fredy V & The Foundation’s [_Your Own Way_](https://www.youtube.com/watch?v=Mv-L2eewPEs) from _One Step_ (2021) has an intro bassline that’s so dark! A perfect groove to accompany the body paint and photography. (via [Nantali](https://twitter.com/taliindongo))
+Fredy V & The Foundation’s [_Your Own Way_](https://youtu.be/Mv-L2eewPEs) from _One Step_ (2021) has an intro bassline that’s so dark! A perfect groove to accompany the body paint and photography. (via [Nantali](https://twitter.com/taliindongo))
 
 ---
 
@@ -167,9 +167,9 @@ A lot of punch in this beat in [_HANDZOFF_](https://mothernaturebarz.bandcamp.co
 
 I was imitating something [last week](https://cafe.rosano.ca/t/009-mental-cages-fission-event-joana-queiroz/99#short-11).
 
-How about some real oud this time? Observe how the playing in Hamza el Din’s [_Helalisa_](https://www.youtube.com/watch?v=S9tGPTYqfCs) from _Eclipse_ (1978) sounds like the voice with similar inflections. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/860582092324995113))
+How about some real oud this time? Observe how the playing in Hamza el Din’s [_Helalisa_](https://youtu.be/S9tGPTYqfCs) from _Eclipse_ (1978) sounds like the voice with similar inflections. (via [Brian Ginsburg](https://discord.com/channels/478735028319158273/791374365018947644/860582092324995113))
 
-Or some real Rich Brown? His [_Nguyên_](https://www.youtube.com/watch?v=%5FF5I5g8siFo), live from a solo bass concert in 2012, has a celestial atmosphere with melodic vocal inflections. I dream of having this kind of expression when I play guitar. (via @flying\_fisher)
+Or some real Rich Brown? His [_Nguyên_](https://youtu.be/%5FF5I5g8siFo), live from a solo bass concert in 2012, has a celestial atmosphere with melodic vocal inflections. I dream of having this kind of expression when I play guitar. (via @flying\_fisher)
 
 ---
 

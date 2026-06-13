@@ -92,7 +92,7 @@ Sometimes we need to help ourselves when our desires are realized:
 
 ---
 
-One of those things, supremely human and beyond description, that teachers can do for/with their students to [start the day with radiance](https://www.youtube.com/watch?v=Oiv0kIc01Ys). So much to learn from Brazil—_ensina pra gente, Brasil_. (via Judy)
+One of those things, supremely human and beyond description, that teachers can do for/with their students to [start the day with radiance](https://youtu.be/Oiv0kIc01Ys). So much to learn from Brazil—_ensina pra gente, Brasil_. (via Judy)
 
 ---
 
@@ -128,7 +128,7 @@ Interesting anecdote about American poet and internet activist John Perry Barlow
 
 ## Albums
 
-Guinga’s [_Canção da Impermanência_ (2017)](https://www.youtube.com/watch?v=z4uLsR4X6K8) is part of a genre of Brazilian music that I would describe as ‘beyond genre’. Dripping guitar tones and mostly language-less, this sonic voyage uses traditional voice-leading to create unnameable harmonies. Why are most of my deepest connections with albums under 45 minutes?
+Guinga’s [_Canção da Impermanência_ (2017)](https://youtu.be/z4uLsR4X6K8) is part of a genre of Brazilian music that I would describe as ‘beyond genre’. Dripping guitar tones and mostly language-less, this sonic voyage uses traditional voice-leading to create unnameable harmonies. Why are most of my deepest connections with albums under 45 minutes?
 
 ---
 
@@ -136,13 +136,13 @@ The compilation [_Cartagena! Curro Fuentes & The Big Band Cumbia and Descarga So
 
 ---
 
-Michel Freidenson’s [_Notas no Ar_ (2011)](https://www.youtube.com/watch?v=%5Fe5P-SClE1Y) gave me a strong signal from the first few notes of the album. It features traditional Brazilian rhythms and instruments mixed with a fresher modern jazz sound. _Roda_ mixes samba and speedy bossa nova with a rare combination of piano melody doubled by trombone; the forro inspired _Cosmic For All_ I can describe as energetic and alive; _Je Suis Desolé_ is a swingy and slightly disjunct blues featuring some stride piano in the intro.
+Michel Freidenson’s [_Notas no Ar_ (2011)](https://youtu.be/%5Fe5P-SClE1Y) gave me a strong signal from the first few notes of the album. It features traditional Brazilian rhythms and instruments mixed with a fresher modern jazz sound. _Roda_ mixes samba and speedy bossa nova with a rare combination of piano melody doubled by trombone; the forro inspired _Cosmic For All_ I can describe as energetic and alive; _Je Suis Desolé_ is a swingy and slightly disjunct blues featuring some stride piano in the intro.
 
 ---
 
 ## Tracks
 
-When I heard Jacob Collier call Aeolians of Oakwood University the “best choir on earth” [last week](https://cafe.rosano.ca/t/101), I went through some of their recordings. This [_Sabbath Hymn_](https://www.youtube.com/watch?v=xJAuHig9Kec) from _Aeolianology Acappella, Vol. 2_ (2015) is a good example of a sound that fills your insides with light, maybe raising your shoulders too. The church chorale and organ textures with jazz voice-leadings on an a cappella album is a testament to the power of the human voice. They also did a variation on Take 6’s classic arrangement of _Get Away Jordan_.
+When I heard Jacob Collier call Aeolians of Oakwood University the “best choir on earth” [last week](https://cafe.rosano.ca/t/101), I went through some of their recordings. This [_Sabbath Hymn_](https://youtu.be/xJAuHig9Kec) from _Aeolianology Acappella, Vol. 2_ (2015) is a good example of a sound that fills your insides with light, maybe raising your shoulders too. The church chorale and organ textures with jazz voice-leadings on an a cappella album is a testament to the power of the human voice. They also did a variation on Take 6’s classic arrangement of _Get Away Jordan_.
 
 ---
 
@@ -150,13 +150,13 @@ When I heard Jacob Collier call Aeolians of Oakwood University the “best choir
 
 (This first recommendation set me off rummaging through a bunch of stuff, and I don’t regret it)
 
-Chiwoniso’s 2015 single [_Zvichapera_](https://www.youtube.com/watch?v=orH93ICYZv8) features a kind of polyrhythmic mbira with powerful vocal doubling in the melody—the lead singer floats on top of the sound as if it were a solid cloud. (via Clara)
+Chiwoniso’s 2015 single [_Zvichapera_](https://youtu.be/orH93ICYZv8) features a kind of polyrhythmic mbira with powerful vocal doubling in the melody—the lead singer floats on top of the sound as if it were a solid cloud. (via Clara)
 
 The compilation album [_Music from Africa Vol. 2 Shangaan Traditional / Sotho Chant_ (2015)](https://nyaminyamirecords.bandcamp.com/album/music-from-africa-vol-2-shangaan-traditional-sotho-chant) is filled with South African music from the 1980s, mostly disco, except for these first two tracks: _Crestina_ and _Alexandra_’s triadic pentatonic harmonies and vocal percussion combines moves you from side to side.
 
-Kiki Gyan’s [_Disco Dancer_](https://www.youtube.com/watch?v=uf5UCFw-HzM) from the Soundway Records compilation _24 Hours in A Disco 1978 – 82_ (2018) is a body-shaker that sounds like the 70s.
+Kiki Gyan’s [_Disco Dancer_](https://youtu.be/uf5UCFw-HzM) from the Soundway Records compilation _24 Hours in A Disco 1978 – 82_ (2018) is a body-shaker that sounds like the 70s.
 
-Mulatu Astatke’s [_Mulatu_](https://www.youtube.com/watch?v=EHQLwa35NII) from _Black Jesus Experience_ (2020) is Ethiopian jazz with quartal harmonies and a screechy guitar solo.
+Mulatu Astatke’s [_Mulatu_](https://youtu.be/EHQLwa35NII) from _Black Jesus Experience_ (2020) is Ethiopian jazz with quartal harmonies and a screechy guitar solo.
 
 ---
 

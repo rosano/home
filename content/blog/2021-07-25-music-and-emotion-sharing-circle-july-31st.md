@@ -30,18 +30,18 @@ We did a few rounds of spontaneously selecting music to share based on where the
 
 [![Playlist](https://static.rosano.ca/joybox/_JBXPlaylistButton.svg)](https://go.rosano.ca/music-salon-1)
 
-1. Vance Joy: [_Riptide_](https://www.youtube.com/watch?v=uJ%5F1HMAGb4k) (via Omar)
-2. Lingua Ignota: [_PENNSYLVANIA FURNACE_](https://www.youtube.com/watch?v=7YRMV7ffPpY) (via Zsolt)
+1. Vance Joy: [_Riptide_](https://youtu.be/uJ%5F1HMAGb4k) (via Omar)
+2. Lingua Ignota: [_PENNSYLVANIA FURNACE_](https://youtu.be/7YRMV7ffPpY) (via Zsolt)
 3. The Turtles: [_Happy Together_](https://youtu.be/mRCe5L1imxg) (via Jeeva)
-4. Perpetuum Jazzile: [_Africa_](https://www.youtube.com/watch?v=yjbpwlqp5Qw) (via Tanya)
-5. Gordon Lightfoot: [_The Wreck of the Edmund Fitzgerald_](https://www.youtube.com/watch?v=PH0K6ojmGZA) (via Omar)
-6. The Corrs, Mick Fleetwood: [_Haste to the Wedding_](https://www.youtube.com/watch?v=mV1amhE2xvA) (via Tanya)
-7. Joyce Moreno: [_Monsieur Binot_](https://www.youtube.com/watch?v=YCfdnbxUIsk) (via Rosano)
-8. Greg Puciato: [_Absence as a Presence_](https://www.youtube.com/watch?v=RbgXhX4x3vw) (via Zsolt)
-9. Lord Huron: [_Fool For Love_](https://www.youtube.com/watch?v=cvoJ7qUh3y8) (via Omar)
+4. Perpetuum Jazzile: [_Africa_](https://youtu.be/yjbpwlqp5Qw) (via Tanya)
+5. Gordon Lightfoot: [_The Wreck of the Edmund Fitzgerald_](https://youtu.be/PH0K6ojmGZA) (via Omar)
+6. The Corrs, Mick Fleetwood: [_Haste to the Wedding_](https://youtu.be/mV1amhE2xvA) (via Tanya)
+7. Joyce Moreno: [_Monsieur Binot_](https://youtu.be/YCfdnbxUIsk) (via Rosano)
+8. Greg Puciato: [_Absence as a Presence_](https://youtu.be/RbgXhX4x3vw) (via Zsolt)
+9. Lord Huron: [_Fool For Love_](https://youtu.be/cvoJ7qUh3y8) (via Omar)
 10. Lil Jon, LMFAO: [_Drink_](https://youtu.be/cVxqiP0N1B4) (via Jeeva)
-11. J Anoop Seelin: [_Marete Hodenu_](https://www.youtube.com/watch?v=buKOl%5FcqgIM) (via Tanya)
-12. Jacob Collier: [_Moon River_](https://www.youtube.com/watch?v=VPLCk-FTVvw) a cappella (via Rosano)
+11. J Anoop Seelin: [_Marete Hodenu_](https://youtu.be/buKOl%5FcqgIM) (via Tanya)
+12. Jacob Collier: [_Moon River_](https://youtu.be/VPLCk-FTVvw) a cappella (via Rosano)
 
 ---
 

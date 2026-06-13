@@ -36,7 +36,7 @@ Some questions we might explore in this salon:
 
 [Screens doubled as babysitters during lockdown. What now? (The Guardian)](https://www.theguardian.com/commentisfree/2021/oct/03/screens-babysitters-lockdown-children-technology-)
 
-[Appocalypse: Can you imagine a world without apps? (WWDC 2017 Snippet on Youtube)](https://www.youtube.com/watch?v=-co1JY4cjTs&ab%5Fchannel=FuriousStallion)
+[Appocalypse: Can you imagine a world without apps? (WWDC 2017 Snippet on Youtube)](https://youtu.be/-co1JY4cjTs)
 
 [Are neighborhood watch apps making us safer? (Quartz)](https://qz.com/1719954/mobile-phone-apps-like-citizen-aim-to-curb-neighborhood-crime/)
 

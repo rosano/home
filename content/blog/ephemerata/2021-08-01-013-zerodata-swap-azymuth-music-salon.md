@@ -12,7 +12,7 @@ I’m doing this to stimulate discussion around what I find interesting, and als
 
 # LANGUAGE
 
-[The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) is a beautiful Tumblr documenting made-up words describing difficult feelings. My favourite [“Pâro: The Feeling That Everything You Do Is Somehow Wrong”](https://www.youtube.com/watch?v=w7l2hUp0CkQ). (via [Tani](https://twitter.com/inattani)):
+[The Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com) is a beautiful Tumblr documenting made-up words describing difficult feelings. My favourite [“Pâro: The Feeling That Everything You Do Is Somehow Wrong”](https://youtu.be/w7l2hUp0CkQ). (via [Tani](https://twitter.com/inattani)):
 
 > **agnosthesia**  
 > _n_. the state of not knowing how you really feel about something, which forces you to sift through clues hidden in your behavior, as if you were some other person—noticing a twist of acid in your voice, an obscene amount of effort put into something trifling, or an inexplicable weight on your shoulders that makes it difficult to get out of bed.  
@@ -27,7 +27,7 @@ I’m doing this to stimulate discussion around what I find interesting, and als
 
 # HUMANITY
 
-I am pleased to see the Birds Aren’t Real movement gaining momentum—there is a documentary in production featuring their [Springfield rally](https://www.youtube.com/watch?v=OnVlsunLBxc&t=16s).
+I am pleased to see the Birds Aren’t Real movement gaining momentum—there is a documentary in production featuring their [Springfield rally](https://youtu.be/OnVlsunLBxc?t=16s).
 
 ---
 
@@ -55,7 +55,7 @@ Our first [Zero Data Swap](https://chat.0data.app/t/12) was a wonderful exchange
 
 [Yesterday’s salon](https://cafe.rosano.ca/t/114) was fun as we listened to a range of different styles; a great dose of healthy serendipity to my music intake. Two songs stuck with me.
 
-Lingua Ignota’s [_PENNSYLVANIA FURNACE_](https://www.youtube.com/watch?v=7YRMV7ffPpY) from _SINNER GET READY_ (2021) is filled with dark piano textures, and a strong, pure vocal tone that manages to create this deep and expansive intensity with just a few parts. Reminds me of how powerful the acoustic piano can be. You can hear the pedals of the piano triggering overtones… (via [Zsolt](https://twitter.com/zstorok))
+Lingua Ignota’s [_PENNSYLVANIA FURNACE_](https://youtu.be/7YRMV7ffPpY) from _SINNER GET READY_ (2021) is filled with dark piano textures, and a strong, pure vocal tone that manages to create this deep and expansive intensity with just a few parts. Reminds me of how powerful the acoustic piano can be. You can hear the pedals of the piano triggering overtones… (via [Zsolt](https://twitter.com/zstorok))
 
 Lil Jon and LMFAO’s [_Drink_](https://youtu.be/cVxqiP0N1B4) from _The World’s End_ soundtrack (2013) is a body-shaker, head-banger, wall-breaker—100% energy using cues from techno song forms. I have some nostalgia for Lil Jon’s general screaming and expletives. Moving! (via [Jeeva](https://twitter.com/jeevajay))
 
@@ -63,9 +63,9 @@ Lil Jon and LMFAO’s [_Drink_](https://youtu.be/cVxqiP0N1B4) from _The World’
 
 ## Azymuth
 
-[_Light As A Feather_ (2012)](https://www.youtube.com/watch?v=Hl1X0iD82a4) is a complex yet danceable mix of jazz, fusion, and disco. Makes me feel like digging into Azymuth’s entire collection. _Partido Alto_ has a funky offbeat rhythm that’s actually in 4; _Avenida Das Mangueiras_ stomps along—driving pulse with funk sixteenth note solos; the second section of _Light As A Feather_ mixes jazz and bossa nova brazil with an uber-tight drum foundation; _Fly Over The Horizon_ reminds me of Weather Report; _Jazz Carnival_ goes full on disco; _Young Embrace_ is a bouncy, swaying electronic biological thing, obviously from Brazil.
+[_Light As A Feather_ (2012)](https://youtu.be/Hl1X0iD82a4) is a complex yet danceable mix of jazz, fusion, and disco. Makes me feel like digging into Azymuth’s entire collection. _Partido Alto_ has a funky offbeat rhythm that’s actually in 4; _Avenida Das Mangueiras_ stomps along—driving pulse with funk sixteenth note solos; the second section of _Light As A Feather_ mixes jazz and bossa nova brazil with an uber-tight drum foundation; _Fly Over The Horizon_ reminds me of Weather Report; _Jazz Carnival_ goes full on disco; _Young Embrace_ is a bouncy, swaying electronic biological thing, obviously from Brazil.
 
-The drummer from their band joined with Madlib to form “Jackson Conti” and release [_Sujinho_ (2008)](https://www.youtube.com/watch?v=nIpSLfKeKh8): jazz/hip-hop instrumentals mixed with pandeiro and all sorts of Brazilian instruments and rhythms, Coltrane-era sax solos, synth riffs, flute melodies—I’ve never heard anything like this.
+The drummer from their band joined with Madlib to form “Jackson Conti” and release [_Sujinho_ (2008)](https://youtu.be/nIpSLfKeKh8): jazz/hip-hop instrumentals mixed with pandeiro and all sorts of Brazilian instruments and rhythms, Coltrane-era sax solos, synth riffs, flute melodies—I’ve never heard anything like this.
 
 ---
 
