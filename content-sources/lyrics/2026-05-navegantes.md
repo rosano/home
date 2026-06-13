@@ -40,6 +40,7 @@ quanto mais eu caminhar
 camará
 
 # eu jogo capoeira no alto da sereia
+theme: vadiar
 
 *eu jogo capoeira no alto da sereia*
 
@@ -65,6 +66,7 @@ camará
   no alto da sereia
 
 # eu vou ver, eu vou pra la
+theme: vadiar
 
 *eu vou ver, eu vou pra la
 eu vou ver os angoleiros vadiar*
