@@ -12,7 +12,7 @@ seconds: 60
 title: moulid, Al Sayeda Zainab
 mastodon_id: "116770127393350886"
 date: 2026-06-18T08:26:12.325Z
-slug: moulid-al-sayeda-zainab
+slug: mqj8240r
 summary: music and bodies in trance
 youtube_id: EGRgezepAoE
 facebook_id: "1164076442570750"
