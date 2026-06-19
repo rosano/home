@@ -1,4 +1,12 @@
 ---
+instagram_id: DZwpvQPCDHx
+facebook_id: pfbid02uWZh2GgB6QuWgtNP5p6yMBLDB3hqN9DptFHBGZCrL1YuZUdtrMCnc9QDCAvFzKo1l
+threads_id: DZwplC4AAJv
+twitter_id: "2067881342470177016"
+mastodon_id: "116775749238576164"
+bluesky_id: 3momvapeva72h
+nostr_id: note1k6tq8ljqe9w86suvawdrccacpks44687tam5j85yqwghednxpq8sfjm0f8
+linkedin_id: ugcPost:7473647184610103297
 slug: the-fivefold-path-to-falling-asleep
 title: the fivefold path to falling asleep
 summary: less metadata, more feeling
