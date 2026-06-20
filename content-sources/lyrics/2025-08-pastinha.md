@@ -34,7 +34,7 @@ iê Rio de Janeiro
 iê Morro de São Paulo
 iê Farol da Bahia
 
-https://capoeiraosorno.blogspot.com/2011/04/letras-mestre-pastinha-eternamente.html?m=1
+source: https://capoeiraosorno.blogspot.com/2011/04/letras-mestre-pastinha-eternamente.html?m=1
 
 # dona Alice não me pegue não
 theme: mulher
@@ -63,7 +63,7 @@ eu jogo capoeira
 na Bahia e em Maceió
 
 # valha-me Deus, senhor São Bento
-theme: animal
+theme: cobra,saint
 
 valha-me Deus, senhor São Bento
 vou cantar meu barravento
@@ -132,15 +132,20 @@ dona Maria que vende aí?
 Coco e pipoca que é do Brasil
 
 # Lapinha
+theme: bahia
 
 quando eu morrer
 me enterrem na Lapinha
 calça, culote e paletó almofadinha
+
 adeus Bahia, zum zum zum cordão de ouro
 eu vou partir porque mataram meu Besouro
 
-ê zum zum zum zum !
-ê Besouro !
+ê zum zum zum zum
+*ê Besouro*
+
+ê zum zum zum zum
+*ê Besouro*
 
 # eu vou ler o B-A-Bá
 theme: ladainha
@@ -174,7 +179,7 @@ iê sabe jogar
 iê a capoeira
 
 # ai ai Aidê
-theme: mulher
+theme: mulher,vadiar
 
 ai ai Aidê
 dona Maria como vai vosmecê
@@ -187,27 +192,30 @@ numa cova dois defuntos
 # xô xô meu canário
 theme: animal
 
-xô xô meu canário
-meu canário é cantador
-xô xô meu canário
-foi embora e me deixou
-xô xô meu canário
-meu canário é da Alemanha
-xô xô meu canário
-nego velho também apanha
-xô xô meu canário
-Alemão que me mandou
+*xô xô meu canário*
+1. meu canário é cantador
+2. foi embora e me deixou
+3. meu canário é da Alemanha
+4. nego velho também apanha
+5. Alemão que me mandou
 
 # Luanda ê meu boi
+theme: bahia,angola
 
 Luanda ê meu boi
 Luanda ê, pará
+
 Marina samba de pé
 Tereza samba deitada
+
 lá no cais da Bahia
 não tem le le nem la la
+
 o la e la e la
-o le le
+*o le le*
+
+o la e la e la
+*o le le*
 
 # vou me embora para São Paulo
 theme: ladainha
@@ -241,6 +249,7 @@ iê vamonos embora
 iê pelo mundo afora
 
 # a manteiga derramou
+theme: captivity
 
 vai dizer a meu senhor
 que a manteiga derramou
@@ -248,11 +257,13 @@ a manteiga não é minha
 a manteiga é de ioiô
 
 # a canoa virou marinheiro
+theme: sea
 
 a canoa virou marinheiro
 no fundo do mar tem dinheiro
 
 # adeus adeus
+theme: fechar
 
 adeus adeus
 boa viagem
@@ -348,7 +359,7 @@ gunga é meu, foi meu pai que me deu
 Adão, Adão, cadê Salomé Adão?
 Salomé foi passear
 Adão, Adão, cadê Salomé Adão?
-foi para a ilha de Maré
+foi para a Ilha de Maré
 
 # tô dormindo, tô sonhando
 
