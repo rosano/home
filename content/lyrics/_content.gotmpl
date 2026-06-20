@@ -34,7 +34,7 @@
 
     {{ if (strings.Contains (index $lines 0) "theme:") }}
       {{ $params = merge $params (dict
-        "lyrics_theme" (split (strings.TrimSpace (replace (index $lines 0) "theme:" "")) ",")
+        "lyrics_theme" (apply (split (replace (index $lines 0) "theme:" "") ",") "strings.TrimSpace" ".")
       ) }}
       {{ $content = strings.TrimSpace (delimit (after 1 $lines) "\n") }}
     {{ end }}
