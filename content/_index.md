@@ -28,11 +28,29 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 <card-list>
 
 {{< card
+	title="thick skin, open heart"
+	link=/blog/thick-skin-open-heart/
+>}}
+
+> If it was guaranteed to feel good, I wouldn't be open to whatever happens.
+
+{{< /card >}}
+
+{{< card
+	title="visual family cosmos"
+	link=/blog/visual-family-cosmos/
+>}}
+
+> one surname is not "where you're from".
+
+{{< /card >}}
+
+{{< card
 	title="introducing Occasion"
 	link=/blog/introducing-occasion/
 >}}
 
-> Shifting from "I should take less space" to "I'd like to connect regularly with people who want more". 
+> Shifting from "I should take less space" to "I'd like to connect regularly with people who want more".
 
 {{< /card >}}
 
@@ -46,8 +64,8 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 {{< /card >}}
 
 {{< card
-	title="Secular churches for continuity"
-	link=https://utopia.rosano.ca/secular-churches-for-continuity/
+	title="secular churches for continuity"
+	link=/blog/secular-churches-for-continuity/
 >}}
 
 > If modern life is 'fragmented', what would it look like to have a 'canonical place' to create continuity from shared experiences?
@@ -56,7 +74,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 
 {{< card
 	title="bad things in the world"
-	link=https://utopia.rosano.ca/when-bad-things-happen-in-the-world/
+	link=/blog/when-bad-things-happen-in-the-world/
 >}}
 
 > My projects won't save a life or end that bad problem over there, but without hesitation I know my actions to be completely holistic.
@@ -245,6 +263,18 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 {{< /card >}}
 
 </card-list>
+
+<card-list>
+
+{{< card
+	image=https://bind.0data.app/identity.svg
+	title="Bind"
+	body="Git-backed web apps."
+	link=https://bind.0data.app
+/>}}
+
+</card-list>
+<img style="width: 60%;" alt="Git sync demo" src="https://bind.0data.app/demo.gif" />
 
 # iOS apps
 
