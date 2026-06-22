@@ -96,7 +96,7 @@ Capoeira que é bom ninguém instiga
 De Aruanda
 Se instigar vai provar o veneno dela
 
-(Camara que me veio essa cantiga?)
+(Camará que me veio essa cantiga?)
 
 https://www.letras.mus.br/paulo-cesar-pinheiro/toque-de-benguela/#album:capoeira-de-besouro-2010
 
