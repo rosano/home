@@ -4,6 +4,7 @@ twitter_id: 2033842984798617930
 mastodon_id: 116243885573819577
 bluesky_id: 3mhaoz3rqub2v
 nostr_id: note1f5f6uvf2mjva927hyv62f93xgyv7lkv6ucxgt97h935cexhkagvq8tzmy3
+facebook_id: 10237509083380534
 linkedin_id: activity:7439609273778614273
 categories: ["thought"]
 ---
