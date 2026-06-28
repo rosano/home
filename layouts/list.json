@@ -4,6 +4,7 @@
 	{{- $output = $output | append (dict
 		"slug" .Slug
 		"title" .Title
+		"date" .Date
 		"summary" .Params.Summary
 		"permalink" .Permalink
 		"youtube_id" .Params.youtube_id
