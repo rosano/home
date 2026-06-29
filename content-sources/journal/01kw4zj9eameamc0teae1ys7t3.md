@@ -10,3 +10,5 @@ categories: ["talk"]
 > [When we have been morphed by financialization into players within a cruel game of artificial scarcity, the feeling of being cheated out of the world we deserve becomes fuel for fascists to exploit in order to take control.]
 
 > [Capitalism produced (among others) a crisis of social reproduction that prevents a large portion of population from having enough material stability to start families. Fascists reframe this decline in population growth as caused by LGBTQ people attacking traditional family values.]
+
+> [Fascism today breaks with the anti-capitalism of Hitler and Mussolini to use markets as the arena to demonstrate strength and capacity to rule. Cronyism and bribes are common because they signal acceptance by the market.]
