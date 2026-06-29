@@ -5,6 +5,7 @@
 		"slug" .Slug
 		"title" .Title
 		"date" .Date
+		"duration" .Params.duration
 		"summary" .Params.Summary
 		"permalink" .Permalink
 		"youtube_id" .Params.youtube_id
