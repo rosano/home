@@ -1,14 +1,11 @@
 ---
+around: 2022-11-05T08:37:11Z
 date: 2021-07-15T12:00:03Z
 duration: 3:22
-author: Joyce Moreno
-hasThumb: true
-isPublished: true
-link: https://utopia.rosano.ca/tiny-concert-for-a-friend
-youtube_id: W6RP8QcjNjU
+series: Tiny Concert for a Friend
+lyrics: tiny-concert-2021/joyce-monsieur-binot
 title: Monsieur Binot
 slug: la3o9p08
-lyrics: tiny-concert-2021/joyce-monsieur-binot
-series: Tiny Concert for a Friend
+youtube_id: W6RP8QcjNjU
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend

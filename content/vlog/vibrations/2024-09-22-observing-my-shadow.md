@@ -1,12 +1,12 @@
 ---
-id: m1duj76w
 duration: 1:16
 seconds: 76
-title: observing my shadow
-date: 2024-09-22T17:22:17.000Z
-slug: m1duj76w
-summary: movement inspired by its own outline
-youtube_id: 1jMk2bwRF0s
 instagram_id: DAOj0D9t9Sj
+date: 2024-09-22T17:22:17Z
+title: observing my shadow
+summary: movement inspired by its own outline
+slug: m1duj76w
+youtube_id: 1jMk2bwRF0s
 facebook_id: "1815509789254317"
 ---
+

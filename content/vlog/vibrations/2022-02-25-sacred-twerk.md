@@ -1,14 +1,10 @@
 ---
-date: 2022-02-25T12:00:00.000Z
+date: 2022-02-25T12:00:00Z
 duration: 1:03
-headline: sacred twerk
-hasThumb: true
-isPublished: true
-link: https://strolling.rosano.ca/0003
-youtube_id: lZzmGr0hpuk
-title: "Strolling Sketches 0003: sacred twerk"
-slug: lc1z0gdc
 series: Strolling Sketches
+title: sacred twerk
+slug: lc1z0gdc
+youtube_id: lZzmGr0hpuk
 ---
 https://strolling.rosano.ca/0003
 

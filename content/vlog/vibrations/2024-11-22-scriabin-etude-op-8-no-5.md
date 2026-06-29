@@ -1,15 +1,11 @@
 ---
-date: 2024-11-22T10:03:02Z
-around: 2024-09-27T12:00:00.000Z
-duration: 2:51
-isPublished: true
-hasThumb: true
-headline: scriabin etude op. 8 no. 5
-youtube_id: MG9gaCjSK6k
-title: "\"etude op. 8 no. 5\" by alexander scriabin"
-slug: m3sj7h9a
+tiktok_id: "7440049345317145912"
 instagram_id: DCq5yo9CoY8
-tiktok_id: 7440049345317145912
+date: 2024-11-22T10:03:02Z
+duration: 2:51
+title: scriabin etude op. 8 no. 5
+slug: m3sj7h9a
+youtube_id: MG9gaCjSK6k
 ---
 Since 2023 I've been recording piano music from my past. This is one I learned in my second year of university.
 

@@ -1,14 +1,10 @@
 ---
-date: 2022-02-08T12:00:00.000Z
+date: 2022-02-08T12:00:00Z
 duration: 1:23
-headline: everything is spiritual
-hasThumb: true
-isPublished: true
-link: https://strolling.rosano.ca/0002
-youtube_id: mhWBvufyvFQ
-title: "Strolling Sketches 0002: everything is spiritual"
-slug: lc1yrd7k
 series: Strolling Sketches
+title: everything is spiritual
+slug: lc1yrd7k
+youtube_id: mhWBvufyvFQ
 ---
 https://strolling.rosano.ca/0002
 

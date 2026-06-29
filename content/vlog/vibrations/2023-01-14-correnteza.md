@@ -1,20 +1,13 @@
 ---
+lyrics: seeds/tom-jobim-correnteza
+tiktok_id: "7433733704918306053"
+instagram_id: DB_FHqDCKvQ
 date: 2023-01-14T12:15:35Z
 duration: 2:59
-isPublished: true
-hasThumb: true
-youtube_id: DgB4R4aT0A8
-archive:
- youtube_id: 59jqm41Og50
-author: tom jobim
-link: https://rosano.ca/seeds
-title: correnteza
-slug: lcvww6s8
-summary: "\"I fell asleep smiling, dreaming of our love\""
-lyrics: seeds/tom-jobim-correnteza
 series: seeds
-instagram_id: DB_FHqDCKvQ
-tiktok_id: 7433733704918306053
+title: correnteza
+summary: '"I fell asleep smiling, dreaming of our love"'
+slug: lcvww6s8
+youtube_id: DgB4R4aT0A8
 ---
-
 https://rosano.ca/seeds

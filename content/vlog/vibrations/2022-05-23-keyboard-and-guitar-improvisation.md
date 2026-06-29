@@ -1,11 +1,9 @@
 ---
 date: 2022-05-23T16:35:00Z
 duration: 11:56
-headline: keyboard and guitar improvisation
-hasThumb: true
-isPublished: true
-youtube_id: ipQIPfJ4K60
-title: keyboard and guitar improvisation (with Travis Broussard)
+title: keyboard and guitar improvisation
 slug: l3iy8rhc
+youtube_id: ipQIPfJ4K60
+with: Travis Broussard
 ---
 

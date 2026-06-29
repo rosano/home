@@ -1,17 +1,4 @@
 ---
-id: mp81970e
-blurb: "sharing this homework assignment not so much for the content, but the
-  structure that suggests it's possible and even encouraged to do this\r
-
-  \r
-
-  in what other contexts might we celebrate the contributions of women, not only
-  on a specific day of the year but as if it was a totally normal part of
-  day-to-day activities?\r
-
-  \r
-
-  artwork by https://www.instagram.com/colorsofwork/ used with permission"
 lyrics: berlin-2026/doutora-vandana-shiva
 instagram_id: DYZFwWii__V
 tiktok_id: "7640396325250501909"
@@ -23,10 +10,15 @@ seconds: 158
 mastodon_id: "116583163615665760"
 twitter_id: "2055558350163546389"
 linkedin_id: ugcPost:7461325148827324417
-title: doutora Vandana Shiva
 date: 2026-05-16T08:08:06.277Z
-slug: mp81970e
+title: doutora Vandana Shiva
 summary: '"people without school who know the language of nature"'
+slug: mp81970e
 youtube_id: EUCvM1N5gjU
 facebook_id: "957043270506630"
 ---
+sharing this homework assignment not so much for the content, but the structure that suggests it's possible and even encouraged to do this
+
+in what other contexts might we celebrate the contributions of women, not only on a specific day of the year but as if it was a totally normal part of day-to-day activities?
+
+artwork by https://www.instagram.com/colorsofwork/ used with permission

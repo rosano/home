@@ -1,14 +1,10 @@
 ---
-date: 2022-01-24T12:00:00.000Z
+date: 2022-01-24T12:00:00Z
 duration: 1:05
-headline: brave place
-hasThumb: true
-isPublished: true
-link: https://strolling.rosano.ca/0001
-youtube_id: jk5rWRprTAI
-title: "Strolling Sketches 0001: brave place"
-slug: lc1ykbco
 series: Strolling Sketches
+title: brave place
+slug: lc1ykbco
+youtube_id: jk5rWRprTAI
 ---
 https://strolling.rosano.ca/0001
 

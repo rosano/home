@@ -1,14 +1,11 @@
 ---
-date: 2022-02-24T12:00:00.000Z
+around: 2020-08-29T20:25:00Z
+date: 2022-02-24T12:00:00Z
 duration: 0:48
-headline: original instrument
-hasThumb: true
-isPublished: true
-link: https://strolling.rosano.ca/0003
-youtube_id: FFt5eAOaBPQ
-title: "Strolling Sketches 0003: original instrument"
-slug: lc1ywnso
 series: Strolling Sketches
+title: original instrument
+slug: lc1ywnso
+youtube_id: FFt5eAOaBPQ
 ---
 https://strolling.rosano.ca/0003
 

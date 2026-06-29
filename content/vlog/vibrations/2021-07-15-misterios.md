@@ -1,15 +1,11 @@
 ---
+around: 2022-11-05T08:34:10Z
 date: 2021-07-15T12:00:02Z
 duration: 4:45
-headline: Misterios
-author: Milton Nascimento
-hasThumb: true
-isPublished: true
-link: https://utopia.rosano.ca/tiny-concert-for-a-friend
-youtube_id: 7DDjSDCJHsU
+series: Tiny Concert for a Friend
+lyrics: tiny-concert-2021/joyce-misterios
 title: Mistérios
 slug: la3o5tcg
-lyrics: tiny-concert-2021/joyce-misterios
-series: Tiny Concert for a Friend
+youtube_id: 7DDjSDCJHsU
 ---
 from Tiny concert for a friend https://utopia.rosano.ca/tiny-concert-for-a-friend
