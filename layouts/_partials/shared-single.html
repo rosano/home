@@ -57,6 +57,14 @@
 
 {{- $Content | safeHTML -}}
 
+<!-- CHAPTERS -->
+{{- if .Params.chapters -}}
+	{{ with resources.Get (path.Join .Page.File.Dir .Slug "chapters.txt") }}
+		<h3>Chapters</h3>
+		<p>{{ .Content | markdownify }}</p>
+	{{ end }}
+{{- end -}}
+
 <!-- RELATED -->
 {{- if .Params.related -}}
 	<hr>
