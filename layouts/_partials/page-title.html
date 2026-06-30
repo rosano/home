@@ -22,6 +22,10 @@
 	{{- $stack = $stack | append (printf `entry for %s` (.Date.Format "Monday, January 2, 2006")) -}}
 {{- else -}}
 	{{- $stack = $stack | append .Title -}}
+
+	{{- if .Params.with -}}
+		{{- $stack = $stack | append (delimit (slice "(with " .Params.with ")") "") -}}
+	{{- end -}}
 {{- end -}}
 
 {{- delimit $stack " " -}}
