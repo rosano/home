@@ -29,6 +29,9 @@
 	{{- if $isRSS -}}<hr>{{- end }}
 {{- end -}}
 
+<!-- WITH -->
+{{- range (.GetTerms "with") -}}<p><small>With <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small></p>{{- end -}}
+
 <!-- CONTENT -->
 {{ if $isList -}}<div class="content">{{- else -}}<article class="content">{{- end }}
 {{- $Content := .Content -}}

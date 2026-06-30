@@ -4,9 +4,6 @@
 <!-- SERIES -->
 {{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small>{{- end -}}
 
-<!-- WITH -->
-{{- range (.GetTerms "with") -}}<small>With <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small>{{- end -}}
-
 <!-- TAGS -->
 {{- with .GetTerms "tags" -}}
 <p>
