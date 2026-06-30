@@ -29,6 +29,7 @@ taxonomies:
   lyrics_collection: lyrics_collection
   lyrics_topic: lyrics_topic
   lyrics_theme: lyrics_theme
+  with: with
 
 permalinks:
   page:
@@ -50,7 +51,7 @@ permalinks:
     timeline_day: /log/:2006/:01/:02/
     lyrics_collection: /lyrics/:slug/
     lyrics_topic: /lyrics/topic/:slug/
-    lyrics_theme: /lyrics/theme/:slug/
+    with: /log/with/:slug/
 
 services:
   rss:

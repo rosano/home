@@ -7,7 +7,7 @@
 	{{- end -}}
 	
 	{{- $stack = $stack | append (cond (and (ne (.Scratch.Get "kIsHeadTitle") "true") (eq .Pages.Len 1)) "entry" "entries") -}}
-	{{- $stack = $stack | append (cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" "for"))) -}}
+	{{- $stack = $stack | append (cond (eq .Data.Plural "categories") "under" (cond (eq .Data.Plural "tags") "tagged" (cond (in (slice "place" "country") .Data.Plural) "from" (cond (eq .Data.Plural "with") "with" "for")))) -}}
 {{- end -}}
 
 {{- if and (eq .Kind "term") (eq .Data.Singular "timeline_day") -}}
@@ -23,8 +23,21 @@
 {{- else -}}
 	{{- $stack = $stack | append .Title -}}
 
-	{{- if .Params.with -}}
-		{{- $stack = $stack | append (delimit (slice "(with " .Params.with ")") "") -}}
+	{{- if (and (not .Params.authorFocus) .Params.with) -}}
+		{{- $author := "" -}}
+		{{- with site.Params.author -}}
+		  {{- if reflect.IsMap . -}}
+		    {{- with .name -}}
+		      {{- $author = . -}}
+		    {{- end -}}
+		  {{- else -}}
+		    {{- $author  = . -}}
+		  {{- end }}
+		{{- end -}}
+
+		{{- if ne .Params.with $author -}}
+		  {{- $stack = $stack | append (delimit (slice "(with " .Params.with ")") "") -}}
+		{{- end }}
 	{{- end -}}
 {{- end -}}
 
