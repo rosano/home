@@ -8,6 +8,16 @@
 	{{- end -}}
 {{- end -}}
 
+{{- $dataLink := "" -}}
+{{- $isRSS := .Scratch.Get "kScopeRSS" -}}
+{{- if (and (.Scratch.Get "kIsWith") (not $isRSS)) -}}
+	{{- if .Params.youtube_id }}{{ $dataLink = print "https://youtu.be/" .Params.youtube_id }}{{ end -}}
+
+	{{- with $dataLink -}}
+		<div class="embed" data-link="{{ . }}"></div>
+	{{- end -}}
+{{- end }}
+
 <p><small>
 	{{- $hideTime := eq (substr ((.Date | time.In "UTC").Format "2006-01-02T15:04:05.000Z") -13) "12:00:00.000Z" -}}
 
