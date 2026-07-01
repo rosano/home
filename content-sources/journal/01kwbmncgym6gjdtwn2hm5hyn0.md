@@ -10,4 +10,4 @@ linkedin_id: share:7477631633563664384
 via: Heddi
 categories: ["thought"]
 ---
-"Surprising someone changes their world."
+> [Surprising someone changes their world.]
