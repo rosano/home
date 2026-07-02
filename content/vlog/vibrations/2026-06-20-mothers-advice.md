@@ -11,13 +11,13 @@ seconds: 64
 mastodon_id: "116781107700232183"
 nostr_id: d1e4248a57349923cad786abec0a69fe9793f9a24339a1700f0c3b718cadc520
 date: 2026-06-20T07:03:41.7Z
-tags:
-  - in Portuguese
-  - capoeira
 title: mother's advice
 summary: '"Do good, without expecting gratitude, or looking at who."'
 slug: mqlzlh81
 youtube_id: I7Unwdzv5jk
 facebook_id: "26443247545348331"
+tags:
+  - in Portuguese
+  - capoeira
 ---
 

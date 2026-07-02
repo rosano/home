@@ -11,14 +11,14 @@ mastodon_id: "116583163615665760"
 twitter_id: "2055558350163546389"
 linkedin_id: ugcPost:7461325148827324417
 date: 2026-05-16T08:08:06.277Z
-tags:
-  - in Portuguese
-  - capoeira
 title: doutora Vandana Shiva
 summary: '"people without school who know the language of nature"'
 slug: mp81970e
 youtube_id: EUCvM1N5gjU
 facebook_id: "957043270506630"
+tags:
+  - in Portuguese
+  - capoeira
 ---
 sharing this homework assignment not so much for the content, but the structure that suggests it's possible and even encouraged to do this
 

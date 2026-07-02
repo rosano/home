@@ -1,13 +1,13 @@
 ---
-tags:
-  - in Portuguese
-  - capoeira
 instagram_id: CjoUzbFLG1Y
 date: 2022-10-12T21:31:34Z
 duration: 3:35
 title: capoeira de besouro
 slug: l965d434
 youtube_id: 8ow-i6RYq2M
+tags:
+  - in Portuguese
+  - capoeira
 ---
 music by paulo cesar pinheiro
 
