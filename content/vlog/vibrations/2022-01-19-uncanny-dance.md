@@ -1,7 +1,6 @@
 ---
 date: 2022-01-19T12:00:00Z
 duration: 1:04
-series: Strolling Sketches
 title: uncanny dance
 slug: lc1yn248
 youtube_id: 9vWOL-dsBfM

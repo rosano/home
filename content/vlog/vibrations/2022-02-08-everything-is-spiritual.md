@@ -1,7 +1,6 @@
 ---
 date: 2022-02-08T12:00:00Z
 duration: 1:23
-series: Strolling Sketches
 title: everything is spiritual
 slug: lc1yrd7k
 youtube_id: mhWBvufyvFQ

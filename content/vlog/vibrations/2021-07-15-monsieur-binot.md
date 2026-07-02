@@ -2,7 +2,6 @@
 around: 2022-11-05T08:37:11Z
 date: 2021-07-15T12:00:03Z
 duration: 3:22
-series: Tiny Concert for a Friend
 lyrics: tiny-concert-2021/joyce-monsieur-binot
 title: Monsieur Binot
 slug: la3o9p08

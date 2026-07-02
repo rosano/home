@@ -1,7 +1,6 @@
 ---
 date: 2022-02-07T12:00:00Z
 duration: 0:45
-series: Strolling Sketches
 title: thousand lanes
 slug: lc1yphb4
 youtube_id: gWh2C5gZ62o
