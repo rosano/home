@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>{{- partial "page-title.html" . -}}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+
+<script src="https://olsk.rosano.ca/OLSKTube/master/main.js"></script>
+<link rel="stylesheet" type="text/css" href="https://olsk.rosano.ca/OLSKDecor/master/ui-style.css">
+<link rel="stylesheet" type="text/css" href="https://olsk.rosano.ca/OLSKTube/master/ui-style.css">
+
+<style type="text/css">
+html, body, #tube {
+	display: block;
+	width: 100vw;
+	height: 100vh;
+	
+	margin: 0;
+	
+	background: black;
+}
+</style>
+
+{{ partial "opengraph.html" . }}
+
+</head>
+<body>
+
+<div id="tube"></div>
+
+<script type="text/javascript">
+OLSKTube.OLSKTubeLoad({
+	ParamParent: window.tube,
+	ParamPlaylist: 'PL6v1zwoKiosMCiOTjwHG63nwuSAP_clUI',
+	ParamAutoplay: false,
+});
+</script>
+
+</body>
+</html>
