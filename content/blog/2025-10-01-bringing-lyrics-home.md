@@ -12,6 +12,8 @@ nostr_id: note13f5fvvkwuza8eecwdl82nmcrzmyf6rfy4ummkjrs27yav5n8tqvq3jljkr
 instagram_id: DPQycUICO58
 tiktok_id: 7556178897222552833
 threads_id: DPQtyxwDdFz
+tags:
+ - capoeira
 ---
 High off the fumes from [[bringing Vibrations home]], I made a "room" for all the lyrics I've accumulated over the years from capoeira classes, deep listening albums, and learning languages, motivated because there were too many mixed into my notes and other stuff to find anything when I needed it.
 
