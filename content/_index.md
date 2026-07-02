@@ -85,7 +85,7 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 
 <card-list>
 
-<iframe class="strolling-tube" src="https://rosano.ca/tube"></iframe>
+<iframe src="/tube"></iframe>
 
 {{< rc-youtube 1NtRak8SQw8 >}}
 
