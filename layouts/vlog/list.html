@@ -9,6 +9,8 @@
 	</ul>
 {{ end }}
 
+{{ .Content }}
+
 <div>
 {{ range .RegularPagesRecursive.ByDate.Reverse.GroupByDate "2006" "desc" }}
 	<h3 class="sticky">{{ .Key }}</h3>
