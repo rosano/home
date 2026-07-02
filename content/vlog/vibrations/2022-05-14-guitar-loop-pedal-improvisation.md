@@ -6,6 +6,7 @@ duration: 4:22
 title: guitar loop pedal improvisation
 slug: l35me6g8
 youtube_id: YBa1piiWkBU
-with: Travis Broussard
+with:
+  - Travis Broussard
 ---
 https://strolling.rosano.ca/0043

@@ -8,7 +8,8 @@ title: jamming on Monsieur Binot
 slug: lac8mrw8
 youtube_id: 5KNB-V2T9lg
 facebook_id: "1236802083858123"
-with: Kaixi Yang
+with:
+  - Kaixi Yang
 ---
 music should be fun… https://kaixiyang.com
 
