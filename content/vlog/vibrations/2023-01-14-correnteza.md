@@ -10,5 +10,7 @@ title: correnteza
 summary: '"I fell asleep smiling, dreaming of our love"'
 slug: lcvww6s8
 youtube_id: DgB4R4aT0A8
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds

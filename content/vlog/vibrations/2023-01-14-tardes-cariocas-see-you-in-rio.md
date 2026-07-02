@@ -7,5 +7,7 @@ series:
 title: tardes cariocas / see you in rio
 slug: lcvwr020
 youtube_id: fZGwCPJYr70
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds

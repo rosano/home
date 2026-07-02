@@ -7,5 +7,7 @@ series:
 title: bayen habeit
 slug: lcvwpabs
 youtube_id: 97Al7uBx_E8
+tags:
+  - in Arabic
 ---
 https://rosano.ca/seeds

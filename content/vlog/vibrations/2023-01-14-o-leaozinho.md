@@ -9,5 +9,7 @@ series:
 title: o leãozinho
 slug: lcvvueg0
 youtube_id: mfeOLwrTrjs
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds

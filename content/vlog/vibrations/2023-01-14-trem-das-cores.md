@@ -12,5 +12,7 @@ summary: '"Those eyes, light like honey of a colour unequaled."'
 slug: lcvwxuyw
 youtube_id: h3b5Sxa47s0
 facebook_id: "390390164010804"
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds

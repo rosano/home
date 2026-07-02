@@ -8,5 +8,8 @@ summary: Sharing and enjoyment become a source of truth and foundation on which
   you do everything.
 slug: lo5zuiqa
 youtube_id: CzJ4Slp0PYE
+with:
+  - me
+authorFocus: true
 ---
 notes to myself that perhaps i wish i heard years prior

@@ -7,5 +7,7 @@ duration: 2:46
 title: Um Só Lugar
 slug: lmyypy5m
 youtube_id: cEgkAa3OFy4
+tags:
+  - in Portuguese
 ---
 

@@ -1,4 +1,7 @@
 ---
+tags:
+  - in Portuguese
+  - capoeira
 instagram_id: CjoUzbFLG1Y
 date: 2022-10-12T21:31:34Z
 duration: 3:35

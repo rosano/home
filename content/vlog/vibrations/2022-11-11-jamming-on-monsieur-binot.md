@@ -10,6 +10,8 @@ youtube_id: 5KNB-V2T9lg
 facebook_id: "1236802083858123"
 with:
   - Kaixi Yang
+tags:
+  - in Portuguese
 ---
 music should be fun… https://kaixiyang.com
 

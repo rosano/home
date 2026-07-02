@@ -7,5 +7,7 @@ series:
 title: cabecinha no ombro
 slug: lcvwu4pk
 youtube_id: _IUhK_CekmI
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds

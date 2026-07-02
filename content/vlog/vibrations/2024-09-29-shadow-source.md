@@ -6,6 +6,9 @@ tiktok_id: "7419941165203606789"
 instagram_id: DAfYSFBiPN0
 date: 2024-09-29T05:58:17Z
 duration: 1:31
+tags:
+  - in Portuguese
+  - capoeira
 title: shadow source
 slug: m1n63wm7
 youtube_id: ckW5a_99FR0

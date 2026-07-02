@@ -7,5 +7,7 @@ series:
 title: samba do amor
 slug: lcvwbpwg
 youtube_id: Z-mhfpVhcqg
+tags:
+  - in Portuguese
 ---
 https://rosano.ca/seeds
