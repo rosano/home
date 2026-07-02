@@ -30,7 +30,7 @@
 {{- end -}}
 
 <!-- WITH -->
-{{- range (.GetTerms "with") -}}<p><small>With <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small></p>{{- end -}}
+{{ if .Params.with }}<p><small>With {{ range $index, $element := (.GetTerms "with") }}{{ if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}.</small></p>{{ end }}
 
 <!-- CONTENT -->
 {{ if $isList -}}<div class="content">{{- else -}}<article class="content">{{- end }}
