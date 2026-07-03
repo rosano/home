@@ -36,7 +36,12 @@
 		{{- end -}}
 
 		{{- if ne .Params.with $author -}}
-		  {{- $stack = $stack | append (delimit (slice "(with " .Params.with ")") "") -}}
+			{{- $with := slice -}}
+			{{- range .GetTerms "with" -}}
+				{{- $with = $with | append .Title -}} 
+			{{- end }}
+
+		  {{- $stack = $stack | append (delimit (slice "(with " (delimit $with ", ") ")") "") -}}
 		{{- end }}
 	{{- end -}}
 {{- end -}}
