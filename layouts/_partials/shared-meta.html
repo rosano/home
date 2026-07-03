@@ -2,7 +2,12 @@
 {{- if .Params.recorded -}}<p data-pagefind-ignore><small>Recorded {{ (time.AsTime .Params.recorded).Format "Jan 2006" }}.</small></p>{{- end -}}
 
 <!-- SERIES -->
-{{- range (.GetTerms "series") -}}<small>Part of <a href="{{ .RelPermalink }}">{{ .Title }}</a>.</small>{{- end -}}
+{{- with .GetTerms "series" -}}
+<small>Part of: {{ range $index, $element := . -}}
+	{{- if $index }}, {{ end }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{- end }}.
+</small>
+{{- end }}
 
 <!-- TAGS -->
 {{- with .GetTerms "tags" -}}
