@@ -2,7 +2,6 @@
 slug: bringing-lyrics-home
 title: bringing lyrics home
 summary: From 'trapped in my notes' to 'public data' that anyone can use.
-tags: changelog
 series: Digital homestead
 date: 2025-10-01T08:22:02.109Z
 twitter_id: 1973314769957560762
@@ -13,6 +12,7 @@ instagram_id: DPQycUICO58
 tiktok_id: 7556178897222552833
 threads_id: DPQtyxwDdFz
 tags:
+ - changelog
  - capoeira
 ---
 High off the fumes from [[bringing Vibrations home]], I made a "room" for all the lyrics I've accumulated over the years from capoeira classes, deep listening albums, and learning languages, motivated because there were too many mixed into my notes and other stuff to find anything when I needed it.
