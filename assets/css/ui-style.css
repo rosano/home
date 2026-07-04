@@ -799,6 +799,31 @@ blog-list {
 	}
 }
 
+/* dl */
+
+dl {
+	padding: calc(var(--rh-pad) * 2);
+	border: var(--rh-stroke);
+	border-radius: var(--rh-corner);
+}
+
+dl :first-child {
+	margin-top: 0;
+}
+
+dl :last-child {
+	margin-bottom: 0;
+}
+
+dl dt {
+	font-weight: bold;
+}
+
+dl dd {
+	margin-left: 0;
+	margin-bottom: var(--rh-pad);
+}
+
 /* OLSKBanner */
 
 .OLSKBanner a {

@@ -19,7 +19,7 @@ wiki_id: 01gx3b6jfc9w49m62mz0t96g28
 
 # Recipe
 
-<dl class="OLSKDecorGlossary">
+<dl>
 <dt>Name</dt><dd>Flashcards from translations</dd>
 <dt>Callback</dt>
 <dd><code>const source = document.querySelector('textarea[aria-label="Source text"]').value.split('\n');
