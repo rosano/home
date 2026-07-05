@@ -4,7 +4,7 @@ layout: single
 aliases: pay
 ---
 
-Credit / Debit / Apple Pay:
+## Credit, Debit, Apple Pay
 
 [Stripe](https://rosano.ca/stripe)
 
@@ -12,9 +12,7 @@ Credit / Debit / Apple Pay:
 
 [Transferwise](https://rosano.ca/wise)
 
----
-
-Direct bank details:
+## Direct bank details
 
 <details>
 <summary>CAD</summary>

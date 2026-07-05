@@ -1,10 +1,10 @@
 ---
-title: Fund
+title: Patrons
 description: support my projects with a regular membership
 layout: single
 ---
 
-# support me with a membership
+## become a patron
 
 If you appreciate what I do and want to help keep the magic flowing, please consider directly supporting my efforts with a regular financial contribution.
 
@@ -23,9 +23,10 @@ I will credit you in my quarterly [Occasion](/occasion) updates.
 <a class="tier" href="https://occasion.rosano.ca/#/portal/signup/6a48cc78af60b10068bcebeb/monthly">
 	<h3><span class="title">not counting money <price>$100/mo</price></span><check aria-hidden="true"><span>●</span></check></h3>
 </a>
-<other>† Contribute yearly for <a href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/yearly">$50</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc0baf60b10068bcebe5/yearly">$100</a>, <a href="https://occasion.rosano.ca/#/portal/signup/630f1e95e66dbc000127cd5b/yearly">$250</a>, or with a <a href="/gift">one-time gift</a>.</other>
+<other>You can also contribute yearly for <a href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/yearly">$50</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc0baf60b10068bcebe5/yearly">$100</a>, <a href="https://occasion.rosano.ca/#/portal/signup/630f1e95e66dbc000127cd5b/yearly">$250</a>,<br> or with a <a href="/gift">one-time gift</a>.</other>
 <stripe>Secure payment processing by <a href="https://stripe.com">Stripe</a></stripe>
 </funding>
+<other><p><a href="https://occasion.rosano.ca/#/portal/account">Manage your subscription</a></p></other>
 <style>
 funding {
 	--accent: #81b7d6;
@@ -97,22 +98,24 @@ other, stripe {
 }
 </style>
 
-### what I do (and what you're funding)
+### what I do (and what you fund)
 
 {{< rc-youtube bMDPrHjPZRI >}}
 
 🎤 record, edit, and publish **dialogues** with people who normally don't get the spotlight
 
-👥 meet people, build social bridges, foster **connection** and relational approaches
+👥 meet people, build social **bridges**, foster **connection** and relational approaches
 
 🏆 advocate for **respectful technology**, data ownership, and human agency
 
-👨🏽‍💻 build **open-source** apps and help my community cross technological barriers
+👨🏽‍💻 create **open-source** apps and help my community cross technological barriers
 
-✍🏽 **document** my experiences and share publicly
+✍🏽 **write** to document my experiences and **share** publicly
 
-🎹 perform **music** and make it understandable
+🎹 make **music** framed with a pedagogical lense
 
-I'm committed to making as much as possible accessible for **freely** on the **open web**, without paywalls, ads, surveillance, or commercial platforms between us.
+I'm committed to making as much as possible accessible for **free** on the **open web**, without paywalls, ads, surveillance, or commercial platforms between us.
+
+Let's build something **together**.
 
 ## thank you 🙏🏽☀️🫶🏽
