@@ -9,6 +9,6 @@ categories: ["talk"]
 
 > [Curiosity is an antidote to the fatigue and paralysis caused by information overload.]
 
-> [Listen to the ones who want you to think,  ot the ones selling you a team to join.]
+> [Listen to the ones who want you to think, not the ones selling you a team to join.]
 
 > [Listen to those who don't need anything from you.]
