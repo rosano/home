@@ -33,6 +33,6 @@ I've reorganized [my homepage](https://rosano.ca) a bit.
 
 I had more grandiose ideas, but this will do for the moment. Feels good to improve so much without a big 'redesign'.
 
-The [last update in 2021](http://loc.hom:1313/blog/why-i-added-text-to-my-pure-icon-site-after-eight-years/) was quite dramatic for me, going from pure icons to text; slowly considering more the reader over 'aesthetic'.
+The [last update in 2021](/blog/why-i-added-text-to-my-pure-icon-site-after-eight-years/) was quite dramatic for me, going from pure icons to text; slowly considering more the reader over 'aesthetic'.
 
 This is part of some things I'm doing for the 20th anniversary of my domain. More to come this year.
