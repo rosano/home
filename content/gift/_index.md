@@ -2,9 +2,7 @@
 title: Send me a gift
 aliases: gifts
 ---
-This is a page where people who appreciate what I do can send me "gifts" by clicking on pictures.
-
-These are *not* subscriptions, just a one-time offering based on whatever feels right.
+One-time offerings based on whatever feels right. You can also [buy my music](https://rosano.bandcamp.com) or [send any amount](/payments).
 
 {{< gifts >}}
 

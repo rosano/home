@@ -9,7 +9,7 @@
   <ul class="grouping grouping-{{ $group }}">
     {{ range $items }}
       <li>
-        <a href="https://rosano.ca/tips" style="background-image: url('{{ print site.Params.mediaPrefix page.Path "/" (index (split (index . "price") "–") 0) }}.jpg');">
+        <a href="https://buy.stripe.com/00wfZ92tOdyjgOj0za8EM04?__prefilled_amount={{ index . "price" }}00" style="background-image: url('{{ print site.Params.mediaPrefix page.Path "/" (index (split (index . "price") "–") 0) }}.jpg');">
           <span class="price">
             <span><sup>$</sup>{{ index . "price" }}</span>
           </span>

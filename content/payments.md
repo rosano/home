@@ -15,7 +15,7 @@ aliases: pay
 ## Direct bank details
 
 <details>
-<summary>CAD</summary>
+<summary>Canadian Dollars</summary>
 <dl>
 <dt>e-Transfer with Autodeposit</dt><dd>etransfer at rosano.ca</dd>
 </dl>
@@ -30,7 +30,7 @@ aliases: pay
 </details>
 
 <details>
-<summary>EUR</summary>
+<summary>Euros</summary>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
@@ -40,7 +40,7 @@ aliases: pay
 </details>
 
 <details>
-<summary>USD</summary>
+<summary>US Dollars</summary>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>Account number</dt><dd>214399425923</dd>
@@ -52,14 +52,14 @@ aliases: pay
 </details>
 
 <details>
-<summary>INR</summary>
+<summary>Indian Rupees</summary>
 <dl>
 <dt>UPI</dt><dd>rosano@sbi</dd>
 </dl>
 </details>
 
 <details>
-<summary>GBP</summary>
+<summary>British Pounds</summary>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>Sort code</dt><dd>23-08-01</dd>
