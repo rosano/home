@@ -25,6 +25,6 @@ series: "Kathy Sierra: Badass — Making Users Awesome"
 
 > [They need to believe they'll improve, then *actually* improve, and also realize they've improved.]
 
-> [The first thirty minutes is a critical period to support them doing something new or that they didn't know they could do: their first superpower]
+> [The first thirty minutes is a critical period to support them doing something new or that they didn't know they could do: their first superpower.]
 
-> [If they're worried about breaking something, they'll hesitate to touch anything. Make recovery easy. Help them feel free to just try things. Consider it a "Wild Experimentation Mode."]
+> [If they're worried about breaking something, they'll hesitate to touch anything. Make recovery easy. Help them feel free to just try things. Consider it a "Wild Experimentation Mode".]
