@@ -5,9 +5,9 @@ title: Rosano
 
 # hello
 
-I'm a technologist, writer, and musician, mostly producing personal projects.
+I'm a technologist, writer, and musician, mostly producing personal projects. This is my home on the web.
 
-This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
+Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 
 </section>
 
@@ -382,6 +382,13 @@ This is my home on the web. Find more in my [blog](/blog), [vlog](/vlog), and [l
 	title="Aural"
 	body="Short ambient audio from personal travels."
 	link=https://rosano.ca/aural
+/>}}
+
+{{< card
+	image=https://static.rosano.ca/fleetingarrivals/identity.svg
+	title="Fleeting Arrivals"
+	body="eclectic music recommendations"
+	link=https://fleetingarrivals.rosano.ca
 />}}
 
 </card-list>
