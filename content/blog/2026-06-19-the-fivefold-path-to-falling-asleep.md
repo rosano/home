@@ -105,7 +105,7 @@ Also when closing my eyes, I see something. Patterns of light through my eyelids
 
 So to recap: sit, find your body, breath well, slow the mind, observe any waves.
 
-These layers helps me, but it's something I often have to practice consciously. Maybe someday I won't need it anymore. Regardless, I hope something here can help you catch your train. Sleep well. 🙏🏽☀️
+These layers help me, but it's something I often have to practice consciously. Maybe someday I won't need it anymore. Regardless, I hope something here can help you catch your train. Sleep well. 🙏🏽☀️
 
 > [You don’t sleep by doing anything: when activity stops, you simply go into sleep.]
 >
