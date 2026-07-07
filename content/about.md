@@ -6,7 +6,7 @@ Technologist, writer, and musician.
 
 Often travelling and learning languages to meet new people (salut, hola, oi, اهلا, hallo).
 
-Will write more later. See what I'm up to [now](/now).
+Learn more about what I do and ways you can support it on my [patrons page](/fund).
 
 Also on:
 - [Instagram](https://rosano/instagram)
