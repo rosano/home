@@ -18,12 +18,13 @@
 {{ $books := slice }}
 
 {{ range resources.Get "books.csv" | transform.Unmarshal (dict "targetType" "map") }}
-  {{ $year := substr .time 0 4 }}
   {{ $link := .link }}
   {{ $titleKey := delimit (slice .author ": " .title) "" }}
   {{ if (index $notes $titleKey) }}
     {{ $link = (index $notes $titleKey) }}
   {{ end }}
+  
+  {{ $year := substr .time 0 4 }}
   {{ $books = $books | append (merge . (dict "year" $year "time" (time .time) "month" (substr .time 5 2) "day" (substr .time 8 2) "link" $link)) }}
   {{ $years = $years | append $year | uniq }}
 {{ end }}
