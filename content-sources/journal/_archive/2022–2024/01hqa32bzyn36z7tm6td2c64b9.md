@@ -1,7 +1,7 @@
 ---
 date: 2024-02-23T04:20:09.854Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > [Make a simple paste from olives, garlic, salt, and oil.]

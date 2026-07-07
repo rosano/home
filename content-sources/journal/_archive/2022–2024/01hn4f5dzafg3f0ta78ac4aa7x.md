@@ -1,7 +1,7 @@
 ---
 date: 2024-01-27T03:24:42.858Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > [Chop fresh herbs to bash with oil, or press into butter, or flavour plain yogurt into a sauce.]

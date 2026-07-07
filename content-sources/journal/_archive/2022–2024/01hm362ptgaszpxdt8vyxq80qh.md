@@ -1,7 +1,7 @@
 ---
 date: 2024-01-14T05:11:00.175Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > [Cooking seems like something to juggle amongst life's many complications rather than a clear path through them.]

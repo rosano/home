@@ -1,7 +1,7 @@
 ---
 date: 2023-09-10T02:47:52.702Z
 categories: ["book"]
-series: "The Thinking Method"
+series: "Mihalis Eleftheriou: The Thinking Method"
 tags: ["lingo"]
 ---
 > I have taken few steps to simplify its content, deeming any simplification a complication in waiting.

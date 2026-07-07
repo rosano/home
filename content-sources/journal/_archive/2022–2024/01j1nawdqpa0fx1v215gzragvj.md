@@ -1,7 +1,7 @@
 ---
 date: 2024-06-30T19:45:20.629Z
 categories: ["book"]
-series: "The Last Act"
+series: "Kimberley Short: The Last Act"
 ---
 > [Writing a will is unselfish because it mostly benefits your loved ones as opposed to you.]
 

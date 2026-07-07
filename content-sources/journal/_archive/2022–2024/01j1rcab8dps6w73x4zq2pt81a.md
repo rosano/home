@@ -1,7 +1,7 @@
 ---
 date: 2024-07-02T00:08:08.717Z
 categories: ["book"]
-series: "The Last Act"
+series: "Kimberley Short: The Last Act"
 ---
 > [Many people avoid writing wills because they don't feel ready to pass on yet, but the universe doesn't care and the government already has one written for you with a higher tax rate.]
 

@@ -1,7 +1,7 @@
 ---
 date: 2023-12-31T06:44:50.161Z
 categories: ["book"]
-series: "Why are we yelling?"
+series: "Buster Benson: Why are we yelling?"
 tags: ["relate"]
 ---
 > [The voice of reason makes sense of things by connecting to all the other things that give authority and power to its wielder.]

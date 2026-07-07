@@ -1,7 +1,7 @@
 ---
 date: 2024-01-01T23:37:04.941Z
 categories: ["book"]
-series: "Why are we yelling?"
+series: "Buster Benson: Why are we yelling?"
 tags: ["relate"]
 ---
 > I changed the game from "online debate" to "potluck at my house." I changed the goal from "let's debate ideas" to "let's enjoy each other's company while having a stimulating conversation." I changed the conversational medium from "type into a comment text box" to "discuss over food and drink." And I changed the question from "What do you believe?" to the biggest unanswered question in my own head: "What's the endgame for the gun-control debate?"

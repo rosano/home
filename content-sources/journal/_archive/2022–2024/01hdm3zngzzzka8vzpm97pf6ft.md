@@ -1,7 +1,7 @@
 ---
 date: 2023-10-25T07:30:00.000Z
 categories: ["book"]
-series: "The Thinking Method"
+series: "Mihalis Eleftheriou: The Thinking Method"
 tags: ["learn"]
 ---
 > [If you teach well, people might pay you to help them with things you're skilled at, even without expertise.]

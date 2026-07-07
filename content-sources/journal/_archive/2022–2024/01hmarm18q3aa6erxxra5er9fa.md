@@ -1,7 +1,7 @@
 ---
 date: 2024-01-17T03:49:43.318Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > While your oven is lit, use its heat thoroughly. When a pan of vegetables comes out, replace it with a toaster tray of walnuts or almonds. They will be perfectly toasted after ten minutes or so and can be stored in the refrigerator for months and used in vegetable salads, added to pesto, or snacked on. Or scatter stale bread in a little pan, drizzle it with olive oil, and make toasted breadcrumbs or croutons.

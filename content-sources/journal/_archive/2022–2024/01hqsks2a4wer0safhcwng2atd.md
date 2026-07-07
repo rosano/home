@@ -1,7 +1,7 @@
 ---
 date: 2024-02-29T05:00:47.300Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["food"]
 ---
 > Add one and a half times as much white

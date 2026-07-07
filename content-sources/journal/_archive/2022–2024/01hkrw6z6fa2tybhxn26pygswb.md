@@ -1,7 +1,7 @@
 ---
 date: 2024-01-10T05:06:09.742Z
 categories: ["book"]
-series: "Why are we yelling?"
+series: "Buster Benson: Why are we yelling?"
 tags: ["relate"]
 ---
 > [A given name like 'honour killings' portrays that violence as somehow different than in the occidental nations: more barbaric and primitive. Is ours any better?]

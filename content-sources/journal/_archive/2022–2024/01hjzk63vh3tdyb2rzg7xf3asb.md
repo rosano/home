@@ -1,7 +1,7 @@
 ---
 date: 2023-12-31T09:27:23.761Z
 categories: ["book"]
-series: "Why are we yelling?"
+series: "Buster Benson: Why are we yelling?"
 tags: ["relate"]
 ---
 > What is your relationship to the unknown? What is it like to have sensitivity to nature and spirits?

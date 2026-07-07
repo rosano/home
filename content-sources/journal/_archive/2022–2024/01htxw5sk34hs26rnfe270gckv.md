@@ -1,7 +1,7 @@
 ---
 date: 2024-04-08T03:31:36.163Z
 categories: ["book"]
-series: "It's OK That You're Not OK"
+series: "Megan Devine: It's OK That You're Not OK"
 ---
 > [When people try to console your loss but make you cringe, there might be an unspoken (and perhaps unintended) "so please stop feeling bad"]
 

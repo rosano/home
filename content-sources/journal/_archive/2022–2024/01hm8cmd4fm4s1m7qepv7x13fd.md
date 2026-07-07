@@ -1,7 +1,7 @@
 ---
 date: 2024-01-16T05:41:43.694Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > Good olive oil gets bitter when it's broken by blades.

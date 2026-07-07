@@ -1,7 +1,7 @@
 ---
 date: 2023-10-08T01:07:37.970Z
 categories: ["book"]
-series: "The Thinking Method"
+series: "Mihalis Eleftheriou: The Thinking Method"
 tags: ["lingo"]
 ---
 > As language methods often completely ignore the language of instruction, they tend to have an irritating habit of describing absolutely everything a language does. Learners are often forced to spend too much time trying to make heads or tails of grammatical descriptions provided to them for a new language, without ever realising that the target language functions in the same way as the base language, or indeed realising it when it's too late and the knowledge can do little to spare the learner any effort. What's worse, is that superfluous descriptions run the risk of becoming mental debris that the learner is unsure how to apply. They may lurk in the shadows and raise their ugly heads later on, interfering with other thought processes (often in fascinating ways, mind!).

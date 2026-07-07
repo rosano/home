@@ -1,7 +1,7 @@
 ---
 date: 2024-01-19T05:01:53.298Z
 categories: ["book"]
-series: "An Everlasting Meal"
+series: "Tamar Adler: An Everlasting Meal"
 tags: ["wellness"]
 ---
 > Only by tasting can you learn to connect the decisions you make with their outcomes.
