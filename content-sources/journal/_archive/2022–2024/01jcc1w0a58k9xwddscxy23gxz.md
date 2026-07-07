@@ -1,7 +1,7 @@
 ---
 date: 2024-11-10T22:07:19.876Z
 categories: ["book"]
-series: "The News: A User's Manual"
+series: "Alain De Botton: The News: A User's Manual"
 ---
 > [Journalism has a chance to present culture in a psychological order that helps us orient, but often submits to promotional calendars resulting in bestseller lists and cinema charts, as if popularity would be the most useful factor in making decisions.]
 
