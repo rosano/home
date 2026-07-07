@@ -466,6 +466,8 @@ Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 
 [![](https://static.rosano.ca/_shared/_OLSKSharedFeatureBrackets.svg) Wiki](https://rosano.hmm.garden)
 
+[![](https://static.rosano.ca/_shared/_OLSKSharedFeatureBookmarklet.svg) Klog](/klog)
+
 [![](https://static.rosano.ca/_shared/_OLSKSharedFeatureRecord.svg) Lyrics](/lyrics)
 
 [![](https://rosano.ca/open-vitrine/ui-assets/rCSVitrineFeed.svg) Feed](https://rosano.ca/en/feed)

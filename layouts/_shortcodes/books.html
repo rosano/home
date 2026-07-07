@@ -1,0 +1,74 @@
+<table>
+
+<thead>
+  <th>date</th>
+  <th>title</th>
+  <th>author</th>
+</thead>
+
+<tbody>
+{{ $years := slice }}
+{{ $books := slice }}
+
+{{ range resources.Get "books.csv" | transform.Unmarshal (dict "targetType" "map") }}
+  {{ $year := substr .date 0 4 }}
+  {{ $books = $books | append (merge . (dict "year" $year "time" (time .date) "month" (substr .date 5 2) "day" (substr .date 8 2))) }}
+  {{ $years = $years | append $year | uniq }}
+{{ end }}
+
+{{ range $years | collections.Reverse }}
+  <tr class="heading-row"><th colspan="3"><h2>{{ . }}</h2></th></tr>
+  {{- range (where $books "year" . | collections.Reverse) }}
+    <tr>
+      <td class="date"><time datetime="{{ .time.Format "2006-01-02T15:04:05Z07:00" }}">{{ .month }}.{{ .day }}</time></td>
+      <td class="title">
+        {{ if eq .skip "TRUE" }}
+          <del>
+        {{ end }}
+        {{ if .link }}
+          <a href="{{ .link }}">
+        {{ end }}
+        
+        {{ .title -}}
+        
+        {{- if .link -}}
+          </a>
+        {{- end -}}
+        {{- if eq .skip "TRUE" -}}
+        </del>
+        <small>(skip)</small>
+        {{ end }}
+      </td>
+      <td class="author">{{ .author }}</td>
+    </tr>
+  {{ end -}}
+{{ end -}}
+</tbody>
+
+</table>
+
+<style>
+table {
+  border-collapse: collapse;
+}
+
+th, .date {
+  word-break: normal;
+}
+
+tr td {
+  border-bottom: 1px solid #ddd;
+  margin: 0;
+  padding: calc(var(--rh-pad) / 2);
+}
+
+td {
+  font-size: 90%;
+}
+
+.author {
+  max-width: 230px;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+</style>
