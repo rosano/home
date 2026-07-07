@@ -4,7 +4,7 @@ description: support my projects with a regular membership
 layout: single
 ---
 
-## become a patron
+## Become a patron
 
 If you believe there's magic in what I do and want to help me go further, consider becoming one of my patrons.
 
@@ -98,7 +98,7 @@ other, stripe {
 }
 </style>
 
-### what I do (and what you fund)
+### What I do (and what you fund)
 
 {{< rc-youtube bMDPrHjPZRI >}}
 
@@ -108,9 +108,9 @@ other, stripe {
 
 🏆 advocate for **respectful technology**, data ownership, and human agency
 
-👨🏽‍💻 create **open-source** apps and help my community cross technological barriers
+👨🏽‍💻 develop **open-source** apps and help my community cross technological barriers
 
-✍🏽 **write** about my experiences to document and **share** publicly
+✍🏽 **write** about my experiences and **share** what I learn publicly
 
 🎹 perform and recommend eclectic **music**
 

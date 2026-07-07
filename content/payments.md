@@ -33,8 +33,8 @@ aliases: pay
 <summary>Euros</summary>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
-<dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
 <dt>IBAN</dt><dd>BE09 9675 3924 1857</dd>
+<dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
 <dt>Wise's address</dt><dd>Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium</dd>
 </dl>
 </details>
