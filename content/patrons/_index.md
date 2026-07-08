@@ -2,6 +2,9 @@
 title: Patrons
 description: support my projects with a regular membership
 layout: single
+aliases:
+  - fund
+  - patron
 ---
 
 ## Become a patron
