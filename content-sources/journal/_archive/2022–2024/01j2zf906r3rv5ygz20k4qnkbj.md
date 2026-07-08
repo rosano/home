@@ -1,7 +1,7 @@
 ---
 date: 2024-07-17T04:30:13.207Z
 categories: ["book"]
-series: "Alain De Botton: The News: A User's Manual"
+series: "Alain de Botton: The News: A User's Manual"
 ---
 > A journalistic gaffe is something a powerful person inadvertently says or does in a momentary lapse which (as everyone knows) in no way reflects their considered views and yet which the news seizes upon and refuses to let go of, insisting that the gaffe must be an indicator of a deep and shameful truth.
 

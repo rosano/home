@@ -1,7 +1,7 @@
 ---
 date: 2024-07-17T15:57:36.985Z
 categories: ["book"]
-series: "Alain De Botton: The News: A User's Manual"
+series: "Alain de Botton: The News: A User's Manual"
 ---
 > As it currently exists, foreign reporting implicitly defers to the priorities of the state and of business, occupying itself almost exclusively with events which touch on military, commercial or humanitarian concerns. Foreign news wants to tell us with whom and where we should fight, trade or sympathize[, but] these three areas of interest really aren't priorities for the majority of us.
 

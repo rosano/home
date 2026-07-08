@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12T13:42:39.389Z
 categories: ["book"]
-series: "Alain De Botton: The News: A User's Manual"
+series: "Alain de Botton: The News: A User's Manual"
 ---
 > the news cruelly exploits our weak hold on a sense of perspective.
 

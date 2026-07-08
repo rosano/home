@@ -1,7 +1,7 @@
 ---
 date: 2023-07-12T08:50:06.269Z
 categories: ["book"]
-series: "Alain De Botton: How to think more about sex"
+series: "Alain de Botton: How to think more about sex"
 tags: ["relate"]
 ---
 > There are some couples who take pleasure in together selecting a third person, a stranger, to have sex with one of them while the other watches. The voyeur willingly cedes his or her rightful position and derives erotic enjoyment from bearing witness to the induction of his or her spouse. This is not an act of altruism. Rather, the new actor has been brought in for a particular purpose: to remind the voyeur of what is arousing about his or her partner. The voyeur uses the stranger's lust as a map to trace the way back to desires long obscured by the fog of routine. Through the agency of the stranger, the voyeur can feel the same excitement for a partner of twenty years as on the night they first met.

@@ -1,7 +1,7 @@
 ---
 date: 2024-07-12T00:43:13.107Z
 categories: ["book"]
-series: "Alain De Botton: The News: A User's Manual"
+series: "Alain de Botton: The News: A User's Manual"
 ---
 > [Religions take a pedagogical approach in conveying what is considered to be important, and the news could learn from this.]
 
