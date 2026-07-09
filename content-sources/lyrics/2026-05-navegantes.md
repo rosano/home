@@ -117,6 +117,40 @@ quem vender a capoeira
 vai voltar pá escravidão
 camará
 
+# os quatro elementos
+theme: ladainha
+
+iê!
+
+foi meu mano que me disse
+foi meu mano que me disse
+o meu mestre que falou
+discípulo tome cuidado
+capoeira é muito bom
+mas ela tem os seus dois lados
+
+capoeira de angola
+olha tem seus fundamentos
+vou fazer comparação
+com os quatro elementos
+
+a capoeira é como sol
+que aquece a sua pele
+mas tambem pode queimar
+
+capoeira é como a agua
+que mata a sua sede
+mas tambem pode afogar
+
+capoeira é como o vento
+que refresca a sua pele
+mas tambem pode esfriar
+
+capoeira é como a terra
+que te da e te sustenta
+mas tambem pode enterrar
+camará
+
 # conselho de mãe
 theme: ladainha
 
@@ -143,7 +177,7 @@ do que mal acompanhado
 camará
 
 # madeira de Massaranduba
-theme: instrument
+theme: instrumento
 
 madeira de Massaranduba
 madeira de Jacarandá

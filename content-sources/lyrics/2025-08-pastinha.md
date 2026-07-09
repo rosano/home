@@ -63,7 +63,7 @@ eu jogo capoeira
 na Bahia e em Maceió
 
 # valha-me Deus, senhor São Bento
-theme: cobra,saint
+theme: cobra
 
 valha-me Deus, senhor São Bento
 vou cantar meu barravento
@@ -257,7 +257,7 @@ a manteiga não é minha
 a manteiga é de ioiô
 
 # a canoa virou marinheiro
-theme: sea
+theme: mar
 
 a canoa virou marinheiro
 no fundo do mar tem dinheiro
@@ -341,13 +341,13 @@ iê ele é mandingueiro
 iê ele é cabeçeiro
 
 # Tabaréu que vem do sertão
-theme: fruit
+theme: frutas
 
 Tabaréu que vem do sertão
 que vende maxixe, quiabo e limão
 
 # esse gunga é meu, esse gunga é meu
-theme: instrument
+theme: instrumento
 
 esse gunga é meu, esse gunga é meu
 gunga é meu, eu não posso vender
