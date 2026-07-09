@@ -4,16 +4,19 @@ description: support my projects with a regular membership
 layout: single
 aliases:
   - fund
+  - back
+  - tip
   - patron
+  - donate
 ---
-
-## Become a patron
+## Become a Patron
 
 If you believe there's magic in what I do and want to help me go further, consider becoming one of my patrons.
 
 I will credit you in my quarterly [Occasion](/occasion) updates.
 
 <funding>
+<p class="stripe"><small>🔒 Secure payment processing by <a href="https://stripe.com">Stripe</a>.</small></p>
 <a class="tier" href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/monthly">
 	<h3><span class="title">Alpha <price>$5/mo</price></span><check aria-hidden="true"><span>●</span></check></h3>
 </a>
@@ -26,10 +29,9 @@ I will credit you in my quarterly [Occasion](/occasion) updates.
 <a class="tier" href="https://occasion.rosano.ca/#/portal/signup/6a48cc78af60b10068bcebeb/monthly">
 	<h3><span class="title">Delta <price>$20/mo</price></span><check aria-hidden="true"><span>●</span></check></h3>
 </a>
-<other>You can also contribute yearly for <a href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/yearly">$50</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc0baf60b10068bcebe5/yearly">$100</a>, <a href="https://occasion.rosano.ca/#/portal/signup/630f1e95e66dbc000127cd5b/yearly">$150</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc78af60b10068bcebeb/yearly">$200</a>,<br> or with a <a href="/gift">one-time gift</a>. Canadian dollars 🇨🇦.</other>
-<stripe>Secure payment processing by <a href="https://stripe.com">Stripe</a>.</stripe>
+<p>You can also contribute yearly for <a href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/yearly">$50</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc0baf60b10068bcebe5/yearly">$100</a>, <a href="https://occasion.rosano.ca/#/portal/signup/630f1e95e66dbc000127cd5b/yearly">$150</a>, <a href="https://occasion.rosano.ca/#/portal/signup/6a48cc78af60b10068bcebeb/yearly">$200</a>, or with <a href="/gift">one-time gifts</a>. Canadian dollars 🇨🇦.</p>
+<p class="manage"><small><a href="https://occasion.rosano.ca/#/portal/account">Manage your subscription</a></small></p>
 </funding>
-<other><p><a href="https://occasion.rosano.ca/#/portal/account">Manage your subscription</a></p></other>
 <style>
 funding {
 	--accent: #81b7d6;
@@ -90,18 +92,31 @@ check span {
 .tier:hover check span {
 	visibility: visible;
 }
-other, stripe {
+funding p {
 	display: block;
-	font-size: 80%;
-	text-align: center;
 	opacity: 0.8;
+}
+.manage {
+	text-align: center;
+}
+.stripe {
+	display: block;
+	text-align: center;
+	letter-spacing: 1.5px;
+	opacity: 0.5;
+	text-transform: uppercase;
+}
+@media (max-width: 450px) {
+  .stripe {
+  	letter-spacing: unset;
+  }
 }
 .RCGazette, .OLSKBanner {
 	display: none;
 }
 </style>
 
-### What I do (and what you fund)
+### What I Do (and What You Fund)
 
 {{< rc-youtube bMDPrHjPZRI >}}
 
@@ -121,4 +136,4 @@ I'm committed to making as much as possible accessible for **free** on the **ope
 
 Let's build something **together**.
 
-## thank you 🙏🏽☀️🫶🏽
+## Thank You 🙏🏽☀️🫶🏽
