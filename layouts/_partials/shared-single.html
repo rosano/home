@@ -98,7 +98,7 @@
 	{{- if .Params.lyrics -}}
 		{{- with site.GetPage (print "lyrics/" .Params.lyrics) -}}
 			<h4><a href="{{ .RelPermalink }}">lyrics</a></h4>
-		  <blockquote class="lyrics">
+		  <blockquote class="lyrics" data-pagefind-ignore>
 		  {{- .Content -}}
 		  </blockquote>
 		{{- end -}}
