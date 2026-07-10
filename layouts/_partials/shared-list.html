@@ -15,7 +15,7 @@
 		{{ range .Pages.ByDate.Reverse }}
 			{{ .Scratch.Set "kScopeList" "true" }}
 			{{ if .Params.isContent }}
-				{{ .Scratch.Set "kIsWith" "true" }}
+				{{ .Scratch.Set "kIsWith" $isWith }}
 				{{ partial "shared-single-notification.html" . }}
 				{{ .Scratch.Delete "kIsWith" }}
 			{{ else }}
