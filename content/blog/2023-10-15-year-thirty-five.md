@@ -4,8 +4,7 @@ slug: year-thirty-five
 title: Year thirty-five
 summary: Perhaps I should also not consider life separate from my projects,
   since they likely make each other possible.
-tags:
-  - birthday
+series: Yearly reflections
 ---
 Without looking at my previous birthday reflections, I ask myself this year "why do this? and should I do this?", mostly for my own clarity. Today, I justify it as "helping understand what makes each year special"; "sketching out the shape of my experiences"; "documenting important changes or directions"; "having perspective to see a bigger picture"; and "reminding me of things I would like to remember". I also question to be more mindful when I copy patterns from other people, but my reasons today seem worthwhile and relevant. So I continue…
 
@@ -19,7 +18,7 @@ My biggest challenge was making space for myself while the surrounding environme
 
 # Music
 
-I really stepped into singing while playing guitar, releasing [seeds](https://rosano.ca/seeds) to share songs I enjoy, and writing [Teddy Bear](https://rosano.ca/teddy-bear) to recollect moments with my partner; one might notice a ritual of recording when leaving places I've inhabited for a while. This is not something I would have expected even a few years ago, as I was always more interested in the materials of music than text or lyrics, but songs with words are becoming a way to synthesize my experiences of travelling, languages, and the people I meet.
+I really stepped into singing while playing guitar, releasing [seeds](/seeds) to share songs I enjoy, and writing [Teddy Bear](/teddy-bear) to recollect moments with my partner; one might notice a ritual of recording when leaving places I've inhabited for a while. This is not something I would have expected even a few years ago, as I was always more interested in the materials of music than text or lyrics, but songs with words are becoming a way to synthesize my experiences of travelling, languages, and the people I meet.
 
 The biggest surprise was how [Orazio](https://www.youtube.com/@oraziomaione/videos)'s beautiful studio totally resuscitated my piano playing after years of inactivity. I really thought I would never return, but was pleasantly surprised that [reflexes developed through guitar](https://youtu.be/CzJ4Slp0PYE) were helping me control my nerves while playing piano, enabling me to enjoy it in a way I had perhaps never done; I recorded a [short excerpt of one of my favourite pieces](https://youtu.be/fe5JeGCcGjs) (a Prokofiev sonata) to document this, and spent the summer in Toronto doing more. I believe we don't really forget things, but didn't expect that it could apply to my capacities with this instrument.
 
@@ -79,4 +78,4 @@ From here I wonder for how long I will be surprised at what is possible for myse
 
 ---
 
-All yearly reflections: [32](https://utopia.rosano.ca/thirty-three), [33](https://utopia.rosano.ca/thirty-four/), [34](https://utopia.rosano.ca/year-thirty-four)
+All yearly reflections: [33](/blog/thirty-three/), [34](/blog/thirty-four/), [35](/blog/year-thirty-five), [36](/blog/year-thirty-six/), [37](/blog/year-thirty-seven/).

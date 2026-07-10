@@ -6,8 +6,4 @@ One-time offerings based on whatever feels right. You can also [buy my music](ht
 
 {{< gifts >}}
 
----
-
-Beyond money, I would also be grateful for the sharing of my work with someone who it brings to mind.
-
-🙏🏽☀️🫶🏼
+## Thank You 🙏🏽☀️🫶🏼

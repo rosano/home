@@ -2,8 +2,7 @@
 date: 2022-10-16T13:50:20.000Z
 slug: thirty-four
 title: Thirty-four
-tags:
-  - birthday
+series: Yearly reflections
 wiki_id: 01gfggykmr5b5fhm3a0ghv4z1y
 ---
 I thought it would be easy to start a 'yearly tradition' at [thirty-three](https://utopia.rosano.ca/thirty-three), but I've changed more since then than in previous years. Now at thirty-four I'm questioning whether it makes sense to write this—maybe I'm [too offline](https://strolling.rosano.ca/0080)—yet erring to do it anyway and maybe not publish later. So then, what's special about this year?
@@ -24,4 +23,4 @@ This birthday was 'celebrated' with a [concert of music about Capoeira](https://
 
 ---
 
-All birthday posts: [33](https://utopia.rosano.ca/thirty-three), [34](https://utopia.rosano.ca/thirty-four)
+All yearly reflections: [33](/blog/thirty-three/), [34](/blog/thirty-four/), [35](/blog/year-thirty-five), [36](/blog/year-thirty-six/), [37](/blog/year-thirty-seven/).

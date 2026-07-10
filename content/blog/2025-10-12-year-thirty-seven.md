@@ -2,8 +2,7 @@
 slug: year-thirty-seven
 title: year thirty-seven
 summary: Focus, reps, optimistic vortex, strong signal, ripple effects.
-tags:
-  - birthday
+series: Yearly reflections
 date: 2025-10-12T09:05:18.006Z
 twitter_id: 1977322131076837516
 mastodon_id: 115360748439494590
@@ -17,7 +16,7 @@ For my thirty-seventh year, I wanted to write a shorter annual reflection, so he
 
 ---
 
-*1. [affirming experiences](https://strolling.rosano.ca/0210/), celebrating myself, [from scrolling to strolling](https://rosano.ca/blog/where-am-i-scrolling).*
+*1. [affirming experiences](https://strolling.rosano.ca/0210/), celebrating myself, [from scrolling to strolling](/blog/where-am-i-scrolling).*
 
 <gallery>![](1/darin.gif) ![](1/IMG_5291.jpg) ![](1/capoeira.gif)</gallery>
 
@@ -47,7 +46,7 @@ For my thirty-seventh year, I wanted to write a shorter annual reflection, so he
 
 ---
 
-I'm immensely grateful to have found a sense of place again with my projects. My [questions from last year](https://rosano.ca/blog/year-thirty-six/#more-questions-than-answers) have answers, and something is emerging, not sure what.
+I'm immensely grateful to have found a sense of place again with my projects. My [questions from last year](/blog/year-thirty-six/#more-questions-than-answers) have answers, and something is emerging, not sure what.
 
 I find myself deeply in the zone.
 
@@ -61,7 +60,7 @@ Focus, reps, optimistic vortex, strong signal, ripple effects.
 
 Just keep going, keep building.
 
-I understand my technology toolset at a level higher than I've ever known; I [no longer fear the docs](https://rosano.ca/blog/dont-fear-the-docs/), and it gives me greater control over my materials.
+I understand my technology toolset at a level higher than I've ever known; I [no longer fear the docs](/blog/dont-fear-the-docs/), and it gives me greater control over my materials.
 
 Looking ahead, I just want to put my head down and make progress. Let's see next year where it takes us.
 
@@ -73,7 +72,7 @@ Looking ahead, I just want to put my head down and make progress. Let's see next
 
 ---
 
-All yearly reflections: [33](https://rosano.ca/blog/thirty-three/), [34](https://rosano.ca/blog/thirty-four/), [35](https://rosano.ca/blog/year-thirty-five), [36](https://rosano.ca/blog/year-thirty-six/), [37](https://rosano.ca/blog/year-thirty-seven/).
+All yearly reflections: [33](/blog/thirty-three/), [34](/blog/thirty-four/), [35](/blog/year-thirty-five), [36](/blog/year-thirty-six/), [37](/blog/year-thirty-seven/).
 
 <style>
 figure:first-of-type {

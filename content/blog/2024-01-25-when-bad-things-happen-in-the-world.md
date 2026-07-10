@@ -2,7 +2,7 @@
 date: 2024-01-25T19:03:35.000Z
 slug: when-bad-things-happen-in-the-world
 title: when bad things happen in the world
-summary: My projects won't save a life or end that bad problem over there, but
+summary: My projects won't save a life or end that destruction over there, but
   without hesitation I know my actions to be completely holistic.
 feature_image: 1024px-Spear_03.jpg
 tags:
@@ -11,6 +11,7 @@ tags:
   - reflection
   - community
   - Apps
+instagram_id: C2iXEo_PwSz
 ---
 Human suffering on an immense scale has been an inseparable part of how we got here. It's not new, but still impacts us so strongly that seeing people in pain or learning about possible future issues can numb us into paralysis ("there's nothing I can do", "let me think about something else") or provoke us into finding solutions ("what can I do?", "how do I make a difference?").
 
@@ -24,7 +25,7 @@ Part of bringing people together involves being inclusive and seeing diverse for
 * The metal part between tip and handle represents organizing around that, showing up, and substantiating the above with food, calls, gatherings, emotional support, bail, paperwork, etc…: everything here enables the tip to have some kind of impact and is often considered activism, but the result is very acute (and seen as fringe) without further support from a larger populace.
 * Supporters of a movement inhabit the much longer portion of a spear's handle, and represents a diversity of perspectives, some of which may not feel satisfactory to the metal and tip; it doesn't get as much attention as the other parts even though it's what creates leverage and forward movement for deep impact. At the very end of the handle you might find people who show up to take a selfie and leave: this is considered 'merely performative' by some but is also important for bringing ideas out of the fringe and into normal discussion, shifting thought.
 
-To find my own place within this sphere, I avoid doing things that make me feel replaceable, where the result would be comparable if someone else was in my place, and prefer activities where the outcome drastically changes because I'm there. This leads me to spend most of my time on personal projects, which often provokes a comparison about whether I'm doing 'enough' or 'my part' in times of crisis, probably because it's not how most people get to spend their days. Yet, every time I question myself, the deliberations lead me circling back to the same place: my projects will likely not save a life or end that bad problem over there, but without hesitation I feel and understand my actions to be completely holistic.
+To find my own place within this sphere, I avoid doing things that make me feel replaceable, where the result would be comparable if someone else was in my place, and prefer activities where the outcome drastically changes because I'm there. This leads me to spend most of my time on personal projects, which often provokes a comparison about whether I'm doing 'enough' or 'my part' in times of crisis, probably because it's not how most people get to spend their days. Yet, every time I question myself, the deliberations lead me circling back to the same place: my projects will likely not save a life or end that destruction over there, but without hesitation I feel and understand my actions to be completely holistic.
 
 How do conversations on [Strolling](https://strolling.rosano.ca) help? After a period of global political unrest and binary views on how things should be, I observed divisions everywhere, and saw myself as part of the problem that divided communities into red and blue. Dissatisfied that greater powers continue to flourish and profit as we squabble over our teams and rip apart the world's social fabric with our own hands, I recognized that dialogue is critical to overcoming conflict and disagreement, and have I've tried to repair what I can by [learning to disagree productively](https://utopia.rosano.ca/why-are-we-yelling-by-buster-benson/), [fostering discussion](https://utopia.rosano.ca/building-social-bridges-and-healing-a-divided-world), [being a bridge](https://ref.rosano.ca/01etqcgcr348ycpnwj2pfczyng), reconnecting, calling in, reaching out. Strolling tries to honour dialogue and what is possible through merely conversing, and perhaps also expose people to ideas they wouldn't come across anywhere else or be open to; I've been in a bubble so far recording mostly with people who share adjacent perspectives, but on occasions where I disagree, I practice being conducive instead of reactionary.
 

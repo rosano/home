@@ -15,6 +15,8 @@ If you believe there's magic in what I do and want to help me go further, consid
 
 I will credit you in my quarterly [Occasion](/occasion) updates.
 
+You can choose from four levels of monthly recurring support:
+
 <funding>
 <p class="stripe"><small>🔒 Secure payment processing by <a href="https://stripe.com">Stripe</a>.</small></p>
 <a class="tier" href="https://occasion.rosano.ca/#/portal/signup/618aa6f6d18571004952c16d/monthly">

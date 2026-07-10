@@ -77,7 +77,7 @@ Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 	link=/blog/when-bad-things-happen-in-the-world/
 >}}
 
-> My projects won't save a life or end that bad problem over there, but without hesitation I know my actions to be completely holistic.
+> My projects won't save a life or end that destruction over there, but without hesitation I know my actions to be completely holistic.
 
 {{< /card >}}
 

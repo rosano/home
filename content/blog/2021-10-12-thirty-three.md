@@ -2,8 +2,7 @@
 date: 2021-10-12T22:46:45.000Z
 slug: thirty-three
 title: Thirty-three
-tags:
-  - birthday
+series: Yearly reflections
 wiki_id: 01fhvazke1y4bqfd883c9t9cm5
 ---
 I have thirty-three years today and feel inspired by [Matt Mullenweg's "birthday posts"](https://ma.tt/category/birthday) to start an annual reflection. As an alternative to end-of-year recaps where tons of people write and publish simultaneously, I think it would be interesting to collectively spread out these musings over the course of a year to 'balance the load', create more serendipity, and give friends opportunities to connect and be thoughtful.
@@ -26,4 +25,4 @@ Thanks for reading and being here. I hope this was a nice surprise for you. Toda
 
 ---
 
-All birthday posts: [33](https://utopia.rosano.ca/thirty-three), [34](https://utopia.rosano.ca/thirty-four)
+All yearly reflections: [33](/blog/thirty-three/), [34](/blog/thirty-four/), [35](/blog/year-thirty-five), [36](/blog/year-thirty-six/), [37](/blog/year-thirty-seven/).

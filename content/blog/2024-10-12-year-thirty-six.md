@@ -3,8 +3,7 @@ date: 2024-10-12T06:30:13.000Z
 slug: year-thirty-six
 title: year thirty-six
 summary: Everything we do matters.
-tags:
-  - birthday
+series: Yearly reflections
 ---
 My birthday reflection this year is a kind of online update since I've been more offline the last while. I'm currently not so clear-minded, somewhat fatigued, with less to say even though a lot happened. But I'm here, and happy to share this.
 
@@ -34,7 +33,7 @@ The past year seems to have been characterized by much uncertainty about the fut
 
 I passed many periods overwhelmed by my perception of [bad things happening in the world](https://utopia.rosano.ca/when-bad-things-happen-in-the-world/), and although I have my own ways to cope, I would invite anyone reading this to share with me: what helps you? I often come back to doing what feels meaningful, even if it's not sufficient. Seems hard to estimate what the world will be like in even five years.
 
-With respect to the technology threads I've been cultivating in previous years, I'm not sure where to place myself considering how the landscape is changing. [Conversations](https://strolling.rosano.ca) and [music](https://rosano.ca/vibrations) feel more obvious, as their significance will likely not change in the future. It's interesting to consider what technical things will remain constant… I don't know, but I want to feel like I'm working with a strong sense of purpose.
+With respect to the technology threads I've been cultivating in previous years, I'm not sure where to place myself considering how the landscape is changing. [Conversations](https://strolling.rosano.ca) and [music](/vibrations) feel more obvious, as their significance will likely not change in the future. It's interesting to consider what technical things will remain constant… I don't know, but I want to feel like I'm working with a strong sense of purpose.
 
 Perhaps, as someone recently said to me: everything we do matters.
 
@@ -42,4 +41,4 @@ Perhaps, as someone recently said to me: everything we do matters.
 
 * * *
 
-All yearly reflections: [33](https://utopia.rosano.ca/thirty-three/), [34](https://utopia.rosano.ca/thirty-four/), [35](https://utopia.rosano.ca/year-thirty-four), [36](https://utopia.rosano.ca/year-thirty-six/).
+All yearly reflections: [33](/blog/thirty-three/), [34](/blog/thirty-four/), [35](/blog/year-thirty-five), [36](/blog/year-thirty-six/), [37](/blog/year-thirty-seven/).

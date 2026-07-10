@@ -124,7 +124,7 @@ iê!
 
 foi meu mano que me disse
 foi meu mano que me disse
-o meu mestre que falou
+o meu mestre me falou
 discípulo tome cuidado
 capoeira é muito bom
 mas ela tem os seus dois lados
@@ -134,7 +134,7 @@ olha tem seus fundamentos
 vou fazer comparação
 com os quatro elementos
 
-a capoeira é como sol
+a capoeira é como o sol
 que aquece a sua pele
 mas tambem pode queimar
 
