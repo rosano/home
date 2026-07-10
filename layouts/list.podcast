@@ -10,7 +10,7 @@
   {{ $title := .Title }}
   {{- with .Params.with -}}
     {{- if ne . $podcastAuthor -}}
-      {{- $title = printf `%s (with %s)` $title . -}}
+      {{- $title = printf `%s (with %s)` $title (index (last 1 .) 0) -}}
     {{- end }}
   {{- end -}}
   <title>{{ $title }}</title>
