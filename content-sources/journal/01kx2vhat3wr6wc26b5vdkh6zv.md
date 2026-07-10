@@ -1,7 +1,7 @@
 ---
 date: 2026-07-09T07:12:38.211Z
+categories: ["sound"]
 link: https://youtu.be/gpIuhsvgoGI?t=979
-categories: ["talk"]
 ---
 [Paulo César Pinheiro, Mauro Duarte: Nunca Mais](https://youtu.be/gpIuhsvgoGI?t=979)
 
