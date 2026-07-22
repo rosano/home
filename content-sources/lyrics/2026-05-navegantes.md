@@ -25,7 +25,7 @@ mas é na luta que aprendemos
 vai a flor, fica a semente
 enquanto estivermos juntas
 Marielle está presente
-camará
+camará…
 
 # toda vez que eu dou um passo
 theme: ladainha
@@ -37,7 +37,7 @@ toda vez que eu dou um passo
 o mundo sai do lugar
 o mundo fica pequeno
 quanto mais eu caminhar
-camará
+camará…
 
 # eu jogo capoeira no alto da sereia
 theme: vadiar
@@ -94,7 +94,7 @@ valha-me Nossa Senhora
 mãe de Deus o Criador
 nossa Senhora me ajude
 nosso Senhor me ajudou
-camará
+camará…
 
 # todo mundo quer ser bom
 theme: ladainha
@@ -115,7 +115,7 @@ capoeira vem da África
 pra nós dar libertação
 quem vender a capoeira
 vai voltar pá escravidão
-camará
+camará…
 
 # os quatro elementos
 theme: ladainha
@@ -149,7 +149,7 @@ mas tambem pode esfriar
 capoeira é como a terra
 que te da e te sustenta
 mas tambem pode enterrar
-camará
+camará…
 
 # conselho de mãe
 theme: ladainha
@@ -174,7 +174,7 @@ mesmo estando sozinho
 seu astral mentenha alto
 é melhor andar sozinho
 do que mal acompanhado
-camará
+camará…
 
 # madeira de Massaranduba
 theme: instrumento
@@ -212,3 +212,43 @@ dormindo de baixo de qualquer viaduto
 apanhando parcelão para seu cobertor
 
 source: https://dokumen.pub/capoeira-and-candomble-conformity-and-resistance-through-afro-brazilian-experience-9783964565358.html
+
+# nasci pequenininho
+theme: ladainha
+
+eu nasci pequenininho
+eu nasci pequenininho
+como todo mundo nasceu
+todo mundo anda direito
+quem anda torto sou eu
+
+me derrubaram a Santa Cruz
+e dizeram que foi eu
+eu de mim não sei quem foi
+se por acaso foi eu mesmo
+peço que Deus me perdoe
+
+quando eu jogo capoeira
+jogo dentro do compasso
+se Deus dá a farinha
+e o diabo rasga o saco
+
+e tira tira leva leva
+jogue pra cima de mim
+no lugar que eu jogo Angola
+nunca mais nasce capim
+
+**(alternate ending)**
+
+(olha la seu valentão
+por favor chegue pra lá
+e não venha me bater
+num bato pra num apanhar
+
+sou filho de sete meses
+o meu pai sim que conheço
+e a minha mãe também
+se voce bater em mim
+eu bato em voce também)
+
+camará…
