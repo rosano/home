@@ -42,8 +42,6 @@ The threat of these workflow disruptions means one needs to keep backup copies o
 <figcaption>locking Element on macOS to prevent it from incompatible upgrades</figcaption>
 </figure>
 
-locking Element on macOS to prevent it from incompatible upgrades
-
 # moving devices
 
 Transferring both WhatsApp and Signal messages to a new phone, there's a scary thought (and real possibility) that all my messages could suddenly disappear because of 'security'. Since the app's transfer interface doesn't assure me of the correct path, I need to find the [eight-](https://faq.whatsapp.com/209942271778103/) to [thirteen-](https://support.signal.org/hc/en-us/articles/360007059752-Backup-and-Restore-Messages)step guide via a search engine and precisely follow it in order to understand and not mess up.
@@ -58,7 +56,7 @@ Now, even though my messages are there at the moment, there's a lingering worry 
 
 # clean by accident
 
-If you can't afford larger storage capacity, you might find yourself managing space on your device. While cleanup up earlier in the year, I accidentally deleted Signal because my screen stalled — throw away your old, slower devices as they quickly become obsolete, right? — and my finger tapped and swiped perfectly because of muscle memory. My years of chat history were just gone. I have some messages on another linked device, but no possibility to export or transfer or merge because their desktop version is only 'linked' and not 'special', awaiting the next unfortunate accident; it sends the message that 'security' lacks agency.
+If you can't afford larger storage capacity, you might find yourself managing space on your device. While cleaning up earlier in the year, I accidentally deleted Signal because my screen stalled — throw away your old, slower devices as they quickly become obsolete, right? — and my finger tapped and swiped perfectly because of muscle memory. My years of chat history were just gone. I have some messages on another linked device, but no possibility to export or transfer or merge because their desktop version is only 'linked' and not 'special', awaiting the next unfortunate accident; it sends the message that 'security' lacks agency.
 
 # decentralized if you know how
 
