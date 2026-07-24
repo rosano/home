@@ -11,7 +11,7 @@ Find more in my [blog](/blog), [vlog](/vlog), and [log](/log).
 
 </section>
 
-<!-- [Now](/now) in {{< current-location >}}. -->
+[Now](/now) in {{< current-location >}}.
 
 # connection
 
