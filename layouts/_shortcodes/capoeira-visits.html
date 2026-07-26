@@ -17,8 +17,8 @@
       {{- if eq (index $v "workshop") "TRUE" }}🎟 {{ end -}}
       {{- index $v "group" }}</td>
     <td>
-      {{- index $v "city" }}, {{ index $v "country" }} {{ index $v "emoji" -}}
-      {{- $places = $places | append (index $v "city") }}
+      {{- index $v "place" }}, {{ index $v "country" }} {{ index $v "emoji" -}}
+      {{- $places = $places | append (index $v "place") }}
       {{- $countries = $countries | append (index $v "country") }}
     </td>
   </tr>
