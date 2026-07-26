@@ -10,6 +10,8 @@ tags:
   - book
 feature_image: thumbnail.jpg
 ---
+<small>👋 Heads up: Mihalis and I [recorded a conversation](/log/with/mihalis-eleftheriou/) in 2026.</small>
+
 # Not sponsored
 
 (_Puts on infomercial hat bought explicitly for this post._)
