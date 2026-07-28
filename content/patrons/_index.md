@@ -145,9 +145,11 @@ Let's build something **together**.
 3. Holger
 4. I1 (Private)
 5. Kevin Komisaruk
-6. Orazio Maione
-7. Paul
-8. Reef Loretto
+6. Michiel de Jong
+7. Orazio Maione
+8. Paul
+9. Peter
+10. Reef Loretto
 
 I'm also grateful to those who previously supported my work:
 
