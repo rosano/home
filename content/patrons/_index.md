@@ -142,7 +142,7 @@ Let's build something **together**.
 
 1. Charlie Fisher
 2. David
-3. Holger
+3. Holger Krekel
 4. I1 (Private)
 5. Kevin Komisaruk
 6. Michiel de Jong

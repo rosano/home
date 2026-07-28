@@ -10,7 +10,7 @@ aliases: pay
 
 [PayPal](https://rosano.ca/paypal)
 
-[Transferwise](https://rosano.ca/wise)
+[Wise](https://rosano.ca/wise)
 
 ## Direct bank details
 
