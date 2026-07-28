@@ -6,7 +6,7 @@ aliases: pay
 
 ## Credit, Debit, Apple Pay
 
-[Stripe](https://rosano.ca/stripe)
+[Stripe](https://rosano.ca/tips)
 
 [PayPal](https://rosano.ca/paypal)
 
