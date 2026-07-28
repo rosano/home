@@ -6,4 +6,4 @@ One-time offerings based on whatever feels right. You can also [buy my music](ht
 
 {{< gifts >}}
 
-## Thank You 🙏🏽☀️🫶🏼
+## Thank You 🙏🏽☀️

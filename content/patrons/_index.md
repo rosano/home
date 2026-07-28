@@ -138,4 +138,19 @@ I'm committed to making as much as possible accessible for **free** on the **ope
 
 Let's build something **together**.
 
-## Thank You 🙏🏽☀️🫶🏽
+## My patrons 🙏🏽☀️🫶🏽
+
+1. Charlie Fisher
+2. David
+3. Holger
+4. I1 (Private)
+5. Kevin Komisaruk
+6. Orazio Maione
+7. Paul
+8. Reef Loretto
+
+I'm also grateful to those who previously supported my work:
+
+<small>
+Ahsen, Alessandro, Andy Matuschak, Boris Mann, Brian Ginsburg, Casey Sokol, Charles Lehner, David Luecke, Elisa Guimarães, Heddi, Hibai, I2 (Private), Keith Axline, Lawrie, Mariama, Mark Segger, Myke, Miguel Francisco, Mustafa, Noel, Omar, Simon.
+</small>
