@@ -140,19 +140,4 @@ Let's build something **together**.
 
 ## My patrons 🙏🏽☀️🫶🏽
 
-1. Charlie Fisher
-2. David
-3. Holger Krekel
-4. I1 (Private)
-5. Kevin Komisaruk
-6. Michiel de Jong
-7. Orazio Maione
-8. Paul
-9. Peter
-10. Reef Loretto
-
-I'm also grateful to those who previously supported my work:
-
-<small>
-Ahsen, Alessandro, Andy Matuschak, Boris Mann, Brian Ginsburg, Casey Sokol, Charles Lehner, David Luecke, Elisa Guimarães, Heddi, Hibai, I2 (Private), Keith Axline, Lawrie, Mariama, Mark Segger, Myke, Miguel Francisco, Mustafa, Noel, Omar, Simon.
-</small>
+{{< patrons >}}
