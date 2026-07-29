@@ -54,9 +54,9 @@ time,place,country,countrycode,timezone
 2017-12-01T22:00:00Z,Bontoc,Philippines,PH,Asia/Manila
 2017-12-02T01:00:00Z,Banaue,Philippines,PH,Asia/Manila
 2017-12-03T10:00:00Z,Manila,Philippines,PH,Asia/Manila
-2017-12-05T12:00:00Z,Jakarta,Indonesia,"ID",Asia/Jakarta
-2017-12-06T11:00:00Z,Bandung,Indonesia,"ID",Asia/Jakarta
-2017-12-08T07:00:00Z,Jakarta,Indonesia,"ID",Asia/Jakarta
+2017-12-05T12:00:00Z,Jakarta,Indonesia,ID,Asia/Jakarta
+2017-12-06T11:00:00Z,Bandung,Indonesia,ID,Asia/Jakarta
+2017-12-08T07:00:00Z,Jakarta,Indonesia,ID,Asia/Jakarta
 2017-12-13T09:00:00Z,Bangkok,Thailand,TH,Asia/Bangkok
 2017-12-16T04:00:00Z,Ayutthaya,Thailand,TH,Asia/Bangkok
 2017-12-18T06:00:00Z,Khorat,Thailand,TH,Asia/Bangkok
