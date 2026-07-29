@@ -15,6 +15,16 @@ aliases: pay
 ## Direct bank details
 
 <details>
+<summary>Euros</summary>
+<dl>
+<dt>Account holder</dt><dd>Rosano Coutinho</dd>
+<dt>IBAN</dt><dd>BE09 9675 3924 1857</dd>
+<dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
+<dt>Wise's address</dt><dd>Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium</dd>
+</dl>
+</details>
+
+<details>
 <summary>Canadian Dollars</summary>
 <dl>
 <dt>e-Transfer with Autodeposit</dt><dd>etransfer at rosano.ca</dd>
@@ -26,16 +36,6 @@ aliases: pay
 <dt>Account number</dt><dd>200110498620</dd>
 <dt>Swift/BIC</dt><dd>TRWICAW1XXX</dd>
 <dt>Wise's address</dt><dd>99 Bank Street, Suite 1420, Ottawa ON K1P 1H4, Canada</dd>
-</dl>
-</details>
-
-<details>
-<summary>Euros</summary>
-<dl>
-<dt>Account holder</dt><dd>Rosano Coutinho</dd>
-<dt>IBAN</dt><dd>BE09 9675 3924 1857</dd>
-<dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
-<dt>Wise's address</dt><dd>Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium</dd>
 </dl>
 </details>
 
