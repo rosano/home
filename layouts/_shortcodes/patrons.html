@@ -12,5 +12,5 @@
 {{- range where $patrons "current" "ne" "TRUE" }}
   {{- if $index }}, {{ end }}{{ index . "name" }}
   {{- $index = add $index 1 -}}
-{{ end -}}
+{{- end -}}.
 </small>
