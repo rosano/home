@@ -342,4 +342,5 @@ time,place,country,countrycode,timezone
 2026-07-22T06:00:00Z,Lyon,France,FR,Europe/Paris
 2026-07-23T14:00:00Z,London,England,GB,Europe/London
 2026-07-24T11:00:00Z,Lisbon,Portugal,PT,Europe/Lisbon
-2026-07-31T05:00:00Z,Porto,Portugal,PT,Europe/Lisbon
+2026-07-31T06:00:00Z,Porto,Portugal,PT,Europe/Lisbon
+2026-07-31T14:00:00Z,Toronto,Canada,CA,America/Toronto
