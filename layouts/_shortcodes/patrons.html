@@ -1,7 +1,7 @@
 {{ $patrons := sort (resources.Get "patrons.csv" | transform.Unmarshal (dict "targetType" "map")) "name" "asc" }}
 <ol>
   {{- range where $patrons "current" "TRUE" }}
-    <li>{{ index . "name" }}</li>
+    <li>{{ replace (index . "name") "Private" "* Private" }}</li>
   {{ end -}}
 </ol>
 
@@ -10,7 +10,7 @@
 <small>
 {{- $index := 0 -}}
 {{- range where $patrons "current" "ne" "TRUE" }}
-  {{- if $index }}, {{ end }}{{ index . "name" }}
+  {{- if $index }}, {{ end }}{{ replace (index . "name") "Private" "* Private" }}
   {{- $index = add $index 1 -}}
 {{- end -}}.
 </small>
