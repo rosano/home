@@ -1,6 +1,7 @@
 ---
 date: 2026-07-31T11:20:50.493Z
-categories: ["thought"]
+categories: ["book"]
+series: "Brian Christian: The Most Human Human"
 ---
 > we create a caste system at our companies that mimics the caste system we create with respect to our own bodies and selves. My hands are *mine*, we say, but my brain is *me*. This fits in nicely with our sense of an inner homunculus pulling the levers and operating our body from a control room behind our eyeballs.
 
