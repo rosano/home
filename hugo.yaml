@@ -104,6 +104,7 @@ params:
   _showTypes: true
   timelineSources:
     - content-sources/journal
+    - content-sources/journal/_archive/2020
     - content-sources/journal/_archive/2021
     - content-sources/journal/_archive/2022–2024
     - content-sources/journal/_archive/fleeting-arrivals
