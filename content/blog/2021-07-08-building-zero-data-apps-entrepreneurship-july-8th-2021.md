@@ -2,13 +2,13 @@
 date: 2021-07-08T03:00:00.000Z
 slug: building-zero-data-apps-entrepreneurship-july-8th-2021
 title: Building Zero Data Apps & Entrepreneurship
-summary: Earning a living building software without holding other people’s data.
+summary: Earning a living building software without holding other people's data.
 tags:
   - Zero Data
   - event
 cafe_id: "94"
 ---
-A group discussion about earning a living building software without holding other people’s data. Open-source licensing, payment models, and more.
+A group discussion about earning a living building software without holding other people's data. Open-source licensing, payment models, and more.
 
 [Building Zero Data Apps & Entrepreneurship with Rosano](https://talk.fission.codes/t/building-zero-data-apps-entrepreneurship-with-rosano/1999)
 

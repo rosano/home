@@ -3,14 +3,14 @@ date: 2021-04-20T13:37:00.000Z
 slug: joybox-a-pinboard-for-media
 title: Joybox — A pinboard for media
 summary: Enjoy video or audio links from different platforms and keep a record
-  of what you’ve played.
+  of what you've played.
 tags:
   - Joybox
   - debut
   - Zero Data
 cafe_id: "25"
 ---
-Publishing my 5th web app today. You can use it to collect and enjoy video or audio links from different platforms and keep a record of what you’ve played.
+Publishing my 5th web app today. You can use it to collect and enjoy video or audio links from different platforms and keep a record of what you've played.
 
 [Joybox](https://joybox.rosano.ca)
 

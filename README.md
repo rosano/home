@@ -51,9 +51,9 @@ An attempt to collect my online publishing across various platforms into one 'ho
 # Powered by [Hugo](https://gohugo.io)
 
 Notable aspects include:
-- [content adapter](https://github.com/rosano/home/blob/master/content/timeline/_content.gotmpl) to generate pages dynamically from journal entries. Normally you’d use this for external data, but here it’s my solution for to create time taxonomy for the journal content.
-- [monorepo](https://github.com/rosano/home) that merges the theme and content. Probably wouldn’t make sense to swap this theme with another as the content is intended to be laid out and paginated in specific ways.
-- special pagination by ‘number of days’ rather than ‘number of posts’, and [corresponding feed](https://rosano.ca/log/feed).
+- [content adapter](https://github.com/rosano/home/blob/master/content/timeline/_content.gotmpl) to generate pages dynamically from journal entries. Normally you'd use this for external data, but here it's my solution for to create time taxonomy for the journal content.
+- [monorepo](https://github.com/rosano/home) that merges the theme and content. Probably wouldn't make sense to swap this theme with another as the content is intended to be laid out and paginated in specific ways.
+- special pagination by 'number of days' rather than 'number of posts', and [corresponding feed](https://rosano.ca/log/feed).
 
 ## Run it locally
 

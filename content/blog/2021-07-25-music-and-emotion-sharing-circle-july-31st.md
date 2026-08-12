@@ -8,7 +8,7 @@ tags:
 feature_image: 1734524239358-Eight-and-a-Half-export.jpg
 cafe_id: "114"
 ---
-Let’s listen to music together and talk about how it affects us.
+Let's listen to music together and talk about how it affects us.
 
 [Music and Emotion Sharing Circle](https://interintellect.com/salon/music-and-emotion-sharing-circle)
 
