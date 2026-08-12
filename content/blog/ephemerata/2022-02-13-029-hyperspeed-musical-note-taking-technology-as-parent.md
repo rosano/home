@@ -24,7 +24,7 @@ I’m doing this to stimulate discussion around what I find interesting, and als
 
 # HYPERSPEED
 
-For a few weeks now, I’ve been dedicated to recording and editing the podcast like a fire-breathing dragon (as well as making music for it), which has given me a sense of “using everything I’ve got”. This is a very special moment for me, as it feels I’m coming into a new version of myself previously thought impossible. It’s been amazing to reconnect with music and actually enjoy playing the piano again—I had a glimmer of this with [Tiny concert for a friend](https://rosano.hmm.garden/01fawxskgm53cqvk1afw6hgmay), but various ruptures since that time have forced me to find other ways into this space.
+For a few weeks now, I’ve been dedicated to recording and editing the podcast like a fire-breathing dragon (as well as making music for it), which has given me a sense of "using everything I've got". This is a very special moment for me, as it feels I’m coming into a new version of myself previously thought impossible. It’s been amazing to reconnect with music and actually enjoy playing the piano again—I had a glimmer of this with [Tiny concert for a friend](https://rosano.hmm.garden/01fawxskgm53cqvk1afw6hgmay), but various ruptures since that time have forced me to find other ways into this space.
 
 Everything seems focused and fast at the moment. I’m seeking silence to concentrate, and so haven’t listened to much music for the last while. Also suddenly visiting Berlin in March and planning for that… It leaves me overloaded sometimes, but with the best possible things on my plate. Looking forward to so much this year and I wish it to be profound for anyone in need of the boost ⭐ 🌊.
 

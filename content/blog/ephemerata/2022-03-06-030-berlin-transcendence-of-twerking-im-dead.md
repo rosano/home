@@ -23,7 +23,7 @@ I’m doing this to stimulate discussion around what I find interesting, and als
 
 # STROLLING PACE
 
-I ended up getting slightly burned out from trying to keep a certain pace with episodes of [Strolling](https://strolling.rosano.ca)—grossly underestimated how much editing and production is involved. I’m pretty happy with the finished products, but I need to go slower to avoid making the project a source of stress. Might also help to do more spontaneous or short single-take “record and publish” episodes.
+I ended up getting slightly burned out from trying to keep a certain pace with episodes of [Strolling](https://strolling.rosano.ca)—grossly underestimated how much editing and production is involved. I’m pretty happy with the finished products, but I need to go slower to avoid making the project a source of stress. Might also help to do more spontaneous or short single-take "record and publish" episodes.
 
 It’s hard for me to overstate how restorative it is for me to explore [music composition](https://rosano.bandcamp.com/releases) in the episodes: there’s still something there after all these years of neglect and I’m excited to reconnect with that part of myself.
 
