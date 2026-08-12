@@ -45,9 +45,9 @@
 
     {{ $dates := dict "posted to " $date }}
     {{ $basename := path.BaseName .Name }}
-    {{ if (index $params "around") }}
+    {{/* if (index $params "around") }}
       {{ $dates = merge $dates (dict "recorded in" (time (index $params "around"))) }}
-    {{ end }}
+    {{ end */}}
     
     {{ range $k, $v := $dates }}
       {{ if $enableDepartures }}
