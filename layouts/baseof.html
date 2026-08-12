@@ -56,8 +56,8 @@
 			</a>
 		{{ end }}
 		
-		<a href="{{ site.Home.RelPermalink }}">{{ site.Title }}</a>
-		{{ if (and (not .IsHome) (ne .Kind "404") (ne $section "gift")) }} / 
+		<a href="{{ site.Home.RelPermalink }}">{{ site.Title }} ({{ .Section }})</a>
+		{{ if (and (not .IsHome) (ne .Kind "404") (not (in (slice "gift" "payments") $section))) }} / 
 			{{ $sectionPage := cond (eq $section "") . .CurrentSection }}
 
 			{{ if eq $section "timeline" }}
