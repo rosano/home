@@ -1,7 +1,7 @@
 ---
 date: 2021-11-19T13:17:59.441Z
 categories: ["book"]
-series: "Osho: Tantra — The Supreme Understanding"
+series: "Osho: Tantra: The Supreme Understanding"
 ---
 > [Seek and you will not find, because seeking strengthens the ego.]
 

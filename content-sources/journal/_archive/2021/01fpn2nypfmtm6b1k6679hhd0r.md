@@ -1,7 +1,7 @@
 ---
 date: 2021-12-11T15:44:43.214Z
 categories: ["book"]
-series: "Osho: Tantra — The Supreme Understanding"
+series: "Osho: Tantra: The Supreme Understanding"
 ---
 > [Only what happens to you is real. Avoid borrowed knowledge.]
 
