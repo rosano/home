@@ -7,7 +7,6 @@ summary: No writing? No memorizing? The teacher claims he can't really speak the
 tags:
   - language
   - Kommit
-  - book
 feature_image: thumbnail.jpg
 ---
 <small>👋 Heads up: Mihalis and I [recorded a conversation](/log/with/mihalis-eleftheriou/) in 2026.</small>
@@ -124,4 +123,4 @@ I found myself impatient with many devices to teach specific aspects of specific
 
 ---
 
-More quotes in the [log](https://rosano.ca/log/series/the-thinking-method).
+More quotes in the [log](https://rosano.ca/log/series/mihalis-eleftheriou-the-thinking-method/).
