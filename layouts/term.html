@@ -2,6 +2,12 @@
 
 <h1>{{- partial "page-title" . -}}</h1>
 
+{{ if strings.Contains .Title ": " }}
+	More books in the <a href="/klog">klog</a>.
+{{ end }}
+
+{{ .Content }}
+
 {{- partial "shared-list" . -}}
 
 {{ end }}
