@@ -1,4 +1,12 @@
 ---
+instagram_id: DcRT7JGFH5c
+facebook_id: pfbid02G1ZcMu25cdEJtjaVpb6N3xJpXvrEsDe6h1FsQumLbQadMvuQuAr12PoTS452Sg5l
+threads_id: DcRT8fmFZ9w
+twitter_id: "2090492479854256386"
+mastodon_id: "117129046127977926"
+bluesky_id: 3mtjrvjzqov2n
+nostr_id: note1cc7npynf8s7z80yvanvvj0drgl45aljkd3rgmfh5fyh8x5sm6kjs7g2f0e
+linkedin_id: ugcPost:7496258682666565632
 slug: helping-myself-read
 title: helping myself read
 summary: Sometimes the author says it better, sometimes I can, but the focus is
