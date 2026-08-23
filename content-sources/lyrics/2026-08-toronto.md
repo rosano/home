@@ -17,11 +17,6 @@ as almas de luz a lua clareou
 clareou, clareou
 São Jorge acendeu a lua e clareou*
 
-clareou, clareou
-as almas de luz a lua clareou
-clareou, clareou
-São Jorge acendeu a lua e clareou
-
 1. meu amor foi buscar a viola
 que deixou no penhor do quintadeiro
 acabou a batida de graviola
