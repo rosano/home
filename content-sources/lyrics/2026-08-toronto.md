@@ -4,6 +4,48 @@ slug: toronto-2026
 topic:
   - brazil
 ---
+# samba no terreiro
+
+a lua do Santo Jorge
+água de Oxum clareou
+cadê meu amor? que foi no vapor
+nas águas Oxum menina se enfeitou
+São Jorge acendeu a lua e clareou
+
+*clareou, clareou
+as almas de luz a lua clareou
+clareou, clareou
+São Jorge acendeu a lua e clareou*
+
+clareou, clareou
+as almas de luz a lua clareou
+clareou, clareou
+São Jorge acendeu a lua e clareou
+
+1. meu amor foi buscar a viola
+que deixou no penhor do quintadeiro
+acabou a batida de graviola
+o barril de licor de carambola
+tá meeiro!
+
+*se meu amor demorar, não sei o que será sinhá!
+desse samba no terreiro*
+
+*se meu amor demorar, não sei o que será sinhá!
+desse samba no terreiro (clareou)*
+
+2. não precisa ascender a fogueira
+nem secar o gás do candeeiro
+candiá de São Jorge alumiou, alumiou
+bota o samba no terreiro (clareou)
+
+*Santa Clara clareou
+São Domingo alumiou
+vai chuva, vem sol
+pra enxugar o meu lençol*
+
+source: https://www.letras.mus.br/mariene-de-castro/633172/
+
 # mais consideração
 
 *ai a minha dor merece, mais consideração
