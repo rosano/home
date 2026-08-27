@@ -14,18 +14,15 @@ aliases: pay
 
 ## Direct bank details
 
-<details>
-<summary>Euros</summary>
+<h3>Euros</h3>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>IBAN</dt><dd>BE09 9675 3924 1857</dd>
 <dt>Swift/BIC</dt><dd>TRWIBEB1XXX</dd>
 <dt>Wise's address</dt><dd>Rue du Trône 100, 3rd floor, Brussels, 1050, Belgium</dd>
 </dl>
-</details>
 
-<details>
-<summary>Canadian Dollars</summary>
+<h3>Canadian Dollars</h3>
 <dl>
 <dt>e-Transfer with Autodeposit</dt><dd>etransfer at rosano.ca</dd>
 </dl>
@@ -37,10 +34,8 @@ aliases: pay
 <dt>Swift/BIC</dt><dd>TRWICAW1XXX</dd>
 <dt>Wise's address</dt><dd>99 Bank Street, Suite 1420, Ottawa ON K1P 1H4, Canada</dd>
 </dl>
-</details>
 
-<details>
-<summary>US Dollars</summary>
+<h3>US Dollars</h3>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>Account number</dt><dd>214399425923</dd>
@@ -49,17 +44,13 @@ aliases: pay
 <dt>Swift/BIC</dt><dd>TRWIUS35XXX</dd>
 <dt>Wise's address</dt><dd>30 W. 26TH Street, Sixth Floor, New York, NY, 10010, United States</dd>
 </dl>
-</details>
 
-<details>
-<summary>Indian Rupees</summary>
+<h3>Indian Rupees</h3>
 <dl>
 <dt>UPI</dt><dd>rosano@sbi</dd>
 </dl>
-</details>
 
-<details>
-<summary>British Pounds</summary>
+<h3>British Pounds</h3>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
 <dt>Sort code</dt><dd>23-08-01</dd>
@@ -68,4 +59,3 @@ aliases: pay
 <dt>Swift/BIC</dt><dd>TRWIGB2LXXX</dd>
 <dt>Wise's address</dt><dd>56 Shoreditch High Street, London, E1 6JJ, United Kingdom</dd>
 </dl>
-</details>
