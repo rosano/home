@@ -28,11 +28,11 @@ aliases: pay
 </dl>
 <dl>
 <dt>Account holder</dt><dd>Rosano Coutinho</dd>
-<dt>Institution number</dt><dd>621</dd>
-<dt>Transit number</dt><dd>16001</dd>
-<dt>Account number</dt><dd>200110498620</dd>
+<dt>Institution number</dt><dd>705</dd>
+<dt>Transit number</dt><dd>00001</dd>
+<dt>Account number</dt><dd>161246220</dd>
 <dt>Swift/BIC</dt><dd>TRWICAW1XXX</dd>
-<dt>Wise's address</dt><dd>99 Bank Street, Suite 1420, Ottawa ON K1P 1H4, Canada</dd>
+<dt>Bank name and address</dt><dd>Wise Payments Canada Inc., 99 Bank Street, Suite 1420, Ottawa, ON, K1P 1H4, Canada</dd>
 </dl>
 
 <h3>US Dollars</h3>
