@@ -1,6 +1,6 @@
 ---
 date: 2026-09-01T20:06:58.744Z
-via: Brian Christian: The Most Human Human
+via: "Brian Christian: The Most Human Human"
 link: https://youtu.be/ccXU7s694kg?t=53m51s
 categories: ["talk"]
 ---
