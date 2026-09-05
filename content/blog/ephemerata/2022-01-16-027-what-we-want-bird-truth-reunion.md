@@ -47,7 +47,7 @@ Almost finished editing the first episode. I’m usually excited when releasing 
 
 # ASIDES
 
-[The Truth Behind ‘Birds Aren’t Real’](https://m.youtube.com/watch?v=JK1dXuMEpT0). I was really hoping this would last forever, but it’s good that the guy can move on with his life and get closer to his family. This ‘hit job documentary’ is a fascinating look behind the scenes at the movement’s origins—feels kinda deep to be honest. Going to miss this important example of what’s possible when people come together.
+[The Truth Behind ‘Birds Aren’t Real’](https://youtu.be/JK1dXuMEpT0). I was really hoping this would last forever, but it’s good that the guy can move on with his life and get closer to his family. This ‘hit job documentary’ is a fascinating look behind the scenes at the movement’s origins—feels kinda deep to be honest. Going to miss this important example of what’s possible when people come together.
 
 > \[Embodying lunacy can be a way to express the absurdity of reality.\]
 

@@ -22,7 +22,7 @@ A short anecdote about [why this Cohen was supposed to be a Katz](https://twitte
 
 ---
 
-Trevor Noah mixes funny with serious [talking about Israel-Palestine](https://youtube.com/watch?v=NeZ4yXyzUG0):
+Trevor Noah mixes funny with serious [talking about Israel-Palestine](https://youtu.be/NeZ4yXyzUG0):
 
 > \[Religion has never calmed down a situation when there’s a clash\]
 
@@ -102,7 +102,7 @@ Tariq Harb plays [Bach’s _Toccata and Fugue in D minor, BWV 565_ on guitar](ht
 
 ---
 
-This [funk carioca body-shaker](https://youtube.com/watch?v=%5FP7S2lKif-A) blasting at home signalled my friend’s long-awaited scheduling of a COVID vaccine. I dig the music, and it has gotten over a billion views, but the video hurts your eyes. Featuring samples of Bach’s _Flute Partita in A minor_.
+This [funk carioca body-shaker](https://youtu.be/_P7S2lKif-A) blasting at home signalled my friend’s long-awaited scheduling of a COVID vaccine. I dig the music, and it has gotten over a billion views, but the video hurts your eyes. Featuring samples of Bach’s _Flute Partita in A minor_.
 
 ---
 

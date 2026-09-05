@@ -107,7 +107,7 @@ The minute and a half escalation to [the moment this dog wakes up](https://twitt
 
 ---
 
-A math professor fixes a stain in his projector screen by [summoning himself in a Google Search](https://youtube.com/watch?v=Z9NQatne0xg). (via Dani)
+A math professor fixes a stain in his projector screen by [summoning himself in a Google Search](https://youtu.be/Z9NQatne0xg). (via Dani)
 
 ---
 
