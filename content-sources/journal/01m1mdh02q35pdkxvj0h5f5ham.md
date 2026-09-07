@@ -1,8 +1,8 @@
 ---
 date: 2026-09-03T19:56:54.230Z
 via: Sol
+categories: ["sound"]
 link: https://youtu.be/bI8lqOPZSr4
-categories: ["talk"]
 ---
 [Onyx Collective: 97 Allen St.](https://youtu.be/bI8lqOPZSr4)
 
