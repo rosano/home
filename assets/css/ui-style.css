@@ -900,7 +900,7 @@ funding {
 		text-align: center;
 	}
 
-	.stripe {
+	.inscription {
 		display: block;
 		text-align: center;
 		letter-spacing: 1.5px;
@@ -908,7 +908,7 @@ funding {
 		text-transform: uppercase;
 	}
 	@media (max-width: 450px) {
-	  .stripe {
+	  .inscription {
 	  	letter-spacing: unset;
 	  }
 	}
