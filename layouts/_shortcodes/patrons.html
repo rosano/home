@@ -1,9 +1,16 @@
 {{ $patrons := sort (resources.Get "patrons.csv" | transform.Unmarshal (dict "targetType" "map")) "name" "asc" }}
-<ol>
-  {{- range where $patrons "current" "TRUE" }}
-    <li>{{ replace (index . "name") "Private" "(Private)" }}</li>
-  {{ end -}}
-</ol>
+
+<funding class="patrons">
+
+<ul>
+{{ range where $patrons "current" "TRUE" }}
+<li>{{ replace (index . "name") "Private" "(Private)" -}}</li>
+{{- end }}
+</ul>
+
+<p class="inscription" aria-hidden="true">🙏🏽☀️❤️</p>
+
+</funding>
 
 <p>I'm also grateful to those who previously supported my work:</p>
 

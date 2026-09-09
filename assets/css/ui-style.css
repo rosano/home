@@ -900,7 +900,7 @@ funding {
 		text-align: center;
 	}
 
-	.inscription {
+	.inscription, &.patrons li {
 		display: block;
 		text-align: center;
 		letter-spacing: 1.5px;
@@ -920,8 +920,21 @@ funding {
 	& > :first-child {
 		margin-top: 0;
 	}
+
 	& > :last-child {
 		margin-bottom: 0;
+	}
+
+	&.patrons {
+		background: #fff2cb;
+		
+		.inscription {
+			text-transform: lowercase;
+		}
+
+		ul {
+			padding-left: 0;
+		}
 	}
 }
 
