@@ -5,9 +5,9 @@ series: "Marshal McLuhan: Understanding Media"
 ---
 > [TV favours the presentation of processes rather than of products.]
 
-> [Successful TV performers blend a low-pressure presentation style with an act that requires hogh-pressure organizing.]
+> [Successful TV performers blend a low-pressure presentation style with an act that requires high-pressure organizing.]
 
-> [TV is cool because it is participatory, whereas radio is hot because it is more involving.]
+> [TV is cool because it is passive, whereas radio is hot because it involves.]
 
 > [With TV, the viewer is the screen: millions of dots of light go through them and a small subset are accepted in order to create the images.]
 

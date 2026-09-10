@@ -55,6 +55,6 @@ I'm committed to making as much as possible accessible for **free** on the **ope
 
 Let's build something **together**.
 
-## My patrons 🙏🏽☀️🫶🏽
+## My patrons
 
 {{< patrons >}}

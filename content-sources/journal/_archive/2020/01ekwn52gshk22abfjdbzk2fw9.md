@@ -15,4 +15,4 @@ series: "John Holloway: Change the world without taking power"
 
 > [The interdependence between capital and labour is not symmetrical: capital dissolves without labour whereas labour without capital transformation into creativity and humanity.]
 
-> [Capitalism is a society of non-correspondence, things don't fit together functionally, the law of value is inseparable from
+> [Capitalism is a society of non-correspondence, things don't fit together functionally, the law of value is inseparable from the lawlessness of value.]

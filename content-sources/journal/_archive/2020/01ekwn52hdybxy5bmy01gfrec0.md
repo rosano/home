@@ -5,7 +5,7 @@ series: "Marshal McLuhan: Understanding Media"
 ---
 > [The transforming power of media is easier to explain than the ignoring of this power. This may indicate a certain capacity to numb like that which occurs under stress and shock.]
 
-> [To those who have not studied media, the idea of studying its effects is as baffling as literacy is to people in pre-literate cultures, who might say 'Why do you write? Can't you remember?'.]
+> [Studying media's effects might baffle those who never studied it, as with people in pre-literate cultures who might say "Why do you write? Can't you remember?".]
 
 > [Commerical interests that try to neutralize media as 'entertainment' in order to make it universally acceptable are ensuring an accelerated and maximally pervasive adoption of any medium.]
 

@@ -17,7 +17,7 @@ link: https://robbiekellmanbaxter.com/blog/mighty-networks-gina-bianchini/
 
 > [Your customer isn't buying your stuff because they want to buy your stuff but rather because it is in service of achieving a goal. The more you align with the goal, the more likely the customer will stay.]
 
-> [lt's a mistake to focus more on the product than on customer mission.]
+> [It's a mistake to focus more on the product than on customer mission.]
 
 > [The 'myth of more' can delude us into thinking that all reach is equal ('if I just get more visitors or eyeballs"), but a reach on Facebook is not the same as a reach on your private network.]
 

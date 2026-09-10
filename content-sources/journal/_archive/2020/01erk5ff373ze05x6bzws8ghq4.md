@@ -9,4 +9,4 @@ categories: ["talk"]
 
 > [It started a feminist awakening in me because I saw those cringeworthy patterns within myself.]
 
-> [argument from ridicule.]
+> [Argument from ridicule.]

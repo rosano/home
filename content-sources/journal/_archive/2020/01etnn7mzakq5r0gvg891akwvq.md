@@ -9,7 +9,7 @@ series: "David Kadavy: Design for Hackers"
 
 > [Colour constancy refers to the phenomenon of perceiving various shades of a colour as the same, despite there being subtle differences between them.]
 
-> [Human eyes have millions of photoreceptors called cones that can be divided into three sizes and each is more sensitive to a certain spectra: short (blue/violet), medium (green), and large (red/yellow-green))
+> [Human eyes have millions of photoreceptors called cones that can be divided into three sizes and each is more sensitive to a certain spectra: short (blue/violet), medium (green), and large (red/yellow-green).]
 
 > [Ganglion cells antagonistically combine signals from the cones, which makes red compete with green, and blue compete with yellow.]
 
@@ -25,6 +25,6 @@ series: "David Kadavy: Design for Hackers"
 
 > [In the additive RGB color system used by screens: red and green combine to make yellow, red and blue to make magenta, and blue and green to make cyan.]
 
-> [Whereas RGB is an additive process the mixes towards white, CMYK starts with white and subtracts by reflecting light through pigments.)
+> [Whereas RGB is an additive process the mixes towards white, CMYK starts with white and subtracts by reflecting light through pigments.]
 
 > [Color management between color profiles relies on Lab representation to produce colors that are ultimately not identical but metamerically the same.]

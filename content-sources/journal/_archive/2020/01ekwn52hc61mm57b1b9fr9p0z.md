@@ -7,4 +7,4 @@ series: "Marshal McLuhan: Understanding Media"
 
 > [The orient watches Hollywood movies and sees that ordinary people have cars, electric stoves, and refrigerators, thus realizing that they have been deprived of the ordinary person's birthright. In this sense film for them is a mega advertisement for consumer goods, where as in the occident this message is merely subliminal.]
 
-> [Radio is a hot involving medium whereas TV is cool, rejecting hot people and issues. If TV had arrived before the radio, there would have been no Hitler.]
+> [Radio is a hot involving medium whereas TV is cool and passive, rejecting hot people and issues. If TV had arrived before the radio, there would have been no Hitler.]

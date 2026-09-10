@@ -25,6 +25,6 @@ series: "John Holloway: Change the world without taking power"
 
 > [Representative democracy ensures that the masses want what the bourgeoisie thinks they should want. The masses are included in a form of articulation that excludes them. It is not a victory against capitalist rule, it is an extension of capital's domination.]
 
-> [at the very least ensure that we die of our own poison as opposed to that of others.]
+> [At the very least, ensure that we die of our own poison as opposed to that of others.]
 
 > [The representatives do not betray us: we betray ourselves when we elect them to speak on behalf of us.]

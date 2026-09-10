@@ -7,6 +7,6 @@ series: "Marshal McLuhan: Understanding Media"
 
 > [The difference between the static roles of baseball and the dynamic roles of football reflect the patterns of decentralized team play in the electric age.]
 
-> [In indigenous society there is no true art because everybody is engaged in making art.]
+> [In indigenous society, there is no true art because everybody is engaged in making art.]
 
-> Non-artists always look at the present through yhe spectacles of the preceding age. General staffs are always magnificently prepared to fight the previous war
+> Non-artists always look at the present through spectacles of the preceding age. General staffs are always magnificently prepared to fight the previous war.

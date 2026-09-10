@@ -7,7 +7,7 @@ series: "John Holloway: Change the world without taking power"
 
 > [The state reproduces capitalist social relations but through trial and error, not in a functionalist fashion.]
 
-> [By separating and categorizing certain social relations as 'political' or 'economic', the state reconstitutes itself as separate from society. By characterizing conflict as political, it distracts from questioning the legitimacy of economic ideas such as private property. It is defined and sub-defined to ensure that the proper channels of the bureaucracy will be dispatched to deal with it.]
+> [By labelling certain social relations as 'political' or 'economic', states frame themselves as separate from society. By characterizing conflict as political, it distracts from questioning the legitimacy of economic ideas such as private property. It is defined and sub-defined to ensure that the proper channels of bureaucracy will be dispatched to deal with it.]
 
 > [Capital is not tied to a specific group or place. The transition from feudalism to capitalism liberated power-over from geographic borders.]
 

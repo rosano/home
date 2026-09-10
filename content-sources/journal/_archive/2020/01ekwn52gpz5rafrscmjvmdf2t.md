@@ -5,7 +5,7 @@ series: "John Holloway: Change the world without taking power"
 ---
 > [A rational basis for identity doesn't exist. We follow the chain of dependencies until arriving at some assumption that must be made in order for the system to hold.]
 
-> [When we question why things are the way they are, it is often answered within the framework of identity. When we except these boundaries we reinforce them.]
+> [When we question why things are the way they are, it is often answered within the framework of identity. When we except these boundaries, we reinforce them.]
 
 > [We can only know about something to the extent that we have created it.]
 

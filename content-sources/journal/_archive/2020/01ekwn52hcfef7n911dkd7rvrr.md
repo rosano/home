@@ -5,7 +5,7 @@ series: "Marshal McLuhan: Understanding Media"
 ---
 > [Electric technology extends the nervous system and enables direct immediate communication between neurons of everyone on the planet.]
 
-> [An 'increase innoroduction and sales' would be a disaster for existing management large corporations because it means making way for new management.]
+> [An 'increase in production and sales' would be a disaster for existing management in large corporations because it means making way for new management.]
 
 > [The telegraph compelled several major American newspapers to form a collective newsgathering organization that became known as the Associated Press.]
 

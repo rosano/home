@@ -5,4 +5,4 @@ series: "John Holloway: Change the world without taking power"
 ---
 > [Capital is an inherently mobile form of domination: if it doesn't like the workers it subordinates, it can eject them from the premises, dissolve itself into money, and find more subordinate, more 'flexible' workers.]
 
-> [Credit, like the extending of a leash, gives both the dog and master the illusion of freedom.]
+> [Credit, like the extending of a leash, gives both the dog and master an illusion of freedom.]

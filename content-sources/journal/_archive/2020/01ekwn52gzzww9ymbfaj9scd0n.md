@@ -1,7 +1,7 @@
 ---
 date: 2020-06-14T21:19:00.000Z
 categories: ["book"]
-series: "Paulo Friere: A Importância do Ato de Ler"
+series: "Paulo Freire: A Importância do Ato de Ler"
 ---
 > [Evaluation reveals wisdom/adjustment, errors, imprecisions in the practice. Evaluation corrects and improves our practice, and augments our efficiency. Practice needs evaluation like a fish needs water or like crops need rain.]
 

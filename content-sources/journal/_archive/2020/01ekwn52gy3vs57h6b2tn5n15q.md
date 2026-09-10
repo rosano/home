@@ -1,7 +1,7 @@
 ---
 date: 2020-06-13T13:16:00.000Z
 categories: ["book"]
-series: "Paulo Friere: A Importância do Ato de Ler"
+series: "Paulo Freire: A Importância do Ato de Ler"
 ---
 > [Nobody ignores everything. Nobody knows everything. This is why we always learn.]
 
@@ -13,7 +13,7 @@ series: "Paulo Friere: A Importância do Ato de Ler"
 
 > [It is not studied in a school: they studied while working. To study is to take a serious and curious attitude while confronting a problem.]
 
-> [Studying requires discipline. To study is not easy: it means to create and recreate, as opposed to repeating what someone else said.]
+> [Studying means to create and recreate, rather than repeating what someone else said.]
 
 > [There is considered to be no knowledge outside of school. But there is, and this 'knowledge from experience' must be the starting point for popular education.]
 

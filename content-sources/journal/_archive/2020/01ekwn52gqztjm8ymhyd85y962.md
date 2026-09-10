@@ -13,8 +13,8 @@ series: "John Holloway: Change the world without taking power"
 
 > [We don't struggle *as* the working class: we struggle against being classified.]
 
-> [We can only be emancipated to the extent that we *are not* what we are classified, identified as.]
+> [We can only be emancipated to the extent that we *are not* what we are classified or identified as.]
 
 > [During production, the worker produces an object as well as the value that perpetuates the command over his labour.]
 
-> [We don't need to be explicit in our negation: our existence as not-ness is the most fundamental force against identity."
+> [We don't need to be explicit in our negation: our existence as not-ness is the most fundamental force against identity.]

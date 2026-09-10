@@ -1,7 +1,7 @@
 ---
 date: 2020-06-12T11:14:00.000Z
 categories: ["book"]
-series: "Paulo Friere: A Importância do Ato de Ler"
+series: "Paulo Freire: A Importância do Ato de Ler"
 ---
 > [The people have a right to seek a better understanding of themselves, rather than merely responding to researchers' questions.]
 

@@ -1,7 +1,7 @@
 ---
 date: 2020-06-12T21:12:00.000Z
 categories: ["book"]
-series: "Paulo Friere: A Importância do Ato de Ler"
+series: "Paulo Freire: A Importância do Ato de Ler"
 ---
 > [Swimming, one learns to swim. Working, one learns to work. Practicing, one learns to practice better.]
 
