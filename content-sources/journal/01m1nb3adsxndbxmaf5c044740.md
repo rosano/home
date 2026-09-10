@@ -7,7 +7,7 @@ series: "Brian Christian: The Most Human Human"
 
 > [Latin speakers naming those with whom they break bread "com-panis" ("with bread") led to our word "companion".]
 
-> [People are always changing as you get to know them—partly due to your presence: they are never still.]
+> [People are always changing as you get to know them—partly due to your presence; they are never still.]
 
 > [Neurons change their connection structure each time they fire. Functional brains change. Experience changes you or it didn't happen. Relating is risky because you can't get to know someone without changing them or somewhat becoming them.]
 

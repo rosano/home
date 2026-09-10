@@ -7,4 +7,4 @@ categories: ["article"]
 
 > Reagan proved you could use TV aesthetics in governance. Trump is proving you cannot replace governance with TV.
 
-> [the world is not given by parents, but borrowed from children.]
+> [The world is not given by parents, but borrowed from children.]

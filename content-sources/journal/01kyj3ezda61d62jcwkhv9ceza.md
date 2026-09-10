@@ -21,4 +21,4 @@ series: "Brian Christian: The Most Human Human"
 
 > In a Canadian study, a woman gave her number to male hikers either just before they reached the Capilano Suspension Bridge or in the middle of the bridge. Those who met her _on_ the bridge were twice as likely to call and ask for a date.
 
-> [They explained to me that although things would get a lot better after the body dies, suicide is decisively against the rules.]
+> [They explained that although things would get much better after death, suicide is decisively against the rules.]
