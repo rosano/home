@@ -1,7 +1,7 @@
 ---
 date: 2025-12-07T20:07:22.967Z
 categories: ["book"]
-series: "Neil Davidson: Don’t Just Roll the Dice"
+series: "Neil Davidson: Don't Just Roll the Dice"
 ---
 > [Your price represents not just the product but also the documentation, support, and future roadmap.]
 

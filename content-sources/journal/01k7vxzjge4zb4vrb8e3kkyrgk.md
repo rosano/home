@@ -7,6 +7,6 @@ categories: ["article"]
 
 > [When you're the only owner of the repository, people are] more likely to see you as the (only) person responsible for fixing things when they break, or reviewing external contributions.
 
-> users are able to advertise their membership to the project, shown both on their profile and on the organization’s profile
+> users are able to advertise their membership to the project, shown both on their profile and on the organization's profile
 
 > the project is more identifiable as a team endeavour, as the association to your account is visually less prominent

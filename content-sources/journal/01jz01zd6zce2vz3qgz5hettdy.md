@@ -7,7 +7,7 @@ categories: ["article"]
 
 > Knowing what I want to offer is more important than knowing what another person expects.
 
-> I don’t want to reward myself with things that undermine my efforts.
+> I don't want to reward myself with things that undermine my efforts.
 
 > My empathy extends beyond my capacity; therefore, my boundaries should not exist at the edges of my empathy.
 

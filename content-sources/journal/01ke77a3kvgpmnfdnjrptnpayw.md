@@ -17,4 +17,4 @@ categories: ["article"]
 >
 > Anything you fear is teaching you the courage to overcome your fear.
 >
-> Anything you can’t control is teaching you how to let go.
+> Anything you can't control is teaching you how to let go.

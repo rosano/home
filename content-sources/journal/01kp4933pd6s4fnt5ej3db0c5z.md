@@ -7,4 +7,4 @@ categories: ["article"]
 
 > [LLM chatbots generate "deep cognitive work"-level complexity with an interface for reaction and intuition.] It spits complex text at you, you skim it quickly, and you immediately type a reaction to keep the momentum going.
 
-> We’ve been looking at this problem entirely from the technology’s point of view. The LLM is driving us, pushing a specific interaction model and veering us towards making mistakes. We are not computers; going fast isn’t our superpower.
+> We've been looking at this problem entirely from the technology's point of view. The LLM is driving us, pushing a specific interaction model and veering us towards making mistakes. We are not computers; going fast isn't our superpower.

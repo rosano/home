@@ -5,4 +5,4 @@ categories: ["article"]
 ---
 [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 
-> what we make with a tool does not belong to the tool. A manuscript doesn’t stay inside the typewriter, a photo doesn’t stay inside the camera, and a song doesn’t stay in the microphone.
+> what we make with a tool does not belong to the tool. A manuscript doesn't stay inside the typewriter, a photo doesn't stay inside the camera, and a song doesn't stay in the microphone.

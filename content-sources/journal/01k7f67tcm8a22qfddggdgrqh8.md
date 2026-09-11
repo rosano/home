@@ -11,4 +11,4 @@ link: https://50in50.substack.com/p/trade4
 
 > It is very difficult for markets to hold two competing themes in its collective hivemind at once, and so the focus oscillates back and forth instead of going in two directions at once.
 
-> Just because a narrative is well-known, that does not mean it’s exhausted.
+> Just because a narrative is well-known, that does not mean it's exhausted.

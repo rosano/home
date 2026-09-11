@@ -3,7 +3,7 @@ date: 2025-05-17T12:51:15.799Z
 link: https://youtu.be/rKOx5qlLyaA
 categories: ["talk"]
 ---
-[Scott Galloway: We’re Raising The Most Unhappy Generation In History! Hard Work Doesn't Build Wealth](https://youtu.be/rKOx5qlLyaA)
+[Scott Galloway: We're Raising The Most Unhappy Generation In History! Hard Work Doesn't Build Wealth](https://youtu.be/rKOx5qlLyaA)
 
 > [Information asymmetry benefits whoever has symmetry and knows the information. Bosses know how much everyone is getting paid but may discourage talking about salaries to avoid someone finding out their colleague makes 30% more for the same work.]
 

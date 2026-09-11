@@ -5,7 +5,7 @@ categories: ["talk"]
 ---
 [What is a woman?](https://youtu.be/B-JPnZg2ZYk)
 
-> [Plastic surgery, anti-balding hair products, shoulder pads, top surgery for overweight boys, push-up bras, and wigs are all examples of gender-affirming care.]
+> [Plastic surgery, anti-balding hair products, shoulder pads, top surgery for overweight boys, push-up bras, and wigs are examples of gender-affirming care.]
 
 > [It's common for people born intersex to have doctors "pick one" without telling anyone in order to save the family from the burden of that choice.]
 

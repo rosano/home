@@ -7,4 +7,4 @@ categories: ["article"]
 
 > [End-to-end encryption may have become the baseline for messages, but not everything needs that. Nobody expects a large group forum or Patreon-style membership area to deal with secret keys.]
 
-> this inherent complexity isn’t something that the protocol team at Bluesky can just handle - it gets pushed out to every dev trying to build a client that works with encrypted data.
+> this inherent complexity isn't something that the protocol team at Bluesky can just handle - it gets pushed out to every dev trying to build a client that works with encrypted data.

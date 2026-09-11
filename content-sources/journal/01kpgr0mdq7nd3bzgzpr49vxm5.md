@@ -9,4 +9,4 @@ categories: ["article"]
 
 > much of incumbent tech is looking like the kind of middle-risk investment that a barbell strategy tries to avoid.
 
-> I’m also budgeting for conference travel, since the downside of living in a low-burn locale is missing out on the network effects of a city like San Francisco or New York. Conferences create condensed versions of this network effect. So, 90% building, 10% high-intensity networking. Another barbell.
+> I'm also budgeting for conference travel, since the downside of living in a low-burn locale is missing out on the network effects of a city like San Francisco or New York. Conferences create condensed versions of this network effect. So, 90% building, 10% high-intensity networking. Another barbell.

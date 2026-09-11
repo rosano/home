@@ -5,4 +5,4 @@ categories: ["article"]
 ---
 [Open Source Psyop](https://omarshehata.substack.com/p/open-source-psyop)
 
-> It’s a psyop if you understand the other mind’s decision calculus, and have the ability to override their decision purely via careful selection of input information.
+> It's a psyop if you understand the other mind's decision calculus, and have the ability to override their decision purely via careful selection of input information.

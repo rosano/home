@@ -12,4 +12,4 @@ link: https://bidwix.com
 
 > [Buyers enter their maximum offer, sellers enter their minimum ask. The numbers stay secret. There is no 'counter offer' or back-and-forth: it's one shot.]
 
-> [If a freelancer wouldn't accept less than 100 for a small task and a client could stretch to 900 if they had to, BidWix would suggest the geometric mean of 300, which is three times higher than the freelancer’s minimum, and three times lower than the client’s maximum. Both sides win by the same factor.]
+> [If a freelancer wouldn't accept less than 100 for a small task and a client could stretch to 900 if they had to, BidWix would suggest the geometric mean of 300, which is three times higher than the freelancer's minimum, and three times lower than the client's maximum. Both sides win by the same factor.]

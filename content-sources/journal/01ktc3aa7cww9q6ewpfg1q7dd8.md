@@ -5,4 +5,4 @@ categories: ["article"]
 ---
 [The Giant's Cup](https://herman.bearblog.dev/the-giants-cup/)
 
-> [Increasing speed and distance over time by a maximum of 10% per week made each run was challenging but not insurmountable.]
+> [Increasing speed and distance over time by a maximum of 10% per week made each run challenging but not insurmountable.]

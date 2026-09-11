@@ -13,4 +13,4 @@ categories: ["talk"]
 
 > [In times of emotional crisis, they walk instead of running. Being calm is contagious.]
 
-> [Announce whether either of you is under capacity, and if both are then make a plan for kindness towards each other.]
+> [Announce whether either of you is under capacity; if both are then make a plan for kindness towards each other.]

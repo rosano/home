@@ -1,9 +1,9 @@
 ---
 date: 2026-07-03T12:55:47.043Z
-link: https://www.instagram.com/reel/DYQbyVnzPlZ/
+link: https://www.instagram.com/strombo/reel/DYQbyVnzPlZ/
 categories: ["talk"]
 ---
-[He changed the job description of what a comedian could be.](https://www.instagram.com/reel/DYQbyVnzPlZ/)
+[He changed the job description of what a comedian could be.](https://www.instagram.com/strombo/reel/DYQbyVnzPlZ/)
 
 > [Selling to a satisfied person is hard.]
 
