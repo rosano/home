@@ -13,4 +13,4 @@ series: "Rebecca Solnit: Hope in the Dark"
 
 > [Foundational change begins in the imagination, revolution doesn't always look like revolution.]
 
-> [Labeling ideas as dangerous is a sign of fragility lf the state: when activism terrorizes more than the war-mongering military.]
+> [Labeling ideas as dangerous is a sign of fragility of the state: when activism terrorizes more than the war-mongering military.]
