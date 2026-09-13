@@ -3,11 +3,12 @@
 {{ $t := time.AsTime .Date }}
 {{- $isList := .Scratch.Get "kScopeList" -}}
 
-<a href="{{ .RelPermalink }}" aria-text="{{ .Title }}" style="background-image: url('https://static.rosano.ca/roco-video/{{ .CurrentSection.Params.Slug }}/{{ .Params.slug }}/mobile.jpg');">
-	<div class="date-strip"><time datetime="{{- $t.Format "2006-01-02" -}}">{{- $t.Format (cond $isList "January 02" "January 02, 2006") -}}</time>
+{{- $duration := split .Params.duration ":" -}}
+<a href="{{ .RelPermalink }}" aria-label="{{ .Title }}, {{ (index $duration 0) }} minutes {{ (index $duration 1) }} seconds" style="background-image: url('https://static.rosano.ca/roco-video/{{ .CurrentSection.Params.Slug }}/{{ .Params.slug }}/mobile.jpg');">
+	<div class="date-strip" aria-hidden="true"><time datetime="{{- $t.Format "2006-01-02" -}}">{{- $t.Format (cond $isList "January 02" "January 02, 2006") -}}</time>
 	</div>
 	<div class="title-strip" aria-hidden="true">{{ .Title }}</div>
-	<div class="duration-strip"><time>{{ .Params.duration }}</time></div>
+	<div class="duration-strip" aria-hidden="true"><time>{{ .Params.duration }}</time></div>
 </a>
 
 </div>

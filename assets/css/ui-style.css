@@ -938,6 +938,15 @@ funding {
 	}
 }
 
+.contribute-button {
+	display: block;
+	text-align: center;
+
+	a {
+		border: none;
+	}
+}
+
 .patrons {
 	.RCGazette, .OLSKBanner {
 		display: none;
