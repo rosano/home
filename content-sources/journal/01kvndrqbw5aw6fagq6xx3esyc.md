@@ -6,4 +6,4 @@ categories: ["talk"]
 ---
 [you a worm?](https://youtu.be/-7-D_RbjSxg)
 
-two worms find themselves
+Two worms find themselves.

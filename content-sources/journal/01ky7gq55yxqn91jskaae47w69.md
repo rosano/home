@@ -6,4 +6,4 @@ categories: ["talk"]
 ---
 [A King In New York](https://youtu.be/NIkwQy0iRzE)
 
-Charlie Chaplin lectured by his son about freedom
+Charlie Chaplin lectured by his son about freedom.
