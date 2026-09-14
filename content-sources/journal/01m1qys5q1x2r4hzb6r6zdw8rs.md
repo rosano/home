@@ -13,4 +13,4 @@ series: "Brian Christian: The Most Human Human"
 
 > [Advice from someone who responds less predictably has more value because of entropy.]
 
-> [Pithy marketing phrases are "cliches with a diff".]
+> [Pithy marketing phrases are "clichés with a diff".]

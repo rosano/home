@@ -1,6 +1,6 @@
 ---
 date: 2026-07-02T15:26:47.343Z
-via: https://www.instagram.com/p/DZXrLvelqdw/
+via: https://www.instagram.com/fossilisedflowers/p/DZXrLvelqdw
 link: https://shawnsmucker.substack.com/p/please-use-ai
 categories: ["article"]
 ---

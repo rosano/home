@@ -5,4 +5,4 @@ link: https://youtu.be/RyOS8KYnwCM
 ---
 [Maribel La Canija: Mediterráneo](https://youtu.be/RyOS8KYnwCM)
 
-many 'typical/cliche' progressions but nice surprise resolutions, crunches, and resolutions. timefeel includes triplets. bass solo has this "suspended in the air" feeling i tend to seek out.
+many 'typical/cliché' progressions but nice surprise resolutions, crunches, and resolutions. timefeel includes triplets. bass solo has this "suspended in the air" feeling i tend to seek out.

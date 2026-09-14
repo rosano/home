@@ -3,7 +3,7 @@ date: 2026-09-04T04:33:43.353Z
 categories: ["book"]
 series: "Brian Christian: The Most Human Human"
 ---
-> [Drug dealers and their clients have to constantly invent new language as if they were poets when referring to substances,  because known euphemisms or cliches can mean jail.]
+> [Drug dealers and their clients have to constantly invent new language as if they were poets when referring to substances,  because known euphemisms or clichés can mean jail.]
 
 > [Latin speakers naming those with whom they break bread "com-panis" ("with bread") led to our word "companion".]
 
