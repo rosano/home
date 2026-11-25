@@ -21,7 +21,7 @@ jobs:
       - name: Index
         run: npx -y pagefind --site public
       - uses: actions/configure-pages@v2
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
       - name: Deploy
